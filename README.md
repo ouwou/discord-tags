@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/521820648415428609/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">OPO | World of Elsword | [wCNuPFE](https://discord.gg/wCNuPFE) | 2025-05-08T04:24:22+00:00 | 521820648415428609 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369592899683090462/d39d45c63a05e8c9445fe2189aa4bd37.png?size=32" width="24">¬\_¬&quot; | kiwi&#x27;s basement | [yCbtm2q7T5](https://discord.gg/yCbtm2q7T5) | 2025-05-08T04:24:21+00:00 | 1369592899683090462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369540391090520104/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">RYO | Join Yeecord → .gg/yeecord | [pJzAktk8PW](https://discord.gg/pJzAktk8PW) | 2025-05-08T04:09:11+00:00 | 1369540391090520104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369849188732633139/4a214c2fe8e64ba5213d578dcac2530d.png?size=32" width="24">ちいかわ | ちいかわ (chiikawa) \| tag | [gwbRsTjAbK](https://discord.gg/gwbRsTjAbK) | 2025-05-08T03:59:04+00:00 | 1369849188732633139 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369735565104382104/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">ACDC | ACDC \| .gg/MVPHub | [jDNNvchQCZ](https://discord.gg/jDNNvchQCZ) | 2025-05-08T03:48:57+00:00 | 1369735565104382104 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369543909843275866/9d904d180e9e9b6dba066eb438945171.png?size=32" width="24">Fеnt | Fent \| .gg/diddy | [ARKAavNMp5](https://discord.gg/ARKAavNMp5) | 2025-05-08T01:21:02+00:00 | 1369543909843275866 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745120009650356/19616532ccabff69a85686fdbaeff614.png?size=32" width="24">cry | adrian \| cry tag | [DPBxtNvG7Q](https://discord.gg/DPBxtNvG7Q) | 2025-05-08T01:21:01+00:00 | 1369745120009650356 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750440945914097/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">esex | adrian \| EXCLUSIVE esex tag | [Z9F4KvFRyA](https://discord.gg/Z9F4KvFRyA) | 2025-05-08T01:21:01+00:00 | 1369750440945914097 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369629777299898379/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">₊ᐝ | ₊ᐝ Heiuwu ₊ᐝ | [qddVbjWaHd](https://discord.gg/qddVbjWaHd) | 2025-05-08T01:15:56+00:00 | 1369629777299898379 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369473180451868792/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">cr7 | /neymar \| cr7 guild | [tNHbhg4fWq](https://discord.gg/tNHbhg4fWq) | 2025-05-08T01:05:49+00:00 | 1369473180451868792 |
 
 </details>
 
@@ -709,6 +709,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369780352062586951/176416ced6db0ec5ff8014ce2be3297f.png?size=32" width="24">OM | OM | [tje54ntzU6](https://discord.gg/tje54ntzU6) | 1369780352062586951 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369439680612929577/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">OM47 | Omerta 47 | [VPfDKWgyRe](https://discord.gg/VPfDKWgyRe) | 1369439680612929577 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369291647518769202/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">OPAI | minecraft client name tags collection | [b8AYpQKCnM](https://discord.gg/b8AYpQKCnM) | 1369291647518769202 |
+| <img src="https://cdn.discordapp.com/clan-badges/521820648415428609/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">OPO | World of Elsword | [wCNuPFE](https://discord.gg/wCNuPFE) | 521820648415428609 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369699977525203114/1935451f265a42d57241c7bcc9555abe.png?size=32" width="24">OPPS | OPPS \| .gg/Trenchkid | [n7VMzr9aUq](https://discord.gg/n7VMzr9aUq) | 1369699977525203114 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431293431123978/84412606536488d76915487613779361.png?size=32" width="24">OTF | OTF | [tNNCkxzSCN](https://discord.gg/tNNCkxzSCN) | 1369431293431123978 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369365148053143634/1897636167e0b09146fb12ce58e63294.png?size=32" width="24">O\_o | O\_o | [m2neXq4YF3](https://discord.gg/m2neXq4YF3) | 1369365148053143634 |
@@ -1243,6 +1244,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369632054299590656/6473797948e6d36a991e425c8b7c353c.png?size=32" width="24">zqsd | zqsd #guild | [FUHZGuXQkT](https://discord.gg/FUHZGuXQkT) | 1369632054299590656 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369790585229148202/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">zz | #zz \| .gg/slave | [MEKZMN7UV7](https://discord.gg/MEKZMN7UV7) | 1369790585229148202 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369363713609564252/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">zzz | zzz \| .gg/fg  for 30+ free guilds | [TMNkCZCPHx](https://discord.gg/TMNkCZCPHx) | 1369363713609564252 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369592899683090462/d39d45c63a05e8c9445fe2189aa4bd37.png?size=32" width="24">¬\_¬&quot; | kiwi&#x27;s basement | [yCbtm2q7T5](https://discord.gg/yCbtm2q7T5) | 1369592899683090462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369399297224872080/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">´ཀ` | ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ | [akncwyrSGJ](https://discord.gg/akncwyrSGJ) | 1369399297224872080 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369642623916048404/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">´ཀ` | ´ཀ` | [YptyQdvkxV](https://discord.gg/YptyQdvkxV) | 1369642623916048404 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369515065669324810/d9e42c36a7995711640870c097d3e9d3.png?size=32" width="24">ÆC | Aesthetic Creators PRO 🍃 | [zuCg63RG3X](https://discord.gg/zuCg63RG3X) | 1369515065669324810 |

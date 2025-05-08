@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369691398382551090/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">ฅᨐฅ | $$$$ | [RmmdtX43sP](https://discord.gg/RmmdtX43sP) | 2025-05-08T01:56:41+00:00 | 1369691398382551090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369840437707411566/bdfbbb5d8940aaab1d3b3fba13747af7.png?size=32" width="24">KPOP | K-POP | [rBA3AZTNcM](https://discord.gg/rBA3AZTNcM) | 2025-05-08T01:51:37+00:00 | 1369840437707411566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369790585229148202/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">zz | #zz \| .gg/slave | [MEKZMN7UV7](https://discord.gg/MEKZMN7UV7) | 2025-05-08T01:51:37+00:00 | 1369790585229148202 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740929811873813/90a6b0e768ff28c27088bc72a3b1d12f.png?size=32" width="24">baby | Lily&#x27;s Guild | [c67Ybjc85K](https://discord.gg/c67Ybjc85K) | 2025-05-08T01:51:36+00:00 | 1369740929811873813 |
@@ -1213,6 +1214,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369457470422122579/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ೀ 틸 | discord.gg/till | [gmmpRUkeJZ](https://discord.gg/gmmpRUkeJZ) | 1369457470422122579 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369085692327497758/788a69567671fb4d110432beeada67b6.png?size=32" width="24">ඞ. | Mewing frieren | [mYES5deEQd](https://discord.gg/mYES5deEQd) | 1369085692327497758 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369311130513834174/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">ฅᨐฅ | ฅᨐฅ | [TvzUsNZNGm](https://discord.gg/TvzUsNZNGm) | 1369311130513834174 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369691398382551090/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">ฅᨐฅ | $$$$ | [RmmdtX43sP](https://discord.gg/RmmdtX43sP) | 1369691398382551090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369424408611000430/e0fb315519bcb35d53e4ac4fb5b81b8c.png?size=32" width="24">เจ๋ง | เจ๋ง | [ww5fehpu9q](https://discord.gg/ww5fehpu9q) | 1369424408611000430 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369661610590732478/21129b437afdc5d4c56b399d9d86e25d.png?size=32" width="24">๖๏๏๖ | 煙 - ๖๏๏๖ | [gZXS4fFgEm](https://discord.gg/gZXS4fFgEm) | 1369661610590732478 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369420276827164742/f93e6fd9cc44c69c4e3504c6ebb4efa8.png?size=32" width="24">༉‧₊˚ | .gg/itgirlfarminghq | [CKhHA6zG](https://discord.gg/CKhHA6zG) | 1369420276827164742 |

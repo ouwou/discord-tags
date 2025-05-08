@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369840437707411566/bdfbbb5d8940aaab1d3b3fba13747af7.png?size=32" width="24">KPOP | K-POP | [rBA3AZTNcM](https://discord.gg/rBA3AZTNcM) | 2025-05-08T01:51:37+00:00 | 1369840437707411566 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369790585229148202/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">zz | #zz \| .gg/slave | [MEKZMN7UV7](https://discord.gg/MEKZMN7UV7) | 2025-05-08T01:51:37+00:00 | 1369790585229148202 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369740929811873813/90a6b0e768ff28c27088bc72a3b1d12f.png?size=32" width="24">baby | Lily&#x27;s Guild | [c67Ybjc85K](https://discord.gg/c67Ybjc85K) | 2025-05-08T01:51:36+00:00 | 1369740929811873813 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369350606803828736/80e49bbcd08c608a6f49671e2d0828da.png?size=32" width="24">ﬂash | #flash | [TrYWsRGyGn](https://discord.gg/TrYWsRGyGn) | 2025-05-08T01:46:31+00:00 | 1369350606803828736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730227558940692/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">SBZ | silly sbz | [297gwYUtGJ](https://discord.gg/297gwYUtGJ) | 2025-05-08T01:46:31+00:00 | 1369730227558940692 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641766667681873/b53a5478bb7a386492cb9b40b0fc9fff.png?size=32" width="24">FE!N | FE!N ✰ | [XuVx4waeQx](https://discord.gg/XuVx4waeQx) | 2025-05-08T01:41:26+00:00 | 1369641766667681873 |
@@ -490,6 +493,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369528320063963248/62ed69cbf23b3070341889684e77aef8.png?size=32" width="24">KINI | ❛꒰ Winter Kini 🎀  ꣓ | [5apDEBSM69](https://discord.gg/5apDEBSM69) | 1369528320063963248 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745691722780805/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">KISS | KISS #Tag | [YQCF252hq8](https://discord.gg/YQCF252hq8) | 1369745691722780805 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369196970769645590/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">KPOP | K-POP | [kpoppers](https://discord.gg/kpoppers) | 1369196970769645590 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369840437707411566/bdfbbb5d8940aaab1d3b3fba13747af7.png?size=32" width="24">KPOP | K-POP | [rBA3AZTNcM](https://discord.gg/rBA3AZTNcM) | 1369840437707411566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369654534737236038/ea76d37bcd6f1b0543efcce6c32fe999.png?size=32" width="24">KR | KR | [3jTXJeTrMc](https://discord.gg/3jTXJeTrMc) | 1369654534737236038 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369503931276857344/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">KRET | Legnica Sie Nie Przytula | [q86esKE3ru](https://discord.gg/q86esKE3ru) | 1369503931276857344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369705156962287616/ef306b39a43446f08dba5d4673c3d105.png?size=32" width="24">KSA | KSA. [.gg/p9S7ShPbqS] | [bvSmBZMZ6f](https://discord.gg/bvSmBZMZ6f) | 1369705156962287616 |
@@ -859,6 +863,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369714989342130246/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">aura | aura \| .gg/fg for 30+ free guilds | [XDd5d9PZJx](https://discord.gg/XDd5d9PZJx) | 1369714989342130246 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369371531817517258/eb3e89c2330b427a52977bc62877dd3b.png?size=32" width="24">baby | baby \| .gg/fg  for 30+ free guilds | [nZSH6Dyqzj](https://discord.gg/nZSH6Dyqzj) | 1369371531817517258 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369762863618461776/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">baby | baby /were | [ZPbAGAWB4Q](https://discord.gg/ZPbAGAWB4Q) | 1369762863618461776 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369740929811873813/90a6b0e768ff28c27088bc72a3b1d12f.png?size=32" width="24">baby | Lily&#x27;s Guild | [c67Ybjc85K](https://discord.gg/c67Ybjc85K) | 1369740929811873813 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369249356775030864/8cfb36b99a6f555cdcad7a8ed5b62774.png?size=32" width="24">bae | bae /rupture | [5tUBxHEcBR](https://discord.gg/5tUBxHEcBR) | 1369249356775030864 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369514939743731793/c0a7470397705c5abf92f89ece7cd430.png?size=32" width="24">bae | bae \| .gg/fg  for 30+ free guilds | [jYFfuPAwDx](https://discord.gg/jYFfuPAwDx) | 1369514939743731793 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369484877186994206/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">bae | .gg/tyx #bae | [Kd6XMHuCes](https://discord.gg/Kd6XMHuCes) | 1369484877186994206 |
@@ -1127,6 +1132,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369453066998255718/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">yvl | Young Vamp Life | [f34VqKaWBD](https://discord.gg/f34VqKaWBD) | 1369453066998255718 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369120504375541880/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">yvl | YVL | [imsoyvl](https://discord.gg/imsoyvl) | 1369120504375541880 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369632054299590656/6473797948e6d36a991e425c8b7c353c.png?size=32" width="24">zqsd | zqsd #guild | [FUHZGuXQkT](https://discord.gg/FUHZGuXQkT) | 1369632054299590656 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369790585229148202/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">zz | #zz \| .gg/slave | [MEKZMN7UV7](https://discord.gg/MEKZMN7UV7) | 1369790585229148202 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369363713609564252/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">zzz | zzz \| .gg/fg  for 30+ free guilds | [TMNkCZCPHx](https://discord.gg/TMNkCZCPHx) | 1369363713609564252 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369399297224872080/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">´ཀ` | ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ | [akncwyrSGJ](https://discord.gg/akncwyrSGJ) | 1369399297224872080 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369642623916048404/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">´ཀ` | ´ཀ` | [YptyQdvkxV](https://discord.gg/YptyQdvkxV) | 1369642623916048404 |

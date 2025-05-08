@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369765418230616105/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">999 | PRITAM X 999 | [tmcbcqrZ](https://discord.gg/tmcbcqrZ) | 2025-05-08T19:54:05+00:00 | 1369765418230616105 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756531603542016/28c2c2aa9ccd050e6a343e4406dad46b.png?size=32" width="24">محبت | محبت　　[　.gg/furina　] | [J5eKkt2KeA](https://discord.gg/J5eKkt2KeA) | 2025-05-08T19:48:59+00:00 | 1369756531603542016 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726885218746559/bc2f7685eed9d27522595f510bb2da48.png?size=32" width="24">A$AP | A$AP Tag | [YTjfd6WH3e](https://discord.gg/YTjfd6WH3e) | 2025-05-08T19:43:54+00:00 | 1369726885218746559 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757842285789360/c8f650998d41f20132fe6c33da7dcbf8.png?size=32" width="24">DDoS | PanicBot.net | [ddostag](https://discord.gg/ddostag) | 2025-05-08T19:43:54+00:00 | 1369757842285789360 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369757951384097040/6c0e1ccd6a0a0e402cf6d7dda85f47e4.png?size=32" width="24">ＺＯＲＯ | [ＺＯＲＯ] /optags | [eSRtvBN5tq](https://discord.gg/eSRtvBN5tq) | 2025-05-08T17:05:17+00:00 | 1369757951384097040 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219965990289543178/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">yvl | yvl | [kcTy2DjdUa](https://discord.gg/kcTy2DjdUa) | 2025-05-08T17:05:17+00:00 | 1219965990289543178 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369781431592554516/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">ZEBI | zebi | [VPYhTJycCG](https://discord.gg/VPYhTJycCG) | 2025-05-08T17:05:17+00:00 | 1369781431592554516 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369674210330546207/9b43d5ec59ffd0a187b7d343ac707643.png?size=32" width="24">wrld | Righteous | [righteous](https://discord.gg/righteous) | 2025-05-08T17:05:16+00:00 | 1369674210330546207 |
 
 </details>
 
@@ -221,6 +221,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369261179658043474/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">999 | 999 | [gUAEE6kjKq](https://discord.gg/gUAEE6kjKq) | 1369261179658043474 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369853377521123371/a1a8d7066521a13ede4b94de530e98b5.png?size=32" width="24">999 | 𝕽𝖔𝖈𝖐𝖘𝖙𝖛𝖗 (９９９) | [Rockstvr999](https://discord.gg/Rockstvr999) | 1369853377521123371 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369346983080497192/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">999 | xricso | [GeuBGxcnfT](https://discord.gg/GeuBGxcnfT) | 1369346983080497192 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369765418230616105/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">999 | PRITAM X 999 | [tmcbcqrZ](https://discord.gg/tmcbcqrZ) | 1369765418230616105 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369385261544509515/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">:( | [:(] .gg/decomposed for tags | [j7EJdvmVy9](https://discord.gg/j7EJdvmVy9) | 1369385261544509515 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765787874623508/e3bf9804f050d89b3aac499e2e9247fc.png?size=32" width="24">:( | cool kids spot | [ay9RKkyxgF](https://discord.gg/ay9RKkyxgF) | 1369765787874623508 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369295603158220872/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">:( | :( : /bmx | [hm7RTcNJZn](https://discord.gg/hm7RTcNJZn) | 1369295603158220872 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370045031242534972/3e06a2db3502df9b545cc5e27f0ba5f7.png?size=32" width="24">LORD | Cheeky Sanctuary | [mjMsfUSq3q](https://discord.gg/mjMsfUSq3q) | 2025-05-08T18:32:19+00:00 | 1370045031242534972 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740958131949628/eedaa9327cec4b520c3e59993e26c3f7.png?size=32" width="24">HEXA | HEXA GuildTag | [pJHSaj8X8c](https://discord.gg/pJHSaj8X8c) | 2025-05-08T18:27:14+00:00 | 1369740958131949628 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369772778970157092/90cf6cbdacc2c0a392d245ca62a3ced8.png?size=32" width="24">!DEV | Dominikhun250 [!DEV] | [FnPRvGe2xH](https://discord.gg/FnPRvGe2xH) | 2025-05-08T18:27:13+00:00 | 1369772778970157092 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369770752978714634/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">DADA | # DADA \| .gg/slave | [u2HYsEuAw6](https://discord.gg/u2HYsEuAw6) | 2025-05-08T18:27:13+00:00 | 1369770752978714634 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369364294650560573/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">Dose | vex priv guild | [CykU5aMBGS](https://discord.gg/CykU5aMBGS) | 2025-05-08T17:05:07+00:00 | 1369364294650560573 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369657171549097994/b1bad61c727d9eab2e7ca852901cab40.png?size=32" width="24">eepy | eepy ᶻ 𝗓 𐰁 .ᐟ | [eep-y](https://discord.gg/eep-y) | 2025-05-08T17:05:07+00:00 | 1369657171549097994 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369823874434334821/bb6f447245dd4c9243d2aeb61d26154d.png?size=32" width="24">AK47 | Keilnk (AK47) | [gKGwXYmzXE](https://discord.gg/gKGwXYmzXE) | 2025-05-08T17:05:06+00:00 | 1369823874434334821 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369853377521123371/a1a8d7066521a13ede4b94de530e98b5.png?size=32" width="24">999 | 𝕽𝖔𝖈𝖐𝖘𝖙𝖛𝖗 (９９９) | [Rockstvr999](https://discord.gg/Rockstvr999) | 2025-05-08T17:05:06+00:00 | 1369853377521123371 |
 
 </details>
 
@@ -710,6 +710,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369440025678315520/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">LOL | wolf club | [rBXrMgeM57](https://discord.gg/rBXrMgeM57) | 1369440025678315520 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369573005398773790/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">LOML | LOML tag \| /loml | [6ArhMS3aGS](https://discord.gg/6ArhMS3aGS) | 1369573005398773790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369422992676880424/d33eed936db40acf5f7fa8bebe1c258d.png?size=32" width="24">LOOP | Loop&#x27;d | [TWHsfJmxYX](https://discord.gg/TWHsfJmxYX) | 1369422992676880424 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370045031242534972/3e06a2db3502df9b545cc5e27f0ba5f7.png?size=32" width="24">LORD | Cheeky Sanctuary | [mjMsfUSq3q](https://discord.gg/mjMsfUSq3q) | 1370045031242534972 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369358000850210836/2deb3565d3d35c6cf688853749384cb7.png?size=32" width="24">LOVE | love \| .gg/fg  for 30+ free guilds | [ApF3Ah8rfd](https://discord.gg/ApF3Ah8rfd) | 1369358000850210836 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369104720924512346/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">LOVE | Love Tag | [7x4QSpPh8f](https://discord.gg/7x4QSpPh8f) | 1369104720924512346 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369330954325459034/6979786345bfc8b349935c51ae0a51c5.png?size=32" width="24">LOVE | 💗LOVE TAG💗 | [hMCfU5SzUB](https://discord.gg/hMCfU5SzUB) | 1369330954325459034 |

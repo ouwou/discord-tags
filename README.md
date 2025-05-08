@@ -241,6 +241,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369584786359848980/8bbe85110c037a420102799feb3c9c9b.png?size=32" width="24">DATA | #DATA | [9aMVcWF8R6](https://discord.gg/9aMVcWF8R6) | 1369584786359848980 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369413335409233985/72243420fa90e1835037e394cc61031d.png?size=32" width="24">DDLC | 煙 - DDLC | [prPUnWQcEw](https://discord.gg/prPUnWQcEw) | 1369413335409233985 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369652748533895209/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">DDOS | DDOS | [cvUg3yzgYu](https://discord.gg/cvUg3yzgYu) | 1369652748533895209 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369456714201432225/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">DDOS | .gg/fritag | [s8xnfrrzhG](https://discord.gg/s8xnfrrzhG) | 1369456714201432225 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369335856149561364/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">DEAD | dead \| .gg/fg  for 30+ free guilds | [GK9xSpm8Bt](https://discord.gg/GK9xSpm8Bt) | 1369335856149561364 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369496382817304686/22f8c38a62b66123c4242d0cbdd46282.png?size=32" width="24">DEAD | 罰 DEAD | [TtTBPSkRdt](https://discord.gg/TtTBPSkRdt) | 1369496382817304686 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740832227201164/36a4b61a71468dfe342d26d9f07dbb60.png?size=32" width="24">DEKU | Deku Tag | [hTdNwBmTAh](https://discord.gg/hTdNwBmTAh) | 1369740832227201164 |
@@ -984,6 +985,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369777313515835392/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">ss03 | ss03 | [hktZ5szFJx](https://discord.gg/hktZ5szFJx) | 1369777313515835392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369142575017103551/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">star | star /rupture | [Q8F5kTX8dx](https://discord.gg/Q8F5kTX8dx) | 1369142575017103551 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369416154422050997/6fdf57029c23c8aa52aee364a9c80ad0.png?size=32" width="24">sua | @ [ sua ] drunk and party | [9dMcKWYykz](https://discord.gg/9dMcKWYykz) | 1369416154422050997 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369460388831297566/0a63b00367b6366d7fcdf449142c62c2.png?size=32" width="24">suc | Succubos | [khaos](https://discord.gg/khaos) | 1369460388831297566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369744452423389234/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">sunꝏ | sunoo | [KysxbnpfcC](https://discord.gg/KysxbnpfcC) | 1369744452423389234 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740009384579147/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">swat | the moon is now yours | [bjypshW3T4](https://discord.gg/bjypshW3T4) | 1369740009384579147 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369437884263960596/950aeaf6df9f76c04fc86d1f7ab8f8aa.png?size=32" width="24">tear | tear | [n8Pctc5xuv](https://discord.gg/n8Pctc5xuv) | 1369437884263960596 |

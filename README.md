@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369717304874762322/7466f52966713bba906c628e94c4d56f.png?size=32" width="24">。ꪮᩍ | ⃬۫🍜̸᩠໋ | [7CbqKcf2A2](https://discord.gg/7CbqKcf2A2) | 2025-05-08T05:20:07+00:00 | 1369717304874762322 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369731511690989759/da6cdb756dce783c6793289239ac55a2.png?size=32" width="24">yuna | yuna&#x27;s world | [hv9Dk6PdvQ](https://discord.gg/hv9Dk6PdvQ) | 2025-05-08T05:04:57+00:00 | 1369731511690989759 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369896287926882345/f9c0bf666a819be6aff3b7f3b0afc008.png?size=32" width="24">국밥 | 국밥 태그 | [pnFCRDNxN9](https://discord.gg/pnFCRDNxN9) | 2025-05-08T05:04:57+00:00 | 1369896287926882345 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369598214402998303/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ᴄᴜɴᴛ | cunt 🩷 | [Av8YjfwcZB](https://discord.gg/Av8YjfwcZB) | 2025-05-08T04:59:52+00:00 | 1369598214402998303 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369731883151134893/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">snus | snus | [5s2q2zYbbr](https://discord.gg/5s2q2zYbbr) | 2025-05-08T01:36:21+00:00 | 1369731883151134893 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785712156606676/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">ˆ𐃷ˆ | /matchingpfps  ﹕ˆ𐃷ˆ   tag | [WwgV2dP2GA](https://discord.gg/WwgV2dP2GA) | 2025-05-08T01:36:20+00:00 | 1369785712156606676 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749400770973837/3ca9fe6ac5089304899e2dbfd4c4824d.png?size=32" width="24">࣪  ˖ | ／𝑐ℎ𝑒𝑟𝑖𝑒𝑠 | [3qEmxey4ya](https://discord.gg/3qEmxey4ya) | 2025-05-08T01:31:16+00:00 | 1369749400770973837 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369592308441288704/7e951786432b0c1e39e9c9daefcbfacf.png?size=32" width="24">FURY | FuryVerse | [xgQu9rnW6d](https://discord.gg/xgQu9rnW6d) | 2025-05-08T01:31:16+00:00 | 1369592308441288704 |
 
 </details>
 
@@ -1378,6 +1378,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369790886770114560/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">⸆⸉ | Swift Tag | [SSNFaVTQ6P](https://discord.gg/SSNFaVTQ6P) | 1369790886770114560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369552737016221778/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">⸻⸻⸻⸻ | .gg/yea #⸻⸻⸻⸻ | [9Q45S9E3br](https://discord.gg/9Q45S9E3br) | 1369552737016221778 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369630021697667122/d8906ff0e873e2ab7fcd788a27453e68.png?size=32" width="24">、太陽 | ྀ   ꒰۪۪ 　casita de ayon　⁀　　੭ | [tXPHpEy4Mb](https://discord.gg/tXPHpEy4Mb) | 1369630021697667122 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369717304874762322/7466f52966713bba906c628e94c4d56f.png?size=32" width="24">。ꪮᩍ | ⃬۫🍜̸᩠໋ | [7CbqKcf2A2](https://discord.gg/7CbqKcf2A2) | 1369717304874762322 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369439363045527672/3375d7aee8d1b724ec22b5e325e9a4eb.png?size=32" width="24">お金 | .gg/moneyy # お金 | [7gvEvThN32](https://discord.gg/7gvEvThN32) | 1369439363045527672 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369355939333013546/d5f1d03a2e4d13d568a35169eca064e3.png?size=32" width="24">こおり | ily | [wmEdrTQgem](https://discord.gg/wmEdrTQgem) | 1369355939333013546 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369489445165731933/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">さみしい | #さみしい .gg/packer | [gP8WxWAUQc](https://discord.gg/gP8WxWAUQc) | 1369489445165731933 |

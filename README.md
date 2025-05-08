@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369418194225463358/cc9c1fa683ece05ae7d784257ebfd9e1.png?size=32" width="24">gf | girlfriend 𓂃 ♡ /naoi | [6RWZcEWWgJ](https://discord.gg/6RWZcEWWgJ) | 2025-05-08T02:37:40+00:00 | 1369418194225463358 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369757045896511598/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&lt;3 | Inflicted&#x27;s Lounge \| &lt;3 | [zRdtsMMbct](https://discord.gg/zRdtsMMbct) | 2025-05-08T02:37:39+00:00 | 1369757045896511598 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369830083354824825/526c19ecb2c60d87bc4a0458ea5643dc.png?size=32" width="24">ame | garden of sweet delights 𖧷 ˚࿔ ‧ ₊˚ | [xZa7wAeXc4](https://discord.gg/xZa7wAeXc4) | 2025-05-08T02:37:39+00:00 | 1369830083354824825 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369311386030706758/b1c2ae1bb3644a44861424f93ec8f180.png?size=32" width="24">bf | boyfriend 𓂃 ♡ /naoi | [rdrDEGM8cH](https://discord.gg/rdrDEGM8cH) | 2025-05-08T02:37:39+00:00 | 1369311386030706758 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369535078853771285/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">ENVY | .gg/yea #ENVY | [26RgKxjTgh](https://discord.gg/26RgKxjTgh) | 2025-05-08T02:32:34+00:00 | 1369535078853771285 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369677350085726260/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">GOON | .gg/yea #GOON | [Dx38uZnQME](https://discord.gg/Dx38uZnQME) | 2025-05-08T02:32:34+00:00 | 1369677350085726260 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369537514028793856/885655109920302254b03aeb071dc4a1.png?size=32" width="24">sigh | .gg/yea #sigh | [8bm2WBTuyN](https://discord.gg/8bm2WBTuyN) | 2025-05-08T02:32:34+00:00 | 1369537514028793856 |
@@ -190,6 +194,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369284122622558249/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">&lt;/3 | .gg/perihan | [perihan](https://discord.gg/perihan) | 1369284122622558249 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369714757694656594/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">&lt;/3² | &lt;/3² | [7wdw2SbqT4](https://discord.gg/7wdw2SbqT4) | 1369714757694656594 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369086996596654200/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">&lt;3 | &lt;3 /backup | [94XKkxPBZk](https://discord.gg/94XKkxPBZk) | 1369086996596654200 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369757045896511598/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&lt;3 | Inflicted&#x27;s Lounge \| &lt;3 | [zRdtsMMbct](https://discord.gg/zRdtsMMbct) | 1369757045896511598 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369305363291177041/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">&lt;3 | teenager ☆ TAG | [teenagerz](https://discord.gg/teenagerz) | 1369305363291177041 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369353387736563712/5c6362be13a3f553790bade7c8f136b8.png?size=32" width="24">&lt;3 | &lt;3 \| discord.gg/jennie (1) | [XAKfARNRYt](https://discord.gg/XAKfARNRYt) | 1369353387736563712 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369612154868596787/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">&lt;3 | &lt;3 \| .gg/fg  for 30+ free guilds | [M4Hsj475HS](https://discord.gg/M4Hsj475HS) | 1369612154868596787 |
@@ -878,6 +883,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369794053171970068/3e51700ec6da897b08e6bf0c7903f394.png?size=32" width="24">^ω^ | kacpy&#x27;s \| #TAG | [ttsr98dPQB](https://discord.gg/ttsr98dPQB) | 1369794053171970068 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369508342397145178/f6822eb5111fde1093e0b6217aa53a81.png?size=32" width="24">alx | alx | [alex](https://discord.gg/alex) | 1369508342397145178 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369760858011336987/09d22b82a804d66b7eaf0bc35265de61.png?size=32" width="24">amai | sweet like sugar | [p8JbtxJdSW](https://discord.gg/p8JbtxJdSW) | 1369760858011336987 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369830083354824825/526c19ecb2c60d87bc4a0458ea5643dc.png?size=32" width="24">ame | garden of sweet delights 𖧷 ˚࿔ ‧ ₊˚ | [xZa7wAeXc4](https://discord.gg/xZa7wAeXc4) | 1369830083354824825 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741562711375965/b4cc2cac03486aed85b0762fab8b3f38.png?size=32" width="24">amor | amor guild (.gg/rosie) | [4QtHs8jFH5](https://discord.gg/4QtHs8jFH5) | 1369741562711375965 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369635993677856831/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">athy | athys palace | [bkPycQMtVn](https://discord.gg/bkPycQMtVn) | 1369635993677856831 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369714989342130246/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">aura | aura \| .gg/fg for 30+ free guilds | [XDd5d9PZJx](https://discord.gg/XDd5d9PZJx) | 1369714989342130246 |
@@ -892,6 +898,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369502239156207616/359f201704485ac2d5471df8af607235.png?size=32" width="24">baǁs | Balls Guild | [w3hx8GzaqH](https://discord.gg/w3hx8GzaqH) | 1369502239156207616 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369454040416784416/f98ba9e687f4f9857ec7acf190f1aa2e.png?size=32" width="24">bby | .gg/dolls [bby] | [JVwes8pdz2](https://discord.gg/JVwes8pdz2) | 1369454040416784416 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369500533513130034/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">bebe | ♡       /babey      ﹒      guild | [PVxmKfPCF5](https://discord.gg/PVxmKfPCF5) | 1369500533513130034 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369311386030706758/b1c2ae1bb3644a44861424f93ec8f180.png?size=32" width="24">bf | boyfriend 𓂃 ♡ /naoi | [rdrDEGM8cH](https://discord.gg/rdrDEGM8cH) | 1369311386030706758 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369371430776737873/1833a3497f526a5a60d6132ff85eff56.png?size=32" width="24">birb | Bugsy&#x27;s Server | [6errfWuTqH](https://discord.gg/6errfWuTqH) | 1369371430776737873 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369470615014342706/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">blထd | .gg/bloodtag | [bloodtag](https://discord.gg/bloodtag) | 1369470615014342706 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369626891975262259/b1a70b12c9fc93280fd0f46b4365019c.png?size=32" width="24">blထd | /lured blood tag | [7WsEeuQd68](https://discord.gg/7WsEeuQd68) | 1369626891975262259 |
@@ -964,6 +971,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369165021807902840/677d4f64d1a86c10d84dfabfbe25955d.png?size=32" width="24">fujo | / d𝘰𝘭𝘭 | [mf9zCSdCQe](https://discord.gg/mf9zCSdCQe) | 1369165021807902840 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369404857387061318/c4726fa913c32c43da211a918f01ca4b.png?size=32" width="24">fαwn | ✿    fawn guild   🎀   .gg/decor | [EUTDZr4Nt2](https://discord.gg/EUTDZr4Nt2) | 1369404857387061318 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369248474045874186/6b0323a5d7cda33bf684a8342a8770e5.png?size=32" width="24">gay | nimya | [qFxDuk8qz9](https://discord.gg/qFxDuk8qz9) | 1369248474045874186 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369418194225463358/cc9c1fa683ece05ae7d784257ebfd9e1.png?size=32" width="24">gf | girlfriend 𓂃 ♡ /naoi | [6RWZcEWWgJ](https://discord.gg/6RWZcEWWgJ) | 1369418194225463358 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369646996297875537/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">ggwp | sunarr / ggwp tag | [zpcA38thec](https://discord.gg/zpcA38thec) | 1369646996297875537 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369335225653657680/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">gia | giacord !!! | [Ygas2wUGVA](https://discord.gg/Ygas2wUGVA) | 1369335225653657680 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369146957259608134/314a244edd4687803016ca10ede40771.png" width="24">goku | Goku | [sangoku](https://discord.gg/sangoku) | 1369146957259608134 |

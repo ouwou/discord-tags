@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369325452354654228/0d8458ba13f95f50412446288c0c0f12.png?size=32" width="24">ALFA | ALPHA | [mcyvudDRtw](https://discord.gg/mcyvudDRtw) | 2025-05-08T06:51:35+00:00 | 1369325452354654228 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369597786852560907/b38488f8a9b34c890c310244228bfdf3.png?size=32" width="24">刻々帝 | 刻々帝 Tag \| 𝓩𝓪𝓯𝓴𝓲𝓮𝓵 | [s7vnDzmRW5](https://discord.gg/s7vnDzmRW5) | 2025-05-08T06:46:30+00:00 | 1369597786852560907 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615399435370547/f4fc4f765584f1c5fa7a467c97703e0e.png?size=32" width="24">氷結傀儡 | 氷結傀儡 (ザドキエル) | [8ASqTy4Hdd](https://discord.gg/8ASqTy4Hdd) | 2025-05-08T06:46:30+00:00 | 1369615399435370547 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369505122824224850/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">𝄞ˑ | /snore guild | [39tpAUkdjg](https://discord.gg/39tpAUkdjg) | 2025-05-08T06:46:29+00:00 | 1369505122824224850 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369843925711327233/6b0323a5d7cda33bf684a8342a8770e5.png?size=32" width="24">xcx | xcx tag | [SeUvS5SX3V](https://discord.gg/SeUvS5SX3V) | 2025-05-08T02:12:05+00:00 | 1369843925711327233 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369713544546877484/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">༺༒༻ | ༺༒༻ : /bmx | [AawsAYgahz](https://discord.gg/AawsAYgahz) | 2025-05-08T02:12:04+00:00 | 1369713544546877484 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369773769245327432/ed0d1a4b2e6b95318a78d0a136dc85c6.png?size=32" width="24">STAR | SUPERSTARS \| STAR Tag | [yDDZAySbrj](https://discord.gg/yDDZAySbrj) | 2025-05-08T02:12:04+00:00 | 1369773769245327432 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369609506555957339/f4451d462d1c3b8aa7cae44de4f0533c.png?size=32" width="24">TYLG | Tình yêu là gì? | [tinhyeulagi](https://discord.gg/tinhyeulagi) | 2025-05-08T02:12:04+00:00 | 1369609506555957339 |
 
 </details>
 
@@ -265,6 +265,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369404360181944340/7b571a46a1266491cfabe2e362aad176.png" width="24">AFK | AFK | [T2ZGxhJHj7](https://discord.gg/T2ZGxhJHj7) | 1369404360181944340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369387299552497755/a3290d71cdc373a5f63598746c8f1476.png?size=32" width="24">AIM | AIM /stealy | [QkdPpZNCtx](https://discord.gg/QkdPpZNCtx) | 1369387299552497755 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369636288625508392/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">AK47 | .gg/yea #AK47 | [Np7JKYMzzc](https://discord.gg/Np7JKYMzzc) | 1369636288625508392 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369325452354654228/0d8458ba13f95f50412446288c0c0f12.png?size=32" width="24">ALFA | ALPHA | [mcyvudDRtw](https://discord.gg/mcyvudDRtw) | 1369325452354654228 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369276798776639498/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">AMG | AMG | [yEBambp28g](https://discord.gg/yEBambp28g) | 1369276798776639498 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369713168586379325/11830c4eb906b9c55a200fad250eef71.png?size=32" width="24">AMOR | AmoraiFR 🍃 | [5npcTXJJNk](https://discord.gg/5npcTXJJNk) | 1369713168586379325 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369685842800410684/cbc8765dbaa3acebe39059b5a02fb40b.png?size=32" width="24">ANGE | ANGE \| .gg/sunytag | [Qtn4VXHQAK](https://discord.gg/Qtn4VXHQAK) | 1369685842800410684 |

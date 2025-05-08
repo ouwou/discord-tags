@@ -272,7 +272,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369112056460083292/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;.&lt; | #&gt;.&lt; \| gg.slave | [ttyl](https://discord.gg/ttyl) | 1369112056460083292 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369700014007255086/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">&gt;.&lt; | &gt;.&lt; | [4BCDygGzBv](https://discord.gg/4BCDygGzBv) | 1369700014007255086 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369536629789823016/f4ec9ed63d0c08927d8c66d354f86a77.png" width="24">&gt;.&lt; | &gt;.&lt; | [Uty7VSheWN](https://discord.gg/Uty7VSheWN) | 1369536629789823016 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369408948809105541/2c7aa014ee3599b6b7089ce933971852.png" width="24">&gt;;p | [&gt;;p] .gg/decomposed for tags | [eRVU494ju8](https://discord.gg/eRVU494ju8) | 1369408948809105541 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369408948809105541/2c7aa014ee3599b6b7089ce933971852.png" width="24">&gt;;p | [&gt;;p] | [eRVU494ju8](https://discord.gg/eRVU494ju8) | 1369408948809105541 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369070832965652481/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;&lt; | &gt;&lt; /selfbot | [dsheQ6cXSC](https://discord.gg/dsheQ6cXSC) | 1369070832965652481 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369920997083451445/878c62b6694a4f5931104f766191bec7.png" width="24">&gt;&lt; | &gt;&lt; /pxguild | [E49EXKKh5b](https://discord.gg/E49EXKKh5b) | 1369920997083451445 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730991802945638/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">&gt;\_0 | &gt;\_0 | [4FU9VKfqXk](https://discord.gg/4FU9VKfqXk) | 1369730991802945638 |
@@ -1243,7 +1243,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369458793494216704/8886cf879eb6ebe40554ef6f87fc0696.png" width="24">doll | doll house ♡ | [424f9As9](https://discord.gg/424f9As9) | 1369458793494216704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369713182414999653/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">dove | dove guild | [YuMqMKPumA](https://discord.gg/YuMqMKPumA) | 1369713182414999653 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369478870620967023/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">drug | /exitings | [exitings](https://discord.gg/exitings) | 1369478870620967023 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369716342252376195/c8d016eed5c8752316ca38fdd54380c6.png" width="24">dumb | @dumb tag \| 10+ tags | [yuu](https://discord.gg/yuu) | 1369716342252376195 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369716342252376195/c8d016eed5c8752316ca38fdd54380c6.png" width="24">dumb | @dumb tag \| 10+ Tags | [yuu](https://discord.gg/yuu) | 1369716342252376195 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369150598137778228/21129b437afdc5d4c56b399d9d86e25d.png" width="24">dumb | dumb dumb | [D3AdPyQnjp](https://discord.gg/D3AdPyQnjp) | 1369150598137778228 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369310898698715226/6091384ad4429903dc9323d0949b0cf3.png" width="24">eepy | The Eepy Corner 💤💫 | [ybHZpNGk](https://discord.gg/ybHZpNGk) | 1369310898698715226 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369430212101800038/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">ego | #ego /uzuki | [GJ5NaBbsvU](https://discord.gg/GJ5NaBbsvU) | 1369430212101800038 |
@@ -1345,6 +1345,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369533575770148945/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">lust | .gg/yea #lust | [Esh5gAZ2cd](https://discord.gg/Esh5gAZ2cd) | 1369533575770148945 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369752472087953418/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">lust | /yell #lust | [Z8pRJYYSvS](https://discord.gg/Z8pRJYYSvS) | 1369752472087953418 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369179186048008272/6ed48306563695cbd396eba421d99aaa.png" width="24">luv | Luvly・Chat・Community | [luvrr](https://discord.gg/luvrr) | 1369179186048008272 |
+| <img src="https://cdn.discordapp.com/clan-badges/1341505920127209497/31de800dbf69711653e42ac41f482aac.png" width="24">luvs | ♡ ⋮ ROMA LABELS ₊ ⊹ rt.600 | [romalabels](https://discord.gg/romalabels) | 1341505920127209497 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369392670258102372/84412606536488d76915487613779361.png" width="24">luﬀy | 煙 - luffy | [5KhDCPVZZ3](https://discord.gg/5KhDCPVZZ3) | 1369392670258102372 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369692765109227733/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">lv | lv | [svDjzWp6DY](https://discord.gg/svDjzWp6DY) | 1369692765109227733 |
 | <img src="https://cdn.discordapp.com/clan-badges/956859692070629447/40a7aa796426347d6b76d20dfed2c273.png" width="24">lvrs | ☞　⁺　　♡　﹒　miio ⊹ lvrs tag | [miio](https://discord.gg/miio) | 956859692070629447 |
@@ -1767,7 +1768,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369356734677647391/48d2557a1faf9a790dde3ad334e56efb.png" width="24">ꜰᴇᴍ® | 🌸【𝐅𝐞𝐦𝐂𝐨®】🌸 ⭄ TAG | [ebZJEZ2Z2N](https://discord.gg/ebZJEZ2Z2N) | 1369356734677647391 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369744005255921700/ab1fd042a1468216271ef8da39aeadcc.png" width="24">ꜱʀɴᴅ | #SRND /serenade | [hr4Gp2zdUs](https://discord.gg/hr4Gp2zdUs) | 1369744005255921700 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369581100220944415/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ꜱʟᴜᴛ | SLUT \| .gg/guildplug | [KFn3qVDk2C](https://discord.gg/KFn3qVDk2C) | 1369581100220944415 |
-| <img src="https://cdn.discordapp.com/clan-badges/1341505920127209497/791c6b21a54c828e9355123f4bb5b2f5.png" width="24">꣑ৎ | ♡ ⋮ ROMA LABELS ₊ ⊹ rt. 250 | [romalabels](https://discord.gg/romalabels) | 1341505920127209497 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369251625851420673/bcac8aacf94b9885757389051552ed33.png" width="24">강아지 | discord.gg/arki [🍃강아지] | [kMfPHrYkCs](https://discord.gg/kMfPHrYkCs) | 1369251625851420673 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369282920438693959/6473797948e6d36a991e425c8b7c353c.png" width="24">게임 | discord.gg/uPvy8pWFn3 [⚔ 게임] | [uPvy8pWFn3](https://discord.gg/uPvy8pWFn3) | 1369282920438693959 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369670823237124176/5448607c4ffe3e9704c48836412e083b.png" width="24">겨울 | 겨울 | [yCNxY3qa4T](https://discord.gg/yCNxY3qa4T) | 1369670823237124176 |

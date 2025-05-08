@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369969366904340531/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">TopG | Top G Mafia Server | [ErHaFPNDTy](https://discord.gg/ErHaFPNDTy) | 2025-05-08T20:40:39+00:00 | 1369969366904340531 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369782256104640512/b7dfa1f2bd021d855682ea83bde4d540.png" width="24">COPS | cops | [qUkBJQQFE5](https://discord.gg/qUkBJQQFE5) | 2025-05-08T20:30:31+00:00 | 1369782256104640512 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369366272327811093/dc61eaed9e8b012148661df1ada874e6.png" width="24">WiFi | #WiFi | [VXpX6TU8](https://discord.gg/VXpX6TU8) | 2025-05-08T20:19:35+00:00 | 1369366272327811093 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765418230616105/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">999 | PRITAM X 999 | [tmcbcqrZ](https://discord.gg/tmcbcqrZ) | 2025-05-08T19:54:05+00:00 | 1369765418230616105 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369347143239733358/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">ﬁvem | Fivem Tag | [aEaJ78GZnX](https://discord.gg/aEaJ78GZnX) | 2025-05-08T17:05:08+00:00 | 1369347143239733358 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369729986734325832/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">F@G | F@g tag - Apothecary Diaries | [wsyrr7RuVf](https://discord.gg/wsyrr7RuVf) | 2025-05-08T17:05:08+00:00 | 1369729986734325832 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750643996098662/86735389348f3eacfa519eb553df38fd.png" width="24">GDN | Gare Du Nord | [3KyAY4T69s](https://discord.gg/3KyAY4T69s) | 2025-05-08T17:05:08+00:00 | 1369750643996098662 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369090516700102687/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">知神者 | Gnog Studios | [gnostic](https://discord.gg/gnostic) | 2025-05-08T17:05:08+00:00 | 1369090516700102687 |
 
 </details>
 
@@ -1049,6 +1049,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369289078725672990/6ed907032e3a22a1cd30d3f61a5cd96e.png" width="24">TZ | ᲼TZ Project GUILD | [vivelesgitanduportugals](https://discord.gg/vivelesgitanduportugals) | 1369289078725672990 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369281246877974640/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">TZX | ᲼᲼ | [tzxguild](https://discord.gg/tzxguild) | 1369281246877974640 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369280331731173488/accbd7b9eb605f638b950701b56577e7.png" width="24">ToZi | TooZzzi \| Server-Tag | [QyRg2UWEA9](https://discord.gg/QyRg2UWEA9) | 1369280331731173488 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369969366904340531/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">TopG | Top G Mafia Server | [ErHaFPNDTy](https://discord.gg/ErHaFPNDTy) | 1369969366904340531 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369082363887222936/363724c782696d0c71bec7400053571e.png" width="24">Tree | Tree〡The Nature | [2byg6SG5W9](https://discord.gg/2byg6SG5W9) | 1369082363887222936 |
 | <img src="https://cdn.discordapp.com/clan-badges/822742202043858954/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">TÜRK | \| EEM \| Edirne Emniyet Müdürlüğü #TÜRK | [eemm](https://discord.gg/eemm) | 822742202043858954 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370076525738594396/e49cbe2d3c213af9f285d99ecdbb56cf.png" width="24">TÜRK | Xtra | [YkBDtzh4zp](https://discord.gg/YkBDtzh4zp) | 1370076525738594396 |

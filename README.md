@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369767137517895771/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">FPV | TreeTag | [mxfmYQX7us](https://discord.gg/mxfmYQX7us) | 2025-05-08T20:14:29+00:00 | 1369767137517895771 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369756441803493487/79366e8660935912726217b413fcc19b.png?size=32" width="24">GFC | [Guild Tag] German Fast Crimelife | [SJYxk6UMhN](https://discord.gg/SJYxk6UMhN) | 2025-05-08T20:14:29+00:00 | 1369756441803493487 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369817305915330591/856cecbf8055036b98cf05fd54cd8872.png?size=32" width="24">AXL | AXL Community | [aJfDbMAgSr](https://discord.gg/aJfDbMAgSr) | 2025-05-08T20:09:23+00:00 | 1369817305915330591 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370075470426537994/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">BBL | BBL - /92ii | [Ff7NZkg8tv](https://discord.gg/Ff7NZkg8tv) | 2025-05-08T20:09:23+00:00 | 1370075470426537994 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615684689989632/2ac3613ced92d46f5c8e059a3570747e.png?size=32" width="24">MEOW | La Citadelle | [9yRzMJVfM7](https://discord.gg/9yRzMJVfM7) | 2025-05-08T20:09:23+00:00 | 1369615684689989632 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369771719618990121/397c21924c376ef413a29e9bbc97fb49.png?size=32" width="24">八方來財 | 八方來財！大展鴻圖！DGS弦樂式 | [FJV7CnPp96](https://discord.gg/FJV7CnPp96) | 2025-05-08T17:05:19+00:00 | 1369771719618990121 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369920210446061718/871f7d2c40190a015657fd255067ddf0.png?size=32" width="24">老板 | ⭐・老板 \| Discord TAG 😈 | [bVfxeuN3Kh](https://discord.gg/bVfxeuN3Kh) | 2025-05-08T17:05:19+00:00 | 1369920210446061718 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370022771014500405/434af73d5e4a11708403d641c9aca1dc.png?size=32" width="24">𒌐ᐟ | // | [B3vvRUfATb](https://discord.gg/B3vvRUfATb) | 2025-05-08T17:05:19+00:00 | 1370022771014500405 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369740795246018660/1bf76078f92e45f11f5590e9332c5725.png?size=32" width="24">小熊软糖 | kuma | [KrsnC4pVzd](https://discord.gg/KrsnC4pVzd) | 2025-05-08T17:05:19+00:00 | 1369740795246018660 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370018180013096970/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">왕자님 | discord.gg/dsa [ 🩵 왕자님 ] | [YmXGW2G7cx](https://discord.gg/YmXGW2G7cx) | 2025-05-08T17:05:18+00:00 | 1370018180013096970 |
 
 </details>
 
@@ -531,6 +531,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369489477440901202/e3bf9804f050d89b3aac499e2e9247fc.png?size=32" width="24">FOOL | FOOL | [uBZYTqNHNK](https://discord.gg/uBZYTqNHNK) | 1369489477440901202 |
 | <img src="https://cdn.discordapp.com/clan-badges/1135093604218589204/4e377c9abb0be025fec29dd09d1ad01c.png?size=32" width="24">FOX | The Fox Den | [FoxyDen](https://discord.gg/FoxyDen) | 1135093604218589204 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369390406994886756/e64bb06eb6057e007a7bcfffaf4596b9.png?size=32" width="24">FOXY | Fox3000Foxy&#x27;s Studios | [QnUSDtNM3h](https://discord.gg/QnUSDtNM3h) | 1369390406994886756 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369767137517895771/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">FPV | TreeTag | [mxfmYQX7us](https://discord.gg/mxfmYQX7us) | 1369767137517895771 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369409479682297917/3e01ba710c2ec96f81797404cb9b1149.png?size=32" width="24">FR | France TAG | [Tw7UyxSRbB](https://discord.gg/Tw7UyxSRbB) | 1369409479682297917 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369467720608776243/7289a9ef45095ac4c12229473dbe7956.png?size=32" width="24">FROG | Frog | [D6cffeqkgF](https://discord.gg/D6cffeqkgF) | 1369467720608776243 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785973340110898/429d0552c7f84d87c0c3667f07211ce5.png?size=32" width="24">FROG | XP+ : tag FROG | [p9hAMvAPmE](https://discord.gg/p9hAMvAPmE) | 1369785973340110898 |
@@ -562,6 +563,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369759531550376006/a97d4a44d118477cb4b9a6dd289e32fc.png?size=32" width="24">GEN | Gen guild | [r9PXJzntqN](https://discord.gg/r9PXJzntqN) | 1369759531550376006 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369762959127216158/b1a70b12c9fc93280fd0f46b4365019c.png?size=32" width="24">GENZ | Discord Guild Bangladesh | [YTXBmRQ3by](https://discord.gg/YTXBmRQ3by) | 1369762959127216158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341012593479842/ea76d37bcd6f1b0543efcce6c32fe999.png?size=32" width="24">GER | Wasted | [5eBE6Wpsb5](https://discord.gg/5eBE6Wpsb5) | 1369341012593479842 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369756441803493487/79366e8660935912726217b413fcc19b.png?size=32" width="24">GFC | [Guild Tag] German Fast Crimelife | [SJYxk6UMhN](https://discord.gg/SJYxk6UMhN) | 1369756441803493487 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369458428140847215/33396c8e76d1033d05636746172323ae.png" width="24">GFX | GFX /guildgfx | [guildgfx](https://discord.gg/guildgfx) | 1369458428140847215 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369381206457712640/5607047f21b7e25a26c195cc49871278.png?size=32" width="24">GG | Good Game / GG | [36Nf4MzGay](https://discord.gg/36Nf4MzGay) | 1369381206457712640 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369457155509588059/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">GGEZ | GGEZ Game | [GN82GuKptN](https://discord.gg/GN82GuKptN) | 1369457155509588059 |

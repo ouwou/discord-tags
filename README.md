@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369535078853771285/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">ENVY | .gg/yea #ENVY | [26RgKxjTgh](https://discord.gg/26RgKxjTgh) | 2025-05-08T02:32:34+00:00 | 1369535078853771285 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369677350085726260/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">GOON | .gg/yea #GOON | [Dx38uZnQME](https://discord.gg/Dx38uZnQME) | 2025-05-08T02:32:34+00:00 | 1369677350085726260 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369537514028793856/885655109920302254b03aeb071dc4a1.png?size=32" width="24">sigh | .gg/yea #sigh | [8bm2WBTuyN](https://discord.gg/8bm2WBTuyN) | 2025-05-08T02:32:34+00:00 | 1369537514028793856 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369460292177891408/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">xٴٴ | incode | [DMA](https://discord.gg/DMA) | 2025-05-08T02:27:29+00:00 | 1369460292177891408 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780011266998383/4ef966b9bdd3ca7155e184e893314cd6.png?size=32" width="24">FLAV | FlaviBot&#x27;s Testers | [uq2G4Rz64t](https://discord.gg/uq2G4Rz64t) | 2025-05-08T02:22:22+00:00 | 1369780011266998383 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369845385442496642/e753bbfbb76e4bf7529e246e6d650d18.png?size=32" width="24">GUTS | GUTS | [FmjJSdHgbP](https://discord.gg/FmjJSdHgbP) | 2025-05-08T02:22:22+00:00 | 1369845385442496642 |
@@ -354,6 +357,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369406865401839757/2c7aa014ee3599b6b7089ce933971852.png" width="24">EGO | ego | [HbphQFTjpg](https://discord.gg/HbphQFTjpg) | 1369406865401839757 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766679705554964/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">EGO | EGO \| selling guilds $5 | [B44NKhppaQ](https://discord.gg/B44NKhppaQ) | 1369766679705554964 |
 | <img src="https://cdn.discordapp.com/clan-badges/897153084478865438/7f968d34689b032120d7a0f2a3d69b83.png?size=32" width="24">EMH | Emergency Hamburg | [emh](https://discord.gg/emh) | 897153084478865438 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369535078853771285/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">ENVY | .gg/yea #ENVY | [26RgKxjTgh](https://discord.gg/26RgKxjTgh) | 1369535078853771285 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742549421658336/a1a8d7066521a13ede4b94de530e98b5.png?size=32" width="24">EON | Eon Clan | [76EYyWRbSm](https://discord.gg/76EYyWRbSm) | 1369742549421658336 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369682523918958612/0b32e7c19dcf3dc12ce62dc9fc4aff37.png?size=32" width="24">ETH | [ETH] Server Tag | [974JPMp4sg](https://discord.gg/974JPMp4sg) | 1369682523918958612 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369438387718586520/5410c0c04f21555354039fd700661550.png" width="24">ETH | ETH guild tag | [6wq3mFM9vd](https://discord.gg/6wq3mFM9vd) | 1369438387718586520 |
@@ -438,6 +442,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369419942474027058/2ff4e3daede462956125a53c95c8e9e5.png?size=32" width="24">GOON | goon \| .gg/fg  for 30+ free guilds | [FE4tC7GBVZ](https://discord.gg/FE4tC7GBVZ) | 1369419942474027058 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369722977683509340/cdbe0c1312b79cf2c7b0398e37821090.png?size=32" width="24">GOON | /bait (#GOON) | [DM5p5rxrMz](https://discord.gg/DM5p5rxrMz) | 1369722977683509340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765918392975362/2d8bea68b3152b52858942d2bc854cc7.png?size=32" width="24">GOON | .gg/refreshing \| GOON Tag | [MtHxkBjtJE](https://discord.gg/MtHxkBjtJE) | 1369765918392975362 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369677350085726260/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">GOON | .gg/yea #GOON | [Dx38uZnQME](https://discord.gg/Dx38uZnQME) | 1369677350085726260 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369674798975811594/2cd22da80c7ad17728c23b66a2d983a5.png?size=32" width="24">GORE | /g0re | [g0re](https://discord.gg/g0re) | 1369674798975811594 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369295228661403648/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">GOTI | tropa do gotão | [yuri22](https://discord.gg/yuri22) | 1369295228661403648 |
 | <img src="https://cdn.discordapp.com/clan-badges/1351275099982135306/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">GOV | .GOV | [Pn8GJxQQTB](https://discord.gg/Pn8GJxQQTB) | 1351275099982135306 |
@@ -1086,6 +1091,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369738624035192872/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">sex | .gg/slashzone [sex] | [sexguild](https://discord.gg/sexguild) | 1369738624035192872 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369201971084398632/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">shy | shy /rupture | [akqDvTjZ6K](https://discord.gg/akqDvTjZ6K) | 1369201971084398632 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369497812764590180/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">sick | #sick | [SZdxvcsRBt](https://discord.gg/SZdxvcsRBt) | 1369497812764590180 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369537514028793856/885655109920302254b03aeb071dc4a1.png?size=32" width="24">sigh | .gg/yea #sigh | [8bm2WBTuyN](https://discord.gg/8bm2WBTuyN) | 1369537514028793856 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369644092950057021/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">simp | simp&#x27;s world \| tag • giveaways • active | [daHtUubaFx](https://discord.gg/daHtUubaFx) | 1369644092950057021 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369099818508746863/7411658cc77b3849cf13c6d499fd44fe.png?size=32" width="24">sins | sins /backup | [Da8EDajPEd](https://discord.gg/Da8EDajPEd) | 1369099818508746863 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431033644322928/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">ski | .gg/arsonist for entry [SKI] | [BTpPDVS38Z](https://discord.gg/BTpPDVS38Z) | 1369431033644322928 |

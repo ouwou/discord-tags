@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369705309270053046/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">PERF | Tag Perf | [Qugbj5tafZ](https://discord.gg/Qugbj5tafZ) | 2025-05-08T18:22:07+00:00 | 1369705309270053046 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369983648316657706/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">EXDM | exdm is Excidium | [exdm](https://discord.gg/exdm) | 2025-05-08T18:17:02+00:00 | 1369983648316657706 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369772821424771163/9af2eb0bddbbf5119015bdb621cb323e.png?size=32" width="24">SNØ | PV #SNO | [CXgFpbsN6n](https://discord.gg/CXgFpbsN6n) | 2025-05-08T18:17:02+00:00 | 1369772821424771163 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369638769774301265/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">POW | PowerSeeks Esport | [eYA3fmy2qS](https://discord.gg/eYA3fmy2qS) | 2025-05-08T18:11:55+00:00 | 1369638769774301265 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369749283036725309/60aa036ef80f23618ff4e4dfaf12573d.png?size=32" width="24">BDL | Play Games | [jDh6S7dMNq](https://discord.gg/jDh6S7dMNq) | 2025-05-08T17:05:06+00:00 | 1369749283036725309 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369944029718122566/2a4b6215cd6903406b9e7ff62609350f.png?size=32" width="24">ahok | ahok ri 1 | [eqg9Uftdyw](https://discord.gg/eqg9Uftdyw) | 2025-05-08T17:05:06+00:00 | 1369944029718122566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369458068408111104/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">667 | 667 | [WX6gTVZuHH](https://discord.gg/WX6gTVZuHH) | 2025-05-08T17:05:05+00:00 | 1369458068408111104 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369708031511629957/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">4eva | 404 | [TGxmNJbUPr](https://discord.gg/TGxmNJbUPr) | 2025-05-08T17:05:05+00:00 | 1369708031511629957 |
 
 </details>
 
@@ -856,6 +856,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369176789372375142/24d7336500cc006d23285f94195cdce6.png?size=32" width="24">PDE | PlaceDE | [vA7uV7wgHn](https://discord.gg/vA7uV7wgHn) | 1369176789372375142 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369725270352990288/b3490c2252cd8d8b3f1b32c9907dcca2.png?size=32" width="24">PEAK | /chillcafe [PEAK] | [MfHCPB5jwu](https://discord.gg/MfHCPB5jwu) | 1369725270352990288 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369759427103555704/aad56b4d43ab7a9076eb11048feda6ab.png?size=32" width="24">PEAK | #PEAK | [H7XKeNVKc4](https://discord.gg/H7XKeNVKc4) | 1369759427103555704 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369705309270053046/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">PERF | Tag Perf | [Qugbj5tafZ](https://discord.gg/Qugbj5tafZ) | 1369705309270053046 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369541143443800075/d8028e3189542f9cd218c28373bc178a.png?size=32" width="24">PERU | PERU PE CAUSA | [WCBwEGaR8c](https://discord.gg/WCBwEGaR8c) | 1369541143443800075 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369484866655228006/d6fbcc80aece83c9a7a9bc857c894929.png?size=32" width="24">PGT | PGTools Tag | [99xJAvXB6s](https://discord.gg/99xJAvXB6s) | 1369484866655228006 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369603883558637639/8e19962e5b867809510d49cabcdb2667.png?size=32" width="24">PHUB | Central Hub | [qfuxz6wv55](https://discord.gg/qfuxz6wv55) | 1369603883558637639 |
@@ -1279,7 +1280,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369758117780521030/da16cb9c01152296c26016a9b455ddbc.png?size=32" width="24">hoon | hoon | [xSepzBM952](https://discord.gg/xSepzBM952) | 1369758117780521030 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369144804486807552/ec9dfa1f3348d30265b8319e88905073.png?size=32" width="24">hot | hot /backup | [qr4ZPchuNQ](https://discord.gg/qr4ZPchuNQ) | 1369144804486807552 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369492198638485624/8e673ee0586cde58bfba31d460fa9b67.png?size=32" width="24">hot | hot | [SA5Fuy34yZ](https://discord.gg/SA5Fuy34yZ) | 1369492198638485624 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369743751215321108/2fee3b5684e4a57240314bf0c8ff11d0.png" width="24">htnd | hxnted guild | [kjMRW2QpDX](https://discord.gg/kjMRW2QpDX) | 1369743751215321108 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745648781496322/d31d2737dac3cb4a854f363a62750d41.png?size=32" width="24">hulk | hulk | [BBBr9p8Xvd](https://discord.gg/BBBr9p8Xvd) | 1369745648781496322 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369288319703187517/668acd76f4d8a70256d2bc7604870aba.png?size=32" width="24">hurt | hurt | [bdnu96KG7d](https://discord.gg/bdnu96KG7d) | 1369288319703187517 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369432978630905876/0a578ae3e8d98547e228e7ecad794482.png?size=32" width="24">hurt | /hurttag | [hurttag](https://discord.gg/hurttag) | 1369432978630905876 |
@@ -1357,6 +1357,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369742581650690141/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">osu | osu!game \| osu tag | [QJXnYDQFq8](https://discord.gg/QJXnYDQFq8) | 1369742581650690141 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369412908718493737/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">owo | owo | [zPaWYb7V9q](https://discord.gg/zPaWYb7V9q) | 1369412908718493737 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369824535939125269/e6da05ef10eca6a0facdca0c0f855575.png?size=32" width="24">p1h | p1harmony (GUILDTAG) | [yeXa7GBwbt](https://discord.gg/yeXa7GBwbt) | 1369824535939125269 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369743751215321108/3455b2a9101d1e373e96973f22e149b0.png?size=32" width="24">paki | paki guild | [Gcy7Qy9RfZ](https://discord.gg/Gcy7Qy9RfZ) | 1369743751215321108 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369625873711497216/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">paws | .gg/yea #paws | [w3HvwNXkCb](https://discord.gg/w3HvwNXkCb) | 1369625873711497216 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369759384443424839/3f16dc3fac7325741863d7868bfaa5de.png?size=32" width="24">paws | paws | [mKh4vHjNQq](https://discord.gg/mKh4vHjNQq) | 1369759384443424839 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369364878229508156/bcc7a2329c702dc0eb86262aa1f7a740.png?size=32" width="24">paws | @paws | [rtb46naD9E](https://discord.gg/rtb46naD9E) | 1369364878229508156 |

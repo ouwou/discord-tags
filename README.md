@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369597786852560907/b38488f8a9b34c890c310244228bfdf3.png?size=32" width="24">刻々帝 | 刻々帝 Tag \| 𝓩𝓪𝓯𝓴𝓲𝓮𝓵 | [s7vnDzmRW5](https://discord.gg/s7vnDzmRW5) | 2025-05-08T06:46:30+00:00 | 1369597786852560907 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369615399435370547/f4fc4f765584f1c5fa7a467c97703e0e.png?size=32" width="24">氷結傀儡 | 氷結傀儡 (ザドキエル) | [8ASqTy4Hdd](https://discord.gg/8ASqTy4Hdd) | 2025-05-08T06:46:30+00:00 | 1369615399435370547 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369505122824224850/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">𝄞ˑ | /snore guild | [39tpAUkdjg](https://discord.gg/39tpAUkdjg) | 2025-05-08T06:46:29+00:00 | 1369505122824224850 |
 | <img src="https://cdn.discordapp.com/clan-badges/1341726047330238464/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">CAFE | Priority Cafe | [gGrrjkrbRt](https://discord.gg/gGrrjkrbRt) | 2025-05-08T06:41:25+00:00 | 1341726047330238464 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369864696345268398/91eb8aaad40e0cc110812e6a006a8e46.png?size=32" width="24">P5X | P5X \| .gg/p5xhangout | [zF9waBDEF9](https://discord.gg/zF9waBDEF9) | 2025-05-08T06:26:14+00:00 | 1369864696345268398 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742601628028958/ae750844f917a57d05accdcc78102c7e.png?size=32" width="24">𐙚 . | leilleileilleilleil | [S4eJ8w4Wq7](https://discord.gg/S4eJ8w4Wq7) | 2025-05-08T06:26:14+00:00 | 1369742601628028958 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369713544546877484/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">༺༒༻ | ༺༒༻ : /bmx | [AawsAYgahz](https://discord.gg/AawsAYgahz) | 2025-05-08T02:12:04+00:00 | 1369713544546877484 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369773769245327432/ed0d1a4b2e6b95318a78d0a136dc85c6.png?size=32" width="24">STAR | SUPERSTARS \| STAR Tag | [yDDZAySbrj](https://discord.gg/yDDZAySbrj) | 2025-05-08T02:12:04+00:00 | 1369773769245327432 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369609506555957339/f4451d462d1c3b8aa7cae44de4f0533c.png?size=32" width="24">TYLG | Tình yêu là gì? | [tinhyeulagi](https://discord.gg/tinhyeulagi) | 2025-05-08T02:12:04+00:00 | 1369609506555957339 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369738766305984612/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">カワイ | カワイ/sexytag | [GQJdMSJ98v](https://discord.gg/GQJdMSJ98v) | 2025-05-08T02:06:55+00:00 | 1369738766305984612 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369481291539681300/a438ac88e441592a40a6a94ac1b90585.png?size=32" width="24">ex | ex \| .gg/coke .gg/ex | [4QTwRVRdPy](https://discord.gg/4QTwRVRdPy) | 2025-05-08T02:06:54+00:00 | 1369481291539681300 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369846509486608415/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">ex | jail and zoxi fun server! | [v3a7dJyBpe](https://discord.gg/v3a7dJyBpe) | 2025-05-08T02:06:54+00:00 | 1369846509486608415 |
 
 </details>
 
@@ -1416,6 +1416,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369388579767320797/4bca913c9b2106ed777541ec65def38c.png?size=32" width="24">你好 | # pfp vault | [T2fCxh24Tb](https://discord.gg/T2fCxh24Tb) | 1369388579767320797 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369373276987592744/bb6f447245dd4c9243d2aeb61d26154d.png?size=32" width="24">冬弥 | @ toya☕[ 冬弥 ] | [Zpp3XJJsTr](https://discord.gg/Zpp3XJJsTr) | 1369373276987592744 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369448827613876305/2d8bea68b3152b52858942d2bc854cc7.png?size=32" width="24">初星学園 | 初星学園タグサーバー | [J7CZxccw4n](https://discord.gg/J7CZxccw4n) | 1369448827613876305 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369597786852560907/b38488f8a9b34c890c310244228bfdf3.png?size=32" width="24">刻々帝 | 刻々帝 Tag \| 𝓩𝓪𝓯𝓴𝓲𝓮𝓵 | [s7vnDzmRW5](https://discord.gg/s7vnDzmRW5) | 1369597786852560907 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369437828970315827/98a49d289f836d89ce1c2f33407e2ab5.png?size=32" width="24">可爱 | /glamcore&#x27;s guild 可爱 ⟡ | [MjPQZP5kju](https://discord.gg/MjPQZP5kju) | 1369437828970315827 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369103901957296179/2c7aa014ee3599b6b7089ce933971852.png" width="24">娜伊 | 娜伊 /rupture | [44A8JJBQDz](https://discord.gg/44A8JJBQDz) | 1369103901957296179 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369681888381243493/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">宅圈 | 宅圈 ✖ 狸貓社群 | [2W7sCx8wmr](https://discord.gg/2W7sCx8wmr) | 1369681888381243493 |
@@ -1437,6 +1438,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369307026391302184/772743c05cbbbdd14e6db7de20019004.png?size=32" width="24">東方 | [東方] Touhou \| dsc.gg/guild-tag | [H3NYHsDqZS](https://discord.gg/H3NYHsDqZS) | 1369307026391302184 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719218886676480/7c601949ded32a50a2a04730a0f2606c.png?size=32" width="24">榎並杏紗 | EnamiAsa | [nj5DrB6uxw](https://discord.gg/nj5DrB6uxw) | 1369719218886676480 |
 | <img src="https://cdn.discordapp.com/clan-badges/1080530564676845630/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">歐皇 | 姜棠の反熬夜教室 | [jiangtarng](https://discord.gg/jiangtarng) | 1080530564676845630 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369615399435370547/f4fc4f765584f1c5fa7a467c97703e0e.png?size=32" width="24">氷結傀儡 | 氷結傀儡 (ザドキエル) | [8ASqTy4Hdd](https://discord.gg/8ASqTy4Hdd) | 1369615399435370547 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369564982567501915/f150d7d2d1b681f52eba4b7e23cdf565.png?size=32" width="24">淫夢厨 | 淫夢厨#guild tag server | [g8Rgwxcq8u](https://discord.gg/g8Rgwxcq8u) | 1369564982567501915 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369538167291777045/9d9a3041a1166f03c8c0e05c00930db5.png?size=32" width="24">爪YŦH | 爪YŦHØS | [mythoss](https://discord.gg/mythoss) | 1369538167291777045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369487817612202125/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">猫ANM | neko &amp; anime | [55Kg2xdj7D](https://discord.gg/55Kg2xdj7D) | 1369487817612202125 |
@@ -1543,6 +1545,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369497759002132580/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">𐱅𐰇𐰼𐰚 | 𐱅𐰇𐰼𐰚 🇹🇷 | [bYTyrtcm45](https://discord.gg/bYTyrtcm45) | 1369497759002132580 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637487064121384/1331e1a773facc295e93bfebfbfbfd84.png?size=32" width="24">𒀱𒀱 | 煙 - 𒀱𒀱 | [NhgxRGrM5w](https://discord.gg/NhgxRGrM5w) | 1369637487064121384 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369717422977847426/75a82fdb9b8b5d8f4c0d367fd8870a91.png?size=32" width="24">𓏲𝄢 | 𓏲𝄢 | [c6ATwCMTR8](https://discord.gg/c6ATwCMTR8) | 1369717422977847426 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369505122824224850/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">𝄞ˑ | /snore guild | [39tpAUkdjg](https://discord.gg/39tpAUkdjg) | 1369505122824224850 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341359466741800/59c0f381f2399f5317d14ebcda909857.png?size=32" width="24">𝐼mu | 𝐼𝓂𝓊 place | [NZ3gw767DT](https://discord.gg/NZ3gw767DT) | 1369341359466741800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369214691280294090/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">𝑶ₓ | 0x - Guild | [CUVAY2JKRJ](https://discord.gg/CUVAY2JKRJ) | 1369214691280294090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369385550720667761/0b5ecfdff2d46f3584e3d0336cf7d4c6.png?size=32" width="24">𝜗𝜚 | 苺𝜗𝜚 | [R3wzFj3HK9](https://discord.gg/R3wzFj3HK9) | 1369385550720667761 |

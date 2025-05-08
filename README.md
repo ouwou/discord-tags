@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/909435648170160229/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">RYD | Return YouTube Dislike | [tTxApnVbWN](https://discord.gg/tTxApnVbWN) | 2025-05-08T08:33:09+00:00 | 909435648170160229 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369635074395344998/e7d159ed722b033483c0153b5f3fc54f.png?size=32" width="24">֜猫 | [猫] Neko \| dsc.gg/neko-tag | [cCKK3zZDzr](https://discord.gg/cCKK3zZDzr) | 2025-05-08T08:23:01+00:00 | 1369635074395344998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766893757534320/71ad19a2603191a0dc56568625dabb50.png?size=32" width="24">DEX | N.W.A SQUAD | [CaQWQqEfhJ](https://discord.gg/CaQWQqEfhJ) | 2025-05-08T08:17:57+00:00 | 1369766893757534320 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369704844348358777/d229729502bcf454fa5a905f9173737b.png?size=32" width="24">glub | ChumLand | [tFZ3fzysYF](https://discord.gg/tFZ3fzysYF) | 2025-05-08T08:17:57+00:00 | 1369704844348358777 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/643089441463992340/f7c7cf187431d14eee43d8b3e67bd966.png?size=32" width="24">GDC | Geometry Dash Creators | [gdcreators](https://discord.gg/gdcreators) | 2025-05-08T03:03:11+00:00 | 643089441463992340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779130937376789/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">CT | Corridos Tumbados | [GXRKsmrz46](https://discord.gg/GXRKsmrz46) | 2025-05-08T03:03:10+00:00 | 1369779130937376789 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369860628386414673/14053a0be93c38232841c3b4c692190a.png?size=32" width="24">MOMO | sillygoobermomo | [AHzCEqGYeV](https://discord.gg/AHzCEqGYeV) | 2025-05-08T02:58:05+00:00 | 1369860628386414673 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369550957515636737/ab2f59830f17fa961704ba08e7889256.png?size=32" width="24">ZB1 | ZEROBASEONE - ZB1 TAG 🌈 | [aw8XwaaDKc](https://discord.gg/aw8XwaaDKc) | 2025-05-08T02:58:05+00:00 | 1369550957515636737 |
 
 </details>
 
@@ -806,6 +806,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369315940352921672/54d05843d1be923b53482c8ecfa01b3a.png?size=32" width="24">RTX | ✨ Official Tag RTX | [mYduhTmRhs](https://discord.gg/mYduhTmRhs) | 1369315940352921672 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369421636369121280/f5010d28f36408e124f8f0fb6d2aacfb.png?size=32" width="24">RUNE | /Rune | [Jmn66D7P53](https://discord.gg/Jmn66D7P53) | 1369421636369121280 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369057443702640750/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">RUST | RustCentral | [kW2WzR63hF](https://discord.gg/kW2WzR63hF) | 1369057443702640750 |
+| <img src="https://cdn.discordapp.com/clan-badges/909435648170160229/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">RYD | Return YouTube Dislike | [tTxApnVbWN](https://discord.gg/tTxApnVbWN) | 909435648170160229 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740216407031899/16e733233bff2e4a4296d3be40ac8de3.png?size=32" width="24">RYO | RYO TAG | [sHBPbAf672](https://discord.gg/sHBPbAf672) | 1369740216407031899 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369540391090520104/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">RYO | Join Yeecord → .gg/yeecord | [pJzAktk8PW](https://discord.gg/pJzAktk8PW) | 1369540391090520104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369501389289558137/e9844f972f5ceef22a320a0bd61c08c9.png?size=32" width="24">RYOU | tag | [sukPZ4w3qr](https://discord.gg/sukPZ4w3qr) | 1369501389289558137 |

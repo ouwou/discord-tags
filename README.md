@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369708893092974672/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">ONCE | blah | [VCf8UYeT6J](https://discord.gg/VCf8UYeT6J) | 2025-05-08T08:12:51+00:00 | 1369708893092974672 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369734929973510165/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">ボア | /bore | [pN7PEMSFw3](https://discord.gg/pN7PEMSFw3) | 2025-05-08T08:12:51+00:00 | 1369734929973510165 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369724305843159142/aceeb98d191311084909a63d180cf6fb.png?size=32" width="24">MIKU | mikuland | [65Vfj8h5dU](https://discord.gg/65Vfj8h5dU) | 2025-05-08T08:12:50+00:00 | 1369724305843159142 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614764027805751/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">SKID | Tag Server | [UkvmK8zhYE](https://discord.gg/UkvmK8zhYE) | 2025-05-08T08:07:45+00:00 | 1369614764027805751 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369781897454161962/5607047f21b7e25a26c195cc49871278.png?size=32" width="24">SPR | SPR Tag | [EHaGPwuccv](https://discord.gg/EHaGPwuccv) | 2025-05-08T08:07:45+00:00 | 1369781897454161962 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369793860196110387/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">YAJU | aa | [Y8PB2X3yNt](https://discord.gg/Y8PB2X3yNt) | 2025-05-08T08:07:45+00:00 | 1369793860196110387 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369586867246206996/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">xo | .gg/yea #xo | [R9gdjCRnWs](https://discord.gg/R9gdjCRnWs) | 2025-05-08T02:52:59+00:00 | 1369586867246206996 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369555882190442587/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">mwah | .gg/yea #mwah | [3n7Nf4qsQw](https://discord.gg/3n7Nf4qsQw) | 2025-05-08T02:52:58+00:00 | 1369555882190442587 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369625873711497216/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">paws | .gg/yea #paws | [w3HvwNXkCb](https://discord.gg/w3HvwNXkCb) | 2025-05-08T02:52:58+00:00 | 1369625873711497216 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369431068821815457/66e6116fb71622d52bed149a17914270.png?size=32" width="24">TAG | /tag | [5yH3nsCpFp](https://discord.gg/5yH3nsCpFp) | 2025-05-08T02:52:58+00:00 | 1369431068821815457 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369436322963652719/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">DTF | District FA \| Guild🗽 | [4uugjZeD9J](https://discord.gg/4uugjZeD9J) | 2025-05-08T02:52:57+00:00 | 1369436322963652719 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369850060031918101/78b1ebb6b97565376cb5345a0631e362.png?size=32" width="24">FIRE | [Fireside 30+] FIRE Guild | [jtyh2tnDQ2](https://discord.gg/jtyh2tnDQ2) | 2025-05-08T02:52:57+00:00 | 1369850060031918101 |
 
 </details>
 
@@ -659,6 +659,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369047464073498776/d84985dab45c3cdcf569e45b89851750.png?size=32" width="24">MIKU | MIKU TAG・CHAT・SOCIAL | [mikutag](https://discord.gg/mikutag) | 1369047464073498776 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369092161970110484/b1634260c0600006319f566a601bacad.png?size=32" width="24">MIKU | Miku&#x27;s Cafe Tag Zone | [K8CTSHMbxU](https://discord.gg/K8CTSHMbxU) | 1369092161970110484 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358266850231975956/775ece4d66c8234c8893cb80dcef79da.png?size=32" width="24">MIKU | Miku World | [VfEgXw6xSy](https://discord.gg/VfEgXw6xSy) | 1358266850231975956 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369724305843159142/aceeb98d191311084909a63d180cf6fb.png?size=32" width="24">MIKU | mikuland | [65Vfj8h5dU](https://discord.gg/65Vfj8h5dU) | 1369724305843159142 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369657094621499493/8388948b433aa0fa792a29b1f286df5c.png?size=32" width="24">MING | MING | [URvaTh9eAA](https://discord.gg/URvaTh9eAA) | 1369657094621499493 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369035689727098991/7f968d34689b032120d7a0f2a3d69b83.png?size=32" width="24">MINR | .gg/miner #MINERLOYAL | [FJ8835tZmc](https://discord.gg/FJ8835tZmc) | 1369035689727098991 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369309487025881098/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">MIWA | MIWA \| dsc.gg/miwa-tag | [NGQ7PSXr9U](https://discord.gg/NGQ7PSXr9U) | 1369309487025881098 |
@@ -728,6 +729,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369750825660055675/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">OHIO | Ohio Tag | [rBWKSPvgDw](https://discord.gg/rBWKSPvgDw) | 1369750825660055675 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780352062586951/176416ced6db0ec5ff8014ce2be3297f.png?size=32" width="24">OM | OM | [tje54ntzU6](https://discord.gg/tje54ntzU6) | 1369780352062586951 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369439680612929577/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">OM47 | Omerta 47 | [VPfDKWgyRe](https://discord.gg/VPfDKWgyRe) | 1369439680612929577 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369708893092974672/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">ONCE | blah | [VCf8UYeT6J](https://discord.gg/VCf8UYeT6J) | 1369708893092974672 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369291647518769202/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">OPAI | minecraft client name tags collection | [b8AYpQKCnM](https://discord.gg/b8AYpQKCnM) | 1369291647518769202 |
 | <img src="https://cdn.discordapp.com/clan-badges/521820648415428609/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">OPO | World of Elsword | [wCNuPFE](https://discord.gg/wCNuPFE) | 521820648415428609 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369699977525203114/1935451f265a42d57241c7bcc9555abe.png?size=32" width="24">OPPS | OPPS \| .gg/Trenchkid | [n7VMzr9aUq](https://discord.gg/n7VMzr9aUq) | 1369699977525203114 |
@@ -1431,6 +1433,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369416383372329100/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">グレン | Guren | [AXpNRZ8KDr](https://discord.gg/AXpNRZ8KDr) | 1369416383372329100 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369787935024611448/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">ゲメき | Croc | [Tdgtq96evs](https://discord.gg/Tdgtq96evs) | 1369787935024611448 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369598814977261588/21129b437afdc5d4c56b399d9d86e25d.png?size=32" width="24">ツユ | It&#x27;s Raining After All | [bNH6TdF7Hm](https://discord.gg/bNH6TdF7Hm) | 1369598814977261588 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369734929973510165/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">ボア | /bore | [pN7PEMSFw3](https://discord.gg/pN7PEMSFw3) | 1369734929973510165 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369449699932897402/dd5fbbf99298eadf5afb1c8e0121b28f.png?size=32" width="24">マホロア | magolor! [マホロア] | [gpfpkZuCpS](https://discord.gg/gpfpkZuCpS) | 1369449699932897402 |
 | <img src="https://cdn.discordapp.com/clan-badges/766797046476439552/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">メタ | Lonely | [TYNNFNQf8n](https://discord.gg/TYNNFNQf8n) | 766797046476439552 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369319894197338112/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ロリコン | ロリコンファンズ | [vXJr38jGKe](https://discord.gg/vXJr38jGKe) | 1369319894197338112 |

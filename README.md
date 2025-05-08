@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369369995947151360/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">GRIM | .gg/envvy &#x27; #GRIM | [M8PrNMCQV7](https://discord.gg/M8PrNMCQV7) | 2025-05-08T07:37:16+00:00 | 1369369995947151360 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369742601682554941/ba4666ec684b28253c036851b97de8a9.png?size=32" width="24">ઇଓ | .gg/winter | [UzbdfRGq](https://discord.gg/UzbdfRGq) | 2025-05-08T07:37:16+00:00 | 1369742601682554941 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369768758146633798/1897636167e0b09146fb12ce58e63294.png?size=32" width="24">lore | /lured [ lore ] | [Zm4aq7cPPr](https://discord.gg/Zm4aq7cPPr) | 2025-05-08T07:32:11+00:00 | 1369768758146633798 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369461530764115998/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">규진୨ৎ | 장규진 Fanclub | [B3UnWz74Aq](https://discord.gg/B3UnWz74Aq) | 2025-05-08T07:32:11+00:00 | 1369461530764115998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369781683707973745/fa3033cd0045a5cd34578fa4b9c69d8b.png?size=32" width="24">IMPX | ImperiumX Community | [hyfSa7wR65](https://discord.gg/hyfSa7wR65) | 2025-05-08T07:32:10+00:00 | 1369781683707973745 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1120401581947494452/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">VLMP | 📋 \| VLMP SMP [ SEASON 2 ] | [5cjYKcgbSZ](https://discord.gg/5cjYKcgbSZ) | 2025-05-08T02:42:45+00:00 | 1120401581947494452 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785545919561839/950aeaf6df9f76c04fc86d1f7ab8f8aa.png?size=32" width="24">mad | #mad \| .gg/slave | [euTfeCNd8E](https://discord.gg/euTfeCNd8E) | 2025-05-08T02:42:44+00:00 | 1369785545919561839 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369418194225463358/cc9c1fa683ece05ae7d784257ebfd9e1.png?size=32" width="24">gf | girlfriend 𓂃 ♡ /naoi | [6RWZcEWWgJ](https://discord.gg/6RWZcEWWgJ) | 2025-05-08T02:37:40+00:00 | 1369418194225463358 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369757045896511598/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&lt;3 | Inflicted&#x27;s Lounge \| &lt;3 | [zRdtsMMbct](https://discord.gg/zRdtsMMbct) | 2025-05-08T02:37:39+00:00 | 1369757045896511598 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369830083354824825/526c19ecb2c60d87bc4a0458ea5643dc.png?size=32" width="24">ame | garden of sweet delights 𖧷 ˚࿔ ‧ ₊˚ | [xZa7wAeXc4](https://discord.gg/xZa7wAeXc4) | 2025-05-08T02:37:39+00:00 | 1369830083354824825 |
 
 </details>
 
@@ -515,6 +515,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369295228661403648/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">GOTI | tropa do gotão | [yuri22](https://discord.gg/yuri22) | 1369295228661403648 |
 | <img src="https://cdn.discordapp.com/clan-badges/1351275099982135306/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">GOV | .GOV | [Pn8GJxQQTB](https://discord.gg/Pn8GJxQQTB) | 1351275099982135306 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369489050771394660/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">GRIM | GRIM | [WRxAVw8ATP](https://discord.gg/WRxAVw8ATP) | 1369489050771394660 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369369995947151360/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">GRIM | .gg/envvy &#x27; #GRIM | [M8PrNMCQV7](https://discord.gg/M8PrNMCQV7) | 1369369995947151360 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369727463269072947/e929e1c0111f2acf104ba53aefc5ee44.png?size=32" width="24">GRRR | `✰ | [TD8xzKKPT4](https://discord.gg/TD8xzKKPT4) | 1369727463269072947 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369704688362196992/cbc8765dbaa3acebe39059b5a02fb40b.png?size=32" width="24">GTA6 | GTA 6 | [dcWsgkGrUz](https://discord.gg/dcWsgkGrUz) | 1369704688362196992 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369437835920146432/177596f6288d06c53d9057d948d40da2.png?size=32" width="24">GTA6 | GTA 6 \| OFFICIAL GUILD | [JBTWhapYCK](https://discord.gg/JBTWhapYCK) | 1369437835920146432 |
@@ -1343,6 +1344,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369305531612790916/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">भारत | भारत  tag - gg/india | [indiaa](https://discord.gg/indiaa) | 1369305531612790916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754311361302589/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ৎ? | # ৎ? \| .gg/slave | [sSskU2suu3](https://discord.gg/sSskU2suu3) | 1369754311361302589 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369424772848685056/0c038eee220510ce1eda9f3a6d219d43.png?size=32" width="24">ਏਓ | ਏਓ \| .gg/fg  for 30+ free guilds | [F9M2urnuvf](https://discord.gg/F9M2urnuvf) | 1369424772848685056 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369742601682554941/ba4666ec684b28253c036851b97de8a9.png?size=32" width="24">ઇଓ | .gg/winter | [UzbdfRGq](https://discord.gg/UzbdfRGq) | 1369742601682554941 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369229388679348316/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">୧‧₊ | ୧‧₊ Tag | [faVHdsJ89Q](https://discord.gg/faVHdsJ89Q) | 1369229388679348316 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615449519689810/27ba63ab9e578612d2ce754f4bb1fca1.png?size=32" width="24">୧‧₊˚ | i eat you 🤍୧‧₊˚ | [ZaXw7ESYS7](https://discord.gg/ZaXw7ESYS7) | 1369615449519689810 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369385655343251617/fabf2288eac22cb557c0928330651218.png?size=32" width="24">୨ৎ | ୨ৎ #Tag /eri | [bSwGmUzJt6](https://discord.gg/bSwGmUzJt6) | 1369385655343251617 |

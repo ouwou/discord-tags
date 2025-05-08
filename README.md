@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369573005398773790/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">LOML | LOML tag \| /loml | [6ArhMS3aGS](https://discord.gg/6ArhMS3aGS) | 2025-05-08T06:10:59+00:00 | 1369573005398773790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369552429493784627/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">DLVN | Dylan Guild Tag | [yDe2NwYmfb](https://discord.gg/yDe2NwYmfb) | 2025-05-08T06:05:54+00:00 | 1369552429493784627 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716369624662138/28f60b50b40b7d48b9905838609f298f.png?size=32" width="24">ꈍᴗꈍ | ♡♡﹒Mini /daisies | [Qf5YgHGy69](https://discord.gg/Qf5YgHGy69) | 2025-05-08T06:00:50+00:00 | 1369716369624662138 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369721237621964800/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">DD0S | DD0S [guild] | [CXjNgcHDB3](https://discord.gg/CXjNgcHDB3) | 2025-05-08T05:55:45+00:00 | 1369721237621964800 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369741891741941760/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">٧٨٧٨ | ٧٨٧٨ tag  \| #tokyoo | [HbqPVKVxUp](https://discord.gg/HbqPVKVxUp) | 2025-05-08T02:01:47+00:00 | 1369741891741941760 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369771174946537522/af4e65cc91665837707a40e35513926c.png?size=32" width="24">KSA | Road | [road1](https://discord.gg/road1) | 2025-05-08T02:01:47+00:00 | 1369771174946537522 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369691398382551090/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">ฅᨐฅ | $$$$ | [RmmdtX43sP](https://discord.gg/RmmdtX43sP) | 2025-05-08T01:56:41+00:00 | 1369691398382551090 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369840437707411566/bdfbbb5d8940aaab1d3b3fba13747af7.png?size=32" width="24">KPOP | K-POP | [rBA3AZTNcM](https://discord.gg/rBA3AZTNcM) | 2025-05-08T01:51:37+00:00 | 1369840437707411566 |
 
 </details>
 
@@ -611,6 +611,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369212914967515146/08778bfc800e50707543540f0c167607.png?size=32" width="24">LIFE | LIFE#Tag | [8CtPQG5Spj](https://discord.gg/8CtPQG5Spj) | 1369212914967515146 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369729312437309531/b0e82a77f53b8203246df9727faa53f5.png?size=32" width="24">LOAN | new guild server\\ | [2KdQf3XbG9](https://discord.gg/2KdQf3XbG9) | 1369729312437309531 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369440025678315520/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">LOL | wolf lol | [rBXrMgeM57](https://discord.gg/rBXrMgeM57) | 1369440025678315520 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369573005398773790/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">LOML | LOML tag \| /loml | [6ArhMS3aGS](https://discord.gg/6ArhMS3aGS) | 1369573005398773790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369422992676880424/d33eed936db40acf5f7fa8bebe1c258d.png?size=32" width="24">LOOP | Loop&#x27;d | [TWHsfJmxYX](https://discord.gg/TWHsfJmxYX) | 1369422992676880424 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369104720924512346/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">LOVE | Love Tag | [7x4QSpPh8f](https://discord.gg/7x4QSpPh8f) | 1369104720924512346 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369358000850210836/2deb3565d3d35c6cf688853749384cb7.png?size=32" width="24">LOVE | love \| .gg/fg  for 30+ free guilds | [ApF3Ah8rfd](https://discord.gg/ApF3Ah8rfd) | 1369358000850210836 |

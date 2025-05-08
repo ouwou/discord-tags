@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369269249058672730/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">ƒ5ve | 𝙛5𝙫𝙚 | [V6VZQdAwwB](https://discord.gg/V6VZQdAwwB) | 2025-05-08T06:16:04+00:00 | 1369269249058672730 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369573005398773790/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">LOML | LOML tag \| /loml | [6ArhMS3aGS](https://discord.gg/6ArhMS3aGS) | 2025-05-08T06:10:59+00:00 | 1369573005398773790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369552429493784627/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">DLVN | Dylan Guild Tag | [yDe2NwYmfb](https://discord.gg/yDe2NwYmfb) | 2025-05-08T06:05:54+00:00 | 1369552429493784627 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716369624662138/28f60b50b40b7d48b9905838609f298f.png?size=32" width="24">ꈍᴗꈍ | ♡♡﹒Mini /daisies | [Qf5YgHGy69](https://discord.gg/Qf5YgHGy69) | 2025-05-08T06:00:50+00:00 | 1369716369624662138 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369429267556990976/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">: ) | : ) #Tag | [3dPxVsVVvB](https://discord.gg/3dPxVsVVvB) | 2025-05-08T02:01:47+00:00 | 1369429267556990976 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741891741941760/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">٧٨٧٨ | ٧٨٧٨ tag  \| #tokyoo | [HbqPVKVxUp](https://discord.gg/HbqPVKVxUp) | 2025-05-08T02:01:47+00:00 | 1369741891741941760 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369771174946537522/af4e65cc91665837707a40e35513926c.png?size=32" width="24">KSA | Road | [road1](https://discord.gg/road1) | 2025-05-08T02:01:47+00:00 | 1369771174946537522 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369691398382551090/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">ฅᨐฅ | $$$$ | [RmmdtX43sP](https://discord.gg/RmmdtX43sP) | 2025-05-08T01:56:41+00:00 | 1369691398382551090 |
 
 </details>
 
@@ -1275,6 +1275,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369719952512385054/788a69567671fb4d110432beeada67b6.png?size=32" width="24">İLAH | İ L A H | [ilah](https://discord.gg/ilah) | 1369719952512385054 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765834612015296/3dd020f70505a8d3da5b33592f130f57.png?size=32" width="24">ƈum | Cum Lunar Comm | [EYKTWTAhtx](https://discord.gg/EYKTWTAhtx) | 1369765834612015296 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369566677036961802/b2c0d59dd264670cfe5aff8b0cce091d.png?size=32" width="24">ƈųɱ | cum .gg/guildplug | [d35ke46yGt](https://discord.gg/d35ke46yGt) | 1369566677036961802 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369269249058672730/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">ƒ5ve | 𝙛5𝙫𝙚 | [V6VZQdAwwB](https://discord.gg/V6VZQdAwwB) | 1369269249058672730 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369746057163964463/79dae93b4acc456cc8aaf6ed2accc540.png?size=32" width="24">ɴᴅᴀ | #Nda | [tpY7KJQUfg](https://discord.gg/tpY7KJQUfg) | 1369746057163964463 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369420687395000441/2bd24520cd2529dd83a928cea96d9614.png?size=32" width="24">ʚïɞ | ʚïɞ \| .gg/butterfly | [MXg2ZnY7tU](https://discord.gg/MXg2ZnY7tU) | 1369420687395000441 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369455251895357481/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ʚɞ | .gg/ #ʚɞ | [6MgxcCFzPc](https://discord.gg/6MgxcCFzPc) | 1369455251895357481 |

@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369680377450598560/b78d847969699d48fb873fccfa6c400a.png?size=32" width="24">𐙚lm | lalique town #tag | [ANeaNmv5dp](https://discord.gg/ANeaNmv5dp) | 2025-05-08T16:48:36+00:00 | 1369680377450598560 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370013098945286215/159909e3a7ec67dbc98fbf67fa78f00d.png?size=32" width="24">XV | Private Party | [WWgZMmBqWF](https://discord.gg/WWgZMmBqWF) | 2025-05-08T16:48:35+00:00 | 1370013098945286215 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369672831125815336/de8656b2e6c0f826ebe803d1e465d168.png?size=32" width="24">SHU | SHU GOD TIER | [dgY6ZN5nNv](https://discord.gg/dgY6ZN5nNv) | 2025-05-08T16:43:30+00:00 | 1369672831125815336 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369688202025369710/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">헤으응 | .gg/subcommunity 헤으응 | [2yqkP9H5We](https://discord.gg/2yqkP9H5We) | 2025-05-08T16:43:30+00:00 | 1369688202025369710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370038563151810560/7dab94a4e61ea6cba013e279fa96a5dd.png?size=32" width="24">RNDY | Randy | [Aw4JzPSutf](https://discord.gg/Aw4JzPSutf) | 2025-05-08T16:33:21+00:00 | 1370038563151810560 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369745032591970384/7397ff1add4cac10b14f62f4308a54f1.png?size=32" width="24">YE | YE #GUILD | [es6vn4ym2j](https://discord.gg/es6vn4ym2j) | 2025-05-08T15:16:11+00:00 | 1369745032591970384 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369920997083451445/e2039edcb2c307d7675c168f1b48af27.png?size=32" width="24">&gt;&lt; | &gt;&lt; /pxguild | [E49EXKKh5b](https://discord.gg/E49EXKKh5b) | 2025-05-08T15:16:11+00:00 | 1369920997083451445 |
 | <img src="https://cdn.discordapp.com/clan-badges/1118562379882577960/3135ff11e6e2f558840b4cab1df4c34e.png?size=32" width="24">DOG | # DOGㅣfree tag serverㅣkorea | [jCgSB6gh86](https://discord.gg/jCgSB6gh86) | 2025-05-08T15:16:10+00:00 | 1118562379882577960 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369754086538350734/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">PAID | #PAID \| /draxonshopp | [vA7CJ9v5dv](https://discord.gg/vA7CJ9v5dv) | 2025-05-08T15:16:10+00:00 | 1369754086538350734 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369644891273171065/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">中華製品 | チャイナタウン | [3hBfj3ETP6](https://discord.gg/3hBfj3ETP6) | 2025-05-08T15:16:07+00:00 | 1369644891273171065 |
 
 </details>
 
@@ -1074,6 +1074,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369785018637091087/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">XMR | [XMR] Server Tag - .gg/xxnx | [VGV4UNkKEs](https://discord.gg/VGV4UNkKEs) | 1369785018637091087 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369563644916137994/6d851d357a99039d400bb64f636513c1.png?size=32" width="24">XOXO | X O X O | [x0x0](https://discord.gg/x0x0) | 1369563644916137994 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369370382175436950/c90aaed01f3cd5a65a4cc3a65b510fe0.png?size=32" width="24">XTRM | XTR3M | [KsnWMXMJNe](https://discord.gg/KsnWMXMJNe) | 1369370382175436950 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370013098945286215/159909e3a7ec67dbc98fbf67fa78f00d.png?size=32" width="24">XV | Private Party | [WWgZMmBqWF](https://discord.gg/WWgZMmBqWF) | 1370013098945286215 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369811620108177510/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">XVII | SIN | [nrzr9V3Hcj](https://discord.gg/nrzr9V3Hcj) | 1369811620108177510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369776822417621092/82e07254aa476f42f2133c20d28fc6da.png?size=32" width="24">X\_39 | X\_39 | [JVacN9nAaP](https://discord.gg/JVacN9nAaP) | 1369776822417621092 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369271820058103910/70b4a0b96a668af3255865fe3ad2e151.png?size=32" width="24">X\_X | xricso | [5Vsfvk656J](https://discord.gg/5Vsfvk656J) | 1369271820058103910 |
@@ -1802,6 +1803,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369742250552201328/5e57f92c40e5f801a5dde43023ac546f.png?size=32" width="24">ｓｉｍｐ | 🍒 SIMP COMMUNITY 😉 | [mcsNbjz3j8](https://discord.gg/mcsNbjz3j8) | 1369742250552201328 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369816934329356349/b5654f4351444cde895f0405e7e96c51.png?size=32" width="24">ｚａｙｙ | ×⸸× | [23vwhBdcqg](https://discord.gg/23vwhBdcqg) | 1369816934329356349 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742601628028958/ae750844f917a57d05accdcc78102c7e.png?size=32" width="24">𐙚 . | 𐙚 . | [S4eJ8w4Wq7](https://discord.gg/S4eJ8w4Wq7) | 1369742601628028958 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369680377450598560/b78d847969699d48fb873fccfa6c400a.png?size=32" width="24">𐙚lm | lalique town #tag | [ANeaNmv5dp](https://discord.gg/ANeaNmv5dp) | 1369680377450598560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778754007863357/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">𐤲 . | ♱  Holy  ♱ | [jGCQmf6P3Y](https://discord.gg/jGCQmf6P3Y) | 1369778754007863357 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369497759002132580/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">𐱅𐰇𐰼𐰚 | 𐱅𐰇𐰼𐰚 🇹🇷 | [bYTyrtcm45](https://discord.gg/bYTyrtcm45) | 1369497759002132580 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637487064121384/1331e1a773facc295e93bfebfbfbfd84.png?size=32" width="24">𒀱𒀱 | 𒀱𒀱 | [NhgxRGrM5w](https://discord.gg/NhgxRGrM5w) | 1369637487064121384 |

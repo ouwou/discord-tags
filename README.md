@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369711054430670960/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">NASA | GUILD NASA ! | [xguilds](https://discord.gg/xguilds) | 2025-05-08T03:28:34+00:00 | 1369711054430670960 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369717422977847426/75a82fdb9b8b5d8f4c0d367fd8870a91.png?size=32" width="24">𓏲𝄢 | 𓏲𝄢 | [c6ATwCMTR8](https://discord.gg/c6ATwCMTR8) | 2025-05-08T03:28:34+00:00 | 1369717422977847426 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369867912436908073/d84985dab45c3cdcf569e45b89851750.png?size=32" width="24">۟۟ | ! SELLING GUILDS WITH TAG (cheap) | [9NXFJmdqT3](https://discord.gg/9NXFJmdqT3) | 2025-05-08T03:28:33+00:00 | 1369867912436908073 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369824535939125269/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">︻芫═一 | lol | [yeXa7GBwbt](https://discord.gg/yeXa7GBwbt) | 2025-05-08T03:18:26+00:00 | 1369824535939125269 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369817091175219322/80e49bbcd08c608a6f49671e2d0828da.png?size=32" width="24">ＰＨＲꪜ | 𝙋𝙃𝙍-𝙍𝙋 𝙂𝙪𝙞𝙡𝙙 𝙏𝙖𝙜 𝙎𝙚𝙧𝙫𝙚𝙧 | [d4DEvSrrBH](https://discord.gg/d4DEvSrrBH) | 2025-05-08T03:18:26+00:00 | 1369817091175219322 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369390089821618176/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">Vice | Vicee | [cquADpHCUj](https://discord.gg/cquADpHCUj) | 2025-05-08T03:18:26+00:00 | 1369390089821618176 |
@@ -102,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369699977525203114/1935451f265a42d57241c7bcc9555abe.png?size=32" width="24">OPPS | OPPS \| .gg/Trenchkid | [n7VMzr9aUq](https://discord.gg/n7VMzr9aUq) | 2025-05-08T01:01:35+00:00 | 1369699977525203114 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369355939333013546/d5f1d03a2e4d13d568a35169eca064e3.png?size=32" width="24">こおり | ily | [wmEdrTQgem](https://discord.gg/wmEdrTQgem) | 2025-05-08T01:01:35+00:00 | 1369355939333013546 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369736569463771226/1add29c027862e923a2d3f9042120bdd.png" width="24">LUA | LUA | [reversing](https://discord.gg/reversing) | 2025-05-08T01:01:34+00:00 | 1369736569463771226 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369769404769763328/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">1989 | .gg/speaknow | [f6jkC2WvhN](https://discord.gg/f6jkC2WvhN) | 2025-05-08T01:01:34+00:00 | 1369769404769763328 |
 
 </details>
 
@@ -667,6 +669,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369504976036167740/7093a03abdefe168830752130a3a474f.png" width="24">N&#x27;DA | N&#x27;DA #GUILD | [cK7nauPdfB](https://discord.gg/cK7nauPdfB) | 1369504976036167740 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369520790827175986/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">N25 | nightcord、［N25］ | [43Z2kBae9y](https://discord.gg/43Z2kBae9y) | 1369520790827175986 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369622622949609522/ad842b5ea717cde056d0093cb9e90d1d.png?size=32" width="24">N4ZI | New Guild Name | [tqnPvHknmR](https://discord.gg/tqnPvHknmR) | 1369622622949609522 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369711054430670960/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">NASA | GUILD NASA ! | [xguilds](https://discord.gg/xguilds) | 1369711054430670960 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369694804413517865/ba4666ec684b28253c036851b97de8a9.png?size=32" width="24">NCT | nct \| .gg/doyoung | [zJru9Z6DTS](https://discord.gg/zJru9Z6DTS) | 1369694804413517865 |
 | <img src="https://cdn.discordapp.com/clan-badges/885430702491987968/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">NEKO | neko sanctuary v2 | [gPt4PXEP8K](https://discord.gg/gPt4PXEP8K) | 885430702491987968 |
 | <img src="https://cdn.discordapp.com/clan-badges/1246756930144305153/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">NEKO | 🐾 NekoSquad 🎮 | [nekosquad](https://discord.gg/nekosquad) | 1246756930144305153 |
@@ -1286,6 +1289,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369742337718358217/1897636167e0b09146fb12ce58e63294.png?size=32" width="24">۟۟ | ! Free guild tags method ^^ | [mDwxzbGXF8](https://discord.gg/mDwxzbGXF8) | 1369742337718358217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716684537073674/8388948b433aa0fa792a29b1f286df5c.png?size=32" width="24">۟۟ | #  ۟۟ \| .gg/slave | [UXXEhkm9DM](https://discord.gg/UXXEhkm9DM) | 1369716684537073674 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753930459775100/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">۟۟ | ۟۟  \| .gg/slave | [vgG8TXJzfp](https://discord.gg/vgG8TXJzfp) | 1369753930459775100 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369867912436908073/d84985dab45c3cdcf569e45b89851750.png?size=32" width="24">۟۟ | ! SELLING GUILDS WITH TAG (cheap) | [9NXFJmdqT3](https://discord.gg/9NXFJmdqT3) | 1369867912436908073 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369595893967491122/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">۟۟ ⸸ | @⸸ tag \| .gg/gds | [crmZSzjnmf](https://discord.gg/crmZSzjnmf) | 1369595893967491122 |
 | <img src="https://cdn.discordapp.com/clan-badges/1140971324961992795/abd42a78b64b3b5f7204eb72fb1ac549.png?size=32" width="24">۟۟XP | #eXPerience | [GREnfXjRHX](https://discord.gg/GREnfXjRHX) | 1140971324961992795 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369284103047872583/a53dd00ecbce7968785fd128b0637ef2.png?size=32" width="24">۶ৎ | .gg/bowtag 🎀 | [sZz6Xwuz7j](https://discord.gg/sZz6Xwuz7j) | 1369284103047872583 |
@@ -1497,6 +1501,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369816934329356349/b5654f4351444cde895f0405e7e96c51.png?size=32" width="24">ｚａｙｙ | ᯓ★ | [23vwhBdcqg](https://discord.gg/23vwhBdcqg) | 1369816934329356349 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369497759002132580/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">𐱅𐰇𐰼𐰚 | 𐱅𐰇𐰼𐰚 🇹🇷 | [bYTyrtcm45](https://discord.gg/bYTyrtcm45) | 1369497759002132580 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637487064121384/1331e1a773facc295e93bfebfbfbfd84.png?size=32" width="24">𒀱𒀱 | 煙 - 𒀱𒀱 | [NhgxRGrM5w](https://discord.gg/NhgxRGrM5w) | 1369637487064121384 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369717422977847426/75a82fdb9b8b5d8f4c0d367fd8870a91.png?size=32" width="24">𓏲𝄢 | 𓏲𝄢 | [c6ATwCMTR8](https://discord.gg/c6ATwCMTR8) | 1369717422977847426 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341359466741800/59c0f381f2399f5317d14ebcda909857.png?size=32" width="24">𝐼mu | 𝐼𝓂𝓊 place | [NZ3gw767DT](https://discord.gg/NZ3gw767DT) | 1369341359466741800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369214691280294090/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">𝑶ₓ | 0x - Guild | [CUVAY2JKRJ](https://discord.gg/CUVAY2JKRJ) | 1369214691280294090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369385550720667761/0b5ecfdff2d46f3584e3d0336cf7d4c6.png?size=32" width="24">𝜗𝜚 | 苺𝜗𝜚 | [R3wzFj3HK9](https://discord.gg/R3wzFj3HK9) | 1369385550720667761 |

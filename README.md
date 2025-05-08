@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370022474779070484/6ed907032e3a22a1cd30d3f61a5cd96e.png?size=32" width="24">수아ᵕ̈ | 수아    ✿˘͈ᵕ˘͈）  /sua &#x27;s   💜 | [PvQ4xKwM68](https://discord.gg/PvQ4xKwM68) | 2025-05-08T18:37:25+00:00 | 1370022474779070484 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370045031242534972/3e06a2db3502df9b545cc5e27f0ba5f7.png?size=32" width="24">LORD | Cheeky Sanctuary | [mjMsfUSq3q](https://discord.gg/mjMsfUSq3q) | 2025-05-08T18:32:19+00:00 | 1370045031242534972 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740958131949628/eedaa9327cec4b520c3e59993e26c3f7.png?size=32" width="24">HEXA | HEXA GuildTag | [pJHSaj8X8c](https://discord.gg/pJHSaj8X8c) | 2025-05-08T18:27:14+00:00 | 1369740958131949628 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369772778970157092/90cf6cbdacc2c0a392d245ca62a3ced8.png?size=32" width="24">!DEV | Dominikhun250 [!DEV] | [FnPRvGe2xH](https://discord.gg/FnPRvGe2xH) | 2025-05-08T18:27:13+00:00 | 1369772778970157092 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369766893757534320/71ad19a2603191a0dc56568625dabb50.png?size=32" width="24">DEX | N.W.A SQUAD | [wAh8qwugrf](https://discord.gg/wAh8qwugrf) | 2025-05-08T17:05:07+00:00 | 1369766893757534320 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369364294650560573/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">Dose | vex priv guild | [CykU5aMBGS](https://discord.gg/CykU5aMBGS) | 2025-05-08T17:05:07+00:00 | 1369364294650560573 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369657171549097994/b1bad61c727d9eab2e7ca852901cab40.png?size=32" width="24">eepy | eepy ᶻ 𝗓 𐰁 .ᐟ | [eep-y](https://discord.gg/eep-y) | 2025-05-08T17:05:07+00:00 | 1369657171549097994 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369823874434334821/bb6f447245dd4c9243d2aeb61d26154d.png?size=32" width="24">AK47 | Keilnk (AK47) | [gKGwXYmzXE](https://discord.gg/gKGwXYmzXE) | 2025-05-08T17:05:06+00:00 | 1369823874434334821 |
 
 </details>
 
@@ -1787,6 +1787,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369667369173127168/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">설윤୨ৎ | 설윤아 Fanclub | [Q8SBh5Qk5g](https://discord.gg/Q8SBh5Qk5g) | 1369667369173127168 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369587357149564989/21129b437afdc5d4c56b399d9d86e25d.png?size=32" width="24">설화빵디 | https://discord.gg/XWVVXrPwAh [설화빵디] | [XWVVXrPwAh](https://discord.gg/XWVVXrPwAh) | 1369587357149564989 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369303268152447188/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">솔로 | 🔫 솔로군단 사령부 | [U3pmJfWBWm](https://discord.gg/U3pmJfWBWm) | 1369303268152447188 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370022474779070484/6ed907032e3a22a1cd30d3f61a5cd96e.png?size=32" width="24">수아ᵕ̈ | 수아    ✿˘͈ᵕ˘͈）  /sua &#x27;s   💜 | [PvQ4xKwM68](https://discord.gg/PvQ4xKwM68) | 1370022474779070484 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369272748789993532/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">시나브로 | .gg/659F3nBKu4 [시나브로] | [659F3nBKu4](https://discord.gg/659F3nBKu4) | 1369272748789993532 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369335119239975052/32c218aa77adfa4f1ecf46a78ce5a5ce.png?size=32" width="24">애기𐙚 | darling/dear \| 애기𐙚 | [qdx9qWMgyQ](https://discord.gg/qdx9qWMgyQ) | 1369335119239975052 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369648009184280626/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">온새미로 | 온새미로 | [ZPd5PnVqnH](https://discord.gg/ZPd5PnVqnH) | 1369648009184280626 |
@@ -1825,10 +1826,10 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369136418458304556/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">﷽﷽🫩 | /ICYMI TAGS - ﷽🫩 | [hseb5kpVAK](https://discord.gg/hseb5kpVAK) | 1369136418458304556 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369633418694098954/747102d78f483659adce6ec3273ec272.png?size=32" width="24">﷽🪽 | 𐌀𐌂𐌀 | [hJZCcVbXVr](https://discord.gg/hJZCcVbXVr) | 1369633418694098954 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764934053007360/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">︻デ═一 | .gg/envvy &#x27; #︻デ═一 | [U3HyrTuAdT](https://discord.gg/U3HyrTuAdT) | 1369764934053007360 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369249716432404511/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">︻芫═一 | tag \| dsc.gg/ruru-tag | [85p7Ze7kkW](https://discord.gg/85p7Ze7kkW) | 1369249716432404511 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369663133148381285/950aeaf6df9f76c04fc86d1f7ab8f8aa.png?size=32" width="24">︻芫═一 | ︻芫═一 \| .gg/fg  for 30+ free guilds | [sg2MdhA2rv](https://discord.gg/sg2MdhA2rv) | 1369663133148381285 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369473782892466336/22f8c38a62b66123c4242d0cbdd46282.png?size=32" width="24">︻芫═一 | .gg/yea #︻芫═一 | [yWf5meHGqQ](https://discord.gg/yWf5meHGqQ) | 1369473782892466336 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369684859974320169/7dff089fbee252a67e72a08ae58a0376.png?size=32" width="24">︻芫═一 | [︻芫═一] 𓀣𓀤𓀥𓀦𓀧𓀨𓀩𓀫𓀬𓀳𓀻𓀽𓀾𓀿𓀀𓀁𓀉𓀊𓀋𓀌𓀍𓀎𓀏𓀐𓀑𓀒𓀓𓀔𓀕𓀖𓀗𓁀𓀘𓀙𓀚𓀛𓀜𓀝𓁁𓁂𓁃𓁄 | [Cjt97A2Wnr](https://discord.gg/Cjt97A2Wnr) | 1369684859974320169 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369249716432404511/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">︻芫═一 | tag \| dsc.gg/ruru-tag | [85p7Ze7kkW](https://discord.gg/85p7Ze7kkW) | 1369249716432404511 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369666578647486557/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">︻芫═一 | /r1fle | [r1fle](https://discord.gg/r1fle) | 1369666578647486557 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363083782801854524/07b180ac2eb054af01a49c66dc130bf0.png?size=32" width="24">︻芫═一 | Koze Community Gaming | [KDctH7PUqP](https://discord.gg/KDctH7PUqP) | 1363083782801854524 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369839990967894148/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">﹒⺀틸 | ✿ᴗ͈ˬᴗ͈）.gg/tilltheend guild tag | [GGT9AwkK](https://discord.gg/GGT9AwkK) | 1369839990967894148 |

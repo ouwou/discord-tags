@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369641766667681873/b53a5478bb7a386492cb9b40b0fc9fff.png?size=32" width="24">FE!N | FE!N ✰ | [XuVx4waeQx](https://discord.gg/XuVx4waeQx) | 2025-05-08T01:41:26+00:00 | 1369641766667681873 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369745012241465467/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">GYAT | Hello Kitty | [wsJtG4Sxcn](https://discord.gg/wsJtG4Sxcn) | 2025-05-08T01:41:26+00:00 | 1369745012241465467 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369686458834747432/bdf785dc70cd3768b5694a3503f40363.png?size=32" width="24">NEL | NEL League | [VdEkrkG8EX](https://discord.gg/VdEkrkG8EX) | 2025-05-08T01:41:26+00:00 | 1369686458834747432 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369397994176249966/557671d480aa3a533c8973ad8e8ec4b6.png?size=32" width="24">BYON | Ballscord 2  - Electric Ballgaloo | [DbBrwfYxW5](https://discord.gg/DbBrwfYxW5) | 2025-05-08T01:36:21+00:00 | 1369397994176249966 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369731883151134893/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">snus | snus | [5s2q2zYbbr](https://discord.gg/5s2q2zYbbr) | 2025-05-08T01:36:21+00:00 | 1369731883151134893 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785712156606676/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">ˆ𐃷ˆ | /matchingpfps  ﹕ | [WwgV2dP2GA](https://discord.gg/WwgV2dP2GA) | 2025-05-08T01:36:20+00:00 | 1369785712156606676 |
@@ -37,6 +40,8 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369769404769763328/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">1989 | .gg/speaknow | [f6jkC2WvhN](https://discord.gg/f6jkC2WvhN) | 2025-05-08T01:01:34+00:00 | 1369769404769763328 |
 
 </details>
+
+## All Tags
 
 | Tag | Server Name | Invite | Server ID |
 |---|---|---|---|
@@ -343,6 +348,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369636614292242432/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">FCUK | Corruptt Rune | [vbr2RSFeDe](https://discord.gg/vbr2RSFeDe) | 1369636614292242432 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369518292468760620/48d2557a1faf9a790dde3ad334e56efb.png?size=32" width="24">FE!N | FE!N | [feinn](https://discord.gg/feinn) | 1369518292468760620 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369453922581745755/d2147c53832fc97a6aed884552dc1024.png?size=32" width="24">FE!N | Travis Scott Tag | [5ehgvmvmGm](https://discord.gg/5ehgvmvmGm) | 1369453922581745755 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369641766667681873/b53a5478bb7a386492cb9b40b0fc9fff.png?size=32" width="24">FE!N | FE!N ✰ | [XuVx4waeQx](https://discord.gg/XuVx4waeQx) | 1369641766667681873 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369177418895720560/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">FEAR | .gg/tyx #FEAR | [pHU3ksYvCE](https://discord.gg/pHU3ksYvCE) | 1369177418895720560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369125295667548313/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">FED | .gg/slashyea [FED] | [JGtMsH2T67](https://discord.gg/JGtMsH2T67) | 1369125295667548313 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369701165440438352/e929e1c0111f2acf104ba53aefc5ee44.png?size=32" width="24">FEET | feet　[　.gg/furina　] | [YqUNShkqSq](https://discord.gg/YqUNShkqSq) | 1369701165440438352 |
@@ -419,6 +425,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369338501547425874/7ec861b7c18604da30b03e0862abea10.png?size=32" width="24">GUNS | guns.lol Guild | [f6dGv4wqSQ](https://discord.gg/f6dGv4wqSQ) | 1369338501547425874 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369491761088561263/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">GURT | ##GURTDESCENT \| free nitro | [4fJhuJANVt](https://discord.gg/4fJhuJANVt) | 1369491761088561263 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369461695847727276/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">GURT | ۟۟yogurt | [S3WzyZbdGZ](https://discord.gg/S3WzyZbdGZ) | 1369461695847727276 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369745012241465467/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">GYAT | Hello Kitty | [wsJtG4Sxcn](https://discord.gg/wsJtG4Sxcn) | 1369745012241465467 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369426487677292554/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">Ghoﬆ | Ghost \| .gg/evobot | [2eCknSYZQS](https://discord.gg/2eCknSYZQS) | 1369426487677292554 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369284026136924190/822a7fe50603c9529cf07bb147b63d22.png?size=32" width="24">God | GOD Tag | [JHkWuTnSya](https://discord.gg/JHkWuTnSya) | 1369284026136924190 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369569648894545983/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">God | ⚡┃God | [qWwmqC2F9U](https://discord.gg/qWwmqC2F9U) | 1369569648894545983 |
@@ -579,6 +586,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369694804413517865/ba4666ec684b28253c036851b97de8a9.png?size=32" width="24">NCT | nct \| .gg/doyoung | [zJru9Z6DTS](https://discord.gg/zJru9Z6DTS) | 1369694804413517865 |
 | <img src="https://cdn.discordapp.com/clan-badges/885430702491987968/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">NEKO | neko sanctuary v2 | [gPt4PXEP8K](https://discord.gg/gPt4PXEP8K) | 885430702491987968 |
 | <img src="https://cdn.discordapp.com/clan-badges/1246756930144305153/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">NEKO | 🐾 NekoSquad 🎮 | [nekosquad](https://discord.gg/nekosquad) | 1246756930144305153 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369686458834747432/bdf785dc70cd3768b5694a3503f40363.png?size=32" width="24">NEL | NEL League | [VdEkrkG8EX](https://discord.gg/VdEkrkG8EX) | 1369686458834747432 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369248156151316563/a096c02b558e6bcff7b1c10269fb6cd5.png?size=32" width="24">NERD | Nerd | [Cd78jGqA5a](https://discord.gg/Cd78jGqA5a) | 1369248156151316563 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369247242724179998/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">NERU | baka baka baka | [kZjPFV4FYs](https://discord.gg/kZjPFV4FYs) | 1369247242724179998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1254770835114168321/0625caabbdb25cb8406ebdd64b90a445.png" width="24">NIKO | (˵¯͒〰¯͒˵) / 𝓭azais . Server on lockdown | [dazais](https://discord.gg/dazais) | 1254770835114168321 |

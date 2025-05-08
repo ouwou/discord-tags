@@ -324,6 +324,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369631398536937512/6d48e1f4ae881dacc702a155d559b6e0.png?size=32" width="24">Fein | Void | [SDYw7XqFPa](https://discord.gg/SDYw7XqFPa) | 1369631398536937512 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369335581594615969/dc703bfd3c0d900ec7e84cbcd8aa8428.png?size=32" width="24">Fire | [Fire]🔥FireServer🔥 | [vqwbBfWK2P](https://discord.gg/vqwbBfWK2P) | 1369335581594615969 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742836601458878/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">Flex | WHISKY LOREAN | [3AwfJuBQcX](https://discord.gg/3AwfJuBQcX) | 1369742836601458878 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369719608637915169/d2b8a11f11730feee94ce3ade605905f.png?size=32" width="24">Fumo | Eientei | [gSEpgQxeYf](https://discord.gg/gSEpgQxeYf) | 1369719608637915169 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369653896368095312/c8b7df7120e11c34a31b375baa775be2.png?size=32" width="24">Fury | Dragons - NightFury | [uhv3PXBran](https://discord.gg/uhv3PXBran) | 1369653896368095312 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779615039754300/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">G59 | GREYFIVENINE (G59 TAG) | [sS3wWPuWCT](https://discord.gg/sS3wWPuWCT) | 1369779615039754300 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369605648332881961/bc2f7685eed9d27522595f510bb2da48.png?size=32" width="24">GAGA | 煙 - GAGA | [KcM7Wg9F2P](https://discord.gg/KcM7Wg9F2P) | 1369605648332881961 |
@@ -505,6 +506,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369333533075570798/9b43d5ec59ffd0a187b7d343ac707643.png?size=32" width="24">MOON | Moon \| Voice Chat ● Lounge ● Anime ● Chill ● Call ● Text ● Social ● Emojis | [moontag](https://discord.gg/moontag) | 1369333533075570798 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641039731888238/9b43d5ec59ffd0a187b7d343ac707643.png?size=32" width="24">MOON | ໒꒰ྀི◜ ཅ ◝ ꒱ྀི১      MOON  GUILD ! | [MGqAtrsUud](https://discord.gg/MGqAtrsUud) | 1369641039731888238 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369507341736742984/a096c02b558e6bcff7b1c10269fb6cd5.png?size=32" width="24">MOTH | MOTH HEAVEN | [rjE6XFCPJ8](https://discord.gg/rjE6XFCPJ8) | 1369507341736742984 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369484831398035546/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">MP4 | /isaka #MP4 | [38TP2U4bMp](https://discord.gg/38TP2U4bMp) | 1369484831398035546 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369450818029359205/5375986b941dc442b600d5e952e4e728.png?size=32" width="24">MUSE | MUSE | [R3HBrDnPCB](https://discord.gg/R3HBrDnPCB) | 1369450818029359205 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369660851182633090/e0fb315519bcb35d53e4ac4fb5b81b8c.png?size=32" width="24">MUTE | MUTE Clan - TAG | [exDggUAVdB](https://discord.gg/exDggUAVdB) | 1369660851182633090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369587693637337170/48d2557a1faf9a790dde3ad334e56efb.png?size=32" width="24">MVP | MVP Tag  ♔  \| .gg/MVPHub | [QXfCz4JT6g](https://discord.gg/QXfCz4JT6g) | 1369587693637337170 |
@@ -607,6 +609,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369603731909382206/ad842b5ea717cde056d0093cb9e90d1d.png?size=32" width="24">RFL | TAG ! | [kVBuYjXUm3](https://discord.gg/kVBuYjXUm3) | 1369603731909382206 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369358645053227159/afef8e1d14121535e46a4a27cefda396.png?size=32" width="24">RICH | #RICH /uzuki | [takamura](https://discord.gg/takamura) | 1369358645053227159 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615987187646624/34bc7037b90ebf90e0ac217fcffdfe2d.png?size=32" width="24">RICH | $$ richest | [8ewu3YyV](https://discord.gg/8ewu3YyV) | 1369615987187646624 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369824414362763336/22baa113ab7aba36ac37296ab541de8f.png?size=32" width="24">RICH | $$$ | [vZS84NPWFG](https://discord.gg/vZS84NPWFG) | 1369824414362763336 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369499423318741123/0c7471af1e26024b7c55da8a5d79d9d0.png?size=32" width="24">RIN | kagamine club | [7hFCcpgeU5](https://discord.gg/7hFCcpgeU5) | 1369499423318741123 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369613027753726035/560794f11f66275f7ea52c4a54d22a90.png?size=32" width="24">RIN | Kusatsu Tag | [tPXxXJ2Kxq](https://discord.gg/tPXxXJ2Kxq) | 1369613027753726035 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369109391214641183/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">RIZZ | Discord 2^2 | [dfruaHQtCv](https://discord.gg/dfruaHQtCv) | 1369109391214641183 |
@@ -972,6 +975,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369702020407099492/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">sex | ᲼᲼ | [5MWnPFwEEx](https://discord.gg/5MWnPFwEEx) | 1369702020407099492 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686164428161075/a2399b5f8095f08ad5fe099a51ba2562.png?size=32" width="24">sex | sex \| .gg/fg  for 30+ free guilds | [s2zRKqE7yw](https://discord.gg/s2zRKqE7yw) | 1369686164428161075 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369738624035192872/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">sex | .gg/slashzone [sex] | [sexguild](https://discord.gg/sexguild) | 1369738624035192872 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369752472087953418/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">sexy | /yell #sexy | [Z8pRJYYSvS](https://discord.gg/Z8pRJYYSvS) | 1369752472087953418 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369201971084398632/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">shy | shy /rupture | [akqDvTjZ6K](https://discord.gg/akqDvTjZ6K) | 1369201971084398632 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369497812764590180/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">sick | #sick | [SZdxvcsRBt](https://discord.gg/SZdxvcsRBt) | 1369497812764590180 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369644092950057021/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">simp | simp&#x27;s world \| tag • giveaways • active | [daHtUubaFx](https://discord.gg/daHtUubaFx) | 1369644092950057021 |

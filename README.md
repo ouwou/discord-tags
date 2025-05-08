@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1341726047330238464/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">CAFE | Priority Cafe | [gGrrjkrbRt](https://discord.gg/gGrrjkrbRt) | 2025-05-08T06:41:25+00:00 | 1341726047330238464 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369864696345268398/91eb8aaad40e0cc110812e6a006a8e46.png?size=32" width="24">P5X | P5X \| .gg/p5xhangout | [zF9waBDEF9](https://discord.gg/zF9waBDEF9) | 2025-05-08T06:26:14+00:00 | 1369864696345268398 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742601628028958/ae750844f917a57d05accdcc78102c7e.png?size=32" width="24">𐙚 . | leilleileilleilleil | [S4eJ8w4Wq7](https://discord.gg/S4eJ8w4Wq7) | 2025-05-08T06:26:14+00:00 | 1369742601628028958 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369733158324408380/434af73d5e4a11708403d641c9aca1dc.png?size=32" width="24">1337 | /notj | [MFXc4xXv6f](https://discord.gg/MFXc4xXv6f) | 2025-05-08T06:21:09+00:00 | 1369733158324408380 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369738766305984612/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">カワイ | カワイ/sexytag | [GQJdMSJ98v](https://discord.gg/GQJdMSJ98v) | 2025-05-08T02:06:55+00:00 | 1369738766305984612 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369481291539681300/a438ac88e441592a40a6a94ac1b90585.png?size=32" width="24">ex | ex \| .gg/coke .gg/ex | [4QTwRVRdPy](https://discord.gg/4QTwRVRdPy) | 2025-05-08T02:06:54+00:00 | 1369481291539681300 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369846509486608415/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">ex | jail and zoxi fun server! | [v3a7dJyBpe](https://discord.gg/v3a7dJyBpe) | 2025-05-08T02:06:54+00:00 | 1369846509486608415 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369634176101388288/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">새콤달콤 | 🍓 딸기나라 ⊹ | [uCXGSHqFkG](https://discord.gg/uCXGSHqFkG) | 2025-05-08T02:06:54+00:00 | 1369634176101388288 |
 
 </details>
 
@@ -334,6 +334,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369284858924503071/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">C8 | .gg/c8tag - corvette | [c8tag](https://discord.gg/c8tag) | 1369284858924503071 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369656039242203206/9db944d36e3936ec66469d93a8bdb3ad.png?size=32" width="24">CA$H | 煙 - CA$H | [v35Ev5AGKa](https://discord.gg/v35Ev5AGKa) | 1369656039242203206 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363986065639084106/c21599057ae3684bb57fc3bfc248283e.png?size=32" width="24">CAFE | \*☕\* Frapples&#x27; Café \*✨\* ^^ | [N9gYw2nkFq](https://discord.gg/N9gYw2nkFq) | 1363986065639084106 |
+| <img src="https://cdn.discordapp.com/clan-badges/1341726047330238464/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">CAFE | Priority Cafe | [gGrrjkrbRt](https://discord.gg/gGrrjkrbRt) | 1341726047330238464 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369450819988230215/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">CAKE | CAKE | [xfsfRj3FTJ](https://discord.gg/xfsfRj3FTJ) | 1369450819988230215 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369478355254116362/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">CAS | Cigarette After Sex #GUILD | [NaCRNaK4ap](https://discord.gg/NaCRNaK4ap) | 1369478355254116362 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369572096060948490/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">CASH | .gg/yea #CASH | [Qj9jW4ZmTY](https://discord.gg/Qj9jW4ZmTY) | 1369572096060948490 |

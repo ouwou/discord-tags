@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369397994176249966/557671d480aa3a533c8973ad8e8ec4b6.png?size=32" width="24">BYON | Ballscord 2  - Electric Ballgaloo | [DbBrwfYxW5](https://discord.gg/DbBrwfYxW5) | 2025-05-08T01:36:21+00:00 | 1369397994176249966 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369731883151134893/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">snus | snus | [5s2q2zYbbr](https://discord.gg/5s2q2zYbbr) | 2025-05-08T01:36:21+00:00 | 1369731883151134893 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369785712156606676/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">ˆ𐃷ˆ | /matchingpfps  ﹕ | [WwgV2dP2GA](https://discord.gg/WwgV2dP2GA) | 2025-05-08T01:36:20+00:00 | 1369785712156606676 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749400770973837/3ca9fe6ac5089304899e2dbfd4c4824d.png?size=32" width="24">݁  ₊ | ／𝑐ℎ𝑒𝑟𝑖𝑒𝑠 | [3qEmxey4ya](https://discord.gg/3qEmxey4ya) | 2025-05-08T01:31:16+00:00 | 1369749400770973837 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369592308441288704/7e951786432b0c1e39e9c9daefcbfacf.png?size=32" width="24">FURY | FuryVerse | [xgQu9rnW6d](https://discord.gg/xgQu9rnW6d) | 2025-05-08T01:31:16+00:00 | 1369592308441288704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369827583910350919/45dec9cc747ee3949b568836f2a1adbf.png?size=32" width="24">RICH | RICH \| .gg/P3xxVpuSz2 | [P3xxVpuSz2](https://discord.gg/P3xxVpuSz2) | 2025-05-08T01:31:16+00:00 | 1369827583910350919 |
@@ -237,6 +240,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369387294615797770/85461a0ccb874e754bc2b96603958319.png?size=32" width="24">BUG | Bug \| .gg/evobot | [KVHpJ2m7eQ](https://discord.gg/KVHpJ2m7eQ) | 1369387294615797770 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431475606388886/26042f51fc8475e9cadf5dcb23babd6f.png?size=32" width="24">BUG | Bug Hunters | [q7wkZRcrBk](https://discord.gg/q7wkZRcrBk) | 1369431475606388886 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730502843437246/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">BUG | Bug Guild | [KXG7Fy6RT3](https://discord.gg/KXG7Fy6RT3) | 1369730502843437246 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369397994176249966/557671d480aa3a533c8973ad8e8ec4b6.png?size=32" width="24">BYON | Ballscord 2  - Electric Ballgaloo | [DbBrwfYxW5](https://discord.gg/DbBrwfYxW5) | 1369397994176249966 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369404448857788426/b1a70b12c9fc93280fd0f46b4365019c.png?size=32" width="24">Beaﬆ | Beast \| .gg/evobot | [9GwYfRQ5dv](https://discord.gg/9GwYfRQ5dv) | 1369404448857788426 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369777508664344718/66e6116fb71622d52bed149a17914270.png?size=32" width="24">Bebu | Bebu Monica \| .gg/sunytag | [pRqE74BDVm](https://discord.gg/pRqE74BDVm) | 1369777508664344718 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369774730281877686/d12812bc1a8ffd6aeaf7b50d562a8750.png?size=32" width="24">BꚘBS | #BꚘBS | [SnxBdHBuRT](https://discord.gg/SnxBdHBuRT) | 1369774730281877686 |
@@ -1056,6 +1060,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369569250792046622/baa561055f2cf44c9c8d6d293c93c902.png?size=32" width="24">slit | slit | [Yfypj3Nhjc](https://discord.gg/Yfypj3Nhjc) | 1369569250792046622 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369707013524951211/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">slug | Slug town | [slugs](https://discord.gg/slugs) | 1369707013524951211 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369717407404392560/354ca0ff90d810dcc8a02be476a18921.png?size=32" width="24">smd | smd | [PT28UvXP8H](https://discord.gg/PT28UvXP8H) | 1369717407404392560 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369731883151134893/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">snus | snus | [5s2q2zYbbr](https://discord.gg/5s2q2zYbbr) | 1369731883151134893 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369135096120213504/fc1b9432a2dc86e9f4116a92027b0032.png?size=32" width="24">snuﬀ | snuffs | [snuffs](https://discord.gg/snuffs) | 1369135096120213504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369589057251840080/7dff089fbee252a67e72a08ae58a0376.png?size=32" width="24">sp | s1 guild | [hAQptQKVeA](https://discord.gg/hAQptQKVeA) | 1369589057251840080 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369777313515835392/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">ss03 | ss03 | [hktZ5szFJx](https://discord.gg/hktZ5szFJx) | 1369777313515835392 |
@@ -1130,6 +1135,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369772704172867594/081b8f2d50cd163f9698396466275b85.png?size=32" width="24">ʚɞ | fairy .𓏲 ࣪˖ | [tJzUReCAwk](https://discord.gg/tJzUReCAwk) | 1369772704172867594 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369768178623844372/cbc8765dbaa3acebe39059b5a02fb40b.png?size=32" width="24">ʚଓ | adrian \| ʚଓ tag | [VFNmgrauNM](https://discord.gg/VFNmgrauNM) | 1369768178623844372 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369353961714487386/2dfd9e9991113a4503b1500e5667ed40.png?size=32" width="24">ʟꜱᴅ | Downfall™ : Worldwide | [eta2tnZPuS](https://discord.gg/eta2tnZPuS) | 1369353961714487386 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369785712156606676/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">ˆ𐃷ˆ | /matchingpfps  ﹕ | [WwgV2dP2GA](https://discord.gg/WwgV2dP2GA) | 1369785712156606676 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766297151475743/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">˘ω˘ | ˘ω˘ Artist Haven🪽ARTㆍSOCIALㆍGFXㆍCOMMISSIONSㆍGAMING | [WcbChsbxCX](https://discord.gg/WcbChsbxCX) | 1369766297151475743 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369440410186940537/11b9f6b4d9481fc5a987e0cc1b6b60b9.png?size=32" width="24">˙ᵕ˙ | PacK&#x27;s Server ˙ᵕ˙ | [8t5TGBw8Sx](https://discord.gg/8t5TGBw8Sx) | 1369440410186940537 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369817257764458536/04cee49fbcaa69a71206ccb637470e72.png?size=32" width="24">̴͆̑ | BONBON&#x27;s world | [KtX8RKyTp4](https://discord.gg/KtX8RKyTp4) | 1369817257764458536 |

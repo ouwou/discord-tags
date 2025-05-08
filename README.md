@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369670400203821099/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">Aura | Darkmoon x Aura | [Gy3evN5P7g](https://discord.gg/Gy3evN5P7g) | 2025-05-08T05:45:35+00:00 | 1369670400203821099 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369703758824738937/af8bb7cbe96e5216c4726bec6e84cd4e.png" width="24">SRT | /SRT | [neV5mRUpDF](https://discord.gg/neV5mRUpDF) | 2025-05-08T05:40:30+00:00 | 1369703758824738937 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730928947101898/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">Deaᵺ | Death Tag (.gg/staffs) | [JY6bZGXHCz](https://discord.gg/JY6bZGXHCz) | 2025-05-08T05:35:25+00:00 | 1369730928947101898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369213457194291200/4123c766b170f9686af5d68dd1d822da.png?size=32" width="24">RHEE | Rhee Cult | [DK4bqZPSdz](https://discord.gg/DK4bqZPSdz) | 2025-05-08T05:30:19+00:00 | 1369213457194291200 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369730227558940692/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">SBZ | silly sbz | [297gwYUtGJ](https://discord.gg/297gwYUtGJ) | 2025-05-08T01:46:31+00:00 | 1369730227558940692 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641766667681873/b53a5478bb7a386492cb9b40b0fc9fff.png?size=32" width="24">FE!N | FE!N ✰ | [XuVx4waeQx](https://discord.gg/XuVx4waeQx) | 2025-05-08T01:41:26+00:00 | 1369641766667681873 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745012241465467/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">GYAT | Hello Kitty | [wsJtG4Sxcn](https://discord.gg/wsJtG4Sxcn) | 2025-05-08T01:41:26+00:00 | 1369745012241465467 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369686458834747432/bdf785dc70cd3768b5694a3503f40363.png?size=32" width="24">NEL | NEL League [ BLUE LOCK ] | [VdEkrkG8EX](https://discord.gg/VdEkrkG8EX) | 2025-05-08T01:41:26+00:00 | 1369686458834747432 |
 
 </details>
 
@@ -287,6 +287,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369467875701686443/8aefdae9e4481ee18a3bc6155d32f143.png?size=32" width="24">Amor | Amor 🇧🇷 #TAG | [GHMZBvUMg2](https://discord.gg/GHMZBvUMg2) | 1369467875701686443 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369655407341211699/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">Arch | Arch #EU | [k65fEj5e2d](https://discord.gg/k65fEj5e2d) | 1369655407341211699 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369094449724133376/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">Aron | Aron Tag | [nH42fzMy3u](https://discord.gg/nH42fzMy3u) | 1369094449724133376 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369670400203821099/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">Aura | Darkmoon x Aura | [Gy3evN5P7g](https://discord.gg/Gy3evN5P7g) | 1369670400203821099 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369790696818737317/59c0f381f2399f5317d14ebcda909857.png?size=32" width="24">AxJ | AxJ Tag | [trJEhKEt9m](https://discord.gg/trJEhKEt9m) | 1369790696818737317 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369442938702139392/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">B00B | #BOOBS | [NHnpPEHhvQ](https://discord.gg/NHnpPEHhvQ) | 1369442938702139392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369504281404641421/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">B00B | BOOB \| .gg/diddy | [eQrwCsP9YJ](https://discord.gg/eQrwCsP9YJ) | 1369504281404641421 |

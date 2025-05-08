@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369460292177891408/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">xٴٴ | incode | [DMA](https://discord.gg/DMA) | 2025-05-08T02:27:29+00:00 | 1369460292177891408 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780011266998383/4ef966b9bdd3ca7155e184e893314cd6.png?size=32" width="24">FLAV | FlaviBot&#x27;s Testers | [uq2G4Rz64t](https://discord.gg/uq2G4Rz64t) | 2025-05-08T02:22:22+00:00 | 1369780011266998383 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369845385442496642/e753bbfbb76e4bf7529e246e6d650d18.png?size=32" width="24">GUTS | GUTS | [FmjJSdHgbP](https://discord.gg/FmjJSdHgbP) | 2025-05-08T02:22:22+00:00 | 1369845385442496642 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369508342397145178/f6822eb5111fde1093e0b6217aa53a81.png?size=32" width="24">alx | alx | [alex](https://discord.gg/alex) | 2025-05-08T02:22:21+00:00 | 1369508342397145178 |
@@ -1140,6 +1141,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369422913417117787/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">xx | ᲼᲼ | [SgNtMn4r7R](https://discord.gg/SgNtMn4r7R) | 1369422913417117787 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369634088947814540/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">xxx | xxx | [YMD7CXpmRR](https://discord.gg/YMD7CXpmRR) | 1369634088947814540 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716876673814588/736e7d8bb18ed68b6e0223765e79015e.png?size=32" width="24">xyz | /chillcafe [xyz] | [xU6NSmVFMN](https://discord.gg/xU6NSmVFMN) | 1369716876673814588 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369460292177891408/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">xٴٴ | incode | [DMA](https://discord.gg/DMA) | 1369460292177891408 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369248197498896394/cf84fdb035bcacef2adf002d28a021d2.png" width="24">yay | :3 \| discord.gg/mahae | [mahae](https://discord.gg/mahae) | 1369248197498896394 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369712171386277888/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">yen | .gg/projection #yen | [qSrY4jwBrX](https://discord.gg/qSrY4jwBrX) | 1369712171386277888 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369599911678574642/da323979c7c906d2c27374e380f41961.png?size=32" width="24">yuri | 📷 　𖨂　mitsuaya　❀　#yuri | [3sQbXNEKB5](https://discord.gg/3sQbXNEKB5) | 1369599911678574642 |

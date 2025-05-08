@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369938856375353344/86735389348f3eacfa519eb553df38fd.png" width="24">HYPE | Tag: HYPE [RU/ENG] | [6X59Z5xJmn](https://discord.gg/6X59Z5xJmn) | 2025-05-08T23:48:15+00:00 | 1369938856375353344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369852589377589298/21129b437afdc5d4c56b399d9d86e25d.png" width="24">KOT | KOTARU | [gW2GXyveQ2](https://discord.gg/gW2GXyveQ2) | 2025-05-08T22:52:43+00:00 | 1369852589377589298 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370012484622094428/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">ᠵデ气亠 | ᠵデ气亠 | [tagak47](https://discord.gg/tagak47) | 2025-05-08T21:57:06+00:00 | 1370012484622094428 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369908804032135260/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">🪻˖. | 🪻˖. /pxguild | [uPKkBU7yaW](https://discord.gg/uPKkBU7yaW) | 2025-05-08T21:57:06+00:00 | 1369908804032135260 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369519337324675183/310d9b669d687de773b5f3b5310ca1f3.png" width="24">RE:0 | Return by Death! [RE:0 TAG] | [ycJFzcuWpa](https://discord.gg/ycJFzcuWpa) | 2025-05-08T21:41:29+00:00 | 1369519337324675183 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369845158715195412/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">EMI | Emilia&#x27;s Palace (EMI tag) | [nWycmnSzJW](https://discord.gg/nWycmnSzJW) | 2025-05-08T21:41:29+00:00 | 1369845158715195412 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755583749685248/8d61abb8b5da075befaff858861dba54.png" width="24">Rem | Rem Shrine [Rem TAG] | [b8YQkahK9W](https://discord.gg/b8YQkahK9W) | 2025-05-08T21:41:29+00:00 | 1369755583749685248 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370075470426537994/4507c292a7c649b9e6e357ac11c5492c.png" width="24">BBL | BBL - /92ii | [Ff7NZkg8tv](https://discord.gg/Ff7NZkg8tv) | 2025-05-08T21:41:28+00:00 | 1370075470426537994 |
 
 </details>
 
@@ -428,6 +428,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369133754198790185/ae677554f0fc746d48cb5acf2c210791.png" width="24">CULT | Cult | [a575JVcxrU](https://discord.gg/a575JVcxrU) | 1369133754198790185 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369424122748080169/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">CUTE | gg/CuteTag | [cutetag](https://discord.gg/cutetag) | 1369424122748080169 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726151173607515/878c62b6694a4f5931104f766191bec7.png" width="24">CUTE | /ichigo \| CUTE | [award](https://discord.gg/award) | 1369726151173607515 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369614764027805751/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">CUᎷ | cool tag | [qvS5Tnjrfd](https://discord.gg/qvS5Tnjrfd) | 1369614764027805751 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769906110992444/878c62b6694a4f5931104f766191bec7.png" width="24">CVNT | boooooo #cvnt | [xWfTd9eERf](https://discord.gg/xWfTd9eERf) | 1369769906110992444 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369290223124480092/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">CWEL | 🔥CWEL community🔥 | [cfel](https://discord.gg/cfel) | 1369290223124480092 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369723744091902053/4bca913c9b2106ed777541ec65def38c.png" width="24">CWEL | marek | [TbZaVtGrHV](https://discord.gg/TbZaVtGrHV) | 1369723744091902053 |
@@ -663,6 +664,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369590055538266112/3ad99828a97428c5185897625efbfb0c.png" width="24">HUZZ | ABSOLUTE #TRK | [XTM7QnJ8Fx](https://discord.gg/XTM7QnJ8Fx) | 1369590055538266112 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755196921610323/c8d016eed5c8752316ca38fdd54380c6.png" width="24">HYEJ | ꒰ 🍙ㆍ h 𝑦 e 𝑗 uㆍ ⸝⸝ /hyej | [PE3NU9cuw5](https://discord.gg/PE3NU9cuw5) | 1369755196921610323 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369639849690271774/bc2f7685eed9d27522595f510bb2da48.png" width="24">HYPE | HYPE TAG・CHAT・ARCHIVE | [48PGNW9yw6](https://discord.gg/48PGNW9yw6) | 1369639849690271774 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369938856375353344/86735389348f3eacfa519eb553df38fd.png" width="24">HYPE | Tag: HYPE [RU/ENG] | [6X59Z5xJmn](https://discord.gg/6X59Z5xJmn) | 1369938856375353344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369510715471302788/c929e8c495d3f20fd9abbdbb67f55b99.png" width="24">HYPE | Os bibas | [5VQYu4Tjnb](https://discord.gg/5VQYu4Tjnb) | 1369510715471302788 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369441168039088180/86735389348f3eacfa519eb553df38fd.png" width="24">Hack | HACK | [mfQzs9efTp](https://discord.gg/mfQzs9efTp) | 1369441168039088180 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686966186279002/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">Hell | Hell \| .gg/tag-hell | [tag-hell](https://discord.gg/tag-hell) | 1369686966186279002 |
@@ -1035,7 +1037,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369329893468409866/dfada063e85be8622c80d5a172fe3750.png" width="24">SIT | www.startit.bot – #SIT tag | [kqJUqK3qCc](https://discord.gg/kqJUqK3qCc) | 1369329893468409866 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369438239554932879/41b61001a19acd361c9cb1782d14bbd8.png" width="24">SITH | /SITH TAG | [E6nMq62vZ4](https://discord.gg/E6nMq62vZ4) | 1369438239554932879 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370016590363627630/7b6ba3b385fedcf54b5fc1fc76bd900d.png" width="24">SITH | Kurdish Democratic Party | [WajCckxrhx](https://discord.gg/WajCckxrhx) | 1370016590363627630 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369614764027805751/8d61abb8b5da075befaff858861dba54.png" width="24">SKID | Tag Server | [UkvmK8zhYE](https://discord.gg/UkvmK8zhYE) | 1369614764027805751 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369689509645783050/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">SKID | .gg/projection #SKID | [9vuc9cxkJu](https://discord.gg/9vuc9cxkJu) | 1369689509645783050 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369433814023274506/2eec56a7dc26c35b1477ece411342205.png" width="24">SKLD | SKALEDMAN | [KAa88DzZEs](https://discord.gg/KAa88DzZEs) | 1369433814023274506 |
 | <img src="https://cdn.discordapp.com/clan-badges/1361991730919899257/f30f298b6e553541ca26533bfc64c703.png" width="24">SKY | Azure | [jxUfUZarjT](https://discord.gg/jxUfUZarjT) | 1361991730919899257 |
@@ -1610,7 +1611,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369399297224872080/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">´ཀ` | ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ | [akncwyrSGJ](https://discord.gg/akncwyrSGJ) | 1369399297224872080 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369642623916048404/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">´ཀ` | ´ཀ` | [YptyQdvkxV](https://discord.gg/YptyQdvkxV) | 1369642623916048404 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369515065669324810/d9e42c36a7995711640870c097d3e9d3.png" width="24">ÆC | Aesthetic Creators PRO 🍃 | [zuCg63RG3X](https://discord.gg/zuCg63RG3X) | 1369515065669324810 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369496072119914627/d17c3156cddd13c9ad6ca88edc27608d.png" width="24">ÆSPA | ÆSPA tag silly goobers | [BcWWPbAsBt](https://discord.gg/BcWWPbAsBt) | 1369496072119914627 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369496072119914627/d17c3156cddd13c9ad6ca88edc27608d.png" width="24">ÆSPA | ÆSPA | [BcWWPbAsBt](https://discord.gg/BcWWPbAsBt) | 1369496072119914627 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369567340064145429/dea97e909a0211e2479d75cd11c2ec41.png" width="24">×͜× | .gg/yea ×͜× | [d2zJBMXJn5](https://discord.gg/d2zJBMXJn5) | 1369567340064145429 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757599515410473/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">×͜× | ×͜× Tag | [WWKRJeKXZu](https://discord.gg/WWKRJeKXZu) | 1369757599515410473 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369647841433358417/ba4666ec684b28253c036851b97de8a9.png" width="24">æspa | 煙 - æspa | [bpZPEkbC5A](https://discord.gg/bpZPEkbC5A) | 1369647841433358417 |

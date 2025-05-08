@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369629777299898379/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">₊ᐝ | ₊ᐝ Heiuwu ₊ᐝ | [qddVbjWaHd](https://discord.gg/qddVbjWaHd) | 2025-05-08T01:15:56+00:00 | 1369629777299898379 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369473180451868792/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">cr7 | /neymar \| cr7 guild | [tNHbhg4fWq](https://discord.gg/tNHbhg4fWq) | 2025-05-08T01:05:49+00:00 | 1369473180451868792 |
 | <img src="https://cdn.discordapp.com/clan-badges/1293585396743278717/310d9b669d687de773b5f3b5310ca1f3.png?size=32" width="24">Muﬃn | .gg/HEhTRCu3p7 - Muffin Tag | [HEhTRCu3p7](https://discord.gg/HEhTRCu3p7) | 2025-05-08T01:05:49+00:00 | 1293585396743278717 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779504074985475/871622d8e68c1402786cbfe8ee329c7f.png?size=32" width="24">1912 | br type shit | [JM5ZWStSAn](https://discord.gg/JM5ZWStSAn) | 2025-05-08T01:05:48+00:00 | 1369779504074985475 |
@@ -1196,6 +1197,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369776288952352870/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">⁀ᴥ⁀ | 𝙏𝙖𝙜  ⁀ᴥ⁀ \| 𝙐𝙬𝙐 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 | [YsUC3JSDj8](https://discord.gg/YsUC3JSDj8) | 1369776288952352870 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369381965329076265/788a69567671fb4d110432beeada67b6.png?size=32" width="24">⁶⁶⁶ | 666 tag | [38HQ2ghKQX](https://discord.gg/38HQ2ghKQX) | 1369381965329076265 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369461482051604571/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">⁹⁹⁹ | 999 Mini | [J8mftfeH3w](https://discord.gg/J8mftfeH3w) | 1369461482051604571 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369629777299898379/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">₊ᐝ | ₊ᐝ Heiuwu ₊ᐝ | [qddVbjWaHd](https://discord.gg/qddVbjWaHd) | 1369629777299898379 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369675435713237123/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">₳DMN | ₳DMN Guild TAG #Open | [EpfzBpR2KU](https://discord.gg/EpfzBpR2KU) | 1369675435713237123 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369545772210716733/bd82a508b43d7affd4d6585f98b7fcbf.png?size=32" width="24">⎚-⎚ | Sunglasses Tag \| ⎚-⎚ | [PdyBWRmEdG](https://discord.gg/PdyBWRmEdG) | 1369545772210716733 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369790886770114560/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">⸆⸉ | Swift Tag | [SSNFaVTQ6P](https://discord.gg/SSNFaVTQ6P) | 1369790886770114560 |

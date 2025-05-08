@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1156969632658378842/23a30ec07044815d2252ade3f1c87125.png?size=32" width="24">SOᗪᗩ | 🍹જ⁀➴ ♡ 𝕊𝕠𝕕𝕒  𝔸𝕕𝕕𝕚𝕔𝕥𝕤 ♡🍹 | [gt4RTANjwA](https://discord.gg/gt4RTANjwA) | 2025-05-08T05:50:40+00:00 | 1156969632658378842 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369670400203821099/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">Aura | Darkmoon x Aura | [Gy3evN5P7g](https://discord.gg/Gy3evN5P7g) | 2025-05-08T05:45:35+00:00 | 1369670400203821099 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369703758824738937/af8bb7cbe96e5216c4726bec6e84cd4e.png" width="24">SRT | /SRT | [neV5mRUpDF](https://discord.gg/neV5mRUpDF) | 2025-05-08T05:40:30+00:00 | 1369703758824738937 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730928947101898/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">Deaᵺ | Death Tag (.gg/staffs) | [JY6bZGXHCz](https://discord.gg/JY6bZGXHCz) | 2025-05-08T05:35:25+00:00 | 1369730928947101898 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369350606803828736/80e49bbcd08c608a6f49671e2d0828da.png?size=32" width="24">ﬂash | #flash | [TrYWsRGyGn](https://discord.gg/TrYWsRGyGn) | 2025-05-08T01:46:31+00:00 | 1369350606803828736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730227558940692/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">SBZ | silly sbz | [297gwYUtGJ](https://discord.gg/297gwYUtGJ) | 2025-05-08T01:46:31+00:00 | 1369730227558940692 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641766667681873/b53a5478bb7a386492cb9b40b0fc9fff.png?size=32" width="24">FE!N | FE!N ✰ | [XuVx4waeQx](https://discord.gg/XuVx4waeQx) | 2025-05-08T01:41:26+00:00 | 1369641766667681873 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369745012241465467/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">GYAT | Hello Kitty | [wsJtG4Sxcn](https://discord.gg/wsJtG4Sxcn) | 2025-05-08T01:41:26+00:00 | 1369745012241465467 |
 
 </details>
 
@@ -815,6 +815,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369614205468016650/04cee49fbcaa69a71206ccb637470e72.png?size=32" width="24">SOL | [SOL] Server Tag | [UH9qh9pjS3](https://discord.gg/UH9qh9pjS3) | 1369614205468016650 |
 | <img src="https://cdn.discordapp.com/clan-badges/786437953299021844/856cecbf8055036b98cf05fd54cd8872.png?size=32" width="24">SOUL | Celestrial Boundaries | [celestrials](https://discord.gg/celestrials) | 786437953299021844 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742716753154108/be9690734b306c2a5d4f98cdd8cb97b3.png?size=32" width="24">SOUR | SOUR💜 | [tBHTHVcQWV](https://discord.gg/tBHTHVcQWV) | 1369742716753154108 |
+| <img src="https://cdn.discordapp.com/clan-badges/1156969632658378842/23a30ec07044815d2252ade3f1c87125.png?size=32" width="24">SOᗪᗩ | 🍹જ⁀➴ ♡ 𝕊𝕠𝕕𝕒  𝔸𝕕𝕕𝕚𝕔𝕥𝕤 ♡🍹 | [gt4RTANjwA](https://discord.gg/gt4RTANjwA) | 1156969632658378842 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724789161459732/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">SPRK | Tag server | [2MUg4JWavx](https://discord.gg/2MUg4JWavx) | 1369724789161459732 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369805534894624828/6a829634910fca34b3d90e74dc3a3fc8.png?size=32" width="24">SQCL | Square Cloud Tag | [xbJjWAzTBZ](https://discord.gg/xbJjWAzTBZ) | 1369805534894624828 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369703758824738937/af8bb7cbe96e5216c4726bec6e84cd4e.png" width="24">SRT | /SRT | [neV5mRUpDF](https://discord.gg/neV5mRUpDF) | 1369703758824738937 |

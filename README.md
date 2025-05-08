@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369545694511366217/7fbff065428fa894247f0ab804f40c79.png?size=32" width="24">GOJO | tobey is gay | [h7pUYkcqcx](https://discord.gg/h7pUYkcqcx) | 2025-05-08T03:38:46+00:00 | 1369545694511366217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369538167291777045/9d9a3041a1166f03c8c0e05c00930db5.png?size=32" width="24">爪YŦH | 爪YŦHØS | [mythoss](https://discord.gg/mythoss) | 2025-05-08T03:33:42+00:00 | 1369538167291777045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369792889521176657/a298c1124b18c32e0823e81c65ffd42c.png?size=32" width="24">CNC | CNC | [m5equGCugr](https://discord.gg/m5equGCugr) | 2025-05-08T03:33:40+00:00 | 1369792889521176657 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369591027165560895/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">xo | just xo, bye | [KtnpHYxMde](https://discord.gg/KtnpHYxMde) | 2025-05-08T03:33:40+00:00 | 1369591027165560895 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1343265522250154054/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">sIut | Private Server | [M7RjxfUhPq](https://discord.gg/M7RjxfUhPq) | 2025-05-08T01:01:36+00:00 | 1343265522250154054 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757421848887448/ed0d1a4b2e6b95318a78d0a136dc85c6.png?size=32" width="24">STAR | SUPERSTARS \| Guild Tags | [D6uvNtYYNF](https://discord.gg/D6uvNtYYNF) | 2025-05-08T01:01:36+00:00 | 1369757421848887448 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369758876596961402/18a6033b09a10acad931e517ffe3e3d1.png?size=32" width="24">WISH | wish \| .gg/doyoung | [minjae](https://discord.gg/minjae) | 2025-05-08T01:01:36+00:00 | 1369758876596961402 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369809530535546941/0453d6f081e4f524e447f2158ddc9c63.png?size=32" width="24">&gt;ᴗ&lt; | Glitched Da Kitty Cat Production&#x27;s Tag | [XezAr9dHT6](https://discord.gg/XezAr9dHT6) | 2025-05-08T01:01:35+00:00 | 1369809530535546941 |
 
 </details>
 
@@ -492,6 +492,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369720664013144154/71fa55af26be530526e05ad3b28b960e.png?size=32" width="24">GOD | /lured GOD tag | [bMBhsRzbYz](https://discord.gg/bMBhsRzbYz) | 1369720664013144154 |
 | <img src="https://cdn.discordapp.com/clan-badges/1171134634684334132/a8cf48b329c3a54d9bc220620b13a802.png?size=32" width="24">GODS | TheCohen&#x27;s Server Badge | [aeuGTE5rmv](https://discord.gg/aeuGTE5rmv) | 1171134634684334132 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369668157484306472/0b12e5bd03a5d70d917e6a05c7521f0c.png?size=32" width="24">GOJO | GOJO TAG・CHAT・SERVER・ARCHIVE | [gojotag](https://discord.gg/gojotag) | 1369668157484306472 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369545694511366217/7fbff065428fa894247f0ab804f40c79.png?size=32" width="24">GOJO | tobey is gay | [h7pUYkcqcx](https://discord.gg/h7pUYkcqcx) | 1369545694511366217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369167060462080081/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">GOOG | Soggy Cat Tag \| .gg/sakoras | [usV54X3hUE](https://discord.gg/usV54X3hUE) | 1369167060462080081 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369419942474027058/2ff4e3daede462956125a53c95c8e9e5.png?size=32" width="24">GOON | goon \| .gg/fg  for 30+ free guilds | [FE4tC7GBVZ](https://discord.gg/FE4tC7GBVZ) | 1369419942474027058 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369722977683509340/cdbe0c1312b79cf2c7b0398e37821090.png?size=32" width="24">GOON | /bait (#GOON) | [DM5p5rxrMz](https://discord.gg/DM5p5rxrMz) | 1369722977683509340 |

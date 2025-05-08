@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369782256104640512/b7dfa1f2bd021d855682ea83bde4d540.png" width="24">COPS | cops | [qUkBJQQFE5](https://discord.gg/qUkBJQQFE5) | 2025-05-08T20:30:31+00:00 | 1369782256104640512 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369366272327811093/dc61eaed9e8b012148661df1ada874e6.png" width="24">WiFi | #WiFi | [VXpX6TU8](https://discord.gg/VXpX6TU8) | 2025-05-08T20:19:35+00:00 | 1369366272327811093 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765418230616105/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">999 | PRITAM X 999 | [tmcbcqrZ](https://discord.gg/tmcbcqrZ) | 2025-05-08T19:54:05+00:00 | 1369765418230616105 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369752419298447461/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">۟۟ | ! Guild Tag Method Free ! | [t25A7PEREs](https://discord.gg/t25A7PEREs) | 2025-05-08T18:47:37+00:00 | 1369752419298447461 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369729986734325832/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">F@G | F@g tag - Apothecary Diaries | [wsyrr7RuVf](https://discord.gg/wsyrr7RuVf) | 2025-05-08T17:05:08+00:00 | 1369729986734325832 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750643996098662/86735389348f3eacfa519eb553df38fd.png" width="24">GDN | Gare Du Nord | [3KyAY4T69s](https://discord.gg/3KyAY4T69s) | 2025-05-08T17:05:08+00:00 | 1369750643996098662 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369090516700102687/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">知神者 | Gnog Studios | [gnostic](https://discord.gg/gnostic) | 2025-05-08T17:05:08+00:00 | 1369090516700102687 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370077609953591387/66cde1189ceaa09f245177a95dade56c.png" width="24">DIE | DIE | [qPY8XaFCMB](https://discord.gg/qPY8XaFCMB) | 2025-05-08T17:05:07+00:00 | 1370077609953591387 |
 
 </details>
 
@@ -404,6 +404,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369346270057201704/b2c0d59dd264670cfe5aff8b0cce091d.png" width="24">COKE | COKE \| .gg/coketag | [coketag](https://discord.gg/coketag) | 1369346270057201704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369298648269062164/1e94e7a4d9c4112e9d891fcbbe122ffc.png" width="24">COOL | Only for cool | [Pv5rMkbcQv](https://discord.gg/Pv5rMkbcQv) | 1369298648269062164 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369315710647664680/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">COOL | ceo | [equip](https://discord.gg/equip) | 1369315710647664680 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369782256104640512/b7dfa1f2bd021d855682ea83bde4d540.png" width="24">COPS | cops | [qUkBJQQFE5](https://discord.gg/qUkBJQQFE5) | 1369782256104640512 |
 | <img src="https://cdn.discordapp.com/clan-badges/997205363545878648/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">CORN | Neva&#x27;s Silly Guild! \| .cornball | [qVU5AktcYC](https://discord.gg/qVU5AktcYC) | 997205363545878648 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369655005698592838/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">CR7 | CR7 \| .gg/evobot | [w7KwzweJGE](https://discord.gg/w7KwzweJGE) | 1369655005698592838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369628434925490249/a1a8d7066521a13ede4b94de530e98b5.png" width="24">CRIA | OS CRIAS - TAG | [Eb7UT3TPdU](https://discord.gg/Eb7UT3TPdU) | 1369628434925490249 |

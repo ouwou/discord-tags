@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369672831125815336/de8656b2e6c0f826ebe803d1e465d168.png?size=32" width="24">SHU | SHU GOD TIER | [dgY6ZN5nNv](https://discord.gg/dgY6ZN5nNv) | 2025-05-08T16:43:30+00:00 | 1369672831125815336 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369688202025369710/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">헤으응 | .gg/subcommunity 헤으응 | [2yqkP9H5We](https://discord.gg/2yqkP9H5We) | 2025-05-08T16:43:30+00:00 | 1369688202025369710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370038563151810560/7dab94a4e61ea6cba013e279fa96a5dd.png?size=32" width="24">RNDY | Randy | [Aw4JzPSutf](https://discord.gg/Aw4JzPSutf) | 2025-05-08T16:33:21+00:00 | 1370038563151810560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369743883646271548/4ef966b9bdd3ca7155e184e893314cd6.png?size=32" width="24">່່ | Tag Invisible Officiel | [4vvG94QpeZ](https://discord.gg/4vvG94QpeZ) | 2025-05-08T16:33:20+00:00 | 1369743883646271548 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369772301306040340/fd9a0c01e10d280af3f5662c009a3eca.png?size=32" width="24">gojo | wat da dog doin v2 | [mN5tt8Zyqa](https://discord.gg/mN5tt8Zyqa) | 2025-05-08T16:33:20+00:00 | 1369772301306040340 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1118562379882577960/3135ff11e6e2f558840b4cab1df4c34e.png?size=32" width="24">DOG | # DOGㅣfree tag serverㅣkorea | [jCgSB6gh86](https://discord.gg/jCgSB6gh86) | 2025-05-08T15:16:10+00:00 | 1118562379882577960 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754086538350734/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">PAID | #PAID \| /draxonshopp | [vA7CJ9v5dv](https://discord.gg/vA7CJ9v5dv) | 2025-05-08T15:16:10+00:00 | 1369754086538350734 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369644891273171065/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">中華製品 | チャイナタウン | [3hBfj3ETP6](https://discord.gg/3hBfj3ETP6) | 2025-05-08T15:16:07+00:00 | 1369644891273171065 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369714476705910915/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">ᐢ..ᐢ | ᐢ..ᐢ 　　[　.gg/furina　] | [dN6HRJbWe6](https://discord.gg/dN6HRJbWe6) | 2025-05-08T15:16:07+00:00 | 1369714476705910915 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369716515120746618/e929e1c0111f2acf104ba53aefc5ee44.png?size=32" width="24">원더호이 | .gg/subcommunity 원더호이 | [DKNzUSu3N9](https://discord.gg/DKNzUSu3N9) | 2025-05-08T15:16:07+00:00 | 1369716515120746618 |
 
 </details>
 
@@ -921,6 +921,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1354496567448568259/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">SEXY | /𝙀𝙣𝙛𝙧𝙞𝙖𝙧 | [Enfriar](https://discord.gg/Enfriar) | 1354496567448568259 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369574771276120074/59c0f381f2399f5317d14ebcda909857.png" width="24">SHOP | #Shop .gg/shoptag | [rw574YzEsk](https://discord.gg/rw574YzEsk) | 1369574771276120074 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369354296465821729/4bca913c9b2106ed777541ec65def38c.png?size=32" width="24">SHU | Shu | [tjyaDuGMN3](https://discord.gg/tjyaDuGMN3) | 1369354296465821729 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369672831125815336/de8656b2e6c0f826ebe803d1e465d168.png?size=32" width="24">SHU | SHU GOD TIER | [dgY6ZN5nNv](https://discord.gg/dgY6ZN5nNv) | 1369672831125815336 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369537334126837913/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">SHY | shy | [QS3KV6cKqy](https://discord.gg/QS3KV6cKqy) | 1369537334126837913 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369734211510075526/f5c65dd1828489c46adc925e85296164.png?size=32" width="24">SIN | SINNERS #GUILD | [ysPPVZuEPS](https://discord.gg/ysPPVZuEPS) | 1369734211510075526 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369329893468409866/dfada063e85be8622c80d5a172fe3750.png?size=32" width="24">SIT | www.startit.bot – #SIT tag | [kqJUqK3qCc](https://discord.gg/kqJUqK3qCc) | 1369329893468409866 |
@@ -1744,6 +1745,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369797737989542019/b6f5250aaefd671e7af570b8250f3e33.png?size=32" width="24">파도 | 𝐵𝑙𝑢𝑒 𝑜𝑛 𝑡ℎ𝑒 𝑅𝑢𝑛 | [9JeVSmsxvB](https://discord.gg/9JeVSmsxvB) | 1369797737989542019 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369688398830243971/8193f009e04ca927cdfabb6a161435df.png?size=32" width="24">퍼리조아 | 퍼리코드 | [79gWQJYZSq](https://discord.gg/79gWQJYZSq) | 1369688398830243971 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369247398974722158/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">한국전력 | Free Server Korea TAG &#x27;한국전력&#x27; | [nkd3BpHj6W](https://discord.gg/nkd3BpHj6W) | 1369247398974722158 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369688202025369710/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">헤으응 | .gg/subcommunity 헤으응 | [2yqkP9H5We](https://discord.gg/2yqkP9H5We) | 1369688202025369710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369479381965078528/f41a12010ec3a7623a8ed9dea2c888e3.png?size=32" width="24">현아 | @ [hyuna] all in | [g5crkh3ecC](https://discord.gg/g5crkh3ecC) | 1369479381965078528 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369523064068509736/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">호요버스 | [ 호요버스 태그 ] | [KZnGn6PJWw](https://discord.gg/KZnGn6PJWw) | 1369523064068509736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369376752488677537/873d5b72afaf25f9540db843094560cc.png?size=32" width="24">ﬁgma | Figma Tag | [XdJpUAsgWv](https://discord.gg/XdJpUAsgWv) | 1369376752488677537 |

@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369975860089720863/84412606536488d76915487613779361.png?size=32" width="24">EZGG | Easy.GG [EZGG] | [NCytVSsvAA](https://discord.gg/NCytVSsvAA) | 2025-05-08T18:01:31+00:00 | 1369975860089720863 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369791862571012267/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">Gods | gods | [KxfhZAF4mw](https://discord.gg/KxfhZAF4mw) | 2025-05-08T18:01:31+00:00 | 1369791862571012267 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369308868298932294/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">۟۟ | aabot┃dsc.gg/aabot | [8QJp5dMVZQ](https://discord.gg/8QJp5dMVZQ) | 2025-05-08T18:01:30+00:00 | 1369308868298932294 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764372531908609/c3fef549b04bc7913a6f5d59b79e24fe.png?size=32" width="24">ೀ ݁ | /𝓎umii 𓂃  guild tag | [AvRjfqvkRu](https://discord.gg/AvRjfqvkRu) | 2025-05-08T17:56:25+00:00 | 1369764372531908609 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778356945686628/051ae99f8d07959928125c1a64b56507.png?size=32" width="24">VIBE | Vibe guild | [Gn6W79vtpU](https://discord.gg/Gn6W79vtpU) | 2025-05-08T17:51:19+00:00 | 1369778356945686628 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641649453400135/66e6116fb71622d52bed149a17914270.png?size=32" width="24">SROV | SROV Guild Tag | [WgxfgRSA5u](https://discord.gg/WgxfgRSA5u) | 2025-05-08T17:51:18+00:00 | 1369641649453400135 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369743883646271548/4ef966b9bdd3ca7155e184e893314cd6.png?size=32" width="24">່່ | Tag Invisible Officiel | [4vvG94QpeZ](https://discord.gg/4vvG94QpeZ) | 2025-05-08T17:05:04+00:00 | 1369743883646271548 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370072155089539235/c8d016eed5c8752316ca38fdd54380c6.png?size=32" width="24">444 | 444 #Tag | [e7wPWJ7fYX](https://discord.gg/e7wPWJ7fYX) | 2025-05-08T17:05:04+00:00 | 1370072155089539235 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369619015688781859/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">#1 | #1・Guild | [eYxQBx4AAf](https://discord.gg/eYxQBx4AAf) | 2025-05-08T17:05:04+00:00 | 1369619015688781859 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369726531143995395/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">۟۟ | BEST GUILDS BY INTRUSIF | [D2rvvqVQ3T](https://discord.gg/D2rvvqVQ3T) | 2025-05-08T17:05:04+00:00 | 1369726531143995395 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369474908198928424/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">۟۟ | ۟۟ONLY FOR TOP - .gg/uhq | [fNGNpbEdTJ](https://discord.gg/fNGNpbEdTJ) | 2025-05-08T17:05:04+00:00 | 1369474908198928424 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369773769245327432/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">۟۟ | SUPERSTARS \| 20+ Free Guilds | [NDueKyXthG](https://discord.gg/NDueKyXthG) | 2025-05-08T17:05:03+00:00 | 1369773769245327432 |
 
 </details>
 
@@ -481,6 +481,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369661426360389644/a096c02b558e6bcff7b1c10269fb6cd5.png?size=32" width="24">EVER | Every /every \| .gg/sunytag | [NjEjtA7Put](https://discord.gg/NjEjtA7Put) | 1369661426360389644 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369166059323785306/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">EVIL | .gg/yea [EVIL] | [3qPNpbdneZ](https://discord.gg/3qPNpbdneZ) | 1369166059323785306 |
 | <img src="https://cdn.discordapp.com/clan-badges/986691543102529546/500be9a65c7c74da48866d6bba3d3b2f.png?size=32" width="24">EZ | VALORANT IL | [valorantil](https://discord.gg/valorantil) | 986691543102529546 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369975860089720863/84412606536488d76915487613779361.png?size=32" width="24">EZGG | Easy.GG [EZGG] | [NCytVSsvAA](https://discord.gg/NCytVSsvAA) | 1369975860089720863 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369539576430854215/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">Eboy | Yellow Eboy \| Guild | [KUXnM2bv4t](https://discord.gg/KUXnM2bv4t) | 1369539576430854215 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369231493460660265/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">Ero | Guild tag server | [2mdVazde3D](https://discord.gg/2mdVazde3D) | 1369231493460660265 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369375121349017641/d8000864f928c7ec3703d49e407a309d.png?size=32" width="24">EИD | Theory of End | [JPF6adz6pj](https://discord.gg/JPF6adz6pj) | 1369375121349017641 |
@@ -594,6 +595,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369426487677292554/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">Ghoﬆ | Ghost \| .gg/evobot | [2eCknSYZQS](https://discord.gg/2eCknSYZQS) | 1369426487677292554 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369284026136924190/822a7fe50603c9529cf07bb147b63d22.png?size=32" width="24">God | GOD Tag | [JHkWuTnSya](https://discord.gg/JHkWuTnSya) | 1369284026136924190 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369569648894545983/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">God | ⚡┃God | [qWwmqC2F9U](https://discord.gg/qWwmqC2F9U) | 1369569648894545983 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369791862571012267/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">Gods | gods | [KxfhZAF4mw](https://discord.gg/KxfhZAF4mw) | 1369791862571012267 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724682974003331/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">Goku | Transcedental | [Ks8z7w5Vvt](https://discord.gg/Ks8z7w5Vvt) | 1369724682974003331 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369464843475750972/563254c35aa937ef5de42b75558697cb.png?size=32" width="24">Goon | Visionary [Goon] | [m3YypkCTMT](https://discord.gg/m3YypkCTMT) | 1369464843475750972 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369653702650236938/88fc0857f4eb00228d81e1b37920b0a9.png?size=32" width="24">Gura | /ᐠ. ̫ .ᐟ\\ 𝐓𝐚𝐠 \| 𝐆𝐮𝐫𝐚 | [YzYv5gGTRx](https://discord.gg/YzYv5gGTRx) | 1369653702650236938 |
@@ -1553,6 +1555,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369590574096842858/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">۟۟ | Selling guilds $1 (PayPal, Cash app, Crypto) | [dmEkyMDvfK](https://discord.gg/dmEkyMDvfK) | 1369590574096842858 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369474908198928424/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">۟۟ | ۟۟ONLY FOR TOP - .gg/uhq | [fNGNpbEdTJ](https://discord.gg/fNGNpbEdTJ) | 1369474908198928424 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369678013448323132/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">۟۟ | ! lol | [Pc3CJnbNPu](https://discord.gg/Pc3CJnbNPu) | 1369678013448323132 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369308868298932294/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">۟۟ | aabot┃dsc.gg/aabot | [8QJp5dMVZQ](https://discord.gg/8QJp5dMVZQ) | 1369308868298932294 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369746546777788426/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">۟۟ ⸸ | Static \|\| #tag | [Ywma2k8rEz](https://discord.gg/Ywma2k8rEz) | 1369746546777788426 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369595893967491122/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">۟۟ ⸸ | @⸸ tag \| .gg/gds | [crmZSzjnmf](https://discord.gg/crmZSzjnmf) | 1369595893967491122 |
 | <img src="https://cdn.discordapp.com/clan-badges/1140971324961992795/abd42a78b64b3b5f7204eb72fb1ac549.png?size=32" width="24">۟۟XP | #eXPerience | [GREnfXjRHX](https://discord.gg/GREnfXjRHX) | 1140971324961992795 |

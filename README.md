@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369983648316657706/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">EXDM | exdm is Excidium | [exdm](https://discord.gg/exdm) | 2025-05-08T18:17:02+00:00 | 1369983648316657706 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369772821424771163/9af2eb0bddbbf5119015bdb621cb323e.png?size=32" width="24">SNØ | PV #SNO | [CXgFpbsN6n](https://discord.gg/CXgFpbsN6n) | 2025-05-08T18:17:02+00:00 | 1369772821424771163 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369638769774301265/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">POW | PowerSeeks Esport | [eYA3fmy2qS](https://discord.gg/eYA3fmy2qS) | 2025-05-08T18:11:55+00:00 | 1369638769774301265 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369809167988162690/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">ZTX | ZTX Private \| GUILD | [B25VycUaRP](https://discord.gg/B25VycUaRP) | 2025-05-08T18:11:55+00:00 | 1369809167988162690 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369694939289620510/8d3b44725bee678511de8418c4174071.png?size=32" width="24">69 | 69 (.gg/atrofiados) | [jHzRa9fQRT](https://discord.gg/jHzRa9fQRT) | 2025-05-08T18:06:37+00:00 | 1369694939289620510 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369944029718122566/2a4b6215cd6903406b9e7ff62609350f.png?size=32" width="24">ahok | ahok ri 1 | [eqg9Uftdyw](https://discord.gg/eqg9Uftdyw) | 2025-05-08T17:05:06+00:00 | 1369944029718122566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369458068408111104/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">667 | 667 | [WX6gTVZuHH](https://discord.gg/WX6gTVZuHH) | 2025-05-08T17:05:05+00:00 | 1369458068408111104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369708031511629957/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">4eva | 404 | [TGxmNJbUPr](https://discord.gg/TGxmNJbUPr) | 2025-05-08T17:05:05+00:00 | 1369708031511629957 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369586684991242250/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">86 | 86 | [pX6PBV8J](https://discord.gg/pX6PBV8J) | 2025-05-08T17:05:05+00:00 | 1369586684991242250 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369743883646271548/4ef966b9bdd3ca7155e184e893314cd6.png?size=32" width="24">່່ | Tag Invisible Officiel | [4vvG94QpeZ](https://discord.gg/4vvG94QpeZ) | 2025-05-08T17:05:04+00:00 | 1369743883646271548 |
 
 </details>
 
@@ -477,6 +477,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369355517746610176/b6f6582eb0301ce069e00b2a99323975.png" width="24">EVA | ЭЙВ | [7DzEDt7m](https://discord.gg/7DzEDt7m) | 1369355517746610176 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369661426360389644/a096c02b558e6bcff7b1c10269fb6cd5.png?size=32" width="24">EVER | Every /every \| .gg/sunytag | [NjEjtA7Put](https://discord.gg/NjEjtA7Put) | 1369661426360389644 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369166059323785306/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">EVIL | .gg/yea [EVIL] | [3qPNpbdneZ](https://discord.gg/3qPNpbdneZ) | 1369166059323785306 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369983648316657706/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">EXDM | exdm is Excidium | [exdm](https://discord.gg/exdm) | 1369983648316657706 |
 | <img src="https://cdn.discordapp.com/clan-badges/986691543102529546/500be9a65c7c74da48866d6bba3d3b2f.png?size=32" width="24">EZ | VALORANT IL | [valorantil](https://discord.gg/valorantil) | 986691543102529546 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369975860089720863/84412606536488d76915487613779361.png?size=32" width="24">EZGG | Easy.GG [EZGG] | [NCytVSsvAA](https://discord.gg/NCytVSsvAA) | 1369975860089720863 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369539576430854215/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">Eboy | Yellow Eboy 💛 \| Guildtag | [KUXnM2bv4t](https://discord.gg/KUXnM2bv4t) | 1369539576430854215 |
@@ -958,6 +959,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369397171841138759/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">SLUТ | 🌺THE ✨SLUТ✨ TAG ! | [dZvp2zPR9B](https://discord.gg/dZvp2zPR9B) | 1369397171841138759 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369392427550511134/4f25524787fd4a78abbe4cf889599ea7.png?size=32" width="24">SNIP | SNIP TAG - CHAT- COD CUMMUNITY - #PPIKS GUILDS | [PazC257D28](https://discord.gg/PazC257D28) | 1369392427550511134 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369174127801405492/bb6f447245dd4c9243d2aeb61d26154d.png?size=32" width="24">SNOW | This is SNOW joke! | [ZJkbJC42WM](https://discord.gg/ZJkbJC42WM) | 1369174127801405492 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369772821424771163/9af2eb0bddbbf5119015bdb621cb323e.png?size=32" width="24">SNØ | PV #SNO | [CXgFpbsN6n](https://discord.gg/CXgFpbsN6n) | 1369772821424771163 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369334825022132335/7dbdc279561c48a6d73a4847a9c65913.png?size=32" width="24">SOFT | soft \| .gg/fg  for 30+ free guilds | [nfEbNjkG9B](https://discord.gg/nfEbNjkG9B) | 1369334825022132335 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370009123189424209/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">SOKA | SOKA | [AEHGhqNtdN](https://discord.gg/AEHGhqNtdN) | 1370009123189424209 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614205468016650/04cee49fbcaa69a71206ccb637470e72.png?size=32" width="24">SOL | [SOL] Server Tag | [UH9qh9pjS3](https://discord.gg/UH9qh9pjS3) | 1369614205468016650 |

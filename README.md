@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369731511690989759/da6cdb756dce783c6793289239ac55a2.png?size=32" width="24">yuna | yuna&#x27;s world | [hv9Dk6PdvQ](https://discord.gg/hv9Dk6PdvQ) | 2025-05-08T05:04:57+00:00 | 1369731511690989759 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369896287926882345/f9c0bf666a819be6aff3b7f3b0afc008.png?size=32" width="24">국밥 | 국밥 태그 | [pnFCRDNxN9](https://discord.gg/pnFCRDNxN9) | 2025-05-08T05:04:57+00:00 | 1369896287926882345 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369598214402998303/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ᴄᴜɴᴛ | cunt 🩷 | [Av8YjfwcZB](https://discord.gg/Av8YjfwcZB) | 2025-05-08T04:59:52+00:00 | 1369598214402998303 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724789161459732/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">SPRK | Tag server | [2MUg4JWavx](https://discord.gg/2MUg4JWavx) | 2025-05-08T04:54:48+00:00 | 1369724789161459732 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369867348374327306/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">rose | /Rose | [ChxKy3v8pe](https://discord.gg/ChxKy3v8pe) | 2025-05-08T04:54:47+00:00 | 1369867348374327306 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369785712156606676/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">ˆ𐃷ˆ | /matchingpfps  ﹕ˆ𐃷ˆ   tag | [WwgV2dP2GA](https://discord.gg/WwgV2dP2GA) | 2025-05-08T01:36:20+00:00 | 1369785712156606676 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749400770973837/3ca9fe6ac5089304899e2dbfd4c4824d.png?size=32" width="24">࣪  ˖ | ／𝑐ℎ𝑒𝑟𝑖𝑒𝑠 | [3qEmxey4ya](https://discord.gg/3qEmxey4ya) | 2025-05-08T01:31:16+00:00 | 1369749400770973837 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369592308441288704/7e951786432b0c1e39e9c9daefcbfacf.png?size=32" width="24">FURY | FuryVerse | [xgQu9rnW6d](https://discord.gg/xgQu9rnW6d) | 2025-05-08T01:31:16+00:00 | 1369592308441288704 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369827583910350919/45dec9cc747ee3949b568836f2a1adbf.png?size=32" width="24">RICH | RICH \| .gg/P3xxVpuSz2 | [P3xxVpuSz2](https://discord.gg/P3xxVpuSz2) | 2025-05-08T01:31:16+00:00 | 1369827583910350919 |
-| <img src="https://cdn.discordapp.com/clan-badges/208675884377309194/76e358d951d7bb7d73d4c80ea0b064a5.png?size=32" width="24">AZIR | Azir Mains💜 | [HsgztrxSyh](https://discord.gg/HsgztrxSyh) | 2025-05-08T01:26:08+00:00 | 208675884377309194 |
 
 </details>
 
@@ -1242,6 +1242,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369460292177891408/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">xٴٴ | incode | [DMA](https://discord.gg/DMA) | 1369460292177891408 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369248197498896394/cf84fdb035bcacef2adf002d28a021d2.png" width="24">yay | :3 \| discord.gg/mahae | [mahae](https://discord.gg/mahae) | 1369248197498896394 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369712171386277888/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">yen | .gg/projection #yen | [qSrY4jwBrX](https://discord.gg/qSrY4jwBrX) | 1369712171386277888 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369731511690989759/da6cdb756dce783c6793289239ac55a2.png?size=32" width="24">yuna | yuna&#x27;s world | [hv9Dk6PdvQ](https://discord.gg/hv9Dk6PdvQ) | 1369731511690989759 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369599911678574642/da323979c7c906d2c27374e380f41961.png?size=32" width="24">yuri | 📷 　𖨂　mitsuaya　❀　#yuri | [3sQbXNEKB5](https://discord.gg/3sQbXNEKB5) | 1369599911678574642 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369548234548183090/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">yuri | 🌙 Moonlit Domain | [AARSz4nApm](https://discord.gg/AARSz4nApm) | 1369548234548183090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369667706743296020/b2c0d59dd264670cfe5aff8b0cce091d.png?size=32" width="24">yves | 煙 - yves | [QgvEQKKHYf](https://discord.gg/QgvEQKKHYf) | 1369667706743296020 |
@@ -1451,6 +1452,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369812957554413578/4c6b987648217084cc4371c4f129b87b.png?size=32" width="24">곰도리 | 곰도리 | [PZemcNXPbS](https://discord.gg/PZemcNXPbS) | 1369812957554413578 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369428013866946560/984567fd0ed5af80f1ad3db64782787b.png?size=32" width="24">곽다윗 | Dawit Lovers Club | [8gJTWMpk9z](https://discord.gg/8gJTWMpk9z) | 1369428013866946560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369317936220602419/faf9f7f08b262e9b78aefbb0cd32d32b.png?size=32" width="24">구미호 | 귀여운 나인서버 | [vWMMVUpaJg](https://discord.gg/vWMMVUpaJg) | 1369317936220602419 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369896287926882345/f9c0bf666a819be6aff3b7f3b0afc008.png?size=32" width="24">국밥 | 국밥 태그 | [pnFCRDNxN9](https://discord.gg/pnFCRDNxN9) | 1369896287926882345 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369169676172525578/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">귀욤뽀쨕 | discord.gg/arki [🩷귀욤뽀쨕] | [HFGwqE4DbK](https://discord.gg/HFGwqE4DbK) | 1369169676172525578 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369647496556711959/0bc4a6857f4bd8716268acf5dfcb8834.png?size=32" width="24">뉴진스 | NewJeans - 뉴진스 | [5wVCH7EsCd](https://discord.gg/5wVCH7EsCd) | 1369647496556711959 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369670823237124176/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">뉴진스 | 뉴진스 • 💘 | [yCNxY3qa4T](https://discord.gg/yCNxY3qa4T) | 1369670823237124176 |

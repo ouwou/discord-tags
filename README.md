@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369765107189420112/70b4a0b96a668af3255865fe3ad2e151.png?size=32" width="24">nen | /chrollo #nen guild | [chrolloguild](https://discord.gg/chrolloguild) | 2025-05-08T19:59:11+00:00 | 1369765107189420112 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765418230616105/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">999 | PRITAM X 999 | [tmcbcqrZ](https://discord.gg/tmcbcqrZ) | 2025-05-08T19:54:05+00:00 | 1369765418230616105 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756531603542016/28c2c2aa9ccd050e6a343e4406dad46b.png?size=32" width="24">محبت | محبت　　[　.gg/furina　] | [J5eKkt2KeA](https://discord.gg/J5eKkt2KeA) | 2025-05-08T19:48:59+00:00 | 1369756531603542016 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726885218746559/bc2f7685eed9d27522595f510bb2da48.png?size=32" width="24">A$AP | A$AP Tag | [YTjfd6WH3e](https://discord.gg/YTjfd6WH3e) | 2025-05-08T19:43:54+00:00 | 1369726885218746559 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369677924311109632/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">공주님 | discord.gg/dsa [ ❤공주님 ] | [44u7ykCCJM](https://discord.gg/44u7ykCCJM) | 2025-05-08T17:05:17+00:00 | 1369677924311109632 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757951384097040/6c0e1ccd6a0a0e402cf6d7dda85f47e4.png?size=32" width="24">ＺＯＲＯ | [ＺＯＲＯ] /optags | [eSRtvBN5tq](https://discord.gg/eSRtvBN5tq) | 2025-05-08T17:05:17+00:00 | 1369757951384097040 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219965990289543178/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">yvl | yvl | [kcTy2DjdUa](https://discord.gg/kcTy2DjdUa) | 2025-05-08T17:05:17+00:00 | 1219965990289543178 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369781431592554516/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">ZEBI | zebi | [VPYhTJycCG](https://discord.gg/VPYhTJycCG) | 2025-05-08T17:05:17+00:00 | 1369781431592554516 |
 
 </details>
 
@@ -1375,6 +1375,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369731436323672164/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">myuღ | MYU ⋆˚࿔ CHAT ⋆˚࿔ VC ⋆˚࿔  NITRO | [WhBuBGVxGZ](https://discord.gg/WhBuBGVxGZ) | 1369731436323672164 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370050990899724319/6bc47b59b29cab9a45ba2df85ab7e57b.png?size=32" width="24">mѹai | [mѹai] 🗿 \| dsc.gg/moyai-tag | [7Bbc7pNwuP](https://discord.gg/7Bbc7pNwuP) | 1370050990899724319 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369622622949609522/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">nazі | nazі #guild ! | [tqnPvHknmR](https://discord.gg/tqnPvHknmR) | 1369622622949609522 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369765107189420112/70b4a0b96a668af3255865fe3ad2e151.png?size=32" width="24">nen | /chrollo #nen guild | [chrolloguild](https://discord.gg/chrolloguild) | 1369765107189420112 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369735459391017095/a38d8a9ffae51409870d8609399d1716.png?size=32" width="24">nger | guild | [RfxgtfXKua](https://discord.gg/RfxgtfXKua) | 1369735459391017095 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369522243201274016/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">ngh | ngh | [M3Mus4wt9F](https://discord.gg/M3Mus4wt9F) | 1369522243201274016 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369472680679706624/5d39f7a1d46f53f8596925e6c5f451fc.png?size=32" width="24">nigg | gg/gHsRGAyxC | [gHsRGAyxCQ](https://discord.gg/gHsRGAyxCQ) | 1369472680679706624 |

@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369611256717246556/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">𝟐𐙚 | ღ𝓛𝓤#ᴹᴵᴿᴬ | [Q485wKbFNy](https://discord.gg/Q485wKbFNy) | 2025-05-08T08:02:39+00:00 | 1369611256717246556 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369649883317010474/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">cry | #cry | [HtZrqBm5mh](https://discord.gg/HtZrqBm5mh) | 2025-05-08T08:02:39+00:00 | 1369649883317010474 |
 | <img src="https://cdn.discordapp.com/clan-badges/864467458593128468/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">累死了 | deathbed♡ | [BjZTuurCB9](https://discord.gg/BjZTuurCB9) | 2025-05-08T07:57:35+00:00 | 864467458593128468 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719663025721385/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">ALLY | Alyven Special TAG | [8BndYVrFv6](https://discord.gg/8BndYVrFv6) | 2025-05-08T07:57:34+00:00 | 1369719663025721385 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369409120012075088/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">pure | ︵︵♡ ︵︵ | [skirts](https://discord.gg/skirts) | 2025-05-08T07:57:34+00:00 | 1369409120012075088 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369681587729596426/109f6f8222d42868855dbe7b0a2d4887.png?size=32" width="24">999 | .gg/yea #999 | [WggyKPHUeD](https://discord.gg/WggyKPHUeD) | 2025-05-08T02:52:56+00:00 | 1369681587729596426 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369636288625508392/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">AK47 | .gg/yea #AK47 | [Np7JKYMzzc](https://discord.gg/Np7JKYMzzc) | 2025-05-08T02:52:56+00:00 | 1369636288625508392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369572096060948490/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">CASH | .gg/yea #CASH | [Qj9jW4ZmTY](https://discord.gg/Qj9jW4ZmTY) | 2025-05-08T02:52:56+00:00 | 1369572096060948490 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369573685651832933/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">cut | .gg/yea #cut | [5G2SgyMvjZ](https://discord.gg/5G2SgyMvjZ) | 2025-05-08T02:52:56+00:00 | 1369573685651832933 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369552737016221778/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">⸻⸻⸻⸻ | .gg/yea #⸻⸻⸻⸻ | [9Q45S9E3br](https://discord.gg/9Q45S9E3br) | 2025-05-08T02:52:55+00:00 | 1369552737016221778 |
 
 </details>
 
@@ -1022,6 +1022,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369447764403945604/e25732d4ea617dd046e1ef75e6ce747e.png?size=32" width="24">cry | cry \| .gg/fg  for 30+ free guilds | [PMzME2aMjX](https://discord.gg/PMzME2aMjX) | 1369447764403945604 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769320032374864/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">cry | cry | [SSV5dSfuyc](https://discord.gg/SSV5dSfuyc) | 1369769320032374864 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745120009650356/19616532ccabff69a85686fdbaeff614.png?size=32" width="24">cry | adrian \| cry tag | [DPBxtNvG7Q](https://discord.gg/DPBxtNvG7Q) | 1369745120009650356 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369649883317010474/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">cry | #cry | [HtZrqBm5mh](https://discord.gg/HtZrqBm5mh) | 1369649883317010474 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369573685651832933/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">cut | .gg/yea #cut | [5G2SgyMvjZ](https://discord.gg/5G2SgyMvjZ) | 1369573685651832933 |
 | <img src="https://cdn.discordapp.com/clan-badges/294005213763993601/2f88780a28f912c4de724f293b96ecd2.png?size=32" width="24">cute | The Cute Bakery | [Ta7mtrADZA](https://discord.gg/Ta7mtrADZA) | 294005213763993601 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369287081846898749/036a27b8bfc2e610e0c74802c295c969.png?size=32" width="24">cute | Cute | [YYZHtqGyCQ](https://discord.gg/YYZHtqGyCQ) | 1369287081846898749 |
@@ -1574,4 +1575,5 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369214691280294090/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">𝑶ₓ | 0x - Guild | [CUVAY2JKRJ](https://discord.gg/CUVAY2JKRJ) | 1369214691280294090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369385550720667761/0b5ecfdff2d46f3584e3d0336cf7d4c6.png?size=32" width="24">𝜗𝜚 | 苺𝜗𝜚 | [R3wzFj3HK9](https://discord.gg/R3wzFj3HK9) | 1369385550720667761 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724682974003331/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">𝜗𝜚 | Trancedental | [Ks8z7w5Vvt](https://discord.gg/Ks8z7w5Vvt) | 1369724682974003331 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369611256717246556/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">𝟐𐙚 | ღ𝓛𝓤#ᴹᴵᴿᴬ | [Q485wKbFNy](https://discord.gg/Q485wKbFNy) | 1369611256717246556 |
 

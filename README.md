@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369720756325580831/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">SLOP | SLOP Tag | [kuvbtFTqvy](https://discord.gg/kuvbtFTqvy) | 2025-05-08T02:42:45+00:00 | 1369720756325580831 |
+| <img src="https://cdn.discordapp.com/clan-badges/1311387776893321337/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">SWFT | Taylor Swift Fan Club | [getswiftgg](https://discord.gg/getswiftgg) | 2025-05-08T02:42:45+00:00 | 1311387776893321337 |
+| <img src="https://cdn.discordapp.com/clan-badges/1120401581947494452/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">VLMP | 📋 \| VLMP SMP [ SEASON 2 ] | [5cjYKcgbSZ](https://discord.gg/5cjYKcgbSZ) | 2025-05-08T02:42:45+00:00 | 1120401581947494452 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369785545919561839/950aeaf6df9f76c04fc86d1f7ab8f8aa.png?size=32" width="24">mad | #mad \| .gg/slave | [euTfeCNd8E](https://discord.gg/euTfeCNd8E) | 2025-05-08T02:42:44+00:00 | 1369785545919561839 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369418194225463358/cc9c1fa683ece05ae7d784257ebfd9e1.png?size=32" width="24">gf | girlfriend 𓂃 ♡ /naoi | [6RWZcEWWgJ](https://discord.gg/6RWZcEWWgJ) | 2025-05-08T02:37:40+00:00 | 1369418194225463358 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757045896511598/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&lt;3 | Inflicted&#x27;s Lounge \| &lt;3 | [zRdtsMMbct](https://discord.gg/zRdtsMMbct) | 2025-05-08T02:37:39+00:00 | 1369757045896511598 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369830083354824825/526c19ecb2c60d87bc4a0458ea5643dc.png?size=32" width="24">ame | garden of sweet delights 𖧷 ˚࿔ ‧ ₊˚ | [xZa7wAeXc4](https://discord.gg/xZa7wAeXc4) | 2025-05-08T02:37:39+00:00 | 1369830083354824825 |
@@ -742,6 +746,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369689509645783050/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">SKID | .gg/projection #SKID | [9vuc9cxkJu](https://discord.gg/9vuc9cxkJu) | 1369689509645783050 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369433814023274506/2eec56a7dc26c35b1477ece411342205.png?size=32" width="24">SKLD | SKALEDMAN | [KAa88DzZEs](https://discord.gg/KAa88DzZEs) | 1369433814023274506 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369654968050782290/76e043f03cbdd65e51dbc4b51fbc2caf.png?size=32" width="24">SKZ | STRAY KIDS TAG | [FZKYHwnFRs](https://discord.gg/FZKYHwnFRs) | 1369654968050782290 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369720756325580831/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">SLOP | SLOP Tag | [kuvbtFTqvy](https://discord.gg/kuvbtFTqvy) | 1369720756325580831 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369397171841138759/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">SLUТ | 🌺THE ✨SLUТ✨ TAG ! | [dZvp2zPR9B](https://discord.gg/dZvp2zPR9B) | 1369397171841138759 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369174127801405492/bb6f447245dd4c9243d2aeb61d26154d.png?size=32" width="24">SNOW | This is SNOW joke! | [ZJkbJC42WM](https://discord.gg/ZJkbJC42WM) | 1369174127801405492 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369334825022132335/7dbdc279561c48a6d73a4847a9c65913.png?size=32" width="24">SOFT | soft \| .gg/fg  for 30+ free guilds | [nfEbNjkG9B](https://discord.gg/nfEbNjkG9B) | 1369334825022132335 |
@@ -767,6 +772,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369281246877974640/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">SWAT | ᲼᲼ | [ygf672Dn2Z](https://discord.gg/ygf672Dn2Z) | 1369281246877974640 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369452360937771050/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">SWAT | .gg/nocheat [SWAT] | [vQ5KD86GJy](https://discord.gg/vQ5KD86GJy) | 1369452360937771050 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369047323241353357/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">SWAT | SWAT /backup | [eznfg5mApB](https://discord.gg/eznfg5mApB) | 1369047323241353357 |
+| <img src="https://cdn.discordapp.com/clan-badges/1311387776893321337/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">SWFT | Taylor Swift Fan Club | [getswiftgg](https://discord.gg/getswiftgg) | 1311387776893321337 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369211202214821928/89caebcb65e460fadbb2515ad34037dc.png?size=32" width="24">SZA | /szanation | [DeGmJkVNWx](https://discord.gg/DeGmJkVNWx) | 1369211202214821928 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369771101101621300/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">Saki | Saki | [wB54US5DXF](https://discord.gg/wB54US5DXF) | 1369771101101621300 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369495781085810709/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">Sex | Snowy Community | [W5f6z9tEHZ](https://discord.gg/W5f6z9tEHZ) | 1369495781085810709 |
@@ -822,6 +828,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1029190443491135549/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">VIRT | [VIRT] BOOST = TAG | [SSv8GPJw5f](https://discord.gg/SSv8GPJw5f) | 1029190443491135549 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369728496045265038/df4df07a33de3ff6f0eec9aef104e584.png?size=32" width="24">VISA | VISA $$$ | [NxKpEtXvRz](https://discord.gg/NxKpEtXvRz) | 1369728496045265038 |
 | <img src="https://cdn.discordapp.com/clan-badges/1345461826720370759/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">VIVI | Vivian Mains 𐙚 Zenless Zone Zero | [vivianmains](https://discord.gg/vivianmains) | 1345461826720370759 |
+| <img src="https://cdn.discordapp.com/clan-badges/1120401581947494452/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">VLMP | 📋 \| VLMP SMP [ SEASON 2 ] | [5cjYKcgbSZ](https://discord.gg/5cjYKcgbSZ) | 1120401581947494452 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369536147096866916/ca2932420901d1efb2107897b075072b.png?size=32" width="24">VN | Nova Studio [Tags] | [ymZer2cDad](https://discord.gg/ymZer2cDad) | 1369536147096866916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369339721670721647/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">VOID | VOID | [voidworld](https://discord.gg/voidworld) | 1369339721670721647 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369533044003831958/c4d1831d52614158f78e8961586b9521.png?size=32" width="24">VOID | VOID - Server Tag | [3MQWa9jJJ6](https://discord.gg/3MQWa9jJJ6) | 1369533044003831958 |
@@ -1037,6 +1044,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369692765109227733/ea76d37bcd6f1b0543efcce6c32fe999.png?size=32" width="24">lv | lv | [svDjzWp6DY](https://discord.gg/svDjzWp6DY) | 1369692765109227733 |
 | <img src="https://cdn.discordapp.com/clan-badges/956859692070629447/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">lvrs | ⸝⸝　˙ .　miio　꒷　　mltifndm  ⋮  lvrs tag　.ᐟ | [RzPeJuuY8g](https://discord.gg/RzPeJuuY8g) | 956859692070629447 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369497398438789130/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">lysm | lysm | [qpMXqCtRpp](https://discord.gg/qpMXqCtRpp) | 1369497398438789130 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369785545919561839/950aeaf6df9f76c04fc86d1f7ab8f8aa.png?size=32" width="24">mad | #mad \| .gg/slave | [euTfeCNd8E](https://discord.gg/euTfeCNd8E) | 1369785545919561839 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369363302135758870/40b4ed94a50bdcd5f9c2c4c396e7e9bc.png" width="24">maow | Meowie’s guild | [29SwtqJ9bY](https://discord.gg/29SwtqJ9bY) | 1369363302135758870 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369651608635441243/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">men | Lyno Tag \|  .gg/nxn | [bn5jqP6nGr](https://discord.gg/bn5jqP6nGr) | 1369651608635441243 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369265697196347392/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">meow | minmin&#x27;s meowmeows | [WrfBarSarS](https://discord.gg/WrfBarSarS) | 1369265697196347392 |

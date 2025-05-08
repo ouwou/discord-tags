@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369719218886676480/7c601949ded32a50a2a04730a0f2606c.png?size=32" width="24">榎並杏紗 | EnamiAsa | [nj5DrB6uxw](https://discord.gg/nj5DrB6uxw) | 2025-05-08T03:43:52+00:00 | 1369719218886676480 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369814585892147321/788a69567671fb4d110432beeada67b6.png?size=32" width="24">GONG | 🌺 ➟ Gong Tag | [GONG](https://discord.gg/GONG) | 2025-05-08T03:43:51+00:00 | 1369814585892147321 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369782166279688354/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">solo | Vote 4 New Tag | [cScs9QAvPa](https://discord.gg/cScs9QAvPa) | 2025-05-08T03:43:51+00:00 | 1369782166279688354 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369724682974003331/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">𝜗𝜚 | Trancedental | [Ks8z7w5Vvt](https://discord.gg/Ks8z7w5Vvt) | 2025-05-08T03:43:51+00:00 | 1369724682974003331 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369545694511366217/7fbff065428fa894247f0ab804f40c79.png?size=32" width="24">GOJO | tobey is gay | [h7pUYkcqcx](https://discord.gg/h7pUYkcqcx) | 2025-05-08T03:38:46+00:00 | 1369545694511366217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369538167291777045/9d9a3041a1166f03c8c0e05c00930db5.png?size=32" width="24">爪YŦH | 爪YŦHØS | [mythoss](https://discord.gg/mythoss) | 2025-05-08T03:33:42+00:00 | 1369538167291777045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369792889521176657/a298c1124b18c32e0823e81c65ffd42c.png?size=32" width="24">CNC | CNC | [m5equGCugr](https://discord.gg/m5equGCugr) | 2025-05-08T03:33:40+00:00 | 1369792889521176657 |
@@ -101,10 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1293585396743278717/310d9b669d687de773b5f3b5310ca1f3.png?size=32" width="24">Muﬃn | Muffin Tag | [HEhTRCu3p7](https://discord.gg/HEhTRCu3p7) | 2025-05-08T01:05:49+00:00 | 1293585396743278717 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779504074985475/871622d8e68c1402786cbfe8ee329c7f.png?size=32" width="24">1912 | br type shit | [JM5ZWStSAn](https://discord.gg/JM5ZWStSAn) | 2025-05-08T01:05:48+00:00 | 1369779504074985475 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369812957554413578/4c6b987648217084cc4371c4f129b87b.png?size=32" width="24">곰도리 | 곰도리 | [PZemcNXPbS](https://discord.gg/PZemcNXPbS) | 2025-05-08T01:01:37+00:00 | 1369812957554413578 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369787935024611448/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">ゲメき | Croc | [Tdgtq96evs](https://discord.gg/Tdgtq96evs) | 2025-05-08T01:01:37+00:00 | 1369787935024611448 |
-| <img src="https://cdn.discordapp.com/clan-badges/1343265522250154054/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">sIut | Private Server | [M7RjxfUhPq](https://discord.gg/M7RjxfUhPq) | 2025-05-08T01:01:36+00:00 | 1343265522250154054 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369757421848887448/ed0d1a4b2e6b95318a78d0a136dc85c6.png?size=32" width="24">STAR | SUPERSTARS \| Guild Tags | [D6uvNtYYNF](https://discord.gg/D6uvNtYYNF) | 2025-05-08T01:01:36+00:00 | 1369757421848887448 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369758876596961402/18a6033b09a10acad931e517ffe3e3d1.png?size=32" width="24">WISH | wish \| .gg/doyoung | [minjae](https://discord.gg/minjae) | 2025-05-08T01:01:36+00:00 | 1369758876596961402 |
 
 </details>
 
@@ -493,6 +493,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1171134634684334132/a8cf48b329c3a54d9bc220620b13a802.png?size=32" width="24">GODS | TheCohen&#x27;s Server Badge | [aeuGTE5rmv](https://discord.gg/aeuGTE5rmv) | 1171134634684334132 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369668157484306472/0b12e5bd03a5d70d917e6a05c7521f0c.png?size=32" width="24">GOJO | GOJO TAG・CHAT・SERVER・ARCHIVE | [gojotag](https://discord.gg/gojotag) | 1369668157484306472 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369545694511366217/7fbff065428fa894247f0ab804f40c79.png?size=32" width="24">GOJO | tobey is gay | [h7pUYkcqcx](https://discord.gg/h7pUYkcqcx) | 1369545694511366217 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369814585892147321/788a69567671fb4d110432beeada67b6.png?size=32" width="24">GONG | 🌺 ➟ Gong Tag | [GONG](https://discord.gg/GONG) | 1369814585892147321 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369167060462080081/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">GOOG | Soggy Cat Tag \| .gg/sakoras | [usV54X3hUE](https://discord.gg/usV54X3hUE) | 1369167060462080081 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369419942474027058/2ff4e3daede462956125a53c95c8e9e5.png?size=32" width="24">GOON | goon \| .gg/fg  for 30+ free guilds | [FE4tC7GBVZ](https://discord.gg/FE4tC7GBVZ) | 1369419942474027058 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369722977683509340/cdbe0c1312b79cf2c7b0398e37821090.png?size=32" width="24">GOON | /bait (#GOON) | [DM5p5rxrMz](https://discord.gg/DM5p5rxrMz) | 1369722977683509340 |
@@ -1181,6 +1182,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369717407404392560/354ca0ff90d810dcc8a02be476a18921.png?size=32" width="24">smd | smd | [PT28UvXP8H](https://discord.gg/PT28UvXP8H) | 1369717407404392560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369731883151134893/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">snus | snus | [5s2q2zYbbr](https://discord.gg/5s2q2zYbbr) | 1369731883151134893 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369135096120213504/fc1b9432a2dc86e9f4116a92027b0032.png?size=32" width="24">snuﬀ | snuffs | [snuffs](https://discord.gg/snuffs) | 1369135096120213504 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369782166279688354/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">solo | Vote 4 New Tag | [cScs9QAvPa](https://discord.gg/cScs9QAvPa) | 1369782166279688354 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369589057251840080/7dff089fbee252a67e72a08ae58a0376.png?size=32" width="24">sp | s1 guild | [hAQptQKVeA](https://discord.gg/hAQptQKVeA) | 1369589057251840080 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369777313515835392/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">ss03 | ss03 | [hktZ5szFJx](https://discord.gg/hktZ5szFJx) | 1369777313515835392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369142575017103551/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">star | star /rupture | [Q8F5kTX8dx](https://discord.gg/Q8F5kTX8dx) | 1369142575017103551 |
@@ -1404,6 +1406,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369345861846302800/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">日本 | 日本 | [WQJNhm9n9U](https://discord.gg/WQJNhm9n9U) | 1369345861846302800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369529644893868104/1f2327f3fe1530342cfc88fc9b3c8827.png?size=32" width="24">星空 | 星空 Starry Sky | [cAk5CpGVth](https://discord.gg/cAk5CpGVth) | 1369529644893868104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369307026391302184/772743c05cbbbdd14e6db7de20019004.png?size=32" width="24">東方 | [東方] Touhou \| dsc.gg/guild-tag | [H3NYHsDqZS](https://discord.gg/H3NYHsDqZS) | 1369307026391302184 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369719218886676480/7c601949ded32a50a2a04730a0f2606c.png?size=32" width="24">榎並杏紗 | EnamiAsa | [nj5DrB6uxw](https://discord.gg/nj5DrB6uxw) | 1369719218886676480 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369564982567501915/f150d7d2d1b681f52eba4b7e23cdf565.png?size=32" width="24">淫夢厨 | 淫夢厨#guild tag server | [g8Rgwxcq8u](https://discord.gg/g8Rgwxcq8u) | 1369564982567501915 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369538167291777045/9d9a3041a1166f03c8c0e05c00930db5.png?size=32" width="24">爪YŦH | 爪YŦHØS | [mythoss](https://discord.gg/mythoss) | 1369538167291777045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369487817612202125/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">猫ANM | neko &amp; anime | [55Kg2xdj7D](https://discord.gg/55Kg2xdj7D) | 1369487817612202125 |
@@ -1509,5 +1512,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369341359466741800/59c0f381f2399f5317d14ebcda909857.png?size=32" width="24">𝐼mu | 𝐼𝓂𝓊 place | [NZ3gw767DT](https://discord.gg/NZ3gw767DT) | 1369341359466741800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369214691280294090/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">𝑶ₓ | 0x - Guild | [CUVAY2JKRJ](https://discord.gg/CUVAY2JKRJ) | 1369214691280294090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369385550720667761/0b5ecfdff2d46f3584e3d0336cf7d4c6.png?size=32" width="24">𝜗𝜚 | 苺𝜗𝜚 | [R3wzFj3HK9](https://discord.gg/R3wzFj3HK9) | 1369385550720667761 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369724682974003331/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">𝜗𝜚 | Trancedental | [Ks8z7w5Vvt](https://discord.gg/Ks8z7w5Vvt) | 1369724682974003331 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369136418458304556/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">🪾﷽ | /ICYMI TAGS - 🪾﷽ | [hseb5kpVAK](https://discord.gg/hseb5kpVAK) | 1369136418458304556 |
 

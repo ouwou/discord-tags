@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369552429493784627/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">DLVN | Dylan Guild Tag | [yDe2NwYmfb](https://discord.gg/yDe2NwYmfb) | 2025-05-08T06:05:54+00:00 | 1369552429493784627 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716369624662138/28f60b50b40b7d48b9905838609f298f.png?size=32" width="24">ꈍᴗꈍ | ♡♡﹒Mini /daisies | [Qf5YgHGy69](https://discord.gg/Qf5YgHGy69) | 2025-05-08T06:00:50+00:00 | 1369716369624662138 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369721237621964800/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">DD0S | DD0S [guild] | [CXjNgcHDB3](https://discord.gg/CXjNgcHDB3) | 2025-05-08T05:55:45+00:00 | 1369721237621964800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369788418946629645/8e93438069b411f29a1820f44c63679f.png?size=32" width="24">ODCS | ODCS Tag | [MyFvDKgtAG](https://discord.gg/MyFvDKgtAG) | 2025-05-08T05:55:45+00:00 | 1369788418946629645 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369771174946537522/af4e65cc91665837707a40e35513926c.png?size=32" width="24">KSA | Road | [road1](https://discord.gg/road1) | 2025-05-08T02:01:47+00:00 | 1369771174946537522 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369691398382551090/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">ฅᨐฅ | $$$$ | [RmmdtX43sP](https://discord.gg/RmmdtX43sP) | 2025-05-08T01:56:41+00:00 | 1369691398382551090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369840437707411566/bdfbbb5d8940aaab1d3b3fba13747af7.png?size=32" width="24">KPOP | K-POP | [rBA3AZTNcM](https://discord.gg/rBA3AZTNcM) | 2025-05-08T01:51:37+00:00 | 1369840437707411566 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369790585229148202/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">zz | #zz \| .gg/slave | [MEKZMN7UV7](https://discord.gg/MEKZMN7UV7) | 2025-05-08T01:51:37+00:00 | 1369790585229148202 |
 
 </details>
 
@@ -392,6 +392,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369468366816940052/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DIOR | .gg/slashyea DIOR | [Szg8pNNrD9](https://discord.gg/Szg8pNNrD9) | 1369468366816940052 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369668262388043858/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">DIOR | DIOR \| .gg/sunytag | [HgEXMeCYCj](https://discord.gg/HgEXMeCYCj) | 1369668262388043858 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369472510864658494/58271fb362c4464a4ebead69a2ec0f72.png?size=32" width="24">DIVA | #DIVA - .gg/uhq | [9zBaSNs4Ek](https://discord.gg/9zBaSNs4Ek) | 1369472510864658494 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369552429493784627/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">DLVN | Dylan Guild Tag | [yDe2NwYmfb](https://discord.gg/yDe2NwYmfb) | 1369552429493784627 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369289078725672990/4b70e09b6b8ddf55b5f9dc6816636760.png?size=32" width="24">DMA | DMA Cheese GUILD | [bq3WAcppbT](https://discord.gg/bq3WAcppbT) | 1369289078725672990 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756975109374116/4c42edcda88ac5811ec3145e94631aca.png?size=32" width="24">DMA | .gg/nosoftware [DMA GUILD] | [nosoftware](https://discord.gg/nosoftware) | 1369756975109374116 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369663823845265470/bf4e3803c3e26671c57da65208ec97b5.png?size=32" width="24">DND | DND \| .gg/guildplug | [ehKF5qtNMn](https://discord.gg/ehKF5qtNMn) | 1369663823845265470 |

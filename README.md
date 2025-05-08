@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369653258557198469/1cf82de3c2597674b7bbae162016bfc7.png?size=32" width="24">魔法少女 | 𝓜𝓪𝓰𝓲𝓬 𝓖𝓲𝓻𝓵☆彡 | [NJmVuY7Aqr](https://discord.gg/NJmVuY7Aqr) | 2025-05-08T07:01:42+00:00 | 1369653258557198469 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369325452354654228/0d8458ba13f95f50412446288c0c0f12.png?size=32" width="24">ALFA | ALPHA | [mcyvudDRtw](https://discord.gg/mcyvudDRtw) | 2025-05-08T06:51:35+00:00 | 1369325452354654228 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369597786852560907/b38488f8a9b34c890c310244228bfdf3.png?size=32" width="24">刻々帝 | 刻々帝 Tag \| 𝓩𝓪𝓯𝓴𝓲𝓮𝓵 | [s7vnDzmRW5](https://discord.gg/s7vnDzmRW5) | 2025-05-08T06:46:30+00:00 | 1369597786852560907 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615399435370547/f4fc4f765584f1c5fa7a467c97703e0e.png?size=32" width="24">氷結傀儡 | 氷結傀儡 (ザドキエル) | [8ASqTy4Hdd](https://discord.gg/8ASqTy4Hdd) | 2025-05-08T06:46:30+00:00 | 1369615399435370547 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369756975109374116/4c42edcda88ac5811ec3145e94631aca.png?size=32" width="24">DMA | .gg/nosoftware [DMA GUILD] | [nosoftware](https://discord.gg/nosoftware) | 2025-05-08T02:17:10+00:00 | 1369756975109374116 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369843925711327233/6b0323a5d7cda33bf684a8342a8770e5.png?size=32" width="24">xcx | xcx tag | [SeUvS5SX3V](https://discord.gg/SeUvS5SX3V) | 2025-05-08T02:12:05+00:00 | 1369843925711327233 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369713544546877484/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">༺༒༻ | ༺༒༻ : /bmx | [AawsAYgahz](https://discord.gg/AawsAYgahz) | 2025-05-08T02:12:04+00:00 | 1369713544546877484 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369773769245327432/ed0d1a4b2e6b95318a78d0a136dc85c6.png?size=32" width="24">STAR | SUPERSTARS \| STAR Tag | [yDDZAySbrj](https://discord.gg/yDDZAySbrj) | 2025-05-08T02:12:04+00:00 | 1369773769245327432 |
 
 </details>
 
@@ -1460,6 +1460,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369668188526088253/7f968d34689b032120d7a0f2a3d69b83.png?size=32" width="24">靠北三小 | 想要什麼tag進來講 | [GPcQbxHrxR](https://discord.gg/GPcQbxHrxR) | 1369668188526088253 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369485081177227345/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">類司 | @（ ◜𖥦◝ 人๑•̀ワ•́๑ ) 💜類司💛 | [XRj4DhCH7h](https://discord.gg/XRj4DhCH7h) | 1369485081177227345 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369645574374293504/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">魂&#x27; | 魂’ (join /resolve) | [uUjvcCU5mY](https://discord.gg/uUjvcCU5mY) | 1369645574374293504 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369653258557198469/1cf82de3c2597674b7bbae162016bfc7.png?size=32" width="24">魔法少女 | 𝓜𝓪𝓰𝓲𝓬 𝓖𝓲𝓻𝓵☆彡 | [NJmVuY7Aqr](https://discord.gg/NJmVuY7Aqr) | 1369653258557198469 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369295566596472894/fa9cc80236e71715c90d24db7ee9eb53.png?size=32" width="24">黒人奴隷 | 黒人奴隷ファンサーバー | [SPYdXbPNWE](https://discord.gg/SPYdXbPNWE) | 1369295566596472894 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716369624662138/28f60b50b40b7d48b9905838609f298f.png?size=32" width="24">ꈍᴗꈍ | ♡♡﹒Mini /daisies | [Qf5YgHGy69](https://discord.gg/Qf5YgHGy69) | 1369716369624662138 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369356734677647391/48d2557a1faf9a790dde3ad334e56efb.png?size=32" width="24">ꜰᴇᴍ® | 【𝐅𝐞𝐦𝐂𝐨®】💟 𝐅𝐄𝐌® TAG | [ebZJEZ2Z2N](https://discord.gg/ebZJEZ2Z2N) | 1369356734677647391 |

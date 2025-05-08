@@ -299,6 +299,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369177418895720560/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">FEAR | .gg/tyx #FEAR | [pHU3ksYvCE](https://discord.gg/pHU3ksYvCE) | 1369177418895720560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369125295667548313/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">FED | .gg/slashyea [FED] | [JGtMsH2T67](https://discord.gg/JGtMsH2T67) | 1369125295667548313 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369701165440438352/e929e1c0111f2acf104ba53aefc5ee44.png?size=32" width="24">FEET | feet　[　.gg/furina　] | [YqUNShkqSq](https://discord.gg/YqUNShkqSq) | 1369701165440438352 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369775925469904916/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">FEET | alphaipas community | [esSpt58NS7](https://discord.gg/esSpt58NS7) | 1369775925469904916 |
 | <img src="https://cdn.discordapp.com/clan-badges/588393761826930891/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">FIN | FINIVERSE | [finzar](https://discord.gg/finzar) | 588393761826930891 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369446797998817290/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">FIRE | Bonfire Plus | [RmDGVVDUhg](https://discord.gg/RmDGVVDUhg) | 1369446797998817290 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369577103913127961/b0248f604e38204bde5413cf47ab7a13.png?size=32" width="24">FK | fakecrime Guild | [fakecrime-guild](https://discord.gg/fakecrime-guild) | 1369577103913127961 |
@@ -344,6 +345,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369147268195684372/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">GOAT | Goat /sexytag | [3Z6XTVshRT](https://discord.gg/3Z6XTVshRT) | 1369147268195684372 |
 | <img src="https://cdn.discordapp.com/clan-badges/1081945903834857544/0b8d4e9d27ad46dfa67edae5bbdf89ea.png?size=32" width="24">GOAT | BLUE VORTEX | [tSkZUVqqwh](https://discord.gg/tSkZUVqqwh) | 1081945903834857544 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369442582660386898/7f968d34689b032120d7a0f2a3d69b83.png?size=32" width="24">GOAT | Yuuto&#x27;s server | [yuuto](https://discord.gg/yuuto) | 1369442582660386898 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369424408057348208/fa9cc80236e71715c90d24db7ee9eb53.png?size=32" width="24">GOAT | Disco&#x27;tag | [UVzXZHEaVr](https://discord.gg/UVzXZHEaVr) | 1369424408057348208 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369236060088827956/76e358d951d7bb7d73d4c80ea0b064a5.png?size=32" width="24">GOD | SAINT | [gsFa35nMNw](https://discord.gg/gsFa35nMNw) | 1369236060088827956 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369484752108650526/dc2c26c7532c2321162c3ead2cd76f1d.png?size=32" width="24">GOD | HIYO Community | [hiyo](https://discord.gg/hiyo) | 1369484752108650526 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369720664013144154/71fa55af26be530526e05ad3b28b960e.png?size=32" width="24">GOD | /lured GOD tag | [bMBhsRzbYz](https://discord.gg/bMBhsRzbYz) | 1369720664013144154 |
@@ -1143,6 +1145,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369626726300389497/9c169ceafc42751b2954b040920e27d6.png?size=32" width="24">ᴮᴵᵀᴱ | BITE \| .gg/guildplug | [gZFksbn3uz](https://discord.gg/gZFksbn3uz) | 1369626726300389497 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369632597830795284/650e4a6fead0346eec1562905c55419a.png?size=32" width="24">ᵔᴗᵔ | ./ᵔᴗᵔ | [yVGAZ3VkYT](https://discord.gg/yVGAZ3VkYT) | 1369632597830795284 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369444671889342474/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ᶠᶸᶜᵏ | fuck \| .gg/guildplug | [Z3GVMavuPV](https://discord.gg/Z3GVMavuPV) | 1369444671889342474 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369498795716509716/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">ᶻ 𝗓 | sleepy tag | [89kCKzdFHn](https://discord.gg/89kCKzdFHn) | 1369498795716509716 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369337519514194001/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">ᶻz𐰁 | ᶻz𐰁 /backup | [uuE47MEtsu](https://discord.gg/uuE47MEtsu) | 1369337519514194001 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369625869198426143/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">ᶻz𐰁 | FUTURE&#x27;s server [ᶻz𐰁] | [AKw4ZXnGCX](https://discord.gg/AKw4ZXnGCX) | 1369625869198426143 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369311907453861928/4d4a5ad8fb119ada267e49e9040d49fd.png?size=32" width="24">•ω• | •ω• | [8PX7k2SNbH](https://discord.gg/8PX7k2SNbH) | 1369311907453861928 |

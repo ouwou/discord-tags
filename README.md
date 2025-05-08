@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369797737989542019/b6f5250aaefd671e7af570b8250f3e33.png?size=32" width="24">파도 | 𝐵𝑙𝑢𝑒 𝑜𝑛 𝑡ℎ𝑒 𝑅𝑢𝑛 | [9JeVSmsxvB](https://discord.gg/9JeVSmsxvB) | 2025-05-08T04:44:40+00:00 | 1369797737989542019 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369551036892713082/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">lily | White Lily | [cxtQZR8M6A](https://discord.gg/cxtQZR8M6A) | 2025-05-08T04:44:39+00:00 | 1369551036892713082 |
 | <img src="https://cdn.discordapp.com/clan-badges/1080530564676845630/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">歐皇 | 姜棠の反熬夜教室 | [jiangtarng](https://discord.gg/jiangtarng) | 2025-05-08T04:39:34+00:00 | 1080530564676845630 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369815244024713406/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">UWP | UWP Development | [6SKnsYkqyQ](https://discord.gg/6SKnsYkqyQ) | 2025-05-08T04:29:27+00:00 | 1369815244024713406 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369470451717509261/84ded6a1af9be32ab771183c0cb8b571.png?size=32" width="24">&lt;3 | /snore guild | [viv](https://discord.gg/viv) | 2025-05-08T04:29:26+00:00 | 1369470451717509261 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369716002085928983/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">ԝlԝ | guppy (ԝlԝ tag) | [4TEhR3TruA](https://discord.gg/4TEhR3TruA) | 2025-05-08T01:26:08+00:00 | 1369716002085928983 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369548452329164850/ff7bc7b66c3b099758c54f8810594230.png?size=32" width="24">hurt | adrian \| hurt tag | [qkDBdbb2na](https://discord.gg/qkDBdbb2na) | 2025-05-08T01:21:03+00:00 | 1369548452329164850 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369748556403052697/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">poor | adrian \| poor tag | [PPEZpvtVJe](https://discord.gg/PPEZpvtVJe) | 2025-05-08T01:21:03+00:00 | 1369748556403052697 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369754877584081108/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">xo | adrian \| xo tag | [Ep8EMN8NRS](https://discord.gg/Ep8EMN8NRS) | 2025-05-08T01:21:03+00:00 | 1369754877584081108 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369768178623844372/cbc8765dbaa3acebe39059b5a02fb40b.png?size=32" width="24">ʚଓ | adrian \| ʚଓ tag | [VFNmgrauNM](https://discord.gg/VFNmgrauNM) | 2025-05-08T01:21:02+00:00 | 1369768178623844372 |
 
 </details>
 
@@ -1088,6 +1088,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369711444492419113/7dff089fbee252a67e72a08ae58a0376.png?size=32" width="24">l3gh | Doge #guildtag 🐕🪙 | [dYBBkfU6MQ](https://discord.gg/dYBBkfU6MQ) | 1369711444492419113 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369570710565159024/93670d340b641a4aabbf898f1a9ee688.png?size=32" width="24">lamb | 𓂅 　lamb | [GfkNdu5Djg](https://discord.gg/GfkNdu5Djg) | 1369570710565159024 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369451282154258543/5bdb470ca78d8daba81419252039b2a0.png?size=32" width="24">lean | &gt;.&lt; | [4yBr3G73WC](https://discord.gg/4yBr3G73WC) | 1369451282154258543 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369551036892713082/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">lily | White Lily | [cxtQZR8M6A](https://discord.gg/cxtQZR8M6A) | 1369551036892713082 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369537703795888129/f738104a6adf101fcb50a2408be0b6d0.png?size=32" width="24">lizr | Certified Lizr Enjoyers | [SBKjkJcD79](https://discord.gg/SBKjkJcD79) | 1369537703795888129 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369372805585440902/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">lmao | lmao・.gg/guildhq | [t32BPMfBwD](https://discord.gg/t32BPMfBwD) | 1369372805585440902 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369278672900591656/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">lolz | lzt.market | [8RrwMfzMyN](https://discord.gg/8RrwMfzMyN) | 1369278672900591656 |
@@ -1471,6 +1472,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369394717569323029/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">코텍스 | 코텍스 / .gg/XGdJh3RU | [3mXQpxeckY](https://discord.gg/3mXQpxeckY) | 1369394717569323029 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369622709293547600/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">콩닥콩닥 | 콩닥콩닥 | [mVUCQ3byzA](https://discord.gg/mVUCQ3byzA) | 1369622709293547600 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369130526295851079/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">트와이스 | TWICE (트와이스) | [jaSbMXDTBM](https://discord.gg/jaSbMXDTBM) | 1369130526295851079 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369797737989542019/b6f5250aaefd671e7af570b8250f3e33.png?size=32" width="24">파도 | 𝐵𝑙𝑢𝑒 𝑜𝑛 𝑡ℎ𝑒 𝑅𝑢𝑛 | [9JeVSmsxvB](https://discord.gg/9JeVSmsxvB) | 1369797737989542019 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369247398974722158/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">한국전력 | Free Server Korea TAG &#x27;한국전력&#x27; | [nkd3BpHj6W](https://discord.gg/nkd3BpHj6W) | 1369247398974722158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369479381965078528/f41a12010ec3a7623a8ed9dea2c888e3.png?size=32" width="24">현아 | @ [hyuna] all in | [g5crkh3ecC](https://discord.gg/g5crkh3ecC) | 1369479381965078528 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369523064068509736/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">호요버스 | [ 호요버스 태그 ] | [KZnGn6PJWw](https://discord.gg/KZnGn6PJWw) | 1369523064068509736 |

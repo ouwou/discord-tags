@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369852589377589298/21129b437afdc5d4c56b399d9d86e25d.png" width="24">KOT | KOTARU | [gW2GXyveQ2](https://discord.gg/gW2GXyveQ2) | 2025-05-08T22:52:43+00:00 | 1369852589377589298 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370012484622094428/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">ᠵデ气亠 | ᠵデ气亠 | [tagak47](https://discord.gg/tagak47) | 2025-05-08T21:57:06+00:00 | 1370012484622094428 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369908804032135260/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">🪻˖. | 🪻˖. /pxguild | [uPKkBU7yaW](https://discord.gg/uPKkBU7yaW) | 2025-05-08T21:57:06+00:00 | 1369908804032135260 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369784478859395246/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">ZXC | ZXC | [wK5VsUZz6T](https://discord.gg/wK5VsUZz6T) | 2025-05-08T21:57:06+00:00 | 1369784478859395246 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369845158715195412/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">EMI | Emilia&#x27;s Palace (EMI tag) | [nWycmnSzJW](https://discord.gg/nWycmnSzJW) | 2025-05-08T21:41:29+00:00 | 1369845158715195412 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755583749685248/8d61abb8b5da075befaff858861dba54.png" width="24">Rem | Rem Shrine [Rem TAG] | [b8YQkahK9W](https://discord.gg/b8YQkahK9W) | 2025-05-08T21:41:29+00:00 | 1369755583749685248 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370075470426537994/4507c292a7c649b9e6e357ac11c5492c.png" width="24">BBL | BBL - /92ii | [Ff7NZkg8tv](https://discord.gg/Ff7NZkg8tv) | 2025-05-08T21:41:28+00:00 | 1370075470426537994 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369817305915330591/1c8f8efb11de25463d853de6f864ffc6.png" width="24">GOLD | GOLD Community | [aJfDbMAgSr](https://discord.gg/aJfDbMAgSr) | 2025-05-08T21:41:28+00:00 | 1369817305915330591 |
 
 </details>
 
@@ -719,6 +719,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369787958227370045/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">KISS | .gg/envvy &#x27; #KISS | [YjScKdr6zF](https://discord.gg/YjScKdr6zF) | 1369787958227370045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369394717569323029/40a7aa796426347d6b76d20dfed2c273.png" width="24">KITE | KITE | [3mXQpxeckY](https://discord.gg/3mXQpxeckY) | 1369394717569323029 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369380221232353531/b6f6582eb0301ce069e00b2a99323975.png" width="24">KNTL | KNTL SERVER | [kntl](https://discord.gg/kntl) | 1369380221232353531 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369852589377589298/21129b437afdc5d4c56b399d9d86e25d.png" width="24">KOT | KOTARU | [gW2GXyveQ2](https://discord.gg/gW2GXyveQ2) | 1369852589377589298 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369196970769645590/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">KPOP | K-POP | [kpoppers](https://discord.gg/kpoppers) | 1369196970769645590 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369840437707411566/bdfbbb5d8940aaab1d3b3fba13747af7.png" width="24">KPOP | K-POP | [rBA3AZTNcM](https://discord.gg/rBA3AZTNcM) | 1369840437707411566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369654534737236038/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">KR | KR | [3jTXJeTrMc](https://discord.gg/3jTXJeTrMc) | 1369654534737236038 |

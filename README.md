@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369716369624662138/28f60b50b40b7d48b9905838609f298f.png?size=32" width="24">ꈍᴗꈍ | ♡♡﹒Mini /daisies | [Qf5YgHGy69](https://discord.gg/Qf5YgHGy69) | 2025-05-08T06:00:50+00:00 | 1369716369624662138 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369721237621964800/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">DD0S | DD0S [guild] | [CXjNgcHDB3](https://discord.gg/CXjNgcHDB3) | 2025-05-08T05:55:45+00:00 | 1369721237621964800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369788418946629645/8e93438069b411f29a1820f44c63679f.png?size=32" width="24">ODCS | ODCS Tag | [MyFvDKgtAG](https://discord.gg/MyFvDKgtAG) | 2025-05-08T05:55:45+00:00 | 1369788418946629645 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779635944034394/bfb21071d9f83ad7fa4362d093fe15dc.png?size=32" width="24">res† | Res✞ Core | [ZakaeBvSuT](https://discord.gg/ZakaeBvSuT) | 2025-05-08T05:55:45+00:00 | 1369779635944034394 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369691398382551090/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">ฅᨐฅ | $$$$ | [RmmdtX43sP](https://discord.gg/RmmdtX43sP) | 2025-05-08T01:56:41+00:00 | 1369691398382551090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369840437707411566/bdfbbb5d8940aaab1d3b3fba13747af7.png?size=32" width="24">KPOP | K-POP | [rBA3AZTNcM](https://discord.gg/rBA3AZTNcM) | 2025-05-08T01:51:37+00:00 | 1369840437707411566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369790585229148202/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">zz | #zz \| .gg/slave | [MEKZMN7UV7](https://discord.gg/MEKZMN7UV7) | 2025-05-08T01:51:37+00:00 | 1369790585229148202 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369740929811873813/90a6b0e768ff28c27088bc72a3b1d12f.png?size=32" width="24">baby | Lily&#x27;s Guild | [c67Ybjc85K](https://discord.gg/c67Ybjc85K) | 2025-05-08T01:51:36+00:00 | 1369740929811873813 |
 
 </details>
 
@@ -1452,6 +1452,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369485081177227345/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">類司 | @（ ◜𖥦◝ 人๑•̀ワ•́๑ ) 💜類司💛 | [XRj4DhCH7h](https://discord.gg/XRj4DhCH7h) | 1369485081177227345 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369645574374293504/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">魂&#x27; | 魂’ (join /resolve) | [uUjvcCU5mY](https://discord.gg/uUjvcCU5mY) | 1369645574374293504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369295566596472894/fa9cc80236e71715c90d24db7ee9eb53.png?size=32" width="24">黒人奴隷 | 黒人奴隷ファンサーバー | [SPYdXbPNWE](https://discord.gg/SPYdXbPNWE) | 1369295566596472894 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369716369624662138/28f60b50b40b7d48b9905838609f298f.png?size=32" width="24">ꈍᴗꈍ | ♡♡﹒Mini /daisies | [Qf5YgHGy69](https://discord.gg/Qf5YgHGy69) | 1369716369624662138 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369356734677647391/48d2557a1faf9a790dde3ad334e56efb.png?size=32" width="24">ꜰᴇᴍ® | 【𝐅𝐞𝐦𝐂𝐨®】💟 𝐅𝐄𝐌® TAG | [ebZJEZ2Z2N](https://discord.gg/ebZJEZ2Z2N) | 1369356734677647391 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369744005255921700/ab1fd042a1468216271ef8da39aeadcc.png?size=32" width="24">ꜱʀɴᴅ | #SRND | [hr4Gp2zdUs](https://discord.gg/hr4Gp2zdUs) | 1369744005255921700 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369581100220944415/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ꜱʟᴜᴛ | SLUT \| .gg/guildplug | [KFn3qVDk2C](https://discord.gg/KFn3qVDk2C) | 1369581100220944415 |

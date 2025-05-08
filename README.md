@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369598214402998303/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ᴄᴜɴᴛ | cunt 🩷 | [Av8YjfwcZB](https://discord.gg/Av8YjfwcZB) | 2025-05-08T04:59:52+00:00 | 1369598214402998303 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724789161459732/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">SPRK | Tag server | [2MUg4JWavx](https://discord.gg/2MUg4JWavx) | 2025-05-08T04:54:48+00:00 | 1369724789161459732 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369867348374327306/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">rose | /Rose | [ChxKy3v8pe](https://discord.gg/ChxKy3v8pe) | 2025-05-08T04:54:47+00:00 | 1369867348374327306 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369797737989542019/b6f5250aaefd671e7af570b8250f3e33.png?size=32" width="24">파도 | 𝐵𝑙𝑢𝑒 𝑜𝑛 𝑡ℎ𝑒 𝑅𝑢𝑛 | [9JeVSmsxvB](https://discord.gg/9JeVSmsxvB) | 2025-05-08T04:44:40+00:00 | 1369797737989542019 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369592308441288704/7e951786432b0c1e39e9c9daefcbfacf.png?size=32" width="24">FURY | FuryVerse | [xgQu9rnW6d](https://discord.gg/xgQu9rnW6d) | 2025-05-08T01:31:16+00:00 | 1369592308441288704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369827583910350919/45dec9cc747ee3949b568836f2a1adbf.png?size=32" width="24">RICH | RICH \| .gg/P3xxVpuSz2 | [P3xxVpuSz2](https://discord.gg/P3xxVpuSz2) | 2025-05-08T01:31:16+00:00 | 1369827583910350919 |
 | <img src="https://cdn.discordapp.com/clan-badges/208675884377309194/76e358d951d7bb7d73d4c80ea0b064a5.png?size=32" width="24">AZIR | Azir Mains💜 | [HsgztrxSyh](https://discord.gg/HsgztrxSyh) | 2025-05-08T01:26:08+00:00 | 208675884377309194 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369716002085928983/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">ԝlԝ | guppy (ԝlԝ tag) | [4TEhR3TruA](https://discord.gg/4TEhR3TruA) | 2025-05-08T01:26:08+00:00 | 1369716002085928983 |
 
 </details>
 
@@ -1357,6 +1357,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369412190582341682/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">᲼᲼᲼† | hdksvntn | [jUZDk3MnpU](https://discord.gg/jUZDk3MnpU) | 1369412190582341682 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369428242905432074/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">᲼᲼᲼お | cvzxeov [お] | [8tb6GKcu7J](https://discord.gg/8tb6GKcu7J) | 1369428242905432074 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369347350711107616/dd5fbbf99298eadf5afb1c8e0121b28f.png?size=32" width="24">᳄᳄᳄᳄ | the freke zone | [F6bx3VTxy4](https://discord.gg/F6bx3VTxy4) | 1369347350711107616 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369598214402998303/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ᴄᴜɴᴛ | cunt 🩷 | [Av8YjfwcZB](https://discord.gg/Av8YjfwcZB) | 1369598214402998303 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369732657168121958/a3157678d3f97d789e959f9c62499918.png?size=32" width="24">ᴇᴄʜᴏ | ᴇᴄʜᴏ | [GSzpErAX4B](https://discord.gg/GSzpErAX4B) | 1369732657168121958 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369380221232353531/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">ᴋɴᴛʟ | The KNTL Lounge | [kntl](https://discord.gg/kntl) | 1369380221232353531 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369626726300389497/9c169ceafc42751b2954b040920e27d6.png?size=32" width="24">ᴮᴵᵀᴱ | BITE \| .gg/guildplug | [gZFksbn3uz](https://discord.gg/gZFksbn3uz) | 1369626726300389497 |

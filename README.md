@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369545460536053880/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">T1 | T1 | [TfBkmuSk6Z](https://discord.gg/TfBkmuSk6Z) | 2025-05-08T07:16:56+00:00 | 1369545460536053880 |
 | <img src="https://cdn.discordapp.com/clan-badges/1251511165335633920/d5fcfb1c1d7458030137d85d1c9f6feb.png?size=32" width="24">ٰٰٰ | ok :D | [5YDVymwGfJ](https://discord.gg/5YDVymwGfJ) | 2025-05-08T07:11:51+00:00 | 1251511165335633920 |
 | <img src="https://cdn.discordapp.com/clan-badges/1301262277835489410/2b049c4ebb99ee463623b3eb692fe7cf.png?size=32" width="24">Vro | Vro Fanclub | [6Cf6K6fNXw](https://discord.gg/6Cf6K6fNXw) | 2025-05-08T07:06:47+00:00 | 1301262277835489410 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369744314099433633/03a37b34acb1373ef66a602ff131ca42.png?size=32" width="24">&lt;&gt;&lt; | fuck you fishcord  [&lt;&gt;&lt;] | [hc3DQ5MvyX](https://discord.gg/hc3DQ5MvyX) | 2025-05-08T07:06:46+00:00 | 1369744314099433633 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369460292177891408/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">xٴٴ | incode | [DMA](https://discord.gg/DMA) | 2025-05-08T02:27:29+00:00 | 1369460292177891408 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780011266998383/4ef966b9bdd3ca7155e184e893314cd6.png?size=32" width="24">FLAV | FlaviBot&#x27;s Testers | [uq2G4Rz64t](https://discord.gg/uq2G4Rz64t) | 2025-05-08T02:22:22+00:00 | 1369780011266998383 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369845385442496642/e753bbfbb76e4bf7529e246e6d650d18.png?size=32" width="24">GUTS | GUTS | [FmjJSdHgbP](https://discord.gg/FmjJSdHgbP) | 2025-05-08T02:22:22+00:00 | 1369845385442496642 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369508342397145178/f6822eb5111fde1093e0b6217aa53a81.png?size=32" width="24">alx | alx | [alex](https://discord.gg/alex) | 2025-05-08T02:22:21+00:00 | 1369508342397145178 |
 
 </details>
 
@@ -857,6 +857,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369476273281433651/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">SØLS | [SØLS] | [jySctF26Rz](https://discord.gg/jySctF26Rz) | 1369476273281433651 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369497015733452910/d8fca0f41083d988309785d454df7911.png?size=32" width="24">SТƒU | Tezz&#x27;s server [STFU] | [JxKZBHR2A5](https://discord.gg/JxKZBHR2A5) | 1369497015733452910 |
 | <img src="https://cdn.discordapp.com/clan-badges/981214089835597864/17d6467ccde4ffa645e1f7edca39809c.png?size=32" width="24">T-34 | VanillaPlace 𐚁 | [nbpTkqqRaC](https://discord.gg/nbpTkqqRaC) | 981214089835597864 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369545460536053880/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">T1 | T1 | [TfBkmuSk6Z](https://discord.gg/TfBkmuSk6Z) | 1369545460536053880 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431068821815457/66e6116fb71622d52bed149a17914270.png?size=32" width="24">TAG | /tag | [5yH3nsCpFp](https://discord.gg/5yH3nsCpFp) | 1369431068821815457 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369697609715023882/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">TANA | tana | [k9nqtaP6fZ](https://discord.gg/k9nqtaP6fZ) | 1369697609715023882 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369729658349818028/aef7738ba114e121d617c8c20bf7f1d6.png?size=32" width="24">TANA | Tana \| guild tag | [KvxsgNdSka](https://discord.gg/KvxsgNdSka) | 1369729658349818028 |

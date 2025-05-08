@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/643089441463992340/f7c7cf187431d14eee43d8b3e67bd966.png?size=32" width="24">GDC | Geometry Dash Creators | [gdcreators](https://discord.gg/gdcreators) | 2025-05-08T03:03:11+00:00 | 643089441463992340 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369779130937376789/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">CT | Corridos Tumbados | [GXRKsmrz46](https://discord.gg/GXRKsmrz46) | 2025-05-08T03:03:10+00:00 | 1369779130937376789 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369860628386414673/14053a0be93c38232841c3b4c692190a.png?size=32" width="24">MOMO | sillygoobermomo | [AHzCEqGYeV](https://discord.gg/AHzCEqGYeV) | 2025-05-08T02:58:05+00:00 | 1369860628386414673 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369550957515636737/ab2f59830f17fa961704ba08e7889256.png?size=32" width="24">ZB1 | ZEROBASEONE - ZB1 TAG 🌈 | [aw8XwaaDKc](https://discord.gg/aw8XwaaDKc) | 2025-05-08T02:58:05+00:00 | 1369550957515636737 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369701556307496960/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">MEOW | @meow tag \| .gg/huzz | [4WNUrpGPjU](https://discord.gg/4WNUrpGPjU) | 2025-05-08T02:58:04+00:00 | 1369701556307496960 |
@@ -342,6 +344,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369628434925490249/a1a8d7066521a13ede4b94de530e98b5.png?size=32" width="24">CRIA | OS CRIAS - TAG | [Eb7UT3TPdU](https://discord.gg/Eb7UT3TPdU) | 1369628434925490249 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780556652613795/98bec55750351150134f1c40f78785a7.png?size=32" width="24">CS2 | #CS2 .gg/NU5hzaPTBA | [8euM7k6M7J](https://discord.gg/8euM7k6M7J) | 1369780556652613795 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369534275095105586/f150d7d2d1b681f52eba4b7e23cdf565.png?size=32" width="24">CSM | CSM | [mF9EvgMT4X](https://discord.gg/mF9EvgMT4X) | 1369534275095105586 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369779130937376789/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">CT | Corridos Tumbados | [GXRKsmrz46](https://discord.gg/GXRKsmrz46) | 1369779130937376789 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369621951596855406/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">CTRL | #CTRL , | [BsPJEDaF](https://discord.gg/BsPJEDaF) | 1369621951596855406 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369133754198790185/ae677554f0fc746d48cb5acf2c210791.png?size=32" width="24">CULT | Cult \| cult-tag.lol | [a575JVcxrU](https://discord.gg/a575JVcxrU) | 1369133754198790185 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369424122748080169/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">CUTE | gg/CuteTag | [YtggYPfQCq](https://discord.gg/YtggYPfQCq) | 1369424122748080169 |
@@ -459,6 +462,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369675686939463872/a37bf4789bbb90ac4d73ff79c3abd32c.png?size=32" width="24">GAZA | GAZA 🇵🇸 | [ZpjPT6VvnB](https://discord.gg/ZpjPT6VvnB) | 1369675686939463872 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369504888936992838/a3290d71cdc373a5f63598746c8f1476.png?size=32" width="24">GAZA | GAZA  #🇵🇸 | [gazatag](https://discord.gg/gazatag) | 1369504888936992838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1175853758509490176/0ef69b328501e83b3a1f8d96ba393932.png?size=32" width="24">GD | Daily Dose Of Geometry Dash | [ddogd](https://discord.gg/ddogd) | 1175853758509490176 |
+| <img src="https://cdn.discordapp.com/clan-badges/643089441463992340/f7c7cf187431d14eee43d8b3e67bd966.png?size=32" width="24">GDC | Geometry Dash Creators | [gdcreators](https://discord.gg/gdcreators) | 643089441463992340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341012593479842/ea76d37bcd6f1b0543efcce6c32fe999.png?size=32" width="24">GER | Wasted | [5eBE6Wpsb5](https://discord.gg/5eBE6Wpsb5) | 1369341012593479842 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369458428140847215/33396c8e76d1033d05636746172323ae.png" width="24">GFX | GFX /guildgfx | [guildgfx](https://discord.gg/guildgfx) | 1369458428140847215 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369381206457712640/5607047f21b7e25a26c195cc49871278.png?size=32" width="24">GG | Good Game / GG | [36Nf4MzGay](https://discord.gg/36Nf4MzGay) | 1369381206457712640 |

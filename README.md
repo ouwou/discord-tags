@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369743588661133332/c445de6979b8c66e2580056510630f32.png?size=32" width="24">pet | ykw WOOF WOOF 🦴 #pet | [TxMsEvkGeP](https://discord.gg/TxMsEvkGeP) | 2025-05-08T07:27:06+00:00 | 1369743588661133332 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369737520199237723/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">ｃｗｅｌ | krzysztof stanowski klub fanowski robert prawandowski | [pochwa](https://discord.gg/pochwa) | 2025-05-08T07:27:05+00:00 | 1369737520199237723 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740317393293413/648511cc909f06a24b9f618e1df39a82.png?size=32" width="24">ISMC | ISMC TAG&#x27;S GUILD | [GAqHqeckE9](https://discord.gg/GAqHqeckE9) | 2025-05-08T07:22:01+00:00 | 1369740317393293413 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369692269376176188/8650d9576350ede56247b4d699361969.png?size=32" width="24">୨୧ | ୨୧ /society | [Eqq388jTtq](https://discord.gg/Eqq388jTtq) | 2025-05-08T07:22:00+00:00 | 1369692269376176188 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369545460536053880/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">T1 | T1 | [TfBkmuSk6Z](https://discord.gg/TfBkmuSk6Z) | 2025-05-08T07:16:56+00:00 | 1369545460536053880 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369311386030706758/b1c2ae1bb3644a44861424f93ec8f180.png?size=32" width="24">bf | boyfriend 𓂃 ♡ /naoi | [rdrDEGM8cH](https://discord.gg/rdrDEGM8cH) | 2025-05-08T02:37:39+00:00 | 1369311386030706758 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369535078853771285/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">ENVY | .gg/yea #ENVY | [26RgKxjTgh](https://discord.gg/26RgKxjTgh) | 2025-05-08T02:32:34+00:00 | 1369535078853771285 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369677350085726260/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">GOON | .gg/yea #GOON | [Dx38uZnQME](https://discord.gg/Dx38uZnQME) | 2025-05-08T02:32:34+00:00 | 1369677350085726260 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369537514028793856/885655109920302254b03aeb071dc4a1.png?size=32" width="24">sigh | .gg/yea #sigh | [8bm2WBTuyN](https://discord.gg/8bm2WBTuyN) | 2025-05-08T02:32:34+00:00 | 1369537514028793856 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369460292177891408/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">xٴٴ | incode | [DMA](https://discord.gg/DMA) | 2025-05-08T02:27:29+00:00 | 1369460292177891408 |
 
 </details>
 
@@ -1163,6 +1163,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369759384443424839/3f16dc3fac7325741863d7868bfaa5de.png?size=32" width="24">paws | paws | [mKh4vHjNQq](https://discord.gg/mKh4vHjNQq) | 1369759384443424839 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369625873711497216/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">paws | .gg/yea #paws | [w3HvwNXkCb](https://discord.gg/w3HvwNXkCb) | 1369625873711497216 |
 | <img src="https://cdn.discordapp.com/clan-badges/1275224775043579997/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">pcc | pcc | [pcc](https://discord.gg/pcc) | 1275224775043579997 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369743588661133332/c445de6979b8c66e2580056510630f32.png?size=32" width="24">pet | ykw WOOF WOOF 🦴 #pet | [TxMsEvkGeP](https://discord.gg/TxMsEvkGeP) | 1369743588661133332 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369748556403052697/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">poor | adrian \| poor tag | [PPEZpvtVJe](https://discord.gg/PPEZpvtVJe) | 1369748556403052697 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369680321733333062/b70926c4409284ee5f7ecae334eed9fe.png?size=32" width="24">porɴ | porn | [RYySYvvt26](https://discord.gg/RYySYvvt26) | 1369680321733333062 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369425058128461874/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">pray | pray \| .gg/fg  for 30+ free guilds | [vNH5EGwzab](https://discord.gg/vNH5EGwzab) | 1369425058128461874 |
@@ -1547,6 +1548,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369718108541157436/112a474bb1a06dc19f6b73e45449eeb7.png?size=32" width="24">ＷＥＥＤ | W££D | [jpr8HZ9Cvu](https://discord.gg/jpr8HZ9Cvu) | 1369718108541157436 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369597804757909544/a38d8a9ffae51409870d8609399d1716.png?size=32" width="24">ＸＶＩＩ | ＸＶＩＩ | [wS3EGgPtQQ](https://discord.gg/wS3EGgPtQQ) | 1369597804757909544 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369723535559360593/ff122ae688a490782ce9f80343deea79.png?size=32" width="24">ＺＯＶ | ♥ / Z O V | [pGRncPD6vR](https://discord.gg/pGRncPD6vR) | 1369723535559360593 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369737520199237723/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">ｃｗｅｌ | krzysztof stanowski klub fanowski robert prawandowski | [pochwa](https://discord.gg/pochwa) | 1369737520199237723 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369252778207346759/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">ｍｅｏｗ | ｍｅｏｗ | [7raEXBgyvF](https://discord.gg/7raEXBgyvF) | 1369252778207346759 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369816934329356349/b5654f4351444cde895f0405e7e96c51.png?size=32" width="24">ｚａｙｙ | ᯓ★ | [23vwhBdcqg](https://discord.gg/23vwhBdcqg) | 1369816934329356349 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742601628028958/ae750844f917a57d05accdcc78102c7e.png?size=32" width="24">𐙚 . | leilleileilleilleil | [S4eJ8w4Wq7](https://discord.gg/S4eJ8w4Wq7) | 1369742601628028958 |

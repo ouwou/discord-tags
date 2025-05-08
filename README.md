@@ -286,7 +286,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369809530535546941/0453d6f081e4f524e447f2158ddc9c63.png" width="24">&gt;ᴗ&lt; | Glitched Da Kitty Cat Production&#x27;s Tag | [XezAr9dHT6](https://discord.gg/XezAr9dHT6) | 1369809530535546941 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369199982711804076/86735389348f3eacfa519eb553df38fd.png" width="24">?? | ?? : /bmx | [5sd8ARhx54](https://discord.gg/5sd8ARhx54) | 1369199982711804076 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369642138371100763/2e25d120b8be3da7f6a56a65b6c31ecd.png" width="24">??? | .gg/eterno | [ATsDSd4TaR](https://discord.gg/ATsDSd4TaR) | 1369642138371100763 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369395717982126110/9f4479c1efd07208de83ad3e3061b7c0.png" width="24">?¿ | ?¿ /uys | [DC6JbmsQUS](https://discord.gg/DC6JbmsQUS) | 1369395717982126110 |
 | <img src="https://cdn.discordapp.com/clan-badges/1362074990710751282/75b578241516ee87d37eab310e9913e8.png" width="24">A+ | Antixs Design Inc | [4VHwPWJEt7](https://discord.gg/4VHwPWJEt7) | 1362074990710751282 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369664935730348183/84412606536488d76915487613779361.png" width="24">AAMX | ААМХ | [5N56vGKuwU](https://discord.gg/5N56vGKuwU) | 1369664935730348183 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369735565104382104/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">ACDC | ACDC \| .gg/MVPHub | [jDNNvchQCZ](https://discord.gg/jDNNvchQCZ) | 1369735565104382104 |
@@ -1388,6 +1387,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369957380099543090/fbb1c988895d133385dd319fd90c8c34.png" width="24">pea | sweetpea \| pea tag | [Pqwydrahbb](https://discord.gg/Pqwydrahbb) | 1369957380099543090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369743588661133332/c445de6979b8c66e2580056510630f32.png" width="24">pet | ykw WOOF WOOF 🦴 #pet | [TxMsEvkGeP](https://discord.gg/TxMsEvkGeP) | 1369743588661133332 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369972593309777931/736e7d8bb18ed68b6e0223765e79015e.png" width="24">pimp | pimp | [ayVHdwMbEq](https://discord.gg/ayVHdwMbEq) | 1369972593309777931 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369395717982126110/878c62b6694a4f5931104f766191bec7.png" width="24">pnls | pnls | [DC6JbmsQUS](https://discord.gg/DC6JbmsQUS) | 1369395717982126110 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369748556403052697/86735389348f3eacfa519eb553df38fd.png" width="24">poor | adrian \| poor tag | [PPEZpvtVJe](https://discord.gg/PPEZpvtVJe) | 1369748556403052697 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369680321733333062/b70926c4409284ee5f7ecae334eed9fe.png" width="24">porɴ | porn | [RYySYvvt26](https://discord.gg/RYySYvvt26) | 1369680321733333062 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369425058128461874/dc61eaed9e8b012148661df1ada874e6.png" width="24">pray | pray \| .gg/fg | [vNH5EGwzab](https://discord.gg/vNH5EGwzab) | 1369425058128461874 |

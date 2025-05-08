@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369724420763160596/bdf7998de2b7f8d2153aa572b8cf2e82.png?size=32" width="24">【輝煌】 | 入群領取【輝煌】大禮包 | [4tdDB6nvcJ](https://discord.gg/4tdDB6nvcJ) | 2025-05-08T08:38:13+00:00 | 1369724420763160596 |
 | <img src="https://cdn.discordapp.com/clan-badges/909435648170160229/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">RYD | Return YouTube Dislike | [tTxApnVbWN](https://discord.gg/tTxApnVbWN) | 2025-05-08T08:33:09+00:00 | 909435648170160229 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369635074395344998/e7d159ed722b033483c0153b5f3fc54f.png?size=32" width="24">֜猫 | [猫] Neko \| dsc.gg/neko-tag | [cCKK3zZDzr](https://discord.gg/cCKK3zZDzr) | 2025-05-08T08:23:01+00:00 | 1369635074395344998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766893757534320/71ad19a2603191a0dc56568625dabb50.png?size=32" width="24">DEX | N.W.A SQUAD | [CaQWQqEfhJ](https://discord.gg/CaQWQqEfhJ) | 2025-05-08T08:17:57+00:00 | 1369766893757534320 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369527576732631082/5cebcc7462b1d56f82e6b3b28968899f.png?size=32" width="24">LYFE | Ayanami&#x27;s Lab • gg/ayaslab | [ayaslab](https://discord.gg/ayaslab) | 2025-05-08T03:08:15+00:00 | 1369527576732631082 |
 | <img src="https://cdn.discordapp.com/clan-badges/643089441463992340/f7c7cf187431d14eee43d8b3e67bd966.png?size=32" width="24">GDC | Geometry Dash Creators | [gdcreators](https://discord.gg/gdcreators) | 2025-05-08T03:03:11+00:00 | 643089441463992340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779130937376789/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">CT | Corridos Tumbados | [GXRKsmrz46](https://discord.gg/GXRKsmrz46) | 2025-05-08T03:03:10+00:00 | 1369779130937376789 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369860628386414673/14053a0be93c38232841c3b4c692190a.png?size=32" width="24">MOMO | sillygoobermomo | [AHzCEqGYeV](https://discord.gg/AHzCEqGYeV) | 2025-05-08T02:58:05+00:00 | 1369860628386414673 |
 
 </details>
 
@@ -1425,6 +1425,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369552737016221778/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">⸻⸻⸻⸻ | .gg/yea #⸻⸻⸻⸻ | [9Q45S9E3br](https://discord.gg/9Q45S9E3br) | 1369552737016221778 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369630021697667122/d8906ff0e873e2ab7fcd788a27453e68.png?size=32" width="24">、太陽 | ྀ   ꒰۪۪ 　casita de ayon　⁀　　੭ | [tXPHpEy4Mb](https://discord.gg/tXPHpEy4Mb) | 1369630021697667122 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369717304874762322/7466f52966713bba906c628e94c4d56f.png?size=32" width="24">。ꪮᩍ | ⃬۫🍜̸᩠໋ | [7CbqKcf2A2](https://discord.gg/7CbqKcf2A2) | 1369717304874762322 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369724420763160596/bdf7998de2b7f8d2153aa572b8cf2e82.png?size=32" width="24">【輝煌】 | 入群領取【輝煌】大禮包 | [4tdDB6nvcJ](https://discord.gg/4tdDB6nvcJ) | 1369724420763160596 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369439363045527672/3375d7aee8d1b724ec22b5e325e9a4eb.png?size=32" width="24">お金 | .gg/moneyy # お金 | [7gvEvThN32](https://discord.gg/7gvEvThN32) | 1369439363045527672 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369355939333013546/d5f1d03a2e4d13d568a35169eca064e3.png?size=32" width="24">こおり | ily | [wmEdrTQgem](https://discord.gg/wmEdrTQgem) | 1369355939333013546 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369489445165731933/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">さみしい | #さみしい .gg/packer | [gP8WxWAUQc](https://discord.gg/gP8WxWAUQc) | 1369489445165731933 |

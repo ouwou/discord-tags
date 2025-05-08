@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369350606803828736/80e49bbcd08c608a6f49671e2d0828da.png?size=32" width="24">ﬂash | #flash | [TrYWsRGyGn](https://discord.gg/TrYWsRGyGn) | 2025-05-08T01:46:31+00:00 | 1369350606803828736 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369730227558940692/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">SBZ | silly sbz | [297gwYUtGJ](https://discord.gg/297gwYUtGJ) | 2025-05-08T01:46:31+00:00 | 1369730227558940692 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641766667681873/b53a5478bb7a386492cb9b40b0fc9fff.png?size=32" width="24">FE!N | FE!N ✰ | [XuVx4waeQx](https://discord.gg/XuVx4waeQx) | 2025-05-08T01:41:26+00:00 | 1369641766667681873 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745012241465467/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">GYAT | Hello Kitty | [wsJtG4Sxcn](https://discord.gg/wsJtG4Sxcn) | 2025-05-08T01:41:26+00:00 | 1369745012241465467 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686458834747432/bdf785dc70cd3768b5694a3503f40363.png?size=32" width="24">NEL | NEL League | [VdEkrkG8EX](https://discord.gg/VdEkrkG8EX) | 2025-05-08T01:41:26+00:00 | 1369686458834747432 |
@@ -698,6 +700,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369664796575793213/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">SAW | EZ SHADOW ᵗᵃᵠ | [sdUhNqfP5f](https://discord.gg/sdUhNqfP5f) | 1369664796575793213 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369366103138111498/7b571a46a1266491cfabe2e362aad176.png?size=32" width="24">SB | SoulGuild \| .gg/soulbot | [pPRCBSQGr8](https://discord.gg/pPRCBSQGr8) | 1369366103138111498 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369713425432973312/0d662ccc30ab19f9e1f2f8ae2d3a217a.png?size=32" width="24">SB | SB-Tag | [Pf9kjzsh8x](https://discord.gg/Pf9kjzsh8x) | 1369713425432973312 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369730227558940692/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">SBZ | silly sbz | [297gwYUtGJ](https://discord.gg/297gwYUtGJ) | 1369730227558940692 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369435094120534056/7dff089fbee252a67e72a08ae58a0376.png?size=32" width="24">SCAM | SCAM #Guild | [HkaaTH8ryH](https://discord.gg/HkaaTH8ryH) | 1369435094120534056 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369525749584892009/6473797948e6d36a991e425c8b7c353c.png?size=32" width="24">SEES | Specialized Extracurricular Execution Squad | [8nyJcNYNEu](https://discord.gg/8nyJcNYNEu) | 1369525749584892009 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369670068887097404/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">SEX | .gg/projection #SEX | [Tteeum26Xw](https://discord.gg/Tteeum26Xw) | 1369670068887097404 |
@@ -1336,6 +1339,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369523064068509736/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">호요버스 | [ 호요버스 태그 ] | [KZnGn6PJWw](https://discord.gg/KZnGn6PJWw) | 1369523064068509736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369376752488677537/873d5b72afaf25f9540db843094560cc.png?size=32" width="24">ﬁgma | Figma Tag | [XdJpUAsgWv](https://discord.gg/XdJpUAsgWv) | 1369376752488677537 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369579869385658388/a3157678d3f97d789e959f9c62499918.png?size=32" width="24">ﬂame | FLAME | [qbmFJqEebh](https://discord.gg/qbmFJqEebh) | 1369579869385658388 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369350606803828736/80e49bbcd08c608a6f49671e2d0828da.png?size=32" width="24">ﬂash | #flash | [TrYWsRGyGn](https://discord.gg/TrYWsRGyGn) | 1369350606803828736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369772584643723466/89def04cbc2d690e29d01bfcc0ed914c.png?size=32" width="24">ﬂoof | Nick&#x27;s Hellhole | [mcxQkzFRkK](https://discord.gg/mcxQkzFRkK) | 1369772584643723466 |
 | <img src="https://cdn.discordapp.com/clan-badges/267735321695748096/9050fb1a279eb693dd6fea1d9eff53de.png?size=32" width="24">ﬂuﬀy | bens stuff!! :3 | [GBtkSEbzj5](https://discord.gg/GBtkSEbzj5) | 267735321695748096 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765113048858664/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">﷽﷽ | Tag &gt; ﷽﷽ | [PNH5xyYE7g](https://discord.gg/PNH5xyYE7g) | 1369765113048858664 |

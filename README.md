@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369735565104382104/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">ACDC | ACDC \| .gg/MVPHub | [jDNNvchQCZ](https://discord.gg/jDNNvchQCZ) | 2025-05-08T03:48:57+00:00 | 1369735565104382104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719218886676480/7c601949ded32a50a2a04730a0f2606c.png?size=32" width="24">榎並杏紗 | EnamiAsa | [nj5DrB6uxw](https://discord.gg/nj5DrB6uxw) | 2025-05-08T03:43:52+00:00 | 1369719218886676480 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369814585892147321/788a69567671fb4d110432beeada67b6.png?size=32" width="24">GONG | 🌺 ➟ Gong Tag | [GONG](https://discord.gg/GONG) | 2025-05-08T03:43:51+00:00 | 1369814585892147321 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369782166279688354/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">solo | Vote 4 New Tag | [cScs9QAvPa](https://discord.gg/cScs9QAvPa) | 2025-05-08T03:43:51+00:00 | 1369782166279688354 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369473180451868792/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">cr7 | /neymar \| cr7 guild | [tNHbhg4fWq](https://discord.gg/tNHbhg4fWq) | 2025-05-08T01:05:49+00:00 | 1369473180451868792 |
 | <img src="https://cdn.discordapp.com/clan-badges/1293585396743278717/310d9b669d687de773b5f3b5310ca1f3.png?size=32" width="24">Muﬃn | Muffin Tag | [HEhTRCu3p7](https://discord.gg/HEhTRCu3p7) | 2025-05-08T01:05:49+00:00 | 1293585396743278717 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779504074985475/871622d8e68c1402786cbfe8ee329c7f.png?size=32" width="24">1912 | br type shit | [JM5ZWStSAn](https://discord.gg/JM5ZWStSAn) | 2025-05-08T01:05:48+00:00 | 1369779504074985475 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369812957554413578/4c6b987648217084cc4371c4f129b87b.png?size=32" width="24">곰도리 | 곰도리 | [PZemcNXPbS](https://discord.gg/PZemcNXPbS) | 2025-05-08T01:01:37+00:00 | 1369812957554413578 |
 
 </details>
 
@@ -257,6 +257,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369642138371100763/2e25d120b8be3da7f6a56a65b6c31ecd.png?size=32" width="24">??? | ??? .gg/eterno | [ATsDSd4TaR](https://discord.gg/ATsDSd4TaR) | 1369642138371100763 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369395717982126110/9f4479c1efd07208de83ad3e3061b7c0.png?size=32" width="24">?¿ | ?¿ /uys | [DC6JbmsQUS](https://discord.gg/DC6JbmsQUS) | 1369395717982126110 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369664935730348183/84412606536488d76915487613779361.png?size=32" width="24">AAMX | ААМХ | [5N56vGKuwU](https://discord.gg/5N56vGKuwU) | 1369664935730348183 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369735565104382104/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">ACDC | ACDC \| .gg/MVPHub | [jDNNvchQCZ](https://discord.gg/jDNNvchQCZ) | 1369735565104382104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369298770751131669/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ADHD | ADHD｜dsc.gg/adhd-tag | [7ADx9YJddC](https://discord.gg/7ADx9YJddC) | 1369298770751131669 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369169748830453791/7b28034df1f94b9b603bbf2ce9d7e3d4.png?size=32" width="24">ADO | ᶻ 𝗓 𐰁［ADO］ | [CSD27Vggc7](https://discord.gg/CSD27Vggc7) | 1369169748830453791 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369601610216509510/5a2c733ca8f4d7800d760a98fb0bb271.png?size=32" width="24">ADO | アド Fan Tag | [yftcEww9SZ](https://discord.gg/yftcEww9SZ) | 1369601610216509510 |

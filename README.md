@@ -846,6 +846,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369104997798907945/83b9000b30a5bccf0130da615f3799ac.png?size=32" width="24">esex | esex /rupture | [mDmxnfz2Yv](https://discord.gg/mDmxnfz2Yv) | 1369104997798907945 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369182240860278907/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">esex | .gg/slashyea [esex] | [hWTMbu7HmF](https://discord.gg/hWTMbu7HmF) | 1369182240860278907 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369454946830782555/c045e7f141ddec716e10595b50b3a46f.png?size=32" width="24">esex | esex \| .gg/fg  for 30+ free guilds | [sNYsuJFKnX](https://discord.gg/sNYsuJFKnX) | 1369454946830782555 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369775821220483223/934717719bd929a72f189f71af676bac.png?size=32" width="24">esex | /bait (#esex) | [Ewq3qRhcHY](https://discord.gg/Ewq3qRhcHY) | 1369775821220483223 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369759334275350699/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">evil | Tag &gt; evil | [tke6meZtD4](https://discord.gg/tke6meZtD4) | 1369759334275350699 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369070571769299045/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">ex | /rupture ; ex | [yqvFpPaJYX](https://discord.gg/yqvFpPaJYX) | 1369070571769299045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369751427119054888/ea76d37bcd6f1b0543efcce6c32fe999.png?size=32" width="24">exe | exe | [4ujCvRan9x](https://discord.gg/4ujCvRan9x) | 1369751427119054888 |

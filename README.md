@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369733158324408380/434af73d5e4a11708403d641c9aca1dc.png?size=32" width="24">1337 | /notj | [MFXc4xXv6f](https://discord.gg/MFXc4xXv6f) | 2025-05-08T06:21:09+00:00 | 1369733158324408380 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369269249058672730/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">ƒ5ve | 𝙛5𝙫𝙚 | [V6VZQdAwwB](https://discord.gg/V6VZQdAwwB) | 2025-05-08T06:16:04+00:00 | 1369269249058672730 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369573005398773790/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">LOML | LOML tag \| /loml | [6ArhMS3aGS](https://discord.gg/6ArhMS3aGS) | 2025-05-08T06:10:59+00:00 | 1369573005398773790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369552429493784627/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">DLVN | Dylan Guild Tag | [yDe2NwYmfb](https://discord.gg/yDe2NwYmfb) | 2025-05-08T06:05:54+00:00 | 1369552429493784627 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369634176101388288/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">새콤달콤 | 🍓 딸기나라 ⊹ | [uCXGSHqFkG](https://discord.gg/uCXGSHqFkG) | 2025-05-08T02:06:54+00:00 | 1369634176101388288 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369429267556990976/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">: ) | : ) #Tag | [3dPxVsVVvB](https://discord.gg/3dPxVsVVvB) | 2025-05-08T02:01:47+00:00 | 1369429267556990976 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741891741941760/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">٧٨٧٨ | ٧٨٧٨ tag  \| #tokyoo | [HbqPVKVxUp](https://discord.gg/HbqPVKVxUp) | 2025-05-08T02:01:47+00:00 | 1369741891741941760 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369771174946537522/af4e65cc91665837707a40e35513926c.png?size=32" width="24">KSA | Road | [road1](https://discord.gg/road1) | 2025-05-08T02:01:47+00:00 | 1369771174946537522 |
 
 </details>
 
@@ -145,6 +145,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369431069341778012/47ccef5f2be010bd4c573b5b952869f3.png?size=32" width="24">13 | 369 | [369](https://discord.gg/369) | 1369431069341778012 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369101903463714930/1897636167e0b09146fb12ce58e63294.png?size=32" width="24">1337 | 1337 \| Universal | [1337tag](https://discord.gg/1337tag) | 1369101903463714930 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730832897544313/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">1337 | 1337 Tag (.gg/staffs) | [arVAZFY27h](https://discord.gg/arVAZFY27h) | 1369730832897544313 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369733158324408380/434af73d5e4a11708403d641c9aca1dc.png?size=32" width="24">1337 | /notj | [MFXc4xXv6f](https://discord.gg/MFXc4xXv6f) | 1369733158324408380 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369731090595450942/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">1492 | 1492 - /znk | [SE9gmvCZgD](https://discord.gg/SE9gmvCZgD) | 1369731090595450942 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369320304890872000/7f968d34689b032120d7a0f2a3d69b83.png?size=32" width="24">1500 | TRK SHOP | [GdgBTfStfp](https://discord.gg/GdgBTfStfp) | 1369320304890872000 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369589916861730836/a08d2bb15b7fa1f4befa95a6868db501.png?size=32" width="24">1557 | .gg/MIKUBEAM [1557] | [bzj6jRdBF5](https://discord.gg/bzj6jRdBF5) | 1369589916861730836 |

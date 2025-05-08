@@ -804,6 +804,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369742887851393157/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">MEOW | Cataholics [MEOW] | [Rq9hGr5wcB](https://discord.gg/Rq9hGr5wcB) | 1369742887851393157 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615684689989632/2ac3613ced92d46f5c8e059a3570747e.png" width="24">MEOW | La Citadelle | [9yRzMJVfM7](https://discord.gg/9yRzMJVfM7) | 1369615684689989632 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369605839081701386/a3157678d3f97d789e959f9c62499918.png" width="24">MERC | 煙 - MERC | [ZCXRYcX8ax](https://discord.gg/ZCXRYcX8ax) | 1369605839081701386 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369754086538350734/60822eb8c504c45cee27680dbccf599b.png" width="24">MESS | #MESS \| /draxonshopp | [QnmfSVX9zs](https://discord.gg/QnmfSVX9zs) | 1369754086538350734 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369621246655856750/8d61abb8b5da075befaff858861dba54.png" width="24">META | Meta Guild | [metaguild](https://discord.gg/metaguild) | 1369621246655856750 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369445819941519461/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">META | META | [yUUsTMzNnJ](https://discord.gg/yUUsTMzNnJ) | 1369445819941519461 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369733112745169037/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MGE | Mge: Fan Club | [7Uz8DezPAF](https://discord.gg/7Uz8DezPAF) | 1369733112745169037 |
@@ -912,7 +913,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369139585761935450/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">OwO | OwO | [Xk4jN3g9k3](https://discord.gg/Xk4jN3g9k3) | 1369139585761935450 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369864696345268398/91eb8aaad40e0cc110812e6a006a8e46.png" width="24">P5X | P5X \| .gg/p5xhangout | [zF9waBDEF9](https://discord.gg/zF9waBDEF9) | 1369864696345268398 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369763666496589984/d2b8a11f11730feee94ce3ade605905f.png" width="24">PAFF | PAFF - /92ii | [BXMHHX7vBm](https://discord.gg/BXMHHX7vBm) | 1369763666496589984 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369754086538350734/6082c2553b03b47ccaea5203567df3cf.png" width="24">PAID | #PAID \| /draxonshopp | [vA7CJ9v5dv](https://discord.gg/vA7CJ9v5dv) | 1369754086538350734 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369678345364701345/4c6b987648217084cc4371c4f129b87b.png" width="24">PAIN | PAIN \| .gg/sunytag | [ar8pE6xCnf](https://discord.gg/ar8pE6xCnf) | 1369678345364701345 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369396641924124832/3dcec02cb55e8e8eb3155632c80f9521.png" width="24">PAKI | /TENSION #paki | [MAhpCfCZKc](https://discord.gg/MAhpCfCZKc) | 1369396641924124832 |
 | <img src="https://cdn.discordapp.com/clan-badges/392631512673157120/b204e3906860e57a6a9e01ba92c0bfbb.png" width="24">PAN | B4mboo Forest | [bambooforest](https://discord.gg/bambooforest) | 392631512673157120 |

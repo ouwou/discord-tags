@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369764372531908609/c3fef549b04bc7913a6f5d59b79e24fe.png?size=32" width="24">ೀ ݁ | /𝓎umii 𓂃  guild tag | [AvRjfqvkRu](https://discord.gg/AvRjfqvkRu) | 2025-05-08T17:56:25+00:00 | 1369764372531908609 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778356945686628/051ae99f8d07959928125c1a64b56507.png?size=32" width="24">VIBE | Vibe guild | [Gn6W79vtpU](https://discord.gg/Gn6W79vtpU) | 2025-05-08T17:51:19+00:00 | 1369778356945686628 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641649453400135/66e6116fb71622d52bed149a17914270.png?size=32" width="24">SROV | SROV Guild Tag | [WgxfgRSA5u](https://discord.gg/WgxfgRSA5u) | 2025-05-08T17:51:18+00:00 | 1369641649453400135 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369607888754053161/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">sigh | .gg/unemployment | [BaUT99MJX6](https://discord.gg/BaUT99MJX6) | 2025-05-08T17:46:13+00:00 | 1369607888754053161 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369726531143995395/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">۟۟ | BEST GUILDS BY INTRUSIF | [D2rvvqVQ3T](https://discord.gg/D2rvvqVQ3T) | 2025-05-08T17:05:04+00:00 | 1369726531143995395 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369474908198928424/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">۟۟ | ۟۟ONLY FOR TOP - .gg/uhq | [fNGNpbEdTJ](https://discord.gg/fNGNpbEdTJ) | 2025-05-08T17:05:04+00:00 | 1369474908198928424 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369773769245327432/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">۟۟ | SUPERSTARS \| 20+ Free Guilds | [NDueKyXthG](https://discord.gg/NDueKyXthG) | 2025-05-08T17:05:03+00:00 | 1369773769245327432 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369972593309777931/736e7d8bb18ed68b6e0223765e79015e.png?size=32" width="24">pimp | pimp | [ayVHdwMbEq](https://discord.gg/ayVHdwMbEq) | 2025-05-08T16:02:46+00:00 | 1369972593309777931 |
 
 </details>
 
@@ -1589,6 +1589,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369749900782338068/b753ab3d3101fd43350a72204ef8c456.png?size=32" width="24">౨ৎ | ౨ৎ \| .gg/doyoung | [hanjin](https://discord.gg/hanjin) | 1369749900782338068 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369410738631999549/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">౨ৎ | /supershy’s guild﹒      ♪ | [h22GbygeeE](https://discord.gg/h22GbygeeE) | 1369410738631999549 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369455920345518132/5c6362be13a3f553790bade7c8f136b8.png?size=32" width="24">౨ৎ | ౨ৎ \| discord.gg/jennie ⁽²⁾ | [WMgSrRAmk6](https://discord.gg/WMgSrRAmk6) | 1369455920345518132 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369764372531908609/c3fef549b04bc7913a6f5d59b79e24fe.png?size=32" width="24">ೀ ݁ | /𝓎umii 𓂃  guild tag | [AvRjfqvkRu](https://discord.gg/AvRjfqvkRu) | 1369764372531908609 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369457470422122579/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">ೀ 틸 | join discord.gg/till 4 tag | [kAMSQrzW5r](https://discord.gg/kAMSQrzW5r) | 1369457470422122579 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369085692327497758/788a69567671fb4d110432beeada67b6.png?size=32" width="24">ඞ. | Mewing frieren [Not Just a Tag Server] | [mYES5deEQd](https://discord.gg/mYES5deEQd) | 1369085692327497758 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369564814774370396/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ඞ₊˚\* | .gg/yea #ඞ₊˚\* | [qKaZFsGXYr](https://discord.gg/qKaZFsGXYr) | 1369564814774370396 |

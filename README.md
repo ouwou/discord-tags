@@ -179,6 +179,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369712389477371955/48980117edb68bebb8f1a16c6938b804.png?size=32" width="24">BLIK | [ＢＬＩＫ] | [zKK8H2kQpA](https://discord.gg/zKK8H2kQpA) | 1369712389477371955 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369447125212987554/3ad339a133806fee7d348c896ff66906.png?size=32" width="24">BLKN | /blkn | [blkn](https://discord.gg/blkn) | 1369447125212987554 |
 | <img src="https://cdn.discordapp.com/clan-badges/1196951653509775481/fe65728bfca0e8ee2d7b4b95ccce38e5.png?size=32" width="24">BMW | BMW by roylax1337 | [2cRpkXzjJa](https://discord.gg/2cRpkXzjJa) | 1196951653509775481 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369806363714125904/e79cd3892126d31a6b0131d8c406fd27.png?size=32" width="24">BMW | B M W | [bmww](https://discord.gg/bmww) | 1369806363714125904 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369048791533097021/f70164aaccb9dfb4449b5f6c5481f967.png?size=32" width="24">BONK | Bonked! | [RpHnsg36BJ](https://discord.gg/RpHnsg36BJ) | 1369048791533097021 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369139228557971497/7559f482be9695e871372dfcc0ee6ac3.png?size=32" width="24">BOOM | Boomlings INC. | [fnbkdJzVfT](https://discord.gg/fnbkdJzVfT) | 1369139228557971497 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769720743460965/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">BORZ | Borzland | [mBEhdVysan](https://discord.gg/mBEhdVysan) | 1369769720743460965 |
@@ -648,6 +649,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/786437953299021844/856cecbf8055036b98cf05fd54cd8872.png?size=32" width="24">SOUL | Celestrial Boundaries | [celestrials](https://discord.gg/celestrials) | 786437953299021844 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742716753154108/be9690734b306c2a5d4f98cdd8cb97b3.png?size=32" width="24">SOUR | SOUR💜 | [tBHTHVcQWV](https://discord.gg/tBHTHVcQWV) | 1369742716753154108 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369805534894624828/6a829634910fca34b3d90e74dc3a3fc8.png?size=32" width="24">SQCL | Square Cloud Tag | [xbJjWAzTBZ](https://discord.gg/xbJjWAzTBZ) | 1369805534894624828 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369806537480208596/2cd22da80c7ad17728c23b66a2d983a5.png?size=32" width="24">SRT | .gg/arsonist for access [SRT] | [V9sbgDAPh9](https://discord.gg/V9sbgDAPh9) | 1369806537480208596 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369398327271231570/79dae93b4acc456cc8aaf6ed2accc540.png?size=32" width="24">STAB | tempt.lol \| tag | [fRurmYZ7R2](https://discord.gg/fRurmYZ7R2) | 1369398327271231570 |
 | <img src="https://cdn.discordapp.com/clan-badges/1044698006395555960/66dd35e973cf6054f84b0edd73ac2b02.png" width="24">STAR | SolarBalls | [solarballs](https://discord.gg/solarballs) | 1044698006395555960 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369465606910509087/78b1ebb6b97565376cb5345a0631e362.png?size=32" width="24">STAR | Star (Tag) | [gfFV8N7gfC](https://discord.gg/gfFV8N7gfC) | 1369465606910509087 |
@@ -1051,6 +1053,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369746057163964463/79dae93b4acc456cc8aaf6ed2accc540.png?size=32" width="24">ɴᴅᴀ | #N&#x27;DA | [tpY7KJQUfg](https://discord.gg/tpY7KJQUfg) | 1369746057163964463 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369420687395000441/2bd24520cd2529dd83a928cea96d9614.png?size=32" width="24">ʚïɞ | ʚïɞ \| .gg/butterfly | [MXg2ZnY7tU](https://discord.gg/MXg2ZnY7tU) | 1369420687395000441 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369455251895357481/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ʚɞ | .gg/tyx #ʚɞ | [6MgxcCFzPc](https://discord.gg/6MgxcCFzPc) | 1369455251895357481 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369772704172867594/081b8f2d50cd163f9698396466275b85.png?size=32" width="24">ʚɞ | fairy .𓏲 ࣪˖ | [tJzUReCAwk](https://discord.gg/tJzUReCAwk) | 1369772704172867594 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369353961714487386/2dfd9e9991113a4503b1500e5667ed40.png?size=32" width="24">ʟꜱᴅ | Downfall™ : Worldwide | [eta2tnZPuS](https://discord.gg/eta2tnZPuS) | 1369353961714487386 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766297151475743/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">˘ω˘ | ˘ω˘ Artist Haven🪽ARTㆍSOCIALㆍGFXㆍCOMMISSIONSㆍGAMING | [WcbChsbxCX](https://discord.gg/WcbChsbxCX) | 1369766297151475743 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369440410186940537/11b9f6b4d9481fc5a987e0cc1b6b60b9.png?size=32" width="24">˙ᵕ˙ | PacK&#x27;s Server ˙ᵕ˙ | [8t5TGBw8Sx](https://discord.gg/8t5TGBw8Sx) | 1369440410186940537 |

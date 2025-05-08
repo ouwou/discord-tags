@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369749400770973837/3ca9fe6ac5089304899e2dbfd4c4824d.png?size=32" width="24">݁  ₊ | ／𝑐ℎ𝑒𝑟𝑖𝑒𝑠 | [3qEmxey4ya](https://discord.gg/3qEmxey4ya) | 2025-05-08T01:31:16+00:00 | 1369749400770973837 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369592308441288704/7e951786432b0c1e39e9c9daefcbfacf.png?size=32" width="24">FURY | FuryVerse | [xgQu9rnW6d](https://discord.gg/xgQu9rnW6d) | 2025-05-08T01:31:16+00:00 | 1369592308441288704 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369827583910350919/45dec9cc747ee3949b568836f2a1adbf.png?size=32" width="24">RICH | RICH \| .gg/P3xxVpuSz2 | [P3xxVpuSz2](https://discord.gg/P3xxVpuSz2) | 2025-05-08T01:31:16+00:00 | 1369827583910350919 |
 | <img src="https://cdn.discordapp.com/clan-badges/208675884377309194/76e358d951d7bb7d73d4c80ea0b064a5.png?size=32" width="24">AZIR | Azir Mains💜 | [HsgztrxSyh](https://discord.gg/HsgztrxSyh) | 2025-05-08T01:26:08+00:00 | 208675884377309194 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716002085928983/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">ԝlԝ | guppy | [4TEhR3TruA](https://discord.gg/4TEhR3TruA) | 2025-05-08T01:26:08+00:00 | 1369716002085928983 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369548452329164850/ff7bc7b66c3b099758c54f8810594230.png?size=32" width="24">hurt | adrian \| hurt tag | [qkDBdbb2na](https://discord.gg/qkDBdbb2na) | 2025-05-08T01:21:03+00:00 | 1369548452329164850 |
@@ -358,6 +361,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369451431609765939/b8035dc678b88004139c68c52cfb2828.png?size=32" width="24">FUNK | DJ GVX | [7n94ne4dZn](https://discord.gg/7n94ne4dZn) | 1369451431609765939 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369402069772931132/d2147c53832fc97a6aed884552dc1024.png?size=32" width="24">FUR | Furlanta 🐾⭐ | [mj8zmGDCnM](https://discord.gg/mj8zmGDCnM) | 1369402069772931132 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369643746534101113/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">FURR | Cynically&#x27;s appartment | [wBwSzVsFqe](https://discord.gg/wBwSzVsFqe) | 1369643746534101113 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369592308441288704/7e951786432b0c1e39e9c9daefcbfacf.png?size=32" width="24">FURY | FuryVerse | [xgQu9rnW6d](https://discord.gg/xgQu9rnW6d) | 1369592308441288704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369620817515905075/c8d016eed5c8752316ca38fdd54380c6.png?size=32" width="24">FWÆH | 煙 - FWÆH | [j8cjWdSDdJ](https://discord.gg/j8cjWdSDdJ) | 1369620817515905075 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369356140466667652/21129b437afdc5d4c56b399d9d86e25d.png?size=32" width="24">Fae | Lyvielle&#x27;s Sanctuary | [ZfwDQS9FCS](https://discord.gg/ZfwDQS9FCS) | 1369356140466667652 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369631007460036639/2b5bdaa658768b9b30598ecc4ca825b2.png?size=32" width="24">Faiᵺ | # Faiᵺ Tag | [q88r84ebbu](https://discord.gg/q88r84ebbu) | 1369631007460036639 |
@@ -658,6 +662,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369358645053227159/afef8e1d14121535e46a4a27cefda396.png?size=32" width="24">RICH | #RICH /uzuki | [takamura](https://discord.gg/takamura) | 1369358645053227159 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615987187646624/34bc7037b90ebf90e0ac217fcffdfe2d.png?size=32" width="24">RICH | $$ richest | [8ewu3YyV](https://discord.gg/8ewu3YyV) | 1369615987187646624 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369824414362763336/22baa113ab7aba36ac37296ab541de8f.png?size=32" width="24">RICH | $$$ | [vZS84NPWFG](https://discord.gg/vZS84NPWFG) | 1369824414362763336 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369827583910350919/45dec9cc747ee3949b568836f2a1adbf.png?size=32" width="24">RICH | RICH \| .gg/P3xxVpuSz2 | [P3xxVpuSz2](https://discord.gg/P3xxVpuSz2) | 1369827583910350919 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369499423318741123/0c7471af1e26024b7c55da8a5d79d9d0.png?size=32" width="24">RIN | kagamine club | [7hFCcpgeU5](https://discord.gg/7hFCcpgeU5) | 1369499423318741123 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369613027753726035/560794f11f66275f7ea52c4a54d22a90.png?size=32" width="24">RIN | Kusatsu Tag | [tPXxXJ2Kxq](https://discord.gg/tPXxXJ2Kxq) | 1369613027753726035 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369109391214641183/e05ecd5875a2e1daee2ed1df612462b5.png?size=32" width="24">RIZZ | Discord 2^2 | [dfruaHQtCv](https://discord.gg/dfruaHQtCv) | 1369109391214641183 |
@@ -1166,6 +1171,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369716527066120324/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=32" width="24">ܛܔܔܛ | .gg/moneyy # ܛܔܔܛ | [s765e6PnME](https://discord.gg/s765e6PnME) | 1369716527066120324 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369470333282816010/8245ad2edb0b5cee190e7a8be94ef5c1.png?size=32" width="24">ܛ腐 | /ICYMI TAGS - ܛ腐 | [RaD6rr9NXp](https://discord.gg/RaD6rr9NXp) | 1369470333282816010 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369413142827761716/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">ܡܘܬܐ | ܡܝܬܬ tag | [ujQMXKSaBA](https://discord.gg/ujQMXKSaBA) | 1369413142827761716 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369749400770973837/3ca9fe6ac5089304899e2dbfd4c4824d.png?size=32" width="24">݁  ₊ | ／𝑐ℎ𝑒𝑟𝑖𝑒𝑠 | [3qEmxey4ya](https://discord.gg/3qEmxey4ya) | 1369749400770973837 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369472613524705351/5c6362be13a3f553790bade7c8f136b8.png?size=32" width="24">࣪ ˖ | ࣪ ˖ \| discord.gg/jennie (3) | [3ZMkkGcsFC](https://discord.gg/3ZMkkGcsFC) | 1369472613524705351 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369305531612790916/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">भारत | भारत  tag - gg/india | [indiaa](https://discord.gg/indiaa) | 1369305531612790916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754311361302589/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">ৎ? | # ৎ? \| .gg/slave | [sSskU2suu3](https://discord.gg/sSskU2suu3) | 1369754311361302589 |

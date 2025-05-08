@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369756531603542016/28c2c2aa9ccd050e6a343e4406dad46b.png?size=32" width="24">محبت | محبت　　[　.gg/furina　] | [J5eKkt2KeA](https://discord.gg/J5eKkt2KeA) | 2025-05-08T19:48:59+00:00 | 1369756531603542016 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726885218746559/bc2f7685eed9d27522595f510bb2da48.png?size=32" width="24">A$AP | A$AP Tag | [YTjfd6WH3e](https://discord.gg/YTjfd6WH3e) | 2025-05-08T19:43:54+00:00 | 1369726885218746559 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757842285789360/c8f650998d41f20132fe6c33da7dcbf8.png?size=32" width="24">DDoS | PanicBot.net | [ddostag](https://discord.gg/ddostag) | 2025-05-08T19:43:54+00:00 | 1369757842285789360 |
 | <img src="https://cdn.discordapp.com/clan-badges/1187183710928384021/23da941dbd2af648c5d0b52492cc39cc.png?size=32" width="24">airi | idol fans [airi] ♡ | [fPHqqTNsCw](https://discord.gg/fPHqqTNsCw) | 2025-05-08T19:38:48+00:00 | 1187183710928384021 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1219965990289543178/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">yvl | yvl | [kcTy2DjdUa](https://discord.gg/kcTy2DjdUa) | 2025-05-08T17:05:17+00:00 | 1219965990289543178 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369781431592554516/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">ZEBI | zebi | [VPYhTJycCG](https://discord.gg/VPYhTJycCG) | 2025-05-08T17:05:17+00:00 | 1369781431592554516 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369674210330546207/9b43d5ec59ffd0a187b7d343ac707643.png?size=32" width="24">wrld | Righteous | [righteous](https://discord.gg/righteous) | 2025-05-08T17:05:16+00:00 | 1369674210330546207 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369888532247744604/79366e8660935912726217b413fcc19b.png?size=32" width="24">WGNR | PMC Wagner Group | [yhJvEgZE3b](https://discord.gg/yhJvEgZE3b) | 2025-05-08T17:05:16+00:00 | 1369888532247744604 |
 
 </details>
 
@@ -1560,6 +1560,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369744520442282056/b0c8284fc0f26bb03b30e9896b1d6604.png?size=32" width="24">حلال | @حلال \| .gg/huzz | [vXta5jB9g2](https://discord.gg/vXta5jB9g2) | 1369744520442282056 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341780536856708/23836f0bac36cd0d079d045b37435518.png?size=32" width="24">زنجي | .gg/ski for access [زنجي] | [m34euusJSj](https://discord.gg/m34euusJSj) | 1369341780536856708 |
 | <img src="https://cdn.discordapp.com/clan-badges/1367088441690689597/bfac39e069372daa09918721b14088ba.png?size=32" width="24">عربي | ឵឵ | [VUqgKQKrFE](https://discord.gg/VUqgKQKrFE) | 1367088441690689597 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369756531603542016/28c2c2aa9ccd050e6a343e4406dad46b.png?size=32" width="24">محبت | محبت　　[　.gg/furina　] | [J5eKkt2KeA](https://discord.gg/J5eKkt2KeA) | 1369756531603542016 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369437619879940197/4c6b987648217084cc4371c4f129b87b.png?size=32" width="24">ِjit | Jit | [jits](https://discord.gg/jits) | 1369437619879940197 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369387907194032240/d8028e3189542f9cd218c28373bc178a.png?size=32" width="24">ِِ | heart | [YPzwYkSUJZ](https://discord.gg/YPzwYkSUJZ) | 1369387907194032240 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369428974928658504/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=32" width="24">ِِ | shaymin | [shaymin](https://discord.gg/shaymin) | 1369428974928658504 |

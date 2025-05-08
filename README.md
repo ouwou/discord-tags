@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/208675884377309194/76e358d951d7bb7d73d4c80ea0b064a5.png?size=32" width="24">AZIR | Azir Mains💜 | [HsgztrxSyh](https://discord.gg/HsgztrxSyh) | 2025-05-08T01:26:08+00:00 | 208675884377309194 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369716002085928983/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">ԝlԝ | guppy | [4TEhR3TruA](https://discord.gg/4TEhR3TruA) | 2025-05-08T01:26:08+00:00 | 1369716002085928983 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369548452329164850/ff7bc7b66c3b099758c54f8810594230.png?size=32" width="24">hurt | adrian \| hurt tag | [qkDBdbb2na](https://discord.gg/qkDBdbb2na) | 2025-05-08T01:21:03+00:00 | 1369548452329164850 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369748556403052697/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">poor | adrian \| poor tag | [PPEZpvtVJe](https://discord.gg/PPEZpvtVJe) | 2025-05-08T01:21:03+00:00 | 1369748556403052697 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754877584081108/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">xo | adrian \| xo tag | [Ep8EMN8NRS](https://discord.gg/Ep8EMN8NRS) | 2025-05-08T01:21:03+00:00 | 1369754877584081108 |
@@ -190,6 +192,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369706230846849151/0dde9feca1e7ed7a89b27b1b5f9d3d87.png?size=32" width="24">AURA | .gg/rybowehub [AURA] | [uDerdYEnuj](https://discord.gg/uDerdYEnuj) | 1369706230846849151 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369678566836539392/b0137cce7e20f761086a2c8879609e42.png?size=32" width="24">AURA | AURA \| .gg/sunytag | [GZAhsTWg4c](https://discord.gg/GZAhsTWg4c) | 1369678566836539392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369352418633978038/3da695a3845833b28878ed0d3d86dec6.png?size=32" width="24">AWOO | BorboGuild \| arch users • human beings • people • users | [Yuc99VAyv3](https://discord.gg/Yuc99VAyv3) | 1369352418633978038 |
+| <img src="https://cdn.discordapp.com/clan-badges/208675884377309194/76e358d951d7bb7d73d4c80ea0b064a5.png?size=32" width="24">AZIR | Azir Mains💜 | [HsgztrxSyh](https://discord.gg/HsgztrxSyh) | 208675884377309194 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369378816807534692/6473797948e6d36a991e425c8b7c353c.png?size=32" width="24">Adm㏌ | [Adm㏌]DiscordOwnerHub | [6mqBSb83ZT](https://discord.gg/6mqBSb83ZT) | 1369378816807534692 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369683703088808008/870ec77bcf224d26b97381334b708056.png?size=32" width="24">Adm㏌ | ＡＤＭＩＮ | [kQAPw2zKkc](https://discord.gg/kQAPw2zKkc) | 1369683703088808008 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369738711868244149/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">AfD | AFD | [ZFQPdNQaZ5](https://discord.gg/ZFQPdNQaZ5) | 1369738711868244149 |
@@ -1130,6 +1133,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369157749178634320/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">КYS | 🤍🤍 /rupture | [Sp8ECzFGVk](https://discord.gg/Sp8ECzFGVk) | 1369157749178634320 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369709056389943316/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">сука | ᲼᲼ | [QEtnEyv2xN](https://discord.gg/QEtnEyv2xN) | 1369709056389943316 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369387794300010639/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">ѕtaﬀ | Staff Tag | [a8XXdEsnRJ](https://discord.gg/a8XXdEsnRJ) | 1369387794300010639 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369716002085928983/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">ԝlԝ | guppy | [4TEhR3TruA](https://discord.gg/4TEhR3TruA) | 1369716002085928983 |
 | <img src="https://cdn.discordapp.com/clan-badges/1367088441690689597/bfac39e069372daa09918721b14088ba.png?size=32" width="24">عربي | ឵឵ | [VUqgKQKrFE](https://discord.gg/VUqgKQKrFE) | 1367088441690689597 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369387907194032240/d8028e3189542f9cd218c28373bc178a.png?size=32" width="24">ِِ | heart | [YPzwYkSUJZ](https://discord.gg/YPzwYkSUJZ) | 1369387907194032240 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369559089578905620/b7888acce7696dd0b92e8231795c8f13.png" width="24">ِِ | .gg/xpCtuthGr9 [SWORD] | [xpCtuthGr9](https://discord.gg/xpCtuthGr9) | 1369559089578905620 |

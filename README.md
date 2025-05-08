@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369441736149041203/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">cool | cool kids club | [4TFDAJdDMj](https://discord.gg/4TFDAJdDMj) | 2025-05-08T19:28:35+00:00 | 1369441736149041203 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369808585181237379/28630ffecdc85f3da72bf35a56d974ee.png?size=32" width="24">ｗｈｙ? | ｗｈｙ? | [3TFEQ425w6](https://discord.gg/3TFEQ425w6) | 2025-05-08T19:23:30+00:00 | 1369808585181237379 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369670500338503712/18190e4900f272c1fda8a5681bfc88a8.png?size=32" width="24">milk | Violet land | [sweett](https://discord.gg/sweett) | 2025-05-08T19:18:21+00:00 | 1369670500338503712 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369744451697639506/7728f745b575a531e1d81ddfcbc5914b.png?size=32" width="24">sza | Queenie&#x27;s Basement (Guild) | [3M73qhg4jy](https://discord.gg/3M73qhg4jy) | 2025-05-08T19:18:21+00:00 | 1369744451697639506 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369712101324488877/5ff194430c4895f0b6d76b7480a7ca49.png?size=32" width="24">SEGA | SEGA Community (Tag + Emotes) | [wzpE4g2DqS](https://discord.gg/wzpE4g2DqS) | 2025-05-08T17:05:13+00:00 | 1369712101324488877 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369760637051469915/2bfeaaa7b528a26f879d88a3c876f204.png?size=32" width="24">psik | Kanciapa+ | [k4rdev](https://discord.gg/k4rdev) | 2025-05-08T17:05:12+00:00 | 1369760637051469915 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761953672597675/ba8a90eede32aca30ce7305dfb77b4cd.png?size=32" width="24">OKLM | [OKLM-TAG] .gg/oklm | [GpxT3JZVtd](https://discord.gg/GpxT3JZVtd) | 2025-05-08T17:05:12+00:00 | 1369761953672597675 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369728696013029391/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">intr | FSOCIETY | [SWEkdeDDHJ](https://discord.gg/SWEkdeDDHJ) | 2025-05-08T17:05:12+00:00 | 1369728696013029391 |
 
 </details>
 
@@ -1210,6 +1210,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369761882537463960/c08ecb1ef98d938294b1db84ca629ef7.png?size=32" width="24">com | .gg/slashzone [com] | [comtag](https://discord.gg/comtag) | 1369761882537463960 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369688907993583710/0625caabbdb25cb8406ebdd64b90a445.png?size=32" width="24">cool | cool | [XuSCkAgeEm](https://discord.gg/XuSCkAgeEm) | 1369688907993583710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369461353944711168/83d426943474e0c564ed2a7bd1cf45e8.png?size=32" width="24">cool | cool | [N476j2AwTX](https://discord.gg/N476j2AwTX) | 1369461353944711168 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369441736149041203/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">cool | cool kids club | [4TFDAJdDMj](https://discord.gg/4TFDAJdDMj) | 1369441736149041203 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369285470978048001/7b571a46a1266491cfabe2e362aad176.png?size=32" width="24">cozy | cozy | [u2W6f2DV2d](https://discord.gg/u2W6f2DV2d) | 1369285470978048001 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369789989310959753/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">coﬃn | Vs guild | [HBQg4Fd6JX](https://discord.gg/HBQg4Fd6JX) | 1369789989310959753 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369473180451868792/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">cr7 | .gg/neymar #CR7 guild | [tNHbhg4fWq](https://discord.gg/tNHbhg4fWq) | 1369473180451868792 |

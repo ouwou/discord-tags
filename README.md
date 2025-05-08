@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1251511165335633920/d5fcfb1c1d7458030137d85d1c9f6feb.png?size=32" width="24">ٰٰٰ | ok :D | [5YDVymwGfJ](https://discord.gg/5YDVymwGfJ) | 2025-05-08T07:11:51+00:00 | 1251511165335633920 |
 | <img src="https://cdn.discordapp.com/clan-badges/1301262277835489410/2b049c4ebb99ee463623b3eb692fe7cf.png?size=32" width="24">Vro | Vro Fanclub | [6Cf6K6fNXw](https://discord.gg/6Cf6K6fNXw) | 2025-05-08T07:06:47+00:00 | 1301262277835489410 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369744314099433633/03a37b34acb1373ef66a602ff131ca42.png?size=32" width="24">&lt;&gt;&lt; | fuck you fishcord  [&lt;&gt;&lt;] | [hc3DQ5MvyX](https://discord.gg/hc3DQ5MvyX) | 2025-05-08T07:06:46+00:00 | 1369744314099433633 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369653258557198469/1cf82de3c2597674b7bbae162016bfc7.png?size=32" width="24">魔法少女 | 𝓜𝓪𝓰𝓲𝓬 𝓖𝓲𝓻𝓵☆彡 | [NJmVuY7Aqr](https://discord.gg/NJmVuY7Aqr) | 2025-05-08T07:01:42+00:00 | 1369653258557198469 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369780011266998383/4ef966b9bdd3ca7155e184e893314cd6.png?size=32" width="24">FLAV | FlaviBot&#x27;s Testers | [uq2G4Rz64t](https://discord.gg/uq2G4Rz64t) | 2025-05-08T02:22:22+00:00 | 1369780011266998383 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369845385442496642/e753bbfbb76e4bf7529e246e6d650d18.png?size=32" width="24">GUTS | GUTS | [FmjJSdHgbP](https://discord.gg/FmjJSdHgbP) | 2025-05-08T02:22:22+00:00 | 1369845385442496642 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369508342397145178/f6822eb5111fde1093e0b6217aa53a81.png?size=32" width="24">alx | alx | [alex](https://discord.gg/alex) | 2025-05-08T02:22:21+00:00 | 1369508342397145178 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369756975109374116/4c42edcda88ac5811ec3145e94631aca.png?size=32" width="24">DMA | .gg/nosoftware [DMA GUILD] | [nosoftware](https://discord.gg/nosoftware) | 2025-05-08T02:17:10+00:00 | 1369756975109374116 |
 
 </details>
 
@@ -1305,6 +1305,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369559089578905620/b7888acce7696dd0b92e8231795c8f13.png" width="24">ِِ | .gg/xpCtuthGr9 [SWORD] | [xpCtuthGr9](https://discord.gg/xpCtuthGr9) | 1369559089578905620 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369690028913066035/8f14405de7e725b64b4978a0f3035eae.png?size=32" width="24">ِِ𖣂 | /gds \| 10+ guilds | [73Xq6fKySF](https://discord.gg/73Xq6fKySF) | 1369690028913066035 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741891741941760/2c7aa014ee3599b6b7089ce933971852.png?size=32" width="24">٧٨٧٨ | ٧٨٧٨ tag  \| #tokyoo | [HbqPVKVxUp](https://discord.gg/HbqPVKVxUp) | 1369741891741941760 |
+| <img src="https://cdn.discordapp.com/clan-badges/1251511165335633920/d5fcfb1c1d7458030137d85d1c9f6feb.png?size=32" width="24">ٰٰٰ | ok :D | [5YDVymwGfJ](https://discord.gg/5YDVymwGfJ) | 1251511165335633920 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369420636950368387/d3811add7b8801f598fc3b80d184d5e1.png?size=32" width="24">ٴٴ | Invisible #Tag /eri | [Dr6P5NBJDC](https://discord.gg/Dr6P5NBJDC) | 1369420636950368387 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369645699435724861/354ca0ff90d810dcc8a02be476a18921.png?size=32" width="24">۝۝ | join /slashfr | [wNz92Qqesf](https://discord.gg/wNz92Qqesf) | 1369645699435724861 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369506705171550290/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">۟۟ | adriancord | [adrian](https://discord.gg/adrian) | 1369506705171550290 |

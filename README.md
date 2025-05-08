@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1080530564676845630/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">歐皇 | 姜棠の反熬夜教室 | [jiangtarng](https://discord.gg/jiangtarng) | 2025-05-08T04:39:34+00:00 | 1080530564676845630 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369815244024713406/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">UWP | UWP Development | [6SKnsYkqyQ](https://discord.gg/6SKnsYkqyQ) | 2025-05-08T04:29:27+00:00 | 1369815244024713406 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369470451717509261/84ded6a1af9be32ab771183c0cb8b571.png?size=32" width="24">&lt;3 | /snore guild | [viv](https://discord.gg/viv) | 2025-05-08T04:29:26+00:00 | 1369470451717509261 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369863913713176616/c1e4439afa95753a4bab531e3c4c42d1.png?size=32" width="24">mugi | Komugi K-ON &quot;Mugi&quot; Tag | [cTQar6fbVV](https://discord.gg/cTQar6fbVV) | 2025-05-08T04:29:26+00:00 | 1369863913713176616 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369748556403052697/86735389348f3eacfa519eb553df38fd.png?size=32" width="24">poor | adrian \| poor tag | [PPEZpvtVJe](https://discord.gg/PPEZpvtVJe) | 2025-05-08T01:21:03+00:00 | 1369748556403052697 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754877584081108/232d1d2a366ec512dde707821f672cce.png?size=32" width="24">xo | adrian \| xo tag | [Ep8EMN8NRS](https://discord.gg/Ep8EMN8NRS) | 2025-05-08T01:21:03+00:00 | 1369754877584081108 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369768178623844372/cbc8765dbaa3acebe39059b5a02fb40b.png?size=32" width="24">ʚଓ | adrian \| ʚଓ tag | [VFNmgrauNM](https://discord.gg/VFNmgrauNM) | 2025-05-08T01:21:02+00:00 | 1369768178623844372 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369809357738606592/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">FAME | Fame | [e23v34hmsR](https://discord.gg/e23v34hmsR) | 2025-05-08T01:21:02+00:00 | 1369809357738606592 |
 
 </details>
 
@@ -1415,6 +1415,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369529644893868104/1f2327f3fe1530342cfc88fc9b3c8827.png?size=32" width="24">星空 | 星空 Starry Sky | [cAk5CpGVth](https://discord.gg/cAk5CpGVth) | 1369529644893868104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369307026391302184/772743c05cbbbdd14e6db7de20019004.png?size=32" width="24">東方 | [東方] Touhou \| dsc.gg/guild-tag | [H3NYHsDqZS](https://discord.gg/H3NYHsDqZS) | 1369307026391302184 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719218886676480/7c601949ded32a50a2a04730a0f2606c.png?size=32" width="24">榎並杏紗 | EnamiAsa | [nj5DrB6uxw](https://discord.gg/nj5DrB6uxw) | 1369719218886676480 |
+| <img src="https://cdn.discordapp.com/clan-badges/1080530564676845630/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">歐皇 | 姜棠の反熬夜教室 | [jiangtarng](https://discord.gg/jiangtarng) | 1080530564676845630 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369564982567501915/f150d7d2d1b681f52eba4b7e23cdf565.png?size=32" width="24">淫夢厨 | 淫夢厨#guild tag server | [g8Rgwxcq8u](https://discord.gg/g8Rgwxcq8u) | 1369564982567501915 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369538167291777045/9d9a3041a1166f03c8c0e05c00930db5.png?size=32" width="24">爪YŦH | 爪YŦHØS | [mythoss](https://discord.gg/mythoss) | 1369538167291777045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369487817612202125/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">猫ANM | neko &amp; anime | [55Kg2xdj7D](https://discord.gg/55Kg2xdj7D) | 1369487817612202125 |

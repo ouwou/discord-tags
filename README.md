@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369220012656820224/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">我爱你 | 我爱你♡ | [23hxNVrTpz](https://discord.gg/23hxNVrTpz) | 2025-05-08T03:13:20+00:00 | 1369220012656820224 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369721402596261980/e929e1c0111f2acf104ba53aefc5ee44.png?size=32" width="24">sexy | @sexy tag \| .gg/gds | [ZJ8AWEBq97](https://discord.gg/ZJ8AWEBq97) | 2025-05-08T03:08:16+00:00 | 1369721402596261980 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785973340110898/429d0552c7f84d87c0c3667f07211ce5.png?size=32" width="24">FROG | XP+ : tag FROG | [p9hAMvAPmE](https://discord.gg/p9hAMvAPmE) | 2025-05-08T03:08:15+00:00 | 1369785973340110898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369527576732631082/5cebcc7462b1d56f82e6b3b28968899f.png?size=32" width="24">LYFE | Ayanami&#x27;s Lab • gg/ayaslab | [ayaslab](https://discord.gg/ayaslab) | 2025-05-08T03:08:15+00:00 | 1369527576732631082 |
@@ -1385,6 +1386,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369212808914538496/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">愛牛牛 | 牛牛幫 Genshin Varesa Fan Club | [4CWdTqStrb](https://discord.gg/4CWdTqStrb) | 1369212808914538496 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369362153538322483/0aa7b6e7cd6d867e4385e97cdfa85aed.png?size=32" width="24">我爱你 | /cinnabun guild ✿ 我爱你 | [GTSWfsAxdH](https://discord.gg/GTSWfsAxdH) | 1369362153538322483 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369543990730559508/730516b133e305fae57707c4eb1167f4.png?size=32" width="24">我爱你 | ㆍLOVE GUILD  𐚁 | [AksCZakaBt](https://discord.gg/AksCZakaBt) | 1369543990730559508 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369220012656820224/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">我爱你 | 我爱你♡ | [23hxNVrTpz](https://discord.gg/23hxNVrTpz) | 1369220012656820224 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369538922765357158/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">操你媽 | [ 台灣人 ] Cody | [xebhSKP7hQ](https://discord.gg/xebhSKP7hQ) | 1369538922765357158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369345861846302800/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">日本 | 日本 | [WQJNhm9n9U](https://discord.gg/WQJNhm9n9U) | 1369345861846302800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369529644893868104/1f2327f3fe1530342cfc88fc9b3c8827.png?size=32" width="24">星空 | 星空 Starry Sky | [cAk5CpGVth](https://discord.gg/cAk5CpGVth) | 1369529644893868104 |

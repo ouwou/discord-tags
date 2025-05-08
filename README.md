@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369778356945686628/051ae99f8d07959928125c1a64b56507.png?size=32" width="24">VIBE | Vibe guild | [Gn6W79vtpU](https://discord.gg/Gn6W79vtpU) | 2025-05-08T17:51:19+00:00 | 1369778356945686628 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369641649453400135/66e6116fb71622d52bed149a17914270.png?size=32" width="24">SROV | SROV Guild Tag | [WgxfgRSA5u](https://discord.gg/WgxfgRSA5u) | 2025-05-08T17:51:18+00:00 | 1369641649453400135 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369607888754053161/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">sigh | .gg/unemployment | [BaUT99MJX6](https://discord.gg/BaUT99MJX6) | 2025-05-08T17:46:13+00:00 | 1369607888754053161 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369739918133170246/7b571a46a1266491cfabe2e362aad176.png?size=32" width="24">霜之哀傷 | 正在嘗試竊取NASA的火箭 | [gRB68qTZAb](https://discord.gg/gRB68qTZAb) | 2025-05-08T17:46:13+00:00 | 1369739918133170246 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369657499929804901/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">YUMI | Family Yumi 🌸 | [familyyumi](https://discord.gg/familyyumi) | 2025-05-08T17:46:12+00:00 | 1369657499929804901 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369474908198928424/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">۟۟ | ۟۟ONLY FOR TOP - .gg/uhq | [fNGNpbEdTJ](https://discord.gg/fNGNpbEdTJ) | 2025-05-08T17:05:04+00:00 | 1369474908198928424 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369773769245327432/439c5b7117f3f3e8e574b4766d1b7e73.png?size=32" width="24">۟۟ | SUPERSTARS \| 20+ Free Guilds | [NDueKyXthG](https://discord.gg/NDueKyXthG) | 2025-05-08T17:05:03+00:00 | 1369773769245327432 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369972593309777931/736e7d8bb18ed68b6e0223765e79015e.png?size=32" width="24">pimp | pimp | [ayVHdwMbEq](https://discord.gg/ayVHdwMbEq) | 2025-05-08T16:02:46+00:00 | 1369972593309777931 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370041509436457082/6082c2553b03b47ccaea5203567df3cf.png?size=32" width="24">若葉睦 | 只是一個若葉睦的標籤 / EzXFxKf3WY | [EzXFxKf3WY](https://discord.gg/EzXFxKf3WY) | 2025-05-08T15:16:26+00:00 | 1370041509436457082 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369954920496758874/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">名声 | ( 名声 ) Guild | [4YSVT7SFUb](https://discord.gg/4YSVT7SFUb) | 2025-05-08T15:16:26+00:00 | 1369954920496758874 |
 
 </details>
 
@@ -969,6 +969,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369781897454161962/5607047f21b7e25a26c195cc49871278.png?size=32" width="24">SPR | SPR Tag | [EHaGPwuccv](https://discord.gg/EHaGPwuccv) | 1369781897454161962 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724789161459732/8e228078dc56d4ad8bdccb696d4e90be.png?size=32" width="24">SPRK | SPARKverse | [2MUg4JWavx](https://discord.gg/2MUg4JWavx) | 1369724789161459732 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369805534894624828/6a829634910fca34b3d90e74dc3a3fc8.png?size=32" width="24">SQCL | Square Cloud Tag | [xbJjWAzTBZ](https://discord.gg/xbJjWAzTBZ) | 1369805534894624828 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369641649453400135/66e6116fb71622d52bed149a17914270.png?size=32" width="24">SROV | SROV Guild Tag | [WgxfgRSA5u](https://discord.gg/WgxfgRSA5u) | 1369641649453400135 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369806537480208596/d2ea3dc1b56363126c725b4e54b9bade.png?size=32" width="24">SRT | .gg/arsonist for access [SRT] | [V9sbgDAPh9](https://discord.gg/V9sbgDAPh9) | 1369806537480208596 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369703758824738937/af8bb7cbe96e5216c4726bec6e84cd4e.png" width="24">SRT | /SRT | [neV5mRUpDF](https://discord.gg/neV5mRUpDF) | 1369703758824738937 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369787421440606238/5d5eddd0a1461059776f1f8de9d1ee5a.png?size=32" width="24">SSH | #SSH /serenade | [Hyw2bGUPsG](https://discord.gg/Hyw2bGUPsG) | 1369787421440606238 |
@@ -1054,6 +1055,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369523512288608286/a44fd03826dd0fed0199c481816f22f9.png?size=32" width="24">VFX | VFX // Tag | [QunwedXa73](https://discord.gg/QunwedXa73) | 1369523512288608286 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369107617330233405/a1a8d7066521a13ede4b94de530e98b5.png?size=32" width="24">VIBE | Luminous Club ★ | [Xb2mbR9dX3](https://discord.gg/Xb2mbR9dX3) | 1369107617330233405 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369737287033688175/360bb1a75ba712959eee531b12322d75.png?size=32" width="24">VIBE | +VIBE | [EcUQpfPeBS](https://discord.gg/EcUQpfPeBS) | 1369737287033688175 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369778356945686628/051ae99f8d07959928125c1a64b56507.png?size=32" width="24">VIBE | Vibe guild | [Gn6W79vtpU](https://discord.gg/Gn6W79vtpU) | 1369778356945686628 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369110877231513771/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">VIE | Vietnam 🇻🇳 | [DSvNbERpHT](https://discord.gg/DSvNbERpHT) | 1369110877231513771 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369318967931305994/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">VIE | Community VietNam | [XWCymFSGHx](https://discord.gg/XWCymFSGHx) | 1369318967931305994 |
 | <img src="https://cdn.discordapp.com/clan-badges/710871326557995079/83a083caeb028f56086ec619735b231f.png?size=32" width="24">VIP | Nico&#x27;s Safe Space | [nico-vip](https://discord.gg/nico-vip) | 710871326557995079 |

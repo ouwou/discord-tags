@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370053470224388187/aae09a2f02854abf37ba52b2555f82fc.png?size=32" width="24">MC | 31. Bölge | [EHEXHX2aRY](https://discord.gg/EHEXHX2aRY) | 2025-05-08T20:04:17+00:00 | 1370053470224388187 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369724754826625144/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">BLIK | BLIK Tag (nsfw) | [D96YE5QdEM](https://discord.gg/D96YE5QdEM) | 2025-05-08T20:04:16+00:00 | 1369724754826625144 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369772301306040340/80e49bbcd08c608a6f49671e2d0828da.png?size=32" width="24">ＫＡＫＡ | wat da dog doin | [MEkyzkksa9](https://discord.gg/MEkyzkksa9) | 2025-05-08T20:04:16+00:00 | 1369772301306040340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765107189420112/70b4a0b96a668af3255865fe3ad2e151.png?size=32" width="24">nen | /chrollo #nen guild | [chrolloguild](https://discord.gg/chrolloguild) | 2025-05-08T19:59:11+00:00 | 1369765107189420112 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369765418230616105/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">999 | PRITAM X 999 | [tmcbcqrZ](https://discord.gg/tmcbcqrZ) | 2025-05-08T19:54:05+00:00 | 1369765418230616105 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756531603542016/28c2c2aa9ccd050e6a343e4406dad46b.png?size=32" width="24">محبت | محبت　　[　.gg/furina　] | [J5eKkt2KeA](https://discord.gg/J5eKkt2KeA) | 2025-05-08T19:48:59+00:00 | 1369756531603542016 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369688202025369710/dea4f5f8e9aaa736c9b599506226508e.png?size=32" width="24">헤으응 | .gg/subcommunity 헤으응 | [2yqkP9H5We](https://discord.gg/2yqkP9H5We) | 2025-05-08T17:05:18+00:00 | 1369688202025369710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369545378621554790/1530dc76c6fd34b076ecf1da8e293d6c.png?size=32" width="24">ホロ推し | 〈〈ホロ推し〉〉ホロらぼ - HFS | [holo-lab](https://discord.gg/holo-lab) | 2025-05-08T17:05:18+00:00 | 1369545378621554790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369283327462346764/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">기요미 | discord.gg/dsa [ ❤기요미 ] | [aYrS2j2ygJ](https://discord.gg/aYrS2j2ygJ) | 2025-05-08T17:05:17+00:00 | 1369283327462346764 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369677924311109632/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">공주님 | discord.gg/dsa [ ❤공주님 ] | [44u7ykCCJM](https://discord.gg/44u7ykCCJM) | 2025-05-08T17:05:17+00:00 | 1369677924311109632 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369757951384097040/6c0e1ccd6a0a0e402cf6d7dda85f47e4.png?size=32" width="24">ＺＯＲＯ | [ＺＯＲＯ] /optags | [eSRtvBN5tq](https://discord.gg/eSRtvBN5tq) | 2025-05-08T17:05:17+00:00 | 1369757951384097040 |
-| <img src="https://cdn.discordapp.com/clan-badges/1219965990289543178/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">yvl | yvl | [kcTy2DjdUa](https://discord.gg/kcTy2DjdUa) | 2025-05-08T17:05:17+00:00 | 1219965990289543178 |
 
 </details>
 
@@ -347,6 +347,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369352418633978038/7f968d34689b032120d7a0f2a3d69b83.png?size=32" width="24">BLAJ | BorboGuild \| human beings • members • people • users | [Yuc99VAyv3](https://discord.gg/Yuc99VAyv3) | 1369352418633978038 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369669217905020998/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">BLCK | [BLCK] NGL team \| CS2 | [4WaH8djWdy](https://discord.gg/4WaH8djWdy) | 1369669217905020998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369712389477371955/48980117edb68bebb8f1a16c6938b804.png?size=32" width="24">BLIK | [ＢＬＩＫ] | [zKK8H2kQpA](https://discord.gg/zKK8H2kQpA) | 1369712389477371955 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369724754826625144/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">BLIK | BLIK Tag (nsfw) | [D96YE5QdEM](https://discord.gg/D96YE5QdEM) | 1369724754826625144 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369447125212987554/3ad339a133806fee7d348c896ff66906.png?size=32" width="24">BLKN | /blkn | [blkn](https://discord.gg/blkn) | 1369447125212987554 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369700014623948800/90a3edbdc5465bd6b6574adadb29b32e.png?size=32" width="24">BLOX | The Bloxy | [kcknUyfdCp](https://discord.gg/kcknUyfdCp) | 1369700014623948800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780556652613795/c307d74575010425f82673cb5c4d5cec.png?size=32" width="24">BLꚘD | #BLOOD .gg/NU5hzaPTBA | [8euM7k6M7J](https://discord.gg/8euM7k6M7J) | 1369780556652613795 |
@@ -757,6 +758,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369701739518754959/421566707b5f94c769fd064c19a8559f.png?size=32" width="24">MAYO | Mayon tag | [mayontag](https://discord.gg/mayontag) | 1369701739518754959 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754939970158728/fb72d91baf79be50657284282ea64efa.png" width="24">MBOY | Wassup Mboy | [czxq3TdRJ8](https://discord.gg/czxq3TdRJ8) | 1369754939970158728 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369421052916273262/6473797948e6d36a991e425c8b7c353c.png?size=32" width="24">MC | MC Tag | [zTDBbyc5aU](https://discord.gg/zTDBbyc5aU) | 1369421052916273262 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370053470224388187/aae09a2f02854abf37ba52b2555f82fc.png?size=32" width="24">MC | 31. Bölge | [EHEXHX2aRY](https://discord.gg/EHEXHX2aRY) | 1370053470224388187 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369600024136388618/bfe352506f300d380de9ee9bb095fefb.png?size=32" width="24">MCPE | NexusSMP | [nexussmp](https://discord.gg/nexussmp) | 1369600024136388618 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369516772071309373/40a7aa796426347d6b76d20dfed2c273.png?size=32" width="24">MEI | Mei’s Lounge 🌸 | [kp3ka62M3A](https://discord.gg/kp3ka62M3A) | 1369516772071309373 |
 | <img src="https://cdn.discordapp.com/clan-badges/641497010977112064/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">MEME | MEME TAG | [Fr279uDkAG](https://discord.gg/Fr279uDkAG) | 641497010977112064 |
@@ -1880,6 +1882,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369803537164406884/78f4434ffba9c1994553e77aceb9bc50.png?size=32" width="24">Ｆｏｒｄ | FORD | [WCF4SpcTK7](https://discord.gg/WCF4SpcTK7) | 1369803537164406884 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740951018536980/7dff089fbee252a67e72a08ae58a0376.png?size=32" width="24">ＧＯＤ | ＧＯＤ | [E3Ygn49y8j](https://discord.gg/E3Ygn49y8j) | 1369740951018536980 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369408533506031736/ff7bc7b66c3b099758c54f8810594230.png?size=32" width="24">ＩＳＰ | isp #guild | [MxZMpjeZ](https://discord.gg/MxZMpjeZ) | 1369408533506031736 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369772301306040340/80e49bbcd08c608a6f49671e2d0828da.png?size=32" width="24">ＫＡＫＡ | wat da dog doin | [MEkyzkksa9](https://discord.gg/MEkyzkksa9) | 1369772301306040340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369460749155700846/bd3ce776d1e176597804fbfd8e49092f.png?size=32" width="24">ＫＩＮＧ | ＫＩＮＧ | [4nCGRK249p](https://discord.gg/4nCGRK249p) | 1369460749155700846 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719612790411294/716a0e93a0addc9cf0fdbe29a30262f7.png?size=32" width="24">Ｎ！ＧＡ | Ｎ！ＧＡ | [HpazGfdHvY](https://discord.gg/HpazGfdHvY) | 1369719612790411294 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614567755218994/887f98dd7261ba1f6ae8b8545aae5f85.png?size=32" width="24">ＰＡＬ | P A L Tag .gg/tadfi | [EKAyWj8jh2](https://discord.gg/EKAyWj8jh2) | 1369614567755218994 |

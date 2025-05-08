@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369721402596261980/e929e1c0111f2acf104ba53aefc5ee44.png?size=32" width="24">sexy | @sexy tag \| .gg/gds | [ZJ8AWEBq97](https://discord.gg/ZJ8AWEBq97) | 2025-05-08T03:08:16+00:00 | 1369721402596261980 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369785973340110898/429d0552c7f84d87c0c3667f07211ce5.png?size=32" width="24">FROG | XP+ : tag FROG | [p9hAMvAPmE](https://discord.gg/p9hAMvAPmE) | 2025-05-08T03:08:15+00:00 | 1369785973340110898 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369527576732631082/5cebcc7462b1d56f82e6b3b28968899f.png?size=32" width="24">LYFE | Ayanami&#x27;s Lab • gg/ayaslab | [ayaslab](https://discord.gg/ayaslab) | 2025-05-08T03:08:15+00:00 | 1369527576732631082 |
 | <img src="https://cdn.discordapp.com/clan-badges/643089441463992340/f7c7cf187431d14eee43d8b3e67bd966.png?size=32" width="24">GDC | Geometry Dash Creators | [gdcreators](https://discord.gg/gdcreators) | 2025-05-08T03:03:11+00:00 | 643089441463992340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779130937376789/2d9908aeb26b0c8d246dbd97f8258a72.png?size=32" width="24">CT | Corridos Tumbados | [GXRKsmrz46](https://discord.gg/GXRKsmrz46) | 2025-05-08T03:03:10+00:00 | 1369779130937376789 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369860628386414673/14053a0be93c38232841c3b4c692190a.png?size=32" width="24">MOMO | sillygoobermomo | [AHzCEqGYeV](https://discord.gg/AHzCEqGYeV) | 2025-05-08T02:58:05+00:00 | 1369860628386414673 |
@@ -440,6 +443,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369390406994886756/e64bb06eb6057e007a7bcfffaf4596b9.png?size=32" width="24">FOXY | Fox3000Foxy&#x27;s Studios | [QnUSDtNM3h](https://discord.gg/QnUSDtNM3h) | 1369390406994886756 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369409479682297917/3e01ba710c2ec96f81797404cb9b1149.png?size=32" width="24">FR | #France TAG | [Tw7UyxSRbB](https://discord.gg/Tw7UyxSRbB) | 1369409479682297917 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369467720608776243/7289a9ef45095ac4c12229473dbe7956.png?size=32" width="24">FROG | Frog | [D6cffeqkgF](https://discord.gg/D6cffeqkgF) | 1369467720608776243 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369785973340110898/429d0552c7f84d87c0c3667f07211ce5.png?size=32" width="24">FROG | XP+ : tag FROG | [p9hAMvAPmE](https://discord.gg/p9hAMvAPmE) | 1369785973340110898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369783413942390835/84412606536488d76915487613779361.png?size=32" width="24">FRYA | FRYA | [7Qq34CvHPv](https://discord.gg/7Qq34CvHPv) | 1369783413942390835 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369451431609765939/b8035dc678b88004139c68c52cfb2828.png?size=32" width="24">FUNK | DJ GVX | [7n94ne4dZn](https://discord.gg/7n94ne4dZn) | 1369451431609765939 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369402069772931132/d2147c53832fc97a6aed884552dc1024.png?size=32" width="24">FUR | Furlanta 🐾⭐ | [mj8zmGDCnM](https://discord.gg/mj8zmGDCnM) | 1369402069772931132 |
@@ -601,6 +605,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369342094069469235/8d61abb8b5da075befaff858861dba54.png?size=32" width="24">LUNA | LUNA TAG #2K | [8M28zvjCw4](https://discord.gg/8M28zvjCw4) | 1369342094069469235 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369521104548401265/7436201b3c43c1ccbdf3402ad144b028.png?size=32" width="24">LUNA | Ancient Luna: 𝑾𝒊𝒔𝒅𝒐𝒎 | [ch8f2CUe7q](https://discord.gg/ch8f2CUe7q) | 1369521104548401265 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369484761357353010/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">LUST | LUST | [mX4hq799dq](https://discord.gg/mX4hq799dq) | 1369484761357353010 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369527576732631082/5cebcc7462b1d56f82e6b3b28968899f.png?size=32" width="24">LYFE | Ayanami&#x27;s Lab • gg/ayaslab | [ayaslab](https://discord.gg/ayaslab) | 1369527576732631082 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369119047735709787/65681e2336f021accc70e09ada851633.png?size=32" width="24">Leaf | LeafLore | [CZcX8JwJM2](https://discord.gg/CZcX8JwJM2) | 1369119047735709787 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726021791649914/bf46722e416c7607a3362934bbc42b2d.png?size=32" width="24">Lich | Phylactery Factory [Lich] | [YNN6ypRhVj](https://discord.gg/YNN6ypRhVj) | 1369726021791649914 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369469518379876352/593c517fc82c14a154e50f1ee6216ffc.png?size=32" width="24">Lord | the &quot;Lord&quot; guild. | [cBFmY4tkdZ](https://discord.gg/cBFmY4tkdZ) | 1369469518379876352 |
@@ -1149,6 +1154,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369702020407099492/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">sex | ᲼᲼ | [5MWnPFwEEx](https://discord.gg/5MWnPFwEEx) | 1369702020407099492 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686164428161075/a2399b5f8095f08ad5fe099a51ba2562.png?size=32" width="24">sex | sex \| .gg/fg  for 30+ free guilds | [s2zRKqE7yw](https://discord.gg/s2zRKqE7yw) | 1369686164428161075 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369738624035192872/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">sex | .gg/slashzone [sex] | [sexguild](https://discord.gg/sexguild) | 1369738624035192872 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369721402596261980/e929e1c0111f2acf104ba53aefc5ee44.png?size=32" width="24">sexy | @sexy tag \| .gg/gds | [ZJ8AWEBq97](https://discord.gg/ZJ8AWEBq97) | 1369721402596261980 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369201971084398632/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">shy | shy /rupture | [akqDvTjZ6K](https://discord.gg/akqDvTjZ6K) | 1369201971084398632 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369497812764590180/b6f6582eb0301ce069e00b2a99323975.png?size=32" width="24">sick | #sick | [SZdxvcsRBt](https://discord.gg/SZdxvcsRBt) | 1369497812764590180 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369537514028793856/885655109920302254b03aeb071dc4a1.png?size=32" width="24">sigh | .gg/yea #sigh | [8bm2WBTuyN](https://discord.gg/8bm2WBTuyN) | 1369537514028793856 |

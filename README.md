@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369768758146633798/1897636167e0b09146fb12ce58e63294.png?size=32" width="24">lore | /lured [ lore ] | [Zm4aq7cPPr](https://discord.gg/Zm4aq7cPPr) | 2025-05-08T07:32:11+00:00 | 1369768758146633798 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369461530764115998/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">규진୨ৎ | 장규진 Fanclub | [B3UnWz74Aq](https://discord.gg/B3UnWz74Aq) | 2025-05-08T07:32:11+00:00 | 1369461530764115998 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369781683707973745/fa3033cd0045a5cd34578fa4b9c69d8b.png?size=32" width="24">IMPX | ImperiumX Community | [hyfSa7wR65](https://discord.gg/hyfSa7wR65) | 2025-05-08T07:32:10+00:00 | 1369781683707973745 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369743588661133332/c445de6979b8c66e2580056510630f32.png?size=32" width="24">pet | ykw WOOF WOOF 🦴 #pet | [TxMsEvkGeP](https://discord.gg/TxMsEvkGeP) | 2025-05-08T07:27:06+00:00 | 1369743588661133332 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369737520199237723/878c62b6694a4f5931104f766191bec7.png?size=32" width="24">ｃｗｅｌ | krzysztof stanowski klub fanowski robert prawandowski | [pochwa](https://discord.gg/pochwa) | 2025-05-08T07:27:05+00:00 | 1369737520199237723 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740317393293413/648511cc909f06a24b9f618e1df39a82.png?size=32" width="24">ISMC | ISMC TAG&#x27;S GUILD | [GAqHqeckE9](https://discord.gg/GAqHqeckE9) | 2025-05-08T07:22:01+00:00 | 1369740317393293413 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369418194225463358/cc9c1fa683ece05ae7d784257ebfd9e1.png?size=32" width="24">gf | girlfriend 𓂃 ♡ /naoi | [6RWZcEWWgJ](https://discord.gg/6RWZcEWWgJ) | 2025-05-08T02:37:40+00:00 | 1369418194225463358 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757045896511598/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&lt;3 | Inflicted&#x27;s Lounge \| &lt;3 | [zRdtsMMbct](https://discord.gg/zRdtsMMbct) | 2025-05-08T02:37:39+00:00 | 1369757045896511598 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369830083354824825/526c19ecb2c60d87bc4a0458ea5643dc.png?size=32" width="24">ame | garden of sweet delights 𖧷 ˚࿔ ‧ ₊˚ | [xZa7wAeXc4](https://discord.gg/xZa7wAeXc4) | 2025-05-08T02:37:39+00:00 | 1369830083354824825 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369311386030706758/b1c2ae1bb3644a44861424f93ec8f180.png?size=32" width="24">bf | boyfriend 𓂃 ♡ /naoi | [rdrDEGM8cH](https://discord.gg/rdrDEGM8cH) | 2025-05-08T02:37:39+00:00 | 1369311386030706758 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369535078853771285/dc61eaed9e8b012148661df1ada874e6.png?size=32" width="24">ENVY | .gg/yea #ENVY | [26RgKxjTgh](https://discord.gg/26RgKxjTgh) | 2025-05-08T02:32:34+00:00 | 1369535078853771285 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369677350085726260/4507c292a7c649b9e6e357ac11c5492c.png?size=32" width="24">GOON | .gg/yea #GOON | [Dx38uZnQME](https://discord.gg/Dx38uZnQME) | 2025-05-08T02:32:34+00:00 | 1369677350085726260 |
 
 </details>
 
@@ -564,6 +564,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369523072897388574/c637f97bb44cd1d6104731bbf1c9b6d7.png?size=32" width="24">ICON | ICON | [d2zVtr3Cxd](https://discord.gg/d2zVtr3Cxd) | 1369523072897388574 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369346798057164830/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">IDF | IDF TAG | [yWxE3cASv6](https://discord.gg/yWxE3cASv6) | 1369346798057164830 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369647020553404436/af2bdc3e595f9ddb455060172a764e3f.png?size=32" width="24">IHRZ | iHorizon Public Community | [e62ASbafxk](https://discord.gg/e62ASbafxk) | 1369647020553404436 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369781683707973745/fa3033cd0045a5cd34578fa4b9c69d8b.png?size=32" width="24">IMPX | ImperiumX Community | [hyfSa7wR65](https://discord.gg/hyfSa7wR65) | 1369781683707973745 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740317393293413/648511cc909f06a24b9f618e1df39a82.png?size=32" width="24">ISMC | ISMC TAG&#x27;S GUILD | [GAqHqeckE9](https://discord.gg/GAqHqeckE9) | 1369740317393293413 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369254283786195047/1c8f8efb11de25463d853de6f864ffc6.png?size=32" width="24">IVE | allmyleeseo | [CNTGdqBmjw](https://discord.gg/CNTGdqBmjw) | 1369254283786195047 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369094048719048724/f150d7d2d1b681f52eba4b7e23cdf565.png?size=32" width="24">JAVA | Java Enthusiasts | [Ad593tRXJv](https://discord.gg/Ad593tRXJv) | 1369094048719048724 |
@@ -1114,6 +1115,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369372805585440902/dea97e909a0211e2479d75cd11c2ec41.png?size=32" width="24">lmao | lmao・.gg/guildhq | [t32BPMfBwD](https://discord.gg/t32BPMfBwD) | 1369372805585440902 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369278672900591656/60822eb8c504c45cee27680dbccf599b.png?size=32" width="24">lolz | lzt.market | [8RrwMfzMyN](https://discord.gg/8RrwMfzMyN) | 1369278672900591656 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778306198798366/3109dd292bbd2cb6a18f6cd7148ad85a.png?size=32" width="24">lone | lone | [5r7vNbThGc](https://discord.gg/5r7vNbThGc) | 1369778306198798366 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369768758146633798/1897636167e0b09146fb12ce58e63294.png?size=32" width="24">lore | /lured [ lore ] | [Zm4aq7cPPr](https://discord.gg/Zm4aq7cPPr) | 1369768758146633798 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369434458398130289/80e5e6bdbdd81e95b650670b2afba2cc.png?size=32" width="24">lost | lost in ur eyes | [2cX4RUQ4TG](https://discord.gg/2cX4RUQ4TG) | 1369434458398130289 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369084128355684453/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">love | kz&#x27;s server | [YrVRmHPcfB](https://discord.gg/YrVRmHPcfB) | 1369084128355684453 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369602645890830366/e701df75ce906698f0d02ce19bf7c8c6.png?size=32" width="24">lsrf | discord.gg/huhyunjin | [k8Jn6J6Vy4](https://discord.gg/k8Jn6J6Vy4) | 1369602645890830366 |
@@ -1481,6 +1483,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369317936220602419/faf9f7f08b262e9b78aefbb0cd32d32b.png?size=32" width="24">구미호 | 귀여운 나인서버 | [vWMMVUpaJg](https://discord.gg/vWMMVUpaJg) | 1369317936220602419 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369896287926882345/f9c0bf666a819be6aff3b7f3b0afc008.png?size=32" width="24">국밥 | 국밥 태그 | [pnFCRDNxN9](https://discord.gg/pnFCRDNxN9) | 1369896287926882345 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369169676172525578/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">귀욤뽀쨕 | discord.gg/arki [🩷귀욤뽀쨕] | [HFGwqE4DbK](https://discord.gg/HFGwqE4DbK) | 1369169676172525578 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369461530764115998/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">규진୨ৎ | 장규진 Fanclub | [B3UnWz74Aq](https://discord.gg/B3UnWz74Aq) | 1369461530764115998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369647496556711959/0bc4a6857f4bd8716268acf5dfcb8834.png?size=32" width="24">뉴진스 | NewJeans - 뉴진스 | [5wVCH7EsCd](https://discord.gg/5wVCH7EsCd) | 1369647496556711959 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369670823237124176/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=32" width="24">뉴진스 | 뉴진스 • 💘 | [yCNxY3qa4T](https://discord.gg/yCNxY3qa4T) | 1369670823237124176 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369251625851420673/bcac8aacf94b9885757389051552ed33.png?size=32" width="24">댕댕이 | discord.gg/arki [🍃댕댕이] | [kMfPHrYkCs](https://discord.gg/kMfPHrYkCs) | 1369251625851420673 |

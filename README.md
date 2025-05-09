@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1136363057740779573/8d61abb8b5da075befaff858861dba54.png" width="24">𑁯ᰍ | fontaine ⛲  genshin impact ... | [furina](https://discord.gg/furina) | 2025-05-09T23:50:59+00:00 | 1136363057740779573 |
+| <img src="https://cdn.discordapp.com/clan-badges/752404225379795045/89339f01c078bf79aaf91a86d2741956.png" width="24">GOTH | Hailey’s Hangout | [HSEQgtcNPY](https://discord.gg/HSEQgtcNPY) | 2025-05-09T23:50:59+00:00 | 752404225379795045 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369625869844484196/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MC | Miltrix | [KdTBfgszNd](https://discord.gg/KdTBfgszNd) | 2025-05-09T23:50:59+00:00 | 1369625869844484196 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369446861357977692/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">AMEX | American Express | [gMxEuMHejZ](https://discord.gg/gMxEuMHejZ) | 2025-05-09T23:45:55+00:00 | 1369446861357977692 |
 | <img src="https://cdn.discordapp.com/clan-badges/984853742904029255/968545a2419ed541b78b3ec7500aaed0.png" width="24">CAP | Capitano Mains \| The Captain | [capitano](https://discord.gg/capitano) | 2025-05-09T23:45:55+00:00 | 984853742904029255 |
 | <img src="https://cdn.discordapp.com/clan-badges/1027413828331388968/878c62b6694a4f5931104f766191bec7.png" width="24">DEER | My Deer Friend Nokotan | [nokotan](https://discord.gg/nokotan) | 2025-05-09T23:45:55+00:00 | 1027413828331388968 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/966097546856509520/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">TS | Rogue Demon | [87nKwsZssY](https://discord.gg/87nKwsZssY) | 2025-05-09T22:04:44+00:00 | 966097546856509520 |
 | <img src="https://cdn.discordapp.com/clan-badges/1353523369450016831/b0036e060a7976dec28e5c8543ff6fff.png" width="24">+x+ | +x+ | [yeonbin](https://discord.gg/yeonbin) | 2025-05-09T21:59:40+00:00 | 1353523369450016831 |
 | <img src="https://cdn.discordapp.com/clan-badges/1368359928112091196/b6f6582eb0301ce069e00b2a99323975.png" width="24">777 | Dead Rails Services | [kRttr9563F](https://discord.gg/kRttr9563F) | 2025-05-09T21:59:40+00:00 | 1368359928112091196 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370038218371891282/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">ALEV | A L E V 🤭 #KESH | [alevguild](https://discord.gg/alevguild) | 2025-05-09T21:59:40+00:00 | 1370038218371891282 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369773237621358683/762657492b4031e0c299d58721776a50.png" width="24">eSim | eSim ・ Guild | [JmuE9SYXtn](https://discord.gg/JmuE9SYXtn) | 2025-05-09T21:59:40+00:00 | 1369773237621358683 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369418411641147472/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">NEKO | 1000$ | [tDvTjENvPJ](https://discord.gg/tDvTjENvPJ) | 2025-05-09T21:59:40+00:00 | 1369418411641147472 |
 
 </details>
 
@@ -845,6 +845,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369674798975811594/2cd22da80c7ad17728c23b66a2d983a5.png" width="24">GORE | /g0re Guild Tag | [g0re](https://discord.gg/g0re) | 1369674798975811594 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716522762895391/b6f6582eb0301ce069e00b2a99323975.png" width="24">GOSU | GOSU #Tag | [pGg3cpmSJu](https://discord.gg/pGg3cpmSJu) | 1369716522762895391 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369751427119054888/05fbfaa6901c4185df69835846c1230f.png" width="24">GOTH | GOTH | [BP78yD9zqm](https://discord.gg/BP78yD9zqm) | 1369751427119054888 |
+| <img src="https://cdn.discordapp.com/clan-badges/752404225379795045/89339f01c078bf79aaf91a86d2741956.png" width="24">GOTH | Hailey’s Hangout | [HSEQgtcNPY](https://discord.gg/HSEQgtcNPY) | 752404225379795045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369295228661403648/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">GOTI | tropa do gotão | [yuri22](https://discord.gg/yuri22) | 1369295228661403648 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369489050771394660/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">GRIM | GRIM | [WRxAVw8ATP](https://discord.gg/WRxAVw8ATP) | 1369489050771394660 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369369995947151360/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">GRIM | .gg/envvy &#x27; #GRIM | [M8PrNMCQV7](https://discord.gg/M8PrNMCQV7) | 1369369995947151360 |
@@ -1099,6 +1100,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369421052916273262/6473797948e6d36a991e425c8b7c353c.png" width="24">MC | MC Tag | [zTDBbyc5aU](https://discord.gg/zTDBbyc5aU) | 1369421052916273262 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370053470224388187/aae09a2f02854abf37ba52b2555f82fc.png" width="24">MC | House of MC | [EHEXHX2aRY](https://discord.gg/EHEXHX2aRY) | 1370053470224388187 |
 | <img src="https://cdn.discordapp.com/clan-badges/1205566215456817204/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">MC | Aternos Community | [aternos](https://discord.gg/aternos) | 1205566215456817204 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369625869844484196/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MC | Miltrix | [KdTBfgszNd](https://discord.gg/KdTBfgszNd) | 1369625869844484196 |
 | <img src="https://cdn.discordapp.com/clan-badges/1259108333038866455/60822eb8c504c45cee27680dbccf599b.png" width="24">MC7 | 𝐌𝐈𝐀𝐌𝐈 𝐑𝐏 | [yr5aVG78MB](https://discord.gg/yr5aVG78MB) | 1259108333038866455 |
 | <img src="https://cdn.discordapp.com/clan-badges/707193125478596668/ad842b5ea717cde056d0093cb9e90d1d.png" width="24">MCC | MC Championship | [mcc](https://discord.gg/mcc) | 707193125478596668 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369600024136388618/bfe352506f300d380de9ee9bb095fefb.png" width="24">MCPE | NexusSMP \| MCPE Tag | [nexussmp](https://discord.gg/nexussmp) | 1369600024136388618 |
@@ -2848,6 +2850,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369680377450598560/b78d847969699d48fb873fccfa6c400a.png" width="24">𐙚lm | lalique town | [ANeaNmv5dp](https://discord.gg/ANeaNmv5dp) | 1369680377450598560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778754007863357/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">𐤲 . | ♱  Holy  ♱ | [jGCQmf6P3Y](https://discord.gg/jGCQmf6P3Y) | 1369778754007863357 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369497759002132580/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">𐱅𐰇𐰼𐰚 | 𐱅𐰇𐰼𐰚 🇹🇷 | [bYTyrtcm45](https://discord.gg/bYTyrtcm45) | 1369497759002132580 |
+| <img src="https://cdn.discordapp.com/clan-badges/1136363057740779573/8d61abb8b5da075befaff858861dba54.png" width="24">𑁯ᰍ | fontaine ⛲  genshin impact ... | [furina](https://discord.gg/furina) | 1136363057740779573 |
 | <img src="https://cdn.discordapp.com/clan-badges/1246373845091356722/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">𒀭឵឵ | allegory | [87hGGkMnJC](https://discord.gg/87hGGkMnJC) | 1246373845091356722 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637487064121384/1331e1a773facc295e93bfebfbfbfd84.png" width="24">𒀱𒀱 | 𒀱𒀱 | [NhgxRGrM5w](https://discord.gg/NhgxRGrM5w) | 1369637487064121384 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370022771014500405/434af73d5e4a11708403d641c9aca1dc.png" width="24">𒌐ᐟ | // | [B3vvRUfATb](https://discord.gg/B3vvRUfATb) | 1370022771014500405 |

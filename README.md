@@ -22,7 +22,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/831166624245612584/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">RAID | Grupo Dos Mais Mais | [BgCUf4xr6m](https://discord.gg/BgCUf4xr6m) | 2025-05-09T22:09:47+00:00 | 831166624245612584 |
 | <img src="https://cdn.discordapp.com/clan-badges/1255858644965396550/41ac480df4be92cbcbfb08eb88abd302.png" width="24">SNOW | Snoway Bots 🪐 | [PUcFu345fs](https://discord.gg/PUcFu345fs) | 2025-05-09T22:09:47+00:00 | 1255858644965396550 |
 | <img src="https://cdn.discordapp.com/clan-badges/265565751010787328/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">ヘタリア | ᵀᴴᴱ Hetalia Region | [Hetalia](https://discord.gg/Hetalia) | 2025-05-09T22:09:47+00:00 | 265565751010787328 |
-| <img src="https://cdn.discordapp.com/clan-badges/1279212128464797748/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">DUM | KALEIDOSCOPE 🌷♟ | [kaleidoscope](https://discord.gg/kaleidoscope) | 2025-05-09T22:04:44+00:00 | 1279212128464797748 |
 | <img src="https://cdn.discordapp.com/clan-badges/215470597520621569/9a483a3be2300cd6ebe71aafae07208d.png" width="24">LOVE | Lovely Friends | [europe](https://discord.gg/europe) | 2025-05-09T22:04:44+00:00 | 215470597520621569 |
 | <img src="https://cdn.discordapp.com/clan-badges/966097546856509520/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">TS | Rogue Demon | [87nKwsZssY](https://discord.gg/87nKwsZssY) | 2025-05-09T22:04:44+00:00 | 966097546856509520 |
 | <img src="https://cdn.discordapp.com/clan-badges/1353523369450016831/b0036e060a7976dec28e5c8543ff6fff.png" width="24">+x+ | +x+ | [yeonbin](https://discord.gg/yeonbin) | 2025-05-09T21:59:40+00:00 | 1353523369450016831 |
@@ -105,6 +104,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369453705816182794/e4bfaa88b479e2563ba1a7cb8698669a.png" width="24">MEFA | MEFA #TAG | [jUdeFpBZgR](https://discord.gg/jUdeFpBZgR) | 2025-05-09T20:13:26+00:00 | 1369453705816182794 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369487964195000380/a8c717a8972cb8855b26cec5ecfb0736.png" width="24">e621 | /e621 | [sn7N6XCUac](https://discord.gg/sn7N6XCUac) | 2025-05-09T20:08:21+00:00 | 1369487964195000380 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369693469278474401/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">FBI | F.B.I | [hbMWqHPydf](https://discord.gg/hbMWqHPydf) | 2025-05-09T20:08:21+00:00 | 1369693469278474401 |
+| <img src="https://cdn.discordapp.com/clan-badges/997513226952658995/7dff089fbee252a67e72a08ae58a0376.png" width="24">MОD | L Server | [Hub8Twe6qp](https://discord.gg/Hub8Twe6qp) | 2025-05-09T20:08:21+00:00 | 997513226952658995 |
 
 </details>
 
@@ -637,7 +637,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370078252084891769/86735389348f3eacfa519eb553df38fd.png" width="24">DTB | #DTB | [b4g6YkBEsJ](https://discord.gg/b4g6YkBEsJ) | 1370078252084891769 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369436322963652719/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">DTF | District FA \| Guild🗽 | [4uugjZeD9J](https://discord.gg/4uugjZeD9J) | 1369436322963652719 |
 | <img src="https://cdn.discordapp.com/clan-badges/476454574715174912/0d4b5852e84385476bd9b1142eb36e6a.png" width="24">DUAL | DualView | [dualview](https://discord.gg/dualview) | 476454574715174912 |
-| <img src="https://cdn.discordapp.com/clan-badges/1279212128464797748/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">DUM | KALEIDOSCOPE 🌷♟ | [kaleidoscope](https://discord.gg/kaleidoscope) | 1279212128464797748 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370058355355291678/0c020b8d01f5c402538fcc13b9f0e295.png" width="24">DUMB | DUMB \| /diorr | [AS5xdKVH6H](https://discord.gg/AS5xdKVH6H) | 1370058355355291678 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369788391276806154/aa343bbc984cbfeb91663a7a72050b70.png" width="24">DUPA | Das nazwa | [RFwfEj52Ae](https://discord.gg/RFwfEj52Ae) | 1369788391276806154 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785731932885022/8745930ea9ff2ac7d7f4343c328ba49f.png" width="24">DVM | [DVM] | [pcubu5cgZJ](https://discord.gg/pcubu5cgZJ) | 1369785731932885022 |

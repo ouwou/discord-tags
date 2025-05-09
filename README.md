@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1299399491664744579/6473797948e6d36a991e425c8b7c353c.png" width="24">נודר | Israeli Friends | [Sj6kJAuAae](https://discord.gg/Sj6kJAuAae) | 2025-05-09T21:04:03+00:00 | 1299399491664744579 |
+| <img src="https://cdn.discordapp.com/clan-badges/866541511344652288/48d2557a1faf9a790dde3ad334e56efb.png" width="24">你媽死了 | Jiafei Taiwan Group(JF) | [PmUYtPW4CM](https://discord.gg/PmUYtPW4CM) | 2025-05-09T21:04:03+00:00 | 866541511344652288 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369492251507687445/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">౨ৎ | Lipcut - ౨ৎ | [WHdb2YMXfd](https://discord.gg/WHdb2YMXfd) | 2025-05-09T20:58:59+00:00 | 1369492251507687445 |
 | <img src="https://cdn.discordapp.com/clan-badges/1186463697258958908/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">ＡＵＲＡ | /Bloxsfruit │ Blox Fruits T... | [qzY5rAbhhV](https://discord.gg/qzY5rAbhhV) | 2025-05-09T20:58:59+00:00 | 1186463697258958908 |
 | <img src="https://cdn.discordapp.com/clan-badges/1357264756079333376/3da695a3845833b28878ed0d3d86dec6.png" width="24">CASH | Bank 💸 | [bank](https://discord.gg/bank) | 2025-05-09T20:58:59+00:00 | 1357264756079333376 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1023135512657145916/d4292779a984904b53f78802a443308c.png" width="24">dcmm | Một lũ không kỹ năng | [NtSbTp6nzD](https://discord.gg/NtSbTp6nzD) | 2025-05-09T19:12:33+00:00 | 1023135512657145916 |
 | <img src="https://cdn.discordapp.com/clan-badges/997372719555412008/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">༺ꨄ༻ | Succubus Café ☕ | [succubusbot](https://discord.gg/succubusbot) | 2025-05-09T19:07:29+00:00 | 997372719555412008 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369746511922991134/2287edeecb80d2aa49b09797e60be8b8.png" width="24">LAMA | [LAMA] LLama | [dFHah8bG38](https://discord.gg/dFHah8bG38) | 2025-05-09T19:07:29+00:00 | 1369746511922991134 |
-| <img src="https://cdn.discordapp.com/clan-badges/1180963653609062532/d8028e3189542f9cd218c28373bc178a.png" width="24">PH | 𝑷𝒉 𝑭𝒂𝒎𝒊𝒍𝒚 | [rnj6kaj2Kd](https://discord.gg/rnj6kaj2Kd) | 2025-05-09T19:07:29+00:00 | 1180963653609062532 |
-| <img src="https://cdn.discordapp.com/clan-badges/846861861756469308/018cdb2548eb5d2c53b95f8c2c4d3155.png" width="24">SOLO | TrackMania Solo Hunters | [3y4s2cWJ89](https://discord.gg/3y4s2cWJ89) | 2025-05-09T19:07:29+00:00 | 846861861756469308 |
 
 </details>
 
@@ -2224,6 +2224,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369716002085928983/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ԝlԝ | guppy (ԝlԝ tag) | [4TEhR3TruA](https://discord.gg/4TEhR3TruA) | 1369716002085928983 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369635074395344998/e7d159ed722b033483c0153b5f3fc54f.png" width="24">֜猫 | [猫] Neko JP🇯🇵 \| dsc.gg/nek... | [cCKK3zZDzr](https://discord.gg/cCKK3zZDzr) | 1369635074395344998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1286763440291053568/ec20ca5dddf56fee2de29a88f17a885d.png" width="24">֪🫧 | .gg/yeri for access | [FptRgdfeWq](https://discord.gg/FptRgdfeWq) | 1286763440291053568 |
+| <img src="https://cdn.discordapp.com/clan-badges/1299399491664744579/6473797948e6d36a991e425c8b7c353c.png" width="24">נודר | Israeli Friends | [Sj6kJAuAae](https://discord.gg/Sj6kJAuAae) | 1299399491664744579 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370017490788159499/3adf3f3b47fb8d2c8193d6344ce64d48.png" width="24">؛ ଓ | ଓ \| .gg/doyoung | [3ffukjPmu5](https://discord.gg/3ffukjPmu5) | 1370017490788159499 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369878272879624324/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">الله | الله \| Tag | [ncdvCBDqRJ](https://discord.gg/ncdvCBDqRJ) | 1369878272879624324 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369744520442282056/b0c8284fc0f26bb03b30e9896b1d6604.png" width="24">حلال | @حلال \| .gg/huzz | [vXta5jB9g2](https://discord.gg/vXta5jB9g2) | 1369744520442282056 |
@@ -2475,6 +2476,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369686600140984392/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">不是哥們 | 『不是哥們』DGS弦樂式 | [m8chpB4BsH](https://discord.gg/m8chpB4BsH) | 1369686600140984392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614911738744883/232d1d2a366ec512dde707821f672cce.png" width="24">乀乀乀 | Celest ᴾⱽ | [EMxk3CSaqK](https://discord.gg/EMxk3CSaqK) | 1369614911738744883 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369388579767320797/4bca913c9b2106ed777541ec65def38c.png" width="24">你好 | # pfp vault | [T2fCxh24Tb](https://discord.gg/T2fCxh24Tb) | 1369388579767320797 |
+| <img src="https://cdn.discordapp.com/clan-badges/866541511344652288/48d2557a1faf9a790dde3ad334e56efb.png" width="24">你媽死了 | Jiafei Taiwan Group(JF) | [PmUYtPW4CM](https://discord.gg/PmUYtPW4CM) | 866541511344652288 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749444697915528/613dd0a2876f97a2422d121940ecc992.png" width="24">傳奇人 | 開心快樂社群（這裡有標籤喔） | [8bpgtnQeWt](https://discord.gg/8bpgtnQeWt) | 1369749444697915528 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369771719618990121/f3d98cb3bde7ac00b80d250f8cc0d8f0.png" width="24">八方來財 | 八方來財！大展鴻圖！DGS弦樂式 | [FJV7CnPp96](https://discord.gg/FJV7CnPp96) | 1369771719618990121 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369668188526088253/c750c0befc41a2b124594c7be072813e.png" width="24">八方雲集 | 想要什麼tag進來講 | [GPcQbxHrxR](https://discord.gg/GPcQbxHrxR) | 1369668188526088253 |

@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1272889673542402169/7f968d34689b032120d7a0f2a3d69b83.png" width="24">666 | Sovyet #VİZYON | [sovyet](https://discord.gg/sovyet) | 2025-05-09T21:24:17+00:00 | 1272889673542402169 |
+| <img src="https://cdn.discordapp.com/clan-badges/1028751790000316506/6ed907032e3a22a1cd30d3f61a5cd96e.png" width="24">TCP | CoroHost.cloud | [corohost](https://discord.gg/corohost) | 2025-05-09T21:24:17+00:00 | 1028751790000316506 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370021635628863548/fa4a498688cbfa91703a8d57b9b35113.png" width="24">឵឵ | ദ്ദി๑&gt;؂•̀๑) /domain | [ZdEDeK2JR9](https://discord.gg/ZdEDeK2JR9) | 2025-05-09T21:19:13+00:00 | 1370021635628863548 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370021805066162256/4a3f3c0fb89a513770f5f9ddd77b0b32.png" width="24">឵឵ | (˶˃ ᵕ ˂˶) .ᐟ.ᐟ /domain | [hgkCyV4ETV](https://discord.gg/hgkCyV4ETV) | 2025-05-09T21:19:13+00:00 | 1370021805066162256 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358881053661593680/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">CMH | Sot Solution | [sotsolution](https://discord.gg/sotsolution) | 2025-05-09T21:19:13+00:00 | 1358881053661593680 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/846861861756469308/018cdb2548eb5d2c53b95f8c2c4d3155.png" width="24">SOLO | TrackMania Solo Hunters | [3y4s2cWJ89](https://discord.gg/3y4s2cWJ89) | 2025-05-09T19:07:29+00:00 | 846861861756469308 |
 | <img src="https://cdn.discordapp.com/clan-badges/1280028606135009371/dea4f5f8e9aaa736c9b599506226508e.png" width="24">CASH | /cash #guildtag | [CJcajGfbBW](https://discord.gg/CJcajGfbBW) | 2025-05-09T19:02:25+00:00 | 1280028606135009371 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369389385081946162/21129b437afdc5d4c56b399d9d86e25d.png" width="24">EKKO | jet&#x27;s server 2 | [GN6QUAkSGc](https://discord.gg/GN6QUAkSGc) | 2025-05-09T19:02:25+00:00 | 1369389385081946162 |
-| <img src="https://cdn.discordapp.com/clan-badges/1363506595404972203/d2b8a11f11730feee94ce3ade605905f.png" width="24">FAZE | .gg/fazeboost | [fbtag](https://discord.gg/fbtag) | 2025-05-09T19:02:25+00:00 | 1363506595404972203 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369669259550003271/5289e28dc044e40b1e01f2fc601a9f6c.png" width="24">IL | Community IL \| קהילת ישראל | [hrankmpZH5](https://discord.gg/hrankmpZH5) | 2025-05-09T19:02:25+00:00 | 1369669259550003271 |
 
 </details>
 
@@ -222,6 +222,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369359893496074411/0625caabbdb25cb8406ebdd64b90a445.png" width="24">666 | # 666 | [n7g9GKn4Z8](https://discord.gg/n7g9GKn4Z8) | 1369359893496074411 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369708969144221817/2f33e5bba9e6dacb417711d83324582d.png" width="24">666 | .gg/projection #666 | [ZNt6xYV8pe](https://discord.gg/ZNt6xYV8pe) | 1369708969144221817 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369502990838530088/2c7aa014ee3599b6b7089ce933971852.png" width="24">666 | ephyx | [q9e9ch5EbS](https://discord.gg/q9e9ch5EbS) | 1369502990838530088 |
+| <img src="https://cdn.discordapp.com/clan-badges/1272889673542402169/7f968d34689b032120d7a0f2a3d69b83.png" width="24">666 | Sovyet #VİZYON | [sovyet](https://discord.gg/sovyet) | 1272889673542402169 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719491935604927/dc61eaed9e8b012148661df1ada874e6.png" width="24">667 | ekip #667 | [SR3rDauYey](https://discord.gg/SR3rDauYey) | 1369719491935604927 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369679936561877012/a3290d71cdc373a5f63598746c8f1476.png" width="24">667 | 667 #Guild | [ea3TAPwSEX](https://discord.gg/ea3TAPwSEX) | 1369679936561877012 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369458068408111104/86735389348f3eacfa519eb553df38fd.png" width="24">667 | 667 | [WX6gTVZuHH](https://discord.gg/WX6gTVZuHH) | 1369458068408111104 |
@@ -1464,6 +1465,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369753658111037641/4bca913c9b2106ed777541ec65def38c.png" width="24">TATE | .gg/tren #TATE | [fyRaSS2ZPW](https://discord.gg/fyRaSS2ZPW) | 1369753658111037641 |
 | <img src="https://cdn.discordapp.com/clan-badges/718268027690549249/6473797948e6d36a991e425c8b7c353c.png" width="24">TBZ | Tower Blitz | [VJ3TP4cGKK](https://discord.gg/VJ3TP4cGKK) | 718268027690549249 |
 | <img src="https://cdn.discordapp.com/clan-badges/1278019494391840810/e0fb315519bcb35d53e4ac4fb5b81b8c.png" width="24">TCGP | Pokémon TCG Pocket | [ptcgp](https://discord.gg/ptcgp) | 1278019494391840810 |
+| <img src="https://cdn.discordapp.com/clan-badges/1028751790000316506/6ed907032e3a22a1cd30d3f61a5cd96e.png" width="24">TCP | CoroHost.cloud | [corohost](https://discord.gg/corohost) | 1028751790000316506 |
 | <img src="https://cdn.discordapp.com/clan-badges/1193274068338741392/8d61abb8b5da075befaff858861dba54.png" width="24">TECH | r/BTechtards | [btechtards](https://discord.gg/btechtards) | 1193274068338741392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1108481962907271209/32d310e9a81f0f189722186c9a6fbb37.png" width="24">TECH | TechAssist | [qnauKgn2Uj](https://discord.gg/qnauKgn2Uj) | 1108481962907271209 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369738822795133009/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">TEKK | /tekktag - TEKKNiNE | [tekktag](https://discord.gg/tekktag) | 1369738822795133009 |

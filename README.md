@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1187820100384985118/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">ܔܔܛܔ | arnsfh&#x27;s vbucks van | [KdY3qScKXj](https://discord.gg/KdY3qScKXj) | 2025-05-09T20:48:53+00:00 | 1187820100384985118 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749400489820283/2b09d5081dee5cbb7314a3d2c7008b3f.png" width="24">:3 | silly tag | [WcaqgvqHYy](https://discord.gg/WcaqgvqHYy) | 2025-05-09T20:43:50+00:00 | 1369749400489820283 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641303897407548/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">MAES | MAES TAG | [RpyzRPCFXU](https://discord.gg/RpyzRPCFXU) | 2025-05-09T20:43:50+00:00 | 1369641303897407548 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363079879406518452/3656f41ab7876b3d55c5b697131d4370.png" width="24">ꜱᴛᴀʀ | Starline | [9jkQXEJ36C](https://discord.gg/9jkQXEJ36C) | 2025-05-09T20:43:50+00:00 | 1363079879406518452 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1295808187148140544/7b571a46a1266491cfabe2e362aad176.png" width="24">PNL | Onizuka #QLF | [onizuka](https://discord.gg/onizuka) | 2025-05-09T19:02:25+00:00 | 1295808187148140544 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369483491024310333/64c8688fb00935b996f3ff1b363ddee3.png" width="24">SHY | ☁ ShyClouds | [hnNEZeKNZZ](https://discord.gg/hnNEZeKNZZ) | 2025-05-09T19:02:25+00:00 | 1369483491024310333 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369739205944672286/1c8f8efb11de25463d853de6f864ffc6.png" width="24">菲比啾比 | 卡提希婭後援會 | [7C8qEyT4AA](https://discord.gg/7C8qEyT4AA) | 2025-05-09T19:02:25+00:00 | 1369739205944672286 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369887815466352724/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">RAWR | sugar&#x27;s guild ♡  RAWR ... | [rawrtag](https://discord.gg/rawrtag) | 2025-05-09T18:56:59+00:00 | 1369887815466352724 |
 
 </details>
 
@@ -2274,6 +2274,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369180324931698709/966ce54ae29fb1e534fac8104a29a8d4.png" width="24">ܔܔܛܔ | Misae 🏯 | [misae](https://discord.gg/misae) | 1369180324931698709 |
 | <img src="https://cdn.discordapp.com/clan-badges/1334652504457084948/2024c67cbcf8f78be3703be483177e98.png" width="24">ܔܔܛܔ | /residence #ܔܔܛܔ tag | [XWJGPynpM6](https://discord.gg/XWJGPynpM6) | 1334652504457084948 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369683015957090466/8e5239d719fa4c87fbc6184c9e8f83b9.png" width="24">ܔܔܛܔ | ଓ٠ ࣪𝘧𝘳𝘦𝘢𝘬𝘷𝘪𝘭𝘭𝘦.ᐟ ⸻ #ܔܔܛܔ | [X9QHagqFja](https://discord.gg/X9QHagqFja) | 1369683015957090466 |
+| <img src="https://cdn.discordapp.com/clan-badges/1187820100384985118/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">ܔܔܛܔ | arnsfh&#x27;s vbucks van | [KdY3qScKXj](https://discord.gg/KdY3qScKXj) | 1187820100384985118 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778911650644100/d111795ac77be2ed06a76587fa8aa3d7.png" width="24">ܔܔܛܛ | ܔܔܛܛ /pxguild | [TwbwPgjMgb](https://discord.gg/TwbwPgjMgb) | 1369778911650644100 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369470333282816010/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ܔܛ🪾 | /ICYMI TAGS - 🪾ܔܛ | [RaD6rr9NXp](https://discord.gg/RaD6rr9NXp) | 1369470333282816010 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716527066120324/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">ܛܔܔܛ | .gg/moneyy # ܛܔܔܛ | [s765e6PnME](https://discord.gg/s765e6PnME) | 1369716527066120324 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369742313605169193/0075a20a607c71fc3aa9b2f91d6b1464.png" width="24">CV | cv | [5Me9Tejsh7](https://discord.gg/5Me9Tejsh7) | 2025-05-09T03:15:21+00:00 | 1369742313605169193 |
 | <img src="https://cdn.discordapp.com/clan-badges/315664691877642250/c43e4efcc8ad839ec1d793a1be52e2e5.png" width="24">BOOM | DaFuq!?Boom! | [dafuqboom](https://discord.gg/dafuqboom) | 2025-05-09T02:50:06+00:00 | 315664691877642250 |
 | <img src="https://cdn.discordapp.com/clan-badges/781212328749301790/a706b26684db72a5d7e91ba17bb829b9.png" width="24">AI | Shapes.Inc | [shapes](https://discord.gg/shapes) | 2025-05-09T02:14:46+00:00 | 781212328749301790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756572334424175/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">ＪＥＦＥ | 𝐉 𝐄 𝐅 𝐄 │GUILD | [xYBcNkAQqq](https://discord.gg/xYBcNkAQqq) | 2025-05-09T00:38:45+00:00 | 1369756572334424175 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369612520603779205/6808f08dfbe6de40af5bd17b9e21655d.png" width="24">boo! | Boo! 😨 | [4FJtDNtBpM](https://discord.gg/4FJtDNtBpM) | 2025-05-08T21:46:35+00:00 | 1369612520603779205 |
 | <img src="https://cdn.discordapp.com/clan-badges/301993130159374356/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BEL | 💖• Belle Delphine Community [Official] | [belle-delphine-community-official-301993130159374356](https://discord.gg/belle-delphine-community-official-301993130159374356) | 2025-05-08T21:46:34+00:00 | 301993130159374356 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369867064457564170/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">Ram | Ram Society \| Social \| Gaming [Ram Tag] | [NM47SKeKQh](https://discord.gg/NM47SKeKQh) | 2025-05-08T21:41:30+00:00 | 1369867064457564170 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369741082534875216/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">឵឵ | ឵឵ | [3rNBUTdQHp](https://discord.gg/3rNBUTdQHp) | 2025-05-08T21:41:30+00:00 | 1369741082534875216 |
 
 </details>
 
@@ -431,6 +431,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369424122748080169/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">CUTE | gg/CuteTag | [cutetag](https://discord.gg/cutetag) | 1369424122748080169 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726151173607515/878c62b6694a4f5931104f766191bec7.png" width="24">CUTE | /ichigo \| CUTE | [award](https://discord.gg/award) | 1369726151173607515 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614764027805751/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">CUᎷ | cool tag | [qvS5Tnjrfd](https://discord.gg/qvS5Tnjrfd) | 1369614764027805751 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369742313605169193/0075a20a607c71fc3aa9b2f91d6b1464.png" width="24">CV | cv | [5Me9Tejsh7](https://discord.gg/5Me9Tejsh7) | 1369742313605169193 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769906110992444/878c62b6694a4f5931104f766191bec7.png" width="24">CVNT | boooooo #cvnt | [xWfTd9eERf](https://discord.gg/xWfTd9eERf) | 1369769906110992444 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369290223124480092/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">CWEL | 🔥CWEL community🔥 | [cfel](https://discord.gg/cfel) | 1369290223124480092 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369723744091902053/4bca913c9b2106ed777541ec65def38c.png" width="24">CWEL | marek | [TbZaVtGrHV](https://discord.gg/TbZaVtGrHV) | 1369723744091902053 |
@@ -1660,7 +1661,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369764381574959224/f38a116077bbf3da0ab2a093754ba2b1.png" width="24">ٴٴٴ | 🌳 JOPA 🌳 | [Z9CXbWtfwg](https://discord.gg/Z9CXbWtfwg) | 1369764381574959224 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369645699435724861/354ca0ff90d810dcc8a02be476a18921.png" width="24">۝۝ | join /slashfr | [wNz92Qqesf](https://discord.gg/wNz92Qqesf) | 1369645699435724861 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369509893454823575/c8d016eed5c8752316ca38fdd54380c6.png" width="24">۟ ۟ | 1997 - Private | [BqJYUSKqJ6](https://discord.gg/BqJYUSKqJ6) | 1369509893454823575 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369506705171550290/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">۟۟ | adrian \| guild tags | [adrian](https://discord.gg/adrian) | 1369506705171550290 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369506705171550290/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">۟۟ | adriancord | [adrian](https://discord.gg/adrian) | 1369506705171550290 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369416305639293068/72d539e25469d8154143b9cc32021ce8.png" width="24">۟۟ | invis \| .gg/fg | [6UnfVdzXkD](https://discord.gg/6UnfVdzXkD) | 1369416305639293068 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369432944724148234/08778bfc800e50707543540f0c167607.png" width="24">۟۟ | Tag Hub | [taghub](https://discord.gg/taghub) | 1369432944724148234 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753930459775100/2c7aa014ee3599b6b7089ce933971852.png" width="24">۟۟ | ۟۟ \| .gg/slave | [from](https://discord.gg/from) | 1369753930459775100 |

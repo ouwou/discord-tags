@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/713877918291591198/176416ced6db0ec5ff8014ce2be3297f.png" width="24">SWIM | 🌊Swim Cord🌊 | [swim](https://discord.gg/swim) | 2025-05-09T03:35:33+00:00 | 713877918291591198 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742313605169193/0075a20a607c71fc3aa9b2f91d6b1464.png" width="24">CV | cv | [5Me9Tejsh7](https://discord.gg/5Me9Tejsh7) | 2025-05-09T03:15:21+00:00 | 1369742313605169193 |
 | <img src="https://cdn.discordapp.com/clan-badges/315664691877642250/c43e4efcc8ad839ec1d793a1be52e2e5.png" width="24">BOOM | DaFuq!?Boom! | [dafuqboom](https://discord.gg/dafuqboom) | 2025-05-09T02:50:06+00:00 | 315664691877642250 |
 | <img src="https://cdn.discordapp.com/clan-badges/781212328749301790/a706b26684db72a5d7e91ba17bb829b9.png" width="24">AI | Shapes.Inc | [shapes](https://discord.gg/shapes) | 2025-05-09T02:14:46+00:00 | 781212328749301790 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369694712323113045/2c7aa014ee3599b6b7089ce933971852.png" width="24">DIOR | DIOR \| /diorr | [diorr](https://discord.gg/diorr) | 2025-05-08T21:46:35+00:00 | 1369694712323113045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369612520603779205/6808f08dfbe6de40af5bd17b9e21655d.png" width="24">boo! | Boo! 😨 | [4FJtDNtBpM](https://discord.gg/4FJtDNtBpM) | 2025-05-08T21:46:35+00:00 | 1369612520603779205 |
 | <img src="https://cdn.discordapp.com/clan-badges/301993130159374356/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BEL | 💖• Belle Delphine Community [Official] | [belle-delphine-community-official-301993130159374356](https://discord.gg/belle-delphine-community-official-301993130159374356) | 2025-05-08T21:46:34+00:00 | 301993130159374356 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369867064457564170/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">Ram | Ram Society \| Social \| Gaming [Ram Tag] | [NM47SKeKQh](https://discord.gg/NM47SKeKQh) | 2025-05-08T21:41:30+00:00 | 1369867064457564170 |
 
 </details>
 
@@ -1083,6 +1083,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369047323241353357/3109dd292bbd2cb6a18f6cd7148ad85a.png" width="24">SWAT | SWAT /backup | [eznfg5mApB](https://discord.gg/eznfg5mApB) | 1369047323241353357 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369452360937771050/dc61eaed9e8b012148661df1ada874e6.png" width="24">SWAT | .gg/nocheat [SWAT] | [vQ5KD86GJy](https://discord.gg/vQ5KD86GJy) | 1369452360937771050 |
 | <img src="https://cdn.discordapp.com/clan-badges/1311387776893321337/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">SWFT | Taylor Swift Fan Club | [getswiftgg](https://discord.gg/getswiftgg) | 1311387776893321337 |
+| <img src="https://cdn.discordapp.com/clan-badges/713877918291591198/176416ced6db0ec5ff8014ce2be3297f.png" width="24">SWIM | 🌊Swim Cord🌊 | [swim](https://discord.gg/swim) | 713877918291591198 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369694722687500360/0de0c9d99c632550c74d29c8024e0a39.png" width="24">SWMP | SWAMP | [swmp](https://discord.gg/swmp) | 1369694722687500360 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369211202214821928/89caebcb65e460fadbb2515ad34037dc.png" width="24">SZA | /szanation | [TGuuuxTyUc](https://discord.gg/TGuuuxTyUc) | 1369211202214821928 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369771101101621300/1c8f8efb11de25463d853de6f864ffc6.png" width="24">Saki | Saki | [wB54US5DXF](https://discord.gg/wB54US5DXF) | 1369771101101621300 |

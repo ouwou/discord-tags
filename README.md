@@ -1671,6 +1671,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369649692027260979/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">۟۟ | 20+ guilds | [GXKVwdFF79](https://discord.gg/GXKVwdFF79) | 1369649692027260979 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369867912436908073/d84985dab45c3cdcf569e45b89851750.png" width="24">۟۟ | ! selling guilds for cheap ^^ | [9NXFJmdqT3](https://discord.gg/9NXFJmdqT3) | 1369867912436908073 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369525854941614133/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">۟۟ | selling guilds $40 | [N2gEdCjnUE](https://discord.gg/N2gEdCjnUE) | 1369525854941614133 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369509280717475890/ea9d242a344950c1c93a97024eb82b8d.png" width="24">۟۟ | Lee&#x27;s tag | [rKS7tc9seX](https://discord.gg/rKS7tc9seX) | 1369509280717475890 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726531143995395/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">۟۟ | BEST GUILDS BY INTRUSIF | [D2rvvqVQ3T](https://discord.gg/D2rvvqVQ3T) | 1369726531143995395 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369678013448323132/9d6a6f34a73fe6b5d08aff93a0a90406.png" width="24">۟۟ | aaaa | [Pc3CJnbNPu](https://discord.gg/Pc3CJnbNPu) | 1369678013448323132 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369308868298932294/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">۟۟ | aabot┃dsc.gg/aabot | [8QJp5dMVZQ](https://discord.gg/8QJp5dMVZQ) | 1369308868298932294 |
@@ -1746,7 +1747,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369483876594094120/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">឵឵ | ឵឵ | [sfhWQ2VAaz](https://discord.gg/sfhWQ2VAaz) | 1369483876594094120 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369577833327886456/a98f25ba0a761a2245301efd961b88c7.png" width="24">឵឵ | ឵឵ | [Ne7sKyMszc](https://discord.gg/Ne7sKyMszc) | 1369577833327886456 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741082534875216/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">឵឵ | ឵឵ | [3rNBUTdQHp](https://discord.gg/3rNBUTdQHp) | 1369741082534875216 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369509280717475890/ea9d242a344950c1c93a97024eb82b8d.png" width="24">឵឵឵ | Lee&#x27;s tag /rKS7tc9seX | [rKS7tc9seX](https://discord.gg/rKS7tc9seX) | 1369509280717475890 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369998358374121502/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">឵឵឵ | Heart Tag | [KafECwV4Xy](https://discord.gg/KafECwV4Xy) | 1369998358374121502 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369773769245327432/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">឵឵឵ | SUPERSTARS \| 20+ Free Guilds | [NDueKyXthG](https://discord.gg/NDueKyXthG) | 1369773769245327432 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369412106776215582/2c7aa014ee3599b6b7089ce933971852.png" width="24">឵឵឵⼽ | ⼽ \| ឵឵.gg/evobot | [e96JXssT7p](https://discord.gg/e96JXssT7p) | 1369412106776215582 |

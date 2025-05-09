@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369614411614126110/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BAKA | BAKA Café | [bakacafe](https://discord.gg/bakacafe) | 2025-05-09T19:12:33+00:00 | 1369614411614126110 |
+| <img src="https://cdn.discordapp.com/clan-badges/1023135512657145916/d4292779a984904b53f78802a443308c.png" width="24">dcmm | Một lũ không kỹ năng | [NtSbTp6nzD](https://discord.gg/NtSbTp6nzD) | 2025-05-09T19:12:33+00:00 | 1023135512657145916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369746511922991134/2287edeecb80d2aa49b09797e60be8b8.png" width="24">LAMA | [LAMA] LLama | [dFHah8bG38](https://discord.gg/dFHah8bG38) | 2025-05-09T19:07:29+00:00 | 1369746511922991134 |
 | <img src="https://cdn.discordapp.com/clan-badges/1180963653609062532/d8028e3189542f9cd218c28373bc178a.png" width="24">PH | 𝑷𝒉 𝑭𝒂𝒎𝒊𝒍𝒚 | [rnj6kaj2Kd](https://discord.gg/rnj6kaj2Kd) | 2025-05-09T19:07:29+00:00 | 1180963653609062532 |
 | <img src="https://cdn.discordapp.com/clan-badges/846861861756469308/018cdb2548eb5d2c53b95f8c2c4d3155.png" width="24">SOLO | TrackMania Solo Hunters | [3y4s2cWJ89](https://discord.gg/3y4s2cWJ89) | 2025-05-09T19:07:29+00:00 | 846861861756469308 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370097565789589575/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">۟۟ | aaaa | [K64msXFw7C](https://discord.gg/K64msXFw7C) | 2025-05-09T18:52:56+00:00 | 1370097565789589575 |
 | <img src="https://cdn.discordapp.com/clan-badges/1361811645097181184/b6f6582eb0301ce069e00b2a99323975.png" width="24">۟۟ | ( ᵕ ᵕ ♱) ੭ hsr | [HSR](https://discord.gg/HSR) | 2025-05-09T18:52:56+00:00 | 1361811645097181184 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766345968849117/eb46f7293799c7ca8f60399a479d4f91.png" width="24">឵឵ | west&#x27;s /domain #invisible | [NZUQ7akSY8](https://discord.gg/NZUQ7akSY8) | 2025-05-09T18:52:56+00:00 | 1369766345968849117 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369685871376203806/0dde9feca1e7ed7a89b27b1b5f9d3d87.png" width="24">۟۟ | BLYAT | [SvfxCh4Qkw](https://discord.gg/SvfxCh4Qkw) | 2025-05-09T18:52:56+00:00 | 1369685871376203806 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369173145231163462/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">឵឵ | ឵឵ | [mCzKsXGPNj](https://discord.gg/mCzKsXGPNj) | 2025-05-09T18:52:56+00:00 | 1369173145231163462 |
 
 </details>
 
@@ -420,6 +420,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369669996590137424/be21ffb68728e604cdd4a314880cd1a1.png" width="24">B0T | TAG: BOT | [seutQEhTJG](https://discord.gg/seutQEhTJG) | 1369669996590137424 |
 | <img src="https://cdn.discordapp.com/clan-badges/1366434354879791124/a6d8d6b7e1c4edcc5457063114370150.png" width="24">B7 | B7 | [BFP83BJzDr](https://discord.gg/BFP83BJzDr) | 1366434354879791124 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369132057900482630/ee45c6c5f06ed9df8b935460a685f17b.png" width="24">BAKA | (BAKA TAG) Miku&#x27;s baka... | [ysKzqhfYtz](https://discord.gg/ysKzqhfYtz) | 1369132057900482630 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369614411614126110/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BAKA | BAKA Café | [bakacafe](https://discord.gg/bakacafe) | 1369614411614126110 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369599310966034452/71ad19a2603191a0dc56568625dabb50.png" width="24">BAKI | /e9guild [BAKI] | [e9guild](https://discord.gg/e9guild) | 1369599310966034452 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369432135991033949/8084d59ab2c97476363c0eb9c88c8486.png" width="24">BALL | Ball bird society | [PBghcY5fYj](https://discord.gg/PBghcY5fYj) | 1369432135991033949 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369625021747695647/a3157678d3f97d789e959f9c62499918.png" width="24">BARK | BARK \| .gg/guildplug | [X7U449jkqe](https://discord.gg/X7U449jkqe) | 1369625021747695647 |
@@ -1712,6 +1713,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369694747219857580/b4c87b9d64f4d9e1709b0ef094156dc5.png" width="24">cuty | @/cuty #tag | [c2ftCm3mh5](https://discord.gg/c2ftCm3mh5) | 1369694747219857580 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369396872279490661/22be82063be1461142de3411204ec19a.png" width="24">cvnt | azrael :( [cvnt] (exclu) | [eJXqPuseN9](https://discord.gg/eJXqPuseN9) | 1369396872279490661 |
 | <img src="https://cdn.discordapp.com/clan-badges/1339787909871439953/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">d4vd | 𝒸𝓇𝒶𝓎 𝓃 𝓀𝓇𝒾𝓃𝒸𝑒𝓁𝓈 𝓈𝑒𝓇𝓋𝑒𝓇 | [2zn2AQ9qyk](https://discord.gg/2zn2AQ9qyk) | 1339787909871439953 |
+| <img src="https://cdn.discordapp.com/clan-badges/1023135512657145916/d4292779a984904b53f78802a443308c.png" width="24">dcmm | Một lũ không kỹ năng | [NtSbTp6nzD](https://discord.gg/NtSbTp6nzD) | 1023135512657145916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369156192684871752/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">dead | .gg/deadtag #guilds | [hwdMtXdWHK](https://discord.gg/hwdMtXdWHK) | 1369156192684871752 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698023667531937/0625caabbdb25cb8406ebdd64b90a445.png" width="24">dead | #dead \| dsc.gg/deadtag | [GrkURqqedS](https://discord.gg/GrkURqqedS) | 1369698023667531937 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369781761885733014/b6f6582eb0301ce069e00b2a99323975.png" width="24">dead | @ugcom \| .gg/k1ll | [k1ll](https://discord.gg/k1ll) | 1369781761885733014 |

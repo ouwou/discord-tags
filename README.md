@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1253092552404631582/6082c2553b03b47ccaea5203567df3cf.png" width="24">ԁev | Lantern | [2qveccuq4c](https://discord.gg/2qveccuq4c) | 2025-05-09T22:50:18+00:00 | 1253092552404631582 |
 | <img src="https://cdn.discordapp.com/clan-badges/861445630698323998/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">MunA | Lado Oscuro de la Luna | [Bnbg4X4KqY](https://discord.gg/Bnbg4X4KqY) | 2025-05-09T22:45:14+00:00 | 861445630698323998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369736581426184222/0454b7f9f28cf7f5dc5bbbdde005e3ba.png" width="24">OQTF | OQTF - /92ii | [KFYq9wku2z](https://discord.gg/KFYq9wku2z) | 2025-05-09T22:45:14+00:00 | 1369736581426184222 |
 | <img src="https://cdn.discordapp.com/clan-badges/1324219195990216809/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">UvU | UvU | [VKzzqdJemp](https://discord.gg/VKzzqdJemp) | 2025-05-09T22:45:14+00:00 | 1324219195990216809 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369248197498896394/cf84fdb035bcacef2adf002d28a021d2.png" width="24">ʚɞ | ૮ ˶ᵔ ᵕ ᵔ˶ ა | [haerin](https://discord.gg/haerin) | 2025-05-09T20:33:43+00:00 | 1369248197498896394 |
 | <img src="https://cdn.discordapp.com/clan-badges/1260759286565306409/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">SILY | Mia&#x27;s Silly Stuff \| S... | [PFFjQVdXq2](https://discord.gg/PFFjQVdXq2) | 2025-05-09T20:33:43+00:00 | 1260759286565306409 |
 | <img src="https://cdn.discordapp.com/clan-badges/1164645022839357632/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">kiss | ۟۟ | [kisstag](https://discord.gg/kisstag) | 2025-05-09T20:28:39+00:00 | 1164645022839357632 |
-| <img src="https://cdn.discordapp.com/clan-badges/1139644902884519967/2d8bea68b3152b52858942d2bc854cc7.png" width="24">きつね | ₊  Yᴀsᴜʀᴀɢɪ ଓ ‧˚ | [bY4dRppDcb](https://discord.gg/bY4dRppDcb) | 2025-05-09T20:28:39+00:00 | 1139644902884519967 |
 
 </details>
 
@@ -2263,6 +2263,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369387794300010639/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ѕtaﬀ | Staff Tag | [a8XXdEsnRJ](https://discord.gg/a8XXdEsnRJ) | 1369387794300010639 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369788440853479525/654df0b24db8204a40e7d02d022ac73c.png" width="24">ѕℓαу | ✨ 𝓐𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬 TAG &amp; More✨ | [YZAQHhHpFU](https://discord.gg/YZAQHhHpFU) | 1369788440853479525 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756781709885521/e020165c331dfe0f62aaf8f8bb7e9c1f.png" width="24">ғʙɪ | ғʙɪ [tag] official | [HApZjyGFtd](https://discord.gg/HApZjyGFtd) | 1369756781709885521 |
+| <img src="https://cdn.discordapp.com/clan-badges/1253092552404631582/6082c2553b03b47ccaea5203567df3cf.png" width="24">ԁev | Lantern | [2qveccuq4c](https://discord.gg/2qveccuq4c) | 1253092552404631582 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716002085928983/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ԝlԝ | guppy (ԝlԝ tag) | [4TEhR3TruA](https://discord.gg/4TEhR3TruA) | 1369716002085928983 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369635074395344998/e7d159ed722b033483c0153b5f3fc54f.png" width="24">֜猫 | [猫] Neko JP🇯🇵 \| dsc.gg/nek... | [cCKK3zZDzr](https://discord.gg/cCKK3zZDzr) | 1369635074395344998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1286763440291053568/ec20ca5dddf56fee2de29a88f17a885d.png" width="24">֪🫧 | .gg/yeri for access | [FptRgdfeWq](https://discord.gg/FptRgdfeWq) | 1286763440291053568 |

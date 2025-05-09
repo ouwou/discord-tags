@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/781212328749301790/a706b26684db72a5d7e91ba17bb829b9.png" width="24">AI | Shapes.Inc | [shapes](https://discord.gg/shapes) | 2025-05-09T02:14:46+00:00 | 781212328749301790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756572334424175/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">ＪＥＦＥ | 𝐉 𝐄 𝐅 𝐄 │GUILD | [xYBcNkAQqq](https://discord.gg/xYBcNkAQqq) | 2025-05-09T00:38:45+00:00 | 1369756572334424175 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369938856375353344/86735389348f3eacfa519eb553df38fd.png" width="24">HYPE | Tag: HYPE [RU/ENG] | [6X59Z5xJmn](https://discord.gg/6X59Z5xJmn) | 2025-05-08T23:48:15+00:00 | 1369938856375353344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369852589377589298/21129b437afdc5d4c56b399d9d86e25d.png" width="24">KOT | KOTARU | [gW2GXyveQ2](https://discord.gg/gW2GXyveQ2) | 2025-05-08T22:52:43+00:00 | 1369852589377589298 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369867064457564170/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">Ram | Ram Society \| Social \| Gaming [Ram Tag] | [NM47SKeKQh](https://discord.gg/NM47SKeKQh) | 2025-05-08T21:41:30+00:00 | 1369867064457564170 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741082534875216/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">឵឵ | ឵឵ | [3rNBUTdQHp](https://discord.gg/3rNBUTdQHp) | 2025-05-08T21:41:30+00:00 | 1369741082534875216 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369519337324675183/310d9b669d687de773b5f3b5310ca1f3.png" width="24">RE:0 | Return by Death! [RE:0 TAG] | [ycJFzcuWpa](https://discord.gg/ycJFzcuWpa) | 2025-05-08T21:41:29+00:00 | 1369519337324675183 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369845158715195412/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">EMI | Emilia&#x27;s Palace (EMI tag) | [nWycmnSzJW](https://discord.gg/nWycmnSzJW) | 2025-05-08T21:41:29+00:00 | 1369845158715195412 |
 
 </details>
 
@@ -301,6 +301,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369472914369286194/8d61abb8b5da075befaff858861dba54.png" width="24">ADV | ADV | [DNDdpjQ26e](https://discord.gg/DNDdpjQ26e) | 1369472914369286194 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369195056082325554/39b2f39bec5d121b095b920f557b4c69.png" width="24">AFK | 熱風 | [ZrjZfRzQsK](https://discord.gg/ZrjZfRzQsK) | 1369195056082325554 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369404360181944340/7b571a46a1266491cfabe2e362aad176.png" width="24">AFK | AFK | [T2ZGxhJHj7](https://discord.gg/T2ZGxhJHj7) | 1369404360181944340 |
+| <img src="https://cdn.discordapp.com/clan-badges/781212328749301790/a706b26684db72a5d7e91ba17bb829b9.png" width="24">AI | Shapes.Inc | [shapes](https://discord.gg/shapes) | 781212328749301790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369387299552497755/a3290d71cdc373a5f63598746c8f1476.png" width="24">AIM | AIM /stealy | [aimtag](https://discord.gg/aimtag) | 1369387299552497755 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369076414153887875/bc2f7685eed9d27522595f510bb2da48.png" width="24">AK47 | AK47 /sexytag | [ArsfKJaq4t](https://discord.gg/ArsfKJaq4t) | 1369076414153887875 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369636288625508392/dc61eaed9e8b012148661df1ada874e6.png" width="24">AK47 | .gg/yea #AK47 | [Np7JKYMzzc](https://discord.gg/Np7JKYMzzc) | 1369636288625508392 |

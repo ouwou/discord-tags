@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/315664691877642250/c43e4efcc8ad839ec1d793a1be52e2e5.png" width="24">BOOM | DaFuq!?Boom! | [dafuqboom](https://discord.gg/dafuqboom) | 2025-05-09T02:50:06+00:00 | 315664691877642250 |
 | <img src="https://cdn.discordapp.com/clan-badges/781212328749301790/a706b26684db72a5d7e91ba17bb829b9.png" width="24">AI | Shapes.Inc | [shapes](https://discord.gg/shapes) | 2025-05-09T02:14:46+00:00 | 781212328749301790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756572334424175/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">ＪＥＦＥ | 𝐉 𝐄 𝐅 𝐄 │GUILD | [xYBcNkAQqq](https://discord.gg/xYBcNkAQqq) | 2025-05-09T00:38:45+00:00 | 1369756572334424175 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369938856375353344/86735389348f3eacfa519eb553df38fd.png" width="24">HYPE | Tag: HYPE [RU/ENG] | [6X59Z5xJmn](https://discord.gg/6X59Z5xJmn) | 2025-05-08T23:48:15+00:00 | 1369938856375353344 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/301993130159374356/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BEL | 💖• Belle Delphine Community [Official] | [belle-delphine-community-official-301993130159374356](https://discord.gg/belle-delphine-community-official-301993130159374356) | 2025-05-08T21:46:34+00:00 | 301993130159374356 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369867064457564170/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">Ram | Ram Society \| Social \| Gaming [Ram Tag] | [NM47SKeKQh](https://discord.gg/NM47SKeKQh) | 2025-05-08T21:41:30+00:00 | 1369867064457564170 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741082534875216/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">឵឵ | ឵឵ | [3rNBUTdQHp](https://discord.gg/3rNBUTdQHp) | 2025-05-08T21:41:30+00:00 | 1369741082534875216 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369519337324675183/310d9b669d687de773b5f3b5310ca1f3.png" width="24">RE:0 | Return by Death! [RE:0 TAG] | [ycJFzcuWpa](https://discord.gg/ycJFzcuWpa) | 2025-05-08T21:41:29+00:00 | 1369519337324675183 |
 
 </details>
 
@@ -368,6 +368,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369806363714125904/beb2a3477574ea009e7dd08712ade97a.png" width="24">BMW | B M W | [bmww](https://discord.gg/bmww) | 1369806363714125904 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369818538860089465/4d13f76f562dc4e1fd9ea7c66819c760.png" width="24">BND | ‧︵‿₊୨୧₊‿︵‧ | [esUDWezg3a](https://discord.gg/esUDWezg3a) | 1369818538860089465 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369048791533097021/f70164aaccb9dfb4449b5f6c5481f967.png" width="24">BONK | Bonked! | [RpHnsg36BJ](https://discord.gg/RpHnsg36BJ) | 1369048791533097021 |
+| <img src="https://cdn.discordapp.com/clan-badges/315664691877642250/c43e4efcc8ad839ec1d793a1be52e2e5.png" width="24">BOOM | DaFuq!?Boom! | [dafuqboom](https://discord.gg/dafuqboom) | 315664691877642250 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369139228557971497/7559f482be9695e871372dfcc0ee6ac3.png" width="24">BOOM | Boomlings INC. | [fnbkdJzVfT](https://discord.gg/fnbkdJzVfT) | 1369139228557971497 |
 | <img src="https://cdn.discordapp.com/clan-badges/1314972643056816170/e97faad67b389bb49a3f5ccba40352f6.png" width="24">BOSS | Grow A Garden \| Stocks &amp; Weather | [giftcard](https://discord.gg/giftcard) | 1314972643056816170 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369377516174971031/6473797948e6d36a991e425c8b7c353c.png" width="24">BOSS | Boss 🗿 | [skryC8ApM9](https://discord.gg/skryC8ApM9) | 1369377516174971031 |

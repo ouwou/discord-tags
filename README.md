@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1268694536708685834/3f98b2c7a71c20d57a8250225bc2c8ed.png" width="24">MIKO | Narukami Shrine \| [MIKO] Tag | [z6NramCwN3](https://discord.gg/z6NramCwN3) | 2025-05-09T23:25:42+00:00 | 1268694536708685834 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369338771476185119/4d6d0a54a28859fb2b8ce09ee98b6f72.png" width="24">ogu | $. | [Kqp2JnNvwd](https://discord.gg/Kqp2JnNvwd) | 2025-05-09T23:25:42+00:00 | 1369338771476185119 |
 | <img src="https://cdn.discordapp.com/clan-badges/1357696154858553534/b6f6582eb0301ce069e00b2a99323975.png" width="24">AMEN | s4ge.lol | [QAUBACNrCW](https://discord.gg/QAUBACNrCW) | 2025-05-09T23:20:38+00:00 | 1357696154858553534 |
 | <img src="https://cdn.discordapp.com/clan-badges/1186313624071974912/86ad0a24dfa8b14dae6b8f21cde55634.png" width="24">APFL | ApfelGemeinde | [apfel](https://discord.gg/apfel) | 2025-05-09T23:20:38+00:00 | 1186313624071974912 |
 | <img src="https://cdn.discordapp.com/clan-badges/1156389215551094785/878c62b6694a4f5931104f766191bec7.png" width="24">Cute | 💜𓂃𓈒𓏸 CuteHub⁺¹⁸﹕Nsfw﹕Nitro﹕... | [VXyhFfCwW8](https://discord.gg/VXyhFfCwW8) | 2025-05-09T23:20:38+00:00 | 1156389215551094785 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/915356502326411306/c1e4439afa95753a4bab531e3c4c42d1.png" width="24">duck | duck community | [SyAJT4d2bT](https://discord.gg/SyAJT4d2bT) | 2025-05-09T21:29:20+00:00 | 915356502326411306 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369851079784660992/7ff6c58e18e1989b8744cd837994be11.png" width="24">juju | serb evil mage server | [43EDYmeKSS](https://discord.gg/43EDYmeKSS) | 2025-05-09T21:29:20+00:00 | 1369851079784660992 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369736032404246570/42751df752bb370ece67052cf3f40709.png" width="24">T1TS | T1TS・.gg/guildpb | [9JkHnx8BuQ](https://discord.gg/9JkHnx8BuQ) | 2025-05-09T21:29:20+00:00 | 1369736032404246570 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369775394911162581/3da695a3845833b28878ed0d3d86dec6.png" width="24">WEED | WEED・.gg/guildpb | [95cYnV3Z3M](https://discord.gg/95cYnV3Z3M) | 2025-05-09T21:29:20+00:00 | 1369775394911162581 |
-| <img src="https://cdn.discordapp.com/clan-badges/1272889673542402169/7f968d34689b032120d7a0f2a3d69b83.png" width="24">666 | Sovyet #VİZYON | [sovyet](https://discord.gg/sovyet) | 2025-05-09T21:24:17+00:00 | 1272889673542402169 |
 
 </details>
 
@@ -1109,6 +1109,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369733112745169037/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MGE | Mge: Fan Club | [7Uz8DezPAF](https://discord.gg/7Uz8DezPAF) | 1369733112745169037 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369534404405231637/cd112d44c4a729ef957c9eee0af0eaef.png" width="24">MGL | MGL \| discord.gg/mgl | [j5XWKqGehs](https://discord.gg/j5XWKqGehs) | 1369534404405231637 |
 | <img src="https://cdn.discordapp.com/clan-badges/1252904927588515871/b1e18bf6d46db1beab104bc17bcae84a.png" width="24">MIKA | Misono Mika&#x27;s Tea Party | [PwBrHQymug](https://discord.gg/PwBrHQymug) | 1252904927588515871 |
+| <img src="https://cdn.discordapp.com/clan-badges/1268694536708685834/3f98b2c7a71c20d57a8250225bc2c8ed.png" width="24">MIKO | Narukami Shrine \| [MIKO] Tag | [z6NramCwN3](https://discord.gg/z6NramCwN3) | 1268694536708685834 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369047464073498776/d84985dab45c3cdcf569e45b89851750.png" width="24">MIKU | MIKU TAG・CHAT・SOCIAL | [mikutag](https://discord.gg/mikutag) | 1369047464073498776 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369092161970110484/b1634260c0600006319f566a601bacad.png" width="24">MIKU | Miku&#x27;s Cafe Tag Zone | [K8CTSHMbxU](https://discord.gg/K8CTSHMbxU) | 1369092161970110484 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358266850231975956/775ece4d66c8234c8893cb80dcef79da.png" width="24">MIKU | Miku World | [mikuworld](https://discord.gg/mikuworld) | 1358266850231975956 |
@@ -2038,6 +2039,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369680605452828777/6473797948e6d36a991e425c8b7c353c.png" width="24">nwr | nwr Guild | [Sxx8p9EZ9T](https://discord.gg/Sxx8p9EZ9T) | 1369680605452828777 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369544147593199656/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">nyan | /nyantag ♡ 30 free guilds | [nyantag](https://discord.gg/nyantag) | 1369544147593199656 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369572588925489205/9fa6415c4f2568422ba5f74af9b36c78.png" width="24">ogu | PRIV #OGU | [C5HHKbrEuq](https://discord.gg/C5HHKbrEuq) | 1369572588925489205 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369338771476185119/4d6d0a54a28859fb2b8ce09ee98b6f72.png" width="24">ogu | $. | [Kqp2JnNvwd](https://discord.gg/Kqp2JnNvwd) | 1369338771476185119 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370045937807917176/cd5b2603983049a0b536baf3ca4e16c2.png" width="24">once | ( ◦ ˘ᴗ˘) ㆍdj2l | [CjH9aeZBkb](https://discord.gg/CjH9aeZBkb) | 1370045937807917176 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369454002764255323/8c99f2a03e7e3a24794e6fbdb5ae62b1.png" width="24">onyx | ꒰ა ᥣυsh ໒꒱ | [4AsX9TtMgB](https://discord.gg/4AsX9TtMgB) | 1369454002764255323 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369729628444426300/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">orv | ̣  ५　　 \| ͜͝ \| ͜͝　　.　　/joo... | [8c2urWDmT8](https://discord.gg/8c2urWDmT8) | 1369729628444426300 |

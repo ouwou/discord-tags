@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1317043665545330708/b3236d6e71cf992652f69958ecbcc8b1.png" width="24">Gary | Gary 2 | [NfYnJhzDcm](https://discord.gg/NfYnJhzDcm) | 2025-05-09T23:05:28+00:00 | 1317043665545330708 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369763005507702924/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">RIOT | Riot | [JYZhQX7k8v](https://discord.gg/JYZhQX7k8v) | 2025-05-09T23:05:28+00:00 | 1369763005507702924 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369470070119465101/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">999 | 999 Tag | [CUpMteuYrd](https://discord.gg/CUpMteuYrd) | 2025-05-09T23:00:25+00:00 | 1369470070119465101 |
 | <img src="https://cdn.discordapp.com/clan-badges/1356992923245215835/9598c087a3b619a16e9c911dc29866d5.png" width="24">doll | 𝜗𝜚 　˚　🌸　⌇﹒　/dollsies₊　🫐﹒˳　s... | [dollsies](https://discord.gg/dollsies) | 2025-05-09T23:00:25+00:00 | 1356992923245215835 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778758625787934/40a7aa796426347d6b76d20dfed2c273.png" width="24">Hina | Hinacord | [PHjeZEN49U](https://discord.gg/PHjeZEN49U) | 2025-05-09T23:00:25+00:00 | 1369778758625787934 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369361280527499294/86735389348f3eacfa519eb553df38fd.png" width="24">69 | Esuck 🪞#Chill | [FYEteVkvva](https://discord.gg/FYEteVkvva) | 2025-05-09T21:09:06+00:00 | 1369361280527499294 |
 | <img src="https://cdn.discordapp.com/clan-badges/1299399491664744579/6473797948e6d36a991e425c8b7c353c.png" width="24">נודר | Israeli Friends | [Sj6kJAuAae](https://discord.gg/Sj6kJAuAae) | 2025-05-09T21:04:03+00:00 | 1299399491664744579 |
 | <img src="https://cdn.discordapp.com/clan-badges/866541511344652288/48d2557a1faf9a790dde3ad334e56efb.png" width="24">你媽死了 | Jiafei Taiwan Group(JF) | [PmUYtPW4CM](https://discord.gg/PmUYtPW4CM) | 2025-05-09T21:04:03+00:00 | 866541511344652288 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369492251507687445/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">౨ৎ | Lipcut - ౨ৎ | [WHdb2YMXfd](https://discord.gg/WHdb2YMXfd) | 2025-05-09T20:58:59+00:00 | 1369492251507687445 |
-| <img src="https://cdn.discordapp.com/clan-badges/1186463697258958908/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">ＡＵＲＡ | /Bloxsfruit │ Blox Fruits T... | [qzY5rAbhhV](https://discord.gg/qzY5rAbhhV) | 2025-05-09T20:58:59+00:00 | 1186463697258958908 |
 
 </details>
 
@@ -856,6 +856,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369845385442496642/89661c33e7f9625e123efdd4c80e0d9c.png" width="24">GUTS | GUTS | [FmjJSdHgbP](https://discord.gg/FmjJSdHgbP) | 1369845385442496642 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745012241465467/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">GYAT | Hello Kitty | [wsJtG4Sxcn](https://discord.gg/wsJtG4Sxcn) | 1369745012241465467 |
 | <img src="https://cdn.discordapp.com/clan-badges/1051189930883305473/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">Gang | 🎀  𝒞𝒽𝒾𝒸𝒶’𝓈  🎀  𝓩𝓪𝓷𝓰’s  𝐆𝐢𝐯𝐞... | [chicax](https://discord.gg/chicax) | 1051189930883305473 |
+| <img src="https://cdn.discordapp.com/clan-badges/1317043665545330708/b3236d6e71cf992652f69958ecbcc8b1.png" width="24">Gary | Gary 2 | [NfYnJhzDcm](https://discord.gg/NfYnJhzDcm) | 1317043665545330708 |
 | <img src="https://cdn.discordapp.com/clan-badges/1225042353270816798/3b55c646fed06ad6aec7d37d25887cef.png" width="24">Gems | Gemstone Theatre | [gemstonetheatre](https://discord.gg/gemstonetheatre) | 1225042353270816798 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686198494167153/ef7bec8292be3b5d00d55af2e5557292.png" width="24">GenG | Gen.G 길드 태그 서버 | [RCb6BK2mwX](https://discord.gg/RCb6BK2mwX) | 1369686198494167153 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369426487677292554/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">Ghoﬆ | Ghost \| .gg/evobot | [2eCknSYZQS](https://discord.gg/2eCknSYZQS) | 1369426487677292554 |
@@ -1347,6 +1348,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1266423492010840127/6fa8b5ee7310050446627654f4a06840.png" width="24">RICH | Nashe Staffs Community [RICH] | [hj2NmKfwke](https://discord.gg/hj2NmKfwke) | 1266423492010840127 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369613027753726035/560794f11f66275f7ea52c4a54d22a90.png" width="24">RIN | Kusatsu Tag | [tPXxXJ2Kxq](https://discord.gg/tPXxXJ2Kxq) | 1369613027753726035 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369499423318741123/f5ef05c46792ab33c21435413b70d2f8.png" width="24">RIN | Kagamine Club | [7hFCcpgeU5](https://discord.gg/7hFCcpgeU5) | 1369499423318741123 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369763005507702924/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">RIOT | Riot | [JYZhQX7k8v](https://discord.gg/JYZhQX7k8v) | 1369763005507702924 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369814900154826783/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">RIP | RIP Tag | [bwyTEqqVRy](https://discord.gg/bwyTEqqVRy) | 1369814900154826783 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369865128727543849/232d1d2a366ec512dde707821f672cce.png" width="24">RIP | RIP /pxguild | [XrCBPP2XNy](https://discord.gg/XrCBPP2XNy) | 1369865128727543849 |
 | <img src="https://cdn.discordapp.com/clan-badges/748637028761075732/4dc2a486e1f61230e4af1d448f6b02c1.png" width="24">RISE | RISE  Server 🌟 | [mrGnccXhw5](https://discord.gg/mrGnccXhw5) | 748637028761075732 |

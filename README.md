@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369687947233984522/0dde9feca1e7ed7a89b27b1b5f9d3d87.png" width="24">BRUV | Oi Bruv | [oibruv](https://discord.gg/oibruv) | 2025-05-09T21:49:34+00:00 | 1369687947233984522 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369783420565196964/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">chic | chic | [ugefr4ryg4](https://discord.gg/ugefr4ryg4) | 2025-05-09T21:49:34+00:00 | 1369783420565196964 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369559303446331463/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">&lt;/3² | 00 | [jvAHHWSz6v](https://discord.gg/jvAHHWSz6v) | 2025-05-09T21:44:31+00:00 | 1369559303446331463 |
 | <img src="https://cdn.discordapp.com/clan-badges/1248334016663392266/9a75399aa9b11abc29b86ccec45ccffb.png" width="24">anxa | Anaxa Mains ⭑ Honkai: Star ... | [pVSH8Ceybr](https://discord.gg/pVSH8Ceybr) | 2025-05-09T21:44:31+00:00 | 1248334016663392266 |
 | <img src="https://cdn.discordapp.com/clan-badges/711163819250155590/84aae7a3aba3eab9356d31d4a0e622a3.png" width="24">Bud | Zud | [ERjKKEd](https://discord.gg/ERjKKEd) | 2025-05-09T21:44:31+00:00 | 711163819250155590 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/265574509749207043/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">KOYA | Koya&#x27;s Playground | [koya](https://discord.gg/koya) | 2025-05-09T19:32:43+00:00 | 265574509749207043 |
 | <img src="https://cdn.discordapp.com/clan-badges/378599231583289346/88b0208a10012f092152dad43dfaa344.png" width="24">COZY | ⚜ Gay &amp; Comfy. | [comfy](https://discord.gg/comfy) | 2025-05-09T19:32:43+00:00 | 378599231583289346 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740549887885322/fad085b7d1298ad36b0d6135505d3029.png" width="24">BEST | BEST .gg/BangGang | [j9CVCWbt](https://discord.gg/j9CVCWbt) | 2025-05-09T19:32:43+00:00 | 1369740549887885322 |
-| <img src="https://cdn.discordapp.com/clan-badges/859205559412588544/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">HXH | Hunter x Hangout🃏 | [Hxh](https://discord.gg/Hxh) | 2025-05-09T19:32:43+00:00 | 859205559412588544 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369705524270071868/c2cd05dfff8ee97272ac4b4f0d2124b8.png" width="24">icon | [icon] \|\| /neveah  𓂃 ﹒ | [hAcnPGBAyX](https://discord.gg/hAcnPGBAyX) | 2025-05-09T19:32:43+00:00 | 1369705524270071868 |
 
 </details>
 
@@ -479,6 +479,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369461818208293035/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BRAT | .gg/elo #BRAT | [fRSEEQPU57](https://discord.gg/fRSEEQPU57) | 1369461818208293035 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369365679836496003/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">BRO | ⚡House of BRO⚡ | [YB7FeuVRMq](https://discord.gg/YB7FeuVRMq) | 1369365679836496003 |
 | <img src="https://cdn.discordapp.com/clan-badges/844285068275875890/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">BRUH | La cueva de Cosi | [la-cueva-de-cosi-844285068275875890](https://discord.gg/la-cueva-de-cosi-844285068275875890) | 844285068275875890 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369687947233984522/0dde9feca1e7ed7a89b27b1b5f9d3d87.png" width="24">BRUV | Oi Bruv | [oibruv](https://discord.gg/oibruv) | 1369687947233984522 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369669144353574994/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">BSSO | BSSO Tag | [hH274CHfdU](https://discord.gg/hH274CHfdU) | 1369669144353574994 |
 | <img src="https://cdn.discordapp.com/clan-badges/997205363545878648/6aa67161ee28bcffd610847ae5fe1317.png" width="24">BTAG | Neva&#x27;s Silly Guild! \|... | [qVU5AktcYC](https://discord.gg/qVU5AktcYC) | 997205363545878648 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369344396826382510/eecbd697bf20620407c2216f1f90c172.png" width="24">BTC | [BTC] Server Tag | [teKxtX6Q6n](https://discord.gg/teKxtX6Q6n) | 1369344396826382510 |
@@ -1728,6 +1729,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1079707474740916235/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">cat | cat sanctuary :3 | [6Vwq5kNfG7](https://discord.gg/6Vwq5kNfG7) | 1079707474740916235 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369145942472785990/8d61abb8b5da075befaff858861dba54.png" width="24">cats | cats /backup | [gMF6cxjr5N](https://discord.gg/gMF6cxjr5N) | 1369145942472785990 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369417824241455255/baa4ef94c209be4f8ec5ebadf27bfd96.png" width="24">chan | CHAN TAG • CHAT • SOCIAL | [sPDHMvB3pR](https://discord.gg/sPDHMvB3pR) | 1369417824241455255 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369783420565196964/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">chic | chic | [ugefr4ryg4](https://discord.gg/ugefr4ryg4) | 1369783420565196964 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755280258240593/2a9ba6cea5b2ca1daf0a60bc7aeadd37.png" width="24">chuu | chuu guild (.gg/rosie) | [Fz72qfqAQb](https://discord.gg/Fz72qfqAQb) | 1369755280258240593 |
 | <img src="https://cdn.discordapp.com/clan-badges/1349849628438298704/17450651319160ea7a70d46523288dbe.png" width="24">chꜵs | Chaos Tag | [V4S6VCMNaZ](https://discord.gg/V4S6VCMNaZ) | 1349849628438298704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369437512136790196/96e3247f8b6329442929b5fedb9fe69b.png" width="24">cnc | .gg/ski for access [CNC] | [A8dBvsdMyq](https://discord.gg/A8dBvsdMyq) | 1369437512136790196 |

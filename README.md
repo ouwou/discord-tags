@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1279212128464797748/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">DUM | KALEIDOSCOPE 🌷♟ | [kaleidoscope](https://discord.gg/kaleidoscope) | 2025-05-09T22:04:44+00:00 | 1279212128464797748 |
+| <img src="https://cdn.discordapp.com/clan-badges/215470597520621569/9a483a3be2300cd6ebe71aafae07208d.png" width="24">LOVE | Lovely Friends | [europe](https://discord.gg/europe) | 2025-05-09T22:04:44+00:00 | 215470597520621569 |
+| <img src="https://cdn.discordapp.com/clan-badges/966097546856509520/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">TS | Rogue Demon | [87nKwsZssY](https://discord.gg/87nKwsZssY) | 2025-05-09T22:04:44+00:00 | 966097546856509520 |
 | <img src="https://cdn.discordapp.com/clan-badges/1353523369450016831/b0036e060a7976dec28e5c8543ff6fff.png" width="24">+x+ | +x+ | [yeonbin](https://discord.gg/yeonbin) | 2025-05-09T21:59:40+00:00 | 1353523369450016831 |
 | <img src="https://cdn.discordapp.com/clan-badges/1368359928112091196/b6f6582eb0301ce069e00b2a99323975.png" width="24">777 | Dead Rails Services | [kRttr9563F](https://discord.gg/kRttr9563F) | 2025-05-09T21:59:40+00:00 | 1368359928112091196 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370038218371891282/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">ALEV | A L E V 🤭 #KESH | [alevguild](https://discord.gg/alevguild) | 2025-05-09T21:59:40+00:00 | 1370038218371891282 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369629659603406911/9c1e83344a93f711f2fb885d13533c8d.png" width="24">ＣＲ７ | ＣＲ７tag .gg/tadfi | [K6Me7Tdr62](https://discord.gg/K6Me7Tdr62) | 2025-05-09T19:47:59+00:00 | 1369629659603406911 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369630626579353640/cb62420968487e87c547817389c0b07b.png" width="24">ＳＹＲ | ＳＹＲTag .gg/tadfi | [fayH4UZGae](https://discord.gg/fayH4UZGae) | 2025-05-09T19:47:59+00:00 | 1369630626579353640 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369677237665796136/2c7aa014ee3599b6b7089ce933971852.png" width="24">WRLD | #WRLD \| Tag Server | [vwVvxJdpNr](https://discord.gg/vwVvxJdpNr) | 2025-05-09T19:47:59+00:00 | 1369677237665796136 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370063277778014330/fa7f72ec9affdbcfb9ae39d7ea5f450d.png" width="24">ᴡʀʟᴅ | ᴡʀʟᴅ | [AMpqkR7xs5](https://discord.gg/AMpqkR7xs5) | 2025-05-09T19:47:59+00:00 | 1370063277778014330 |
-| <img src="https://cdn.discordapp.com/clan-badges/894664146602328165/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">឵឵឵ | SUPERSTARS \| 20+ Free Guilds | [WvUrPXu9b2](https://discord.gg/WvUrPXu9b2) | 2025-05-09T19:42:53+00:00 | 894664146602328165 |
-| <img src="https://cdn.discordapp.com/clan-badges/976609439153004624/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">RAIL | Fourth Rail | [fourthrail](https://discord.gg/fourthrail) | 2025-05-09T19:42:53+00:00 | 976609439153004624 |
 
 </details>
 
@@ -628,6 +628,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369505943053926430/66cde1189ceaa09f245177a95dade56c.png" width="24">DRUG | DRUG ⭐ | [Wvc2XwUwY3](https://discord.gg/Wvc2XwUwY3) | 1369505943053926430 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369436322963652719/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">DTF | District FA \| Guild🗽 | [4uugjZeD9J](https://discord.gg/4uugjZeD9J) | 1369436322963652719 |
 | <img src="https://cdn.discordapp.com/clan-badges/476454574715174912/0d4b5852e84385476bd9b1142eb36e6a.png" width="24">DUAL | DualView | [dualview](https://discord.gg/dualview) | 476454574715174912 |
+| <img src="https://cdn.discordapp.com/clan-badges/1279212128464797748/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">DUM | KALEIDOSCOPE 🌷♟ | [kaleidoscope](https://discord.gg/kaleidoscope) | 1279212128464797748 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370058355355291678/0c020b8d01f5c402538fcc13b9f0e295.png" width="24">DUMB | DUMB \| /diorr | [AS5xdKVH6H](https://discord.gg/AS5xdKVH6H) | 1370058355355291678 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369788391276806154/aa343bbc984cbfeb91663a7a72050b70.png" width="24">DUPA | Das nazwa | [RFwfEj52Ae](https://discord.gg/RFwfEj52Ae) | 1369788391276806154 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785731932885022/8745930ea9ff2ac7d7f4343c328ba49f.png" width="24">DVM | [DVM] | [pcubu5cgZJ](https://discord.gg/pcubu5cgZJ) | 1369785731932885022 |
@@ -1017,6 +1018,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369763488133812346/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">LOVE | #LOVE tag | [tbSVrJC3mu](https://discord.gg/tbSVrJC3mu) | 1369763488133812346 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369690280546144327/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">LOVE | THE LOVE ❤ GUILD | [YfKu3MqCdC](https://discord.gg/YfKu3MqCdC) | 1369690280546144327 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369624717073584178/b9492d24a617feb2cb116fc4fe87ebb5.png" width="24">LOVE | LOVE - /rupture | [MQuvp4X2t9](https://discord.gg/MQuvp4X2t9) | 1369624717073584178 |
+| <img src="https://cdn.discordapp.com/clan-badges/215470597520621569/9a483a3be2300cd6ebe71aafae07208d.png" width="24">LOVE | Lovely Friends | [europe](https://discord.gg/europe) | 215470597520621569 |
 | <img src="https://cdn.discordapp.com/clan-badges/1354840693587054765/78b1ebb6b97565376cb5345a0631e362.png" width="24">LSTR | Legend Stars | [lstars](https://discord.gg/lstars) | 1354840693587054765 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369567433840398387/7b571a46a1266491cfabe2e362aad176.png" width="24">LTC | [LTC] Server Tag - .gg/xxnx | [YBrGA26SYB](https://discord.gg/YBrGA26SYB) | 1369567433840398387 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698754017362042/45ecfcc3bd2e057afcc970ecb4a71f20.png" width="24">LTC | /litecoinz [LTC] | [litecoinz](https://discord.gg/litecoinz) | 1369698754017362042 |
@@ -1503,6 +1505,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369444094539206727/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">TOP | Top of the Top | [dmTzU6Xx5t](https://discord.gg/dmTzU6Xx5t) | 1369444094539206727 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369406187296264273/84412606536488d76915487613779361.png" width="24">TR | Marley | [wzbFHWbaQ8](https://discord.gg/wzbFHWbaQ8) | 1369406187296264273 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369631398536937512/c6ebe55b102f1cf8aec7cdd23d37ee41.png" width="24">TRIP | Trippy (Void) | [SDYw7XqFPa](https://discord.gg/SDYw7XqFPa) | 1369631398536937512 |
+| <img src="https://cdn.discordapp.com/clan-badges/966097546856509520/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">TS | Rogue Demon | [87nKwsZssY](https://discord.gg/87nKwsZssY) | 966097546856509520 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369697826468003963/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">TSB | TSB tag thing | [69KUhjEZxT](https://discord.gg/69KUhjEZxT) | 1369697826468003963 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369648714096050257/59c0f381f2399f5317d14ebcda909857.png" width="24">TSU | Tsu \| .gg/sunytag | [6AQ9r7mFC9](https://discord.gg/6AQ9r7mFC9) | 1369648714096050257 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724533254131923/0453d6f081e4f524e447f2158ddc9c63.png" width="24">TTV | TTV tag | [8MH7xeekDh](https://discord.gg/8MH7xeekDh) | 1369724533254131923 |

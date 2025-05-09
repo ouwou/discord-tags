@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369887815466352724/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">RAWR | sugar&#x27;s guild ♡  RAWR ... | [rawrtag](https://discord.gg/rawrtag) | 2025-05-09T18:56:59+00:00 | 1369887815466352724 |
+| <img src="https://cdn.discordapp.com/clan-badges/1287733119239065671/59efe4dd36faa2a69b4e7dae5ac2e77d.png" width="24">WEEB | Otaku CZ/SK • WEEB Tag | [otaku-cz-sk](https://discord.gg/otaku-cz-sk) | 2025-05-09T18:56:59+00:00 | 1287733119239065671 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637331514036235/4e9fe893c641d1c9447e4113e40503bf.png" width="24">NYA | Meow &lt;3 | [Z3wuGJYZCY](https://discord.gg/Z3wuGJYZCY) | 2025-05-09T18:52:56+00:00 | 1369637331514036235 |
 | <img src="https://cdn.discordapp.com/clan-badges/398627612299362304/94324655ddb54333425a6b55dbf20163.png" width="24">GD | Geometry Dash | [geometrydash](https://discord.gg/geometrydash) | 2025-05-09T18:52:56+00:00 | 398627612299362304 |
 | <img src="https://cdn.discordapp.com/clan-badges/315664691877642250/c43e4efcc8ad839ec1d793a1be52e2e5.png" width="24">BOOM | DaFuq!?Boom! | [dafuqboom](https://discord.gg/dafuqboom) | 2025-05-09T18:52:56+00:00 | 315664691877642250 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369387907194032240/d8028e3189542f9cd218c28373bc178a.png" width="24">ِِ | .gg/deadtag \| heart | [YPzwYkSUJZ](https://discord.gg/YPzwYkSUJZ) | 2025-05-09T18:52:56+00:00 | 1369387907194032240 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369428974928658504/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">ِِ | shaymin | [shaymin](https://discord.gg/shaymin) | 2025-05-09T18:52:56+00:00 | 1369428974928658504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369481291539681300/bc2f7685eed9d27522595f510bb2da48.png" width="24">឵ ឵ | ឵឵ ឵឵ | [4QTwRVRdPy](https://discord.gg/4QTwRVRdPy) | 2025-05-09T18:52:56+00:00 | 1369481291539681300 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369749400770973837/3ca9fe6ac5089304899e2dbfd4c4824d.png" width="24">࣪  ˖ | ／𝑐ℎ𝑒𝑟𝑖𝑒𝑠 | [3qEmxey4ya](https://discord.gg/3qEmxey4ya) | 2025-05-09T18:52:56+00:00 | 1369749400770973837 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369595893967491122/b6f6582eb0301ce069e00b2a99323975.png" width="24">۟۟ ⸸ | ⸸ .gg/gdsㆍ30+ guilds | [crmZSzjnmf](https://discord.gg/crmZSzjnmf) | 2025-05-09T18:52:56+00:00 | 1369595893967491122 |
 
 </details>
 
@@ -1254,6 +1254,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1076176780026716271/c4e45215d9697a2584d0ba7694106830.png" width="24">RAU | Sizon | [FDF2EnpAUz](https://discord.gg/FDF2EnpAUz) | 1076176780026716271 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369361732803235881/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">RAW | raw \| .gg/soserene | [bkNawWXP3R](https://discord.gg/bkNawWXP3R) | 1369361732803235881 |
 | <img src="https://cdn.discordapp.com/clan-badges/804032421678153819/6245505dfa39c9fd91f02cda71c56d07.png" width="24">RAWR | » Gamersland &amp; Friends « | [gamersland](https://discord.gg/gamersland) | 804032421678153819 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369887815466352724/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">RAWR | sugar&#x27;s guild ♡  RAWR ... | [rawrtag](https://discord.gg/rawrtag) | 1369887815466352724 |
 | <img src="https://cdn.discordapp.com/clan-badges/401594977051869186/fa3033cd0045a5cd34578fa4b9c69d8b.png" width="24">RAZE | .gg/raze | [raze](https://discord.gg/raze) | 401594977051869186 |
 | <img src="https://cdn.discordapp.com/clan-badges/1269652950192750624/58271fb362c4464a4ebead69a2ec0f72.png" width="24">RBLX | RBLX TAG \| #1 Roblox tradi... | [A8hX395wzX](https://discord.gg/A8hX395wzX) | 1269652950192750624 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369464766598484018/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">RBX | RBX | [rbxtag](https://discord.gg/rbxtag) | 1369464766598484018 |
@@ -1531,6 +1532,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369633469755424848/b144b97e91dda5ed4ad9ca5d0626528d.png" width="24">WEB | WEB Guild #Internet | [6XZ6h56uE8](https://discord.gg/6XZ6h56uE8) | 1369633469755424848 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370077691625209937/dc61eaed9e8b012148661df1ada874e6.png" width="24">WEB | Univers du Web #GUILD | [45R7rcYBdm](https://discord.gg/45R7rcYBdm) | 1370077691625209937 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369415904118702211/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">WEEB | .gg/wee6 Weebs™ | [wee6](https://discord.gg/wee6) | 1369415904118702211 |
+| <img src="https://cdn.discordapp.com/clan-badges/1287733119239065671/59efe4dd36faa2a69b4e7dae5ac2e77d.png" width="24">WEEB | Otaku CZ/SK • WEEB Tag | [otaku-cz-sk](https://discord.gg/otaku-cz-sk) | 1287733119239065671 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369310519579639858/6082c2553b03b47ccaea5203567df3cf.png" width="24">WEED | WEED \| .gg/guildplug | [6Afrh6K6v5](https://discord.gg/6Afrh6K6v5) | 1369310519579639858 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431413740273736/5f6f2cc9929205f32294729162cdeaff.png" width="24">WEED | Bud &amp; Beyond - FREE WEE... | [ZDFYuSBkmT](https://discord.gg/ZDFYuSBkmT) | 1369431413740273736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369655113551052872/c1e4439afa95753a4bab531e3c4c42d1.png" width="24">WEED | .gg/yea #WEED | [6c4XJvnaF8](https://discord.gg/6c4XJvnaF8) | 1369655113551052872 |

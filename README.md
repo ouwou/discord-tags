@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1264604073953329238/78f4434ffba9c1994553e77aceb9bc50.png" width="24">ﬁvem | fivem tägi \| .gg/fivemtag | [fivemtag](https://discord.gg/fivemtag) | 2025-05-09T20:03:15+00:00 | 1264604073953329238 |
+| <img src="https://cdn.discordapp.com/clan-badges/1297767604529791047/bf46722e416c7607a3362934bbc42b2d.png" width="24">WIZY | #Wizynianos | [wizy](https://discord.gg/wizy) | 2025-05-09T20:03:15+00:00 | 1297767604529791047 |
+| <img src="https://cdn.discordapp.com/clan-badges/1293596673691353189/6b142c61e49c44f889ab6c4ae71a4efd.png" width="24">初音ミク | Miku&#x27;s Café | [mikuscafe](https://discord.gg/mikuscafe) | 2025-05-09T20:03:15+00:00 | 1293596673691353189 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369786984737935390/6473797948e6d36a991e425c8b7c353c.png" width="24">ETB | Escape the Backrooms Tag | [q3AaqrQYzP](https://discord.gg/q3AaqrQYzP) | 2025-05-09T19:58:10+00:00 | 1369786984737935390 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369340205278040104/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">litc | /    ᥣιtc 𐂯ྀི | [zxhRxeC3Sy](https://discord.gg/zxhRxeC3Sy) | 2025-05-09T19:58:10+00:00 | 1369340205278040104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369855825694298202/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">lоli | Cute&amp;Funny | [RYAh4N4FuJ](https://discord.gg/RYAh4N4FuJ) | 2025-05-09T19:58:10+00:00 | 1369855825694298202 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/897153084478865438/7f968d34689b032120d7a0f2a3d69b83.png" width="24">EMH | Emergency Hamburg | [emh](https://discord.gg/emh) | 2025-05-09T18:52:56+00:00 | 897153084478865438 |
 | <img src="https://cdn.discordapp.com/clan-badges/234731357903781888/5607047f21b7e25a26c195cc49871278.png" width="24">PIKA | PikaNetwork | [pikanetwork](https://discord.gg/pikanetwork) | 2025-05-09T18:52:56+00:00 | 234731357903781888 |
 | <img src="https://cdn.discordapp.com/clan-badges/978545345715908668/5607047f21b7e25a26c195cc49871278.png" width="24">SNAP | MARVEL SNAP | [KzEzg273Az](https://discord.gg/KzEzg273Az) | 2025-05-09T18:52:56+00:00 | 978545345715908668 |
-| <img src="https://cdn.discordapp.com/clan-badges/302655971946135554/0dde9feca1e7ed7a89b27b1b5f9d3d87.png" width="24">NEKO | Gamer Source Pub☕ | [gamersource](https://discord.gg/gamersource) | 2025-05-09T18:52:56+00:00 | 302655971946135554 |
-| <img src="https://cdn.discordapp.com/clan-badges/1077258761443483708/0453d6f081e4f524e447f2158ddc9c63.png" width="24">LGBT | Pridecord | [lgbtqia](https://discord.gg/lgbtqia) | 2025-05-09T18:52:56+00:00 | 1077258761443483708 |
-| <img src="https://cdn.discordapp.com/clan-badges/1352066418744754318/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">RONⅨ | Ronix | [ronix](https://discord.gg/ronix) | 2025-05-09T18:52:56+00:00 | 1352066418744754318 |
 
 </details>
 
@@ -1568,6 +1568,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369758876596961402/18a6033b09a10acad931e517ffe3e3d1.png" width="24">WISH | wish \| .gg/doyoung | [minjae](https://discord.gg/minjae) | 1369758876596961402 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369389566125150299/9d60c8c4b22a70052a62c3b49b34fbc6.png" width="24">WIWI | Riwikii guild | [Snbs3CAu](https://discord.gg/Snbs3CAu) | 1369389566125150299 |
 | <img src="https://cdn.discordapp.com/clan-badges/1114269395317968906/021c460b51e2182eea5a4421927a929a.png" width="24">WIX | Wix Studio Community | [wixstudio](https://discord.gg/wixstudio) | 1114269395317968906 |
+| <img src="https://cdn.discordapp.com/clan-badges/1297767604529791047/bf46722e416c7607a3362934bbc42b2d.png" width="24">WIZY | #Wizynianos | [wizy](https://discord.gg/wizy) | 1297767604529791047 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369816311676407898/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">WOCK | WOCK TAG \| .gg/highs | [z4GmbFv9H9](https://discord.gg/z4GmbFv9H9) | 1369816311676407898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369551257752305665/c8d016eed5c8752316ca38fdd54380c6.png" width="24">WOLF | gg/b4EATQ3bC9 \| Wolf Tag | [b4EATQ3bC9](https://discord.gg/b4EATQ3bC9) | 1369551257752305665 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369396110468321380/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">WOMP | WOMP | [AFtqPNJ4kD](https://discord.gg/AFtqPNJ4kD) | 1369396110468321380 |
@@ -2447,6 +2448,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369506702608564335/8d61abb8b5da075befaff858861dba54.png" width="24">冰冻三尺 | 冰冻三尺 | [nwVNrUbdYG](https://discord.gg/nwVNrUbdYG) | 1369506702608564335 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369448827613876305/2d8bea68b3152b52858942d2bc854cc7.png" width="24">初星学園 | 初星学園タグサーバー | [J7CZxccw4n](https://discord.gg/J7CZxccw4n) | 1369448827613876305 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369167060462080081/d84985dab45c3cdcf569e45b89851750.png" width="24">初音ミク | 初音ミク \| Japanese Miku Tag | [usV54X3hUE](https://discord.gg/usV54X3hUE) | 1369167060462080081 |
+| <img src="https://cdn.discordapp.com/clan-badges/1293596673691353189/6b142c61e49c44f889ab6c4ae71a4efd.png" width="24">初音ミク | Miku&#x27;s Café | [mikuscafe](https://discord.gg/mikuscafe) | 1293596673691353189 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369597786852560907/b38488f8a9b34c890c310244228bfdf3.png" width="24">刻々帝 | 刻々帝 Tag \| 𝓩𝓪𝓯𝓴𝓲𝓮𝓵 | [s7vnDzmRW5](https://discord.gg/s7vnDzmRW5) | 1369597786852560907 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369718270109814898/878c62b6694a4f5931104f766191bec7.png" width="24">千恋万花 | YuzuSoft☆ | [RfnYw8cFYf](https://discord.gg/RfnYw8cFYf) | 1369718270109814898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369693961417003138/5a8c890fc5016998311ae4d9390c74e4.png" width="24">原神啟動 | 原神啟動 | [T9jUtT9jJ8](https://discord.gg/T9jUtT9jJ8) | 1369693961417003138 |
@@ -2607,6 +2609,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369525854941614133/b6f6582eb0301ce069e00b2a99323975.png" width="24">ﬁght | fight | [N2gEdCjnUE](https://discord.gg/N2gEdCjnUE) | 1369525854941614133 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369376752488677537/873d5b72afaf25f9540db843094560cc.png" width="24">ﬁgma | Figma Tag | [XdJpUAsgWv](https://discord.gg/XdJpUAsgWv) | 1369376752488677537 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369347143239733358/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">ﬁvem | Fivem Tag | [aEaJ78GZnX](https://discord.gg/aEaJ78GZnX) | 1369347143239733358 |
+| <img src="https://cdn.discordapp.com/clan-badges/1264604073953329238/78f4434ffba9c1994553e77aceb9bc50.png" width="24">ﬁvem | fivem tägi \| .gg/fivemtag | [fivemtag](https://discord.gg/fivemtag) | 1264604073953329238 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369579869385658388/a3157678d3f97d789e959f9c62499918.png" width="24">ﬂame | FLAME | [qbmFJqEebh](https://discord.gg/qbmFJqEebh) | 1369579869385658388 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369350606803828736/80e49bbcd08c608a6f49671e2d0828da.png" width="24">ﬂash | #flash | [TrYWsRGyGn](https://discord.gg/TrYWsRGyGn) | 1369350606803828736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369617595493515346/8d61abb8b5da075befaff858861dba54.png" width="24">ﬂirt | flirt - /rupture | [RhfemnEr5c](https://discord.gg/RhfemnEr5c) | 1369617595493515346 |

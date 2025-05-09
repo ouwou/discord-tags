@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/655121499820261407/500310efcb666c62d5bc28ed19e9c1d1.png" width="24">ATG | MTA:SA Ankaram Tofas Gaming... | [ATG](https://discord.gg/ATG) | 2025-05-09T23:56:02+00:00 | 655121499820261407 |
+| <img src="https://cdn.discordapp.com/clan-badges/1092435632124604566/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BABY | School - An OwO Hub \| .gg/... | [school-an-owo-hub-gg-owohub-1092435632124604566](https://discord.gg/school-an-owo-hub-gg-owohub-1092435632124604566) | 2025-05-09T23:56:02+00:00 | 1092435632124604566 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369283973892542584/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">한국인 | [한국인] | [69kuc2TyEm](https://discord.gg/69kuc2TyEm) | 2025-05-09T23:56:02+00:00 | 1369283973892542584 |
 | <img src="https://cdn.discordapp.com/clan-badges/1136363057740779573/8d61abb8b5da075befaff858861dba54.png" width="24">𑁯ᰍ | fontaine ⛲  genshin impact ... | [furina](https://discord.gg/furina) | 2025-05-09T23:50:59+00:00 | 1136363057740779573 |
 | <img src="https://cdn.discordapp.com/clan-badges/752404225379795045/89339f01c078bf79aaf91a86d2741956.png" width="24">GOTH | Hailey’s Hangout | [HSEQgtcNPY](https://discord.gg/HSEQgtcNPY) | 2025-05-09T23:50:59+00:00 | 752404225379795045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369625869844484196/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MC | Miltrix | [KdTBfgszNd](https://discord.gg/KdTBfgszNd) | 2025-05-09T23:50:59+00:00 | 1369625869844484196 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1255858644965396550/41ac480df4be92cbcbfb08eb88abd302.png" width="24">SNOW | Snoway Bots 🪐 | [PUcFu345fs](https://discord.gg/PUcFu345fs) | 2025-05-09T22:09:47+00:00 | 1255858644965396550 |
 | <img src="https://cdn.discordapp.com/clan-badges/265565751010787328/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">ヘタリア | ᵀᴴᴱ Hetalia Region | [Hetalia](https://discord.gg/Hetalia) | 2025-05-09T22:09:47+00:00 | 265565751010787328 |
 | <img src="https://cdn.discordapp.com/clan-badges/215470597520621569/9a483a3be2300cd6ebe71aafae07208d.png" width="24">LOVE | Lovely Friends | [europe](https://discord.gg/europe) | 2025-05-09T22:04:44+00:00 | 215470597520621569 |
-| <img src="https://cdn.discordapp.com/clan-badges/966097546856509520/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">TS | Rogue Demon | [87nKwsZssY](https://discord.gg/87nKwsZssY) | 2025-05-09T22:04:44+00:00 | 966097546856509520 |
-| <img src="https://cdn.discordapp.com/clan-badges/1353523369450016831/b0036e060a7976dec28e5c8543ff6fff.png" width="24">+x+ | +x+ | [yeonbin](https://discord.gg/yeonbin) | 2025-05-09T21:59:40+00:00 | 1353523369450016831 |
-| <img src="https://cdn.discordapp.com/clan-badges/1368359928112091196/b6f6582eb0301ce069e00b2a99323975.png" width="24">777 | Dead Rails Services | [kRttr9563F](https://discord.gg/kRttr9563F) | 2025-05-09T21:59:40+00:00 | 1368359928112091196 |
 
 </details>
 
@@ -405,6 +405,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369766133456179371/f014231839285ba5158fda66073994b2.png" width="24">ARX | TUF Game | [ecR3NsTzbK](https://discord.gg/ecR3NsTzbK) | 1369766133456179371 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369297906905124914/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">ASIA | Asia | [hxBad2n6X6](https://discord.gg/hxBad2n6X6) | 1369297906905124914 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369712433232609420/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">ASS | #ASS | [aKtDdEvRUS](https://discord.gg/aKtDdEvRUS) | 1369712433232609420 |
+| <img src="https://cdn.discordapp.com/clan-badges/655121499820261407/500310efcb666c62d5bc28ed19e9c1d1.png" width="24">ATG | MTA:SA Ankaram Tofas Gaming... | [ATG](https://discord.gg/ATG) | 655121499820261407 |
 | <img src="https://cdn.discordapp.com/clan-badges/1172245377395728464/73d86ffb81cdcdc4f275eaf3b82fca31.png" width="24">ATL | All Things Linux | [linux](https://discord.gg/linux) | 1172245377395728464 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369737121820049458/450ab1d002f8aebff7595975dcaa70dc.png" width="24">ATZ | ateez guild 𓍯𓂃 #rt400 | [atz](https://discord.gg/atz) | 1369737121820049458 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615863099166744/dea97e909a0211e2479d75cd11c2ec41.png" width="24">AUDI | AUDI | [u4fHP9sTf7](https://discord.gg/u4fHP9sTf7) | 1369615863099166744 |
@@ -443,6 +444,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369504281404641421/40a7aa796426347d6b76d20dfed2c273.png" width="24">B00B | BOOB \| .gg/diddy | [eQrwCsP9YJ](https://discord.gg/eQrwCsP9YJ) | 1369504281404641421 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369669996590137424/be21ffb68728e604cdd4a314880cd1a1.png" width="24">B0T | TAG: BOT | [seutQEhTJG](https://discord.gg/seutQEhTJG) | 1369669996590137424 |
 | <img src="https://cdn.discordapp.com/clan-badges/1366434354879791124/a6d8d6b7e1c4edcc5457063114370150.png" width="24">B7 | B7 | [BFP83BJzDr](https://discord.gg/BFP83BJzDr) | 1366434354879791124 |
+| <img src="https://cdn.discordapp.com/clan-badges/1092435632124604566/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BABY | School - An OwO Hub \| .gg/... | [school-an-owo-hub-gg-owohub-1092435632124604566](https://discord.gg/school-an-owo-hub-gg-owohub-1092435632124604566) | 1092435632124604566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369132057900482630/ee45c6c5f06ed9df8b935460a685f17b.png" width="24">BAKA | (BAKA TAG) Miku&#x27;s baka... | [ysKzqhfYtz](https://discord.gg/ysKzqhfYtz) | 1369132057900482630 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614411614126110/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BAKA | BAKA Café | [bakacafe](https://discord.gg/bakacafe) | 1369614411614126110 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369599310966034452/71ad19a2603191a0dc56568625dabb50.png" width="24">BAKI | /e9guild [BAKI] | [e9guild](https://discord.gg/e9guild) | 1369599310966034452 |
@@ -2755,6 +2757,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369713838970376273/878c62b6694a4f5931104f766191bec7.png" width="24">프나 | 프로미스나인 태그 서버 | [YmjbMHNXAn](https://discord.gg/YmjbMHNXAn) | 1369713838970376273 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369302621583577148/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">플로버 | fromis9 | [8cFUtPJNYc](https://discord.gg/8cFUtPJNYc) | 1369302621583577148 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369649330272604262/a469e5aea8c6160880da38d8943c7a15.png" width="24">하니 | NewJeans - 하니 | [haHumacpSJ](https://discord.gg/haHumacpSJ) | 1369649330272604262 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369283973892542584/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">한국인 | [한국인] | [69kuc2TyEm](https://discord.gg/69kuc2TyEm) | 1369283973892542584 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369247398974722158/60822eb8c504c45cee27680dbccf599b.png" width="24">한국전력 | Free Server Korea TAG &#x27... | [nkd3BpHj6W](https://discord.gg/nkd3BpHj6W) | 1369247398974722158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369688202025369710/dea4f5f8e9aaa736c9b599506226508e.png" width="24">헤으응 | .gg/subcommunity 헤으응 | [2yqkP9H5We](https://discord.gg/2yqkP9H5We) | 1369688202025369710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369479381965078528/f41a12010ec3a7623a8ed9dea2c888e3.png" width="24">현아 | @ [hyuna] all in | [g5crkh3ecC](https://discord.gg/g5crkh3ecC) | 1369479381965078528 |

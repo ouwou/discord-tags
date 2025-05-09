@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369774190554779699/5a5af21cdfdc8862774cf941881622fe.png" width="24">丂ㄥㄩㄒ | /greed | [greed](https://discord.gg/greed) | 2025-05-09T05:46:44+00:00 | 1369774190554779699 |
 | <img src="https://cdn.discordapp.com/clan-badges/1214885469029011457/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">GEAR | Sixth Gears Shop | [sixthgears](https://discord.gg/sixthgears) | 2025-05-09T04:00:48+00:00 | 1214885469029011457 |
 | <img src="https://cdn.discordapp.com/clan-badges/713877918291591198/176416ced6db0ec5ff8014ce2be3297f.png" width="24">SWIM | 🌊Swim Cord🌊 | [swim](https://discord.gg/swim) | 2025-05-09T03:35:33+00:00 | 713877918291591198 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742313605169193/0075a20a607c71fc3aa9b2f91d6b1464.png" width="24">CV | cv | [5Me9Tejsh7](https://discord.gg/5Me9Tejsh7) | 2025-05-09T03:15:21+00:00 | 1369742313605169193 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1290787942687707157/dc61eaed9e8b012148661df1ada874e6.png" width="24">Chë | che the artist | [pBpsXkX7PK](https://discord.gg/pBpsXkX7PK) | 2025-05-08T21:46:36+00:00 | 1290787942687707157 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745642284646400/a1a8d7066521a13ede4b94de530e98b5.png" width="24">BMW | Bmw Tag | [Pw3sFNrucg](https://discord.gg/Pw3sFNrucg) | 2025-05-08T21:46:35+00:00 | 1369745642284646400 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369694712323113045/2c7aa014ee3599b6b7089ce933971852.png" width="24">DIOR | DIOR \| /diorr | [diorr](https://discord.gg/diorr) | 2025-05-08T21:46:35+00:00 | 1369694712323113045 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369612520603779205/6808f08dfbe6de40af5bd17b9e21655d.png" width="24">boo! | Boo! 😨 | [4FJtDNtBpM](https://discord.gg/4FJtDNtBpM) | 2025-05-08T21:46:35+00:00 | 1369612520603779205 |
 
 </details>
 
@@ -1665,12 +1665,12 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369509893454823575/c8d016eed5c8752316ca38fdd54380c6.png" width="24">۟ ۟ | 1997 - Private | [BqJYUSKqJ6](https://discord.gg/BqJYUSKqJ6) | 1369509893454823575 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369506705171550290/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">۟۟ | adriancord | [adrian](https://discord.gg/adrian) | 1369506705171550290 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369416305639293068/72d539e25469d8154143b9cc32021ce8.png" width="24">۟۟ | invis \| .gg/fg | [6UnfVdzXkD](https://discord.gg/6UnfVdzXkD) | 1369416305639293068 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369432944724148234/08778bfc800e50707543540f0c167607.png" width="24">۟۟ | Tag Hub | [taghub](https://discord.gg/taghub) | 1369432944724148234 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753930459775100/2c7aa014ee3599b6b7089ce933971852.png" width="24">۟۟ | ۟۟ \| .gg/slave | [from](https://discord.gg/from) | 1369753930459775100 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716684537073674/8388948b433aa0fa792a29b1f286df5c.png" width="24">۟۟ | # ۟۟ \| .gg/slave | [follow](https://discord.gg/follow) | 1369716684537073674 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369355452391100446/2ccd441c92f65887a34f178814bb8b0e.png" width="24">۟۟ | amore | [kirakuni](https://discord.gg/kirakuni) | 1369355452391100446 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369424361940844746/86735389348f3eacfa519eb553df38fd.png" width="24">۟۟ | Tundara | [2DkVgKmafM](https://discord.gg/2DkVgKmafM) | 1369424361940844746 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369489613881737317/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">۟۟ | ‹𝟹 | [sq3UEvk4By](https://discord.gg/sq3UEvk4By) | 1369489613881737317 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369432944724148234/08778bfc800e50707543540f0c167607.png" width="24">۟۟ | Tag Hub | [taghub](https://discord.gg/taghub) | 1369432944724148234 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742337718358217/1897636167e0b09146fb12ce58e63294.png" width="24">۟۟ | ! Free guild tags method ^^ | [mDwxzbGXF8](https://discord.gg/mDwxzbGXF8) | 1369742337718358217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370013177039028285/2c7aa014ee3599b6b7089ce933971852.png" width="24">۟۟ | /snore guild | [QSPdFVMSwc](https://discord.gg/QSPdFVMSwc) | 1370013177039028285 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369649692027260979/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">۟۟ | 20+ guilds | [GXKVwdFF79](https://discord.gg/GXKVwdFF79) | 1369649692027260979 |
@@ -1807,6 +1807,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369319894197338112/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ロリコン | ロリコンファンズ | [gRMubAw5](https://discord.gg/gRMubAw5) | 1369319894197338112 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740762786435173/dea97e909a0211e2479d75cd11c2ec41.png" width="24">ㄌㄞ清德 | India | [VTEjeYaUsS](https://discord.gg/VTEjeYaUsS) | 1369740762786435173 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369648839052627968/f981e145864c03c2caa7554d35368e32.png" width="24">㏐fao | Tag｜No Channel | [CNTecbQgd9](https://discord.gg/CNTecbQgd9) | 1369648839052627968 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369774190554779699/5a5af21cdfdc8862774cf941881622fe.png" width="24">丂ㄥㄩㄒ | /greed | [greed](https://discord.gg/greed) | 1369774190554779699 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369406129016406096/a0119ad3f5530c45fa79bc1dba510caf.png" width="24">万葉 | ᨓ 。╱𝙠𝙖𝙯𝙪𝙝𝙖 【万葉】︵ !!? | [9zRsPsw5Zz](https://discord.gg/9zRsPsw5Zz) | 1369406129016406096 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686600140984392/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">不是哥們 | 『不是哥們』DGS弦樂式 | [m8chpB4BsH](https://discord.gg/m8chpB4BsH) | 1369686600140984392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369644891273171065/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">中華製品 | チャイナタウン | [3hBfj3ETP6](https://discord.gg/3hBfj3ETP6) | 1369644891273171065 |

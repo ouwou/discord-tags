@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1088514203603710093/b6f6582eb0301ce069e00b2a99323975.png" width="24">。중독 | hyuk 　　[guild wip] | [KhFfmDUCMs](https://discord.gg/KhFfmDUCMs) | 2025-05-09T21:09:06+00:00 | 1088514203603710093 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369361280527499294/86735389348f3eacfa519eb553df38fd.png" width="24">69 | Esuck 🪞#Chill | [FYEteVkvva](https://discord.gg/FYEteVkvva) | 2025-05-09T21:09:06+00:00 | 1369361280527499294 |
 | <img src="https://cdn.discordapp.com/clan-badges/1299399491664744579/6473797948e6d36a991e425c8b7c353c.png" width="24">נודר | Israeli Friends | [Sj6kJAuAae](https://discord.gg/Sj6kJAuAae) | 2025-05-09T21:04:03+00:00 | 1299399491664744579 |
 | <img src="https://cdn.discordapp.com/clan-badges/866541511344652288/48d2557a1faf9a790dde3ad334e56efb.png" width="24">你媽死了 | Jiafei Taiwan Group(JF) | [PmUYtPW4CM](https://discord.gg/PmUYtPW4CM) | 2025-05-09T21:04:03+00:00 | 866541511344652288 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369492251507687445/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">౨ৎ | Lipcut - ౨ৎ | [WHdb2YMXfd](https://discord.gg/WHdb2YMXfd) | 2025-05-09T20:58:59+00:00 | 1369492251507687445 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1368583658289496205/e789c9c896e3c083ccc932f49188315b.png" width="24">ルム | Sora&#x27;s Art and Commiss... | [Cb7weQnKCU](https://discord.gg/Cb7weQnKCU) | 2025-05-09T19:27:40+00:00 | 1368583658289496205 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614411614126110/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BAKA | BAKA Café | [bakacafe](https://discord.gg/bakacafe) | 2025-05-09T19:12:33+00:00 | 1369614411614126110 |
 | <img src="https://cdn.discordapp.com/clan-badges/1023135512657145916/d4292779a984904b53f78802a443308c.png" width="24">dcmm | Một lũ không kỹ năng | [NtSbTp6nzD](https://discord.gg/NtSbTp6nzD) | 2025-05-09T19:12:33+00:00 | 1023135512657145916 |
-| <img src="https://cdn.discordapp.com/clan-badges/997372719555412008/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">༺ꨄ༻ | Succubus Café ☕ | [succubusbot](https://discord.gg/succubusbot) | 2025-05-09T19:07:29+00:00 | 997372719555412008 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369746511922991134/2287edeecb80d2aa49b09797e60be8b8.png" width="24">LAMA | [LAMA] LLama | [dFHah8bG38](https://discord.gg/dFHah8bG38) | 2025-05-09T19:07:29+00:00 | 1369746511922991134 |
 
 </details>
 
@@ -231,6 +231,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369780298279026828/d0b4a03d1ab77651bc3a80de29f4584a.png" width="24">667 | 667 - /92ii | [wGZFBA6vJu](https://discord.gg/wGZFBA6vJu) | 1369780298279026828 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369659025586917597/0625caabbdb25cb8406ebdd64b90a445.png" width="24">667 | #667 /tag667 | [4NuB4UTMS6](https://discord.gg/4NuB4UTMS6) | 1369659025586917597 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369280412353826846/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">69 | ౨ৎ #69 | [G2DYJV9Yuz](https://discord.gg/G2DYJV9Yuz) | 1369280412353826846 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369361280527499294/86735389348f3eacfa519eb553df38fd.png" width="24">69 | Esuck 🪞#Chill | [FYEteVkvva](https://discord.gg/FYEteVkvva) | 1369361280527499294 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369438551061692447/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">69 | 69 | [TZtHWd5pkU](https://discord.gg/TZtHWd5pkU) | 1369438551061692447 |
 | <img src="https://cdn.discordapp.com/clan-badges/922254152661348462/3044042c8a25814bfe394ca8649408d0.png" width="24">69 | FraGz ™ | [56](https://discord.gg/56) | 922254152661348462 |
 | <img src="https://cdn.discordapp.com/clan-badges/834118577300439061/28c83ffd4a4172c1c0d6965e1f030698.png" width="24">69 | 69 /sixnine tag 🩷 | [sixnine](https://discord.gg/sixnine) | 834118577300439061 |
@@ -2431,6 +2432,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369785210949861416/22f8c38a62b66123c4242d0cbdd46282.png" width="24">⸻⸻⸻⸻ | ⸻⸻⸻⸻ /pxguild | [HfZZemT8ag](https://discord.gg/HfZZemT8ag) | 1369785210949861416 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369630021697667122/d8906ff0e873e2ab7fcd788a27453e68.png" width="24">、太陽 | ྀ   ꒰ 　casita de ayon　੭ | [tXPHpEy4Mb](https://discord.gg/tXPHpEy4Mb) | 1369630021697667122 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369437828970315827/98a49d289f836d89ce1c2f33407e2ab5.png" width="24">。可爱 | /glamcore&#x27;s guild 可爱 ⟡ | [MjPQZP5kju](https://discord.gg/MjPQZP5kju) | 1369437828970315827 |
+| <img src="https://cdn.discordapp.com/clan-badges/1088514203603710093/b6f6582eb0301ce069e00b2a99323975.png" width="24">。중독 | hyuk 　　[guild wip] | [KhFfmDUCMs](https://discord.gg/KhFfmDUCMs) | 1088514203603710093 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724420763160596/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">【輝煌】 | 入群領取【輝煌】大禮包 | [4tdDB6nvcJ](https://discord.gg/4tdDB6nvcJ) | 1369724420763160596 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370055129947967658/b6f6582eb0301ce069e00b2a99323975.png" width="24">うわー | /headlines | [pfMNn9SG2s](https://discord.gg/pfMNn9SG2s) | 1370055129947967658 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369638792025341982/b6f6582eb0301ce069e00b2a99323975.png" width="24">ぇす | ぇす - /rupture | [nMxbXdD4tz](https://discord.gg/nMxbXdD4tz) | 1369638792025341982 |

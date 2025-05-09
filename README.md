@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/836674009260621884/aef7738ba114e121d617c8c20bf7f1d6.png" width="24">VAPE | ! VAPE | [vUajEJ8Npq](https://discord.gg/vUajEJ8Npq) | 2025-05-09T22:35:08+00:00 | 836674009260621884 |
 | <img src="https://cdn.discordapp.com/clan-badges/1295713501679190016/c58c5a1e1673b2bdf038763fb75ff8ac.png" width="24">₊🫧ɞ | 🌈  ttzewo﹕emotes hub ♪ ( ˶ᵔ... | [JQDpkzbN6g](https://discord.gg/JQDpkzbN6g) | 2025-05-09T22:30:05+00:00 | 1295713501679190016 |
 | <img src="https://cdn.discordapp.com/clan-badges/1340406835269603459/9de9c07e4db72a341608a1c62fd365e8.png" width="24">ELY | Elysia Lounge | [cBuGU772ej](https://discord.gg/cBuGU772ej) | 2025-05-09T22:30:05+00:00 | 1340406835269603459 |
 | <img src="https://cdn.discordapp.com/clan-badges/1137086559947079692/59708af3bb539ad9781f0607758e8148.png" width="24">FS | Fusion RPG [PC/Android] | [fusionrpg](https://discord.gg/fusionrpg) | 2025-05-09T22:30:05+00:00 | 1137086559947079692 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369648783104933938/333358ec7f01435a2155e0d00ad228b9.png" width="24">みな | みな /luxe | [LUXE](https://discord.gg/LUXE) | 2025-05-09T20:28:39+00:00 | 1369648783104933938 |
 | <img src="https://cdn.discordapp.com/clan-badges/1259650542670450688/86735389348f3eacfa519eb553df38fd.png" width="24">EGO | 𝙀𝙂𝙊 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙚, | [yKbM3cerDE](https://discord.gg/yKbM3cerDE) | 2025-05-09T20:23:36+00:00 | 1259650542670450688 |
 | <img src="https://cdn.discordapp.com/clan-badges/1234059646390767717/8dd7a7c4193e67b3e59ded9a6acac90c.png" width="24">KATS | ̣̣ 　katseye (kats) \\\\ #RO... | [t4d7EXyDpk](https://discord.gg/t4d7EXyDpk) | 2025-05-09T20:23:36+00:00 | 1234059646390767717 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369741151372050474/b49714b1c2ecfb94b42ab1971a906901.png" width="24">악운 | yununi&#x27;s hangout | [J5NJykAQbg](https://discord.gg/J5NJykAQbg) | 2025-05-09T20:23:36+00:00 | 1369741151372050474 |
 
 </details>
 
@@ -1567,6 +1567,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369915950408667207/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">VAMP | VAMP /pxguild | [VYxFW8kUQf](https://discord.gg/VYxFW8kUQf) | 1369915950408667207 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370036051099389976/dea97e909a0211e2479d75cd11c2ec41.png" width="24">VAMP | /yell #vamp | [FM37BPCraX](https://discord.gg/FM37BPCraX) | 1370036051099389976 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370060945170239629/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">VAMP | Vamp \| /diorr | [CjHDtXSmTn](https://discord.gg/CjHDtXSmTn) | 1370060945170239629 |
+| <img src="https://cdn.discordapp.com/clan-badges/836674009260621884/aef7738ba114e121d617c8c20bf7f1d6.png" width="24">VAPE | ! VAPE | [vUajEJ8Npq](https://discord.gg/vUajEJ8Npq) | 836674009260621884 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370044205518295142/1897636167e0b09146fb12ce58e63294.png" width="24">VBV | @/Bagheraa #tag | [yj7VBsPqtT](https://discord.gg/yj7VBsPqtT) | 1370044205518295142 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726755689988126/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">VDL | Vale da Lua TAG | [hSzYhCW7Ex](https://discord.gg/hSzYhCW7Ex) | 1369726755689988126 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369729813853765795/dc61eaed9e8b012148661df1ada874e6.png" width="24">VEIL | amon | [amon](https://discord.gg/amon) | 1369729813853765795 |

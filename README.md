@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369756572334424175/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">ＪＥＦＥ | 𝐉 𝐄 𝐅 𝐄 │GUILD | [NQxn7fFK](https://discord.gg/NQxn7fFK) | 2025-05-09T00:38:45+00:00 | 1369756572334424175 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369938856375353344/86735389348f3eacfa519eb553df38fd.png" width="24">HYPE | Tag: HYPE [RU/ENG] | [6X59Z5xJmn](https://discord.gg/6X59Z5xJmn) | 2025-05-08T23:48:15+00:00 | 1369938856375353344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369852589377589298/21129b437afdc5d4c56b399d9d86e25d.png" width="24">KOT | KOTARU | [gW2GXyveQ2](https://discord.gg/gW2GXyveQ2) | 2025-05-08T22:52:43+00:00 | 1369852589377589298 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370012484622094428/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">ᠵデ气亠 | ᠵデ气亠 | [tagak47](https://discord.gg/tagak47) | 2025-05-08T21:57:06+00:00 | 1370012484622094428 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369741082534875216/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">឵឵ | ឵឵ | [3rNBUTdQHp](https://discord.gg/3rNBUTdQHp) | 2025-05-08T21:41:30+00:00 | 1369741082534875216 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369519337324675183/310d9b669d687de773b5f3b5310ca1f3.png" width="24">RE:0 | Return by Death! [RE:0 TAG] | [ycJFzcuWpa](https://discord.gg/ycJFzcuWpa) | 2025-05-08T21:41:29+00:00 | 1369519337324675183 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369845158715195412/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">EMI | Emilia&#x27;s Palace (EMI tag) | [nWycmnSzJW](https://discord.gg/nWycmnSzJW) | 2025-05-08T21:41:29+00:00 | 1369845158715195412 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369755583749685248/8d61abb8b5da075befaff858861dba54.png" width="24">Rem | Rem Shrine [Rem TAG] | [b8YQkahK9W](https://discord.gg/b8YQkahK9W) | 2025-05-08T21:41:29+00:00 | 1369755583749685248 |
 
 </details>
 
@@ -1958,6 +1958,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369381097602940989/de28f32a5dfa0c12118af6620abfcdd9.png" width="24">ＥＳＡＮ | ESAN North Eastern 🇹🇭 | [s37WhGYwKs](https://discord.gg/s37WhGYwKs) | 1369381097602940989 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369752662794305686/c492ab47a9e7a69f5be839df265afa55.png" width="24">ＦＬＥＸ | [ＦＬＥＸ] | [pQFmKg8Gaq](https://discord.gg/pQFmKg8Gaq) | 1369752662794305686 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740951018536980/7dff089fbee252a67e72a08ae58a0376.png" width="24">ＧＯＤ | ＧＯＤ | [E3Ygn49y8j](https://discord.gg/E3Ygn49y8j) | 1369740951018536980 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369756572334424175/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">ＪＥＦＥ | 𝐉 𝐄 𝐅 𝐄 │GUILD | [NQxn7fFK](https://discord.gg/NQxn7fFK) | 1369756572334424175 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369460749155700846/bd3ce776d1e176597804fbfd8e49092f.png" width="24">ＫＩＮＧ | ＫＩＮＧ | [4nCGRK249p](https://discord.gg/4nCGRK249p) | 1369460749155700846 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369564438650159104/b58d1de64e434b7cfa4a24af7bf4bb0c.png" width="24">ＭｙＧＯ | MyGO!!!!! .gg/ukRqq54KxS | [3znvNKuG](https://discord.gg/3znvNKuG) | 1369564438650159104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719612790411294/716a0e93a0addc9cf0fdbe29a30262f7.png" width="24">Ｎ！ＧＡ | Ｎ！ＧＡ | [HpazGfdHvY](https://discord.gg/HpazGfdHvY) | 1369719612790411294 |

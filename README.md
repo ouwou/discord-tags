@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1214885469029011457/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">GEAR | Sixth Gears Shop | [sixthgears](https://discord.gg/sixthgears) | 2025-05-09T04:00:48+00:00 | 1214885469029011457 |
 | <img src="https://cdn.discordapp.com/clan-badges/713877918291591198/176416ced6db0ec5ff8014ce2be3297f.png" width="24">SWIM | 🌊Swim Cord🌊 | [swim](https://discord.gg/swim) | 2025-05-09T03:35:33+00:00 | 713877918291591198 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742313605169193/0075a20a607c71fc3aa9b2f91d6b1464.png" width="24">CV | cv | [5Me9Tejsh7](https://discord.gg/5Me9Tejsh7) | 2025-05-09T03:15:21+00:00 | 1369742313605169193 |
 | <img src="https://cdn.discordapp.com/clan-badges/315664691877642250/c43e4efcc8ad839ec1d793a1be52e2e5.png" width="24">BOOM | DaFuq!?Boom! | [dafuqboom](https://discord.gg/dafuqboom) | 2025-05-09T02:50:06+00:00 | 315664691877642250 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369745642284646400/a1a8d7066521a13ede4b94de530e98b5.png" width="24">BMW | Bmw Tag | [Pw3sFNrucg](https://discord.gg/Pw3sFNrucg) | 2025-05-08T21:46:35+00:00 | 1369745642284646400 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369694712323113045/2c7aa014ee3599b6b7089ce933971852.png" width="24">DIOR | DIOR \| /diorr | [diorr](https://discord.gg/diorr) | 2025-05-08T21:46:35+00:00 | 1369694712323113045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369612520603779205/6808f08dfbe6de40af5bd17b9e21655d.png" width="24">boo! | Boo! 😨 | [4FJtDNtBpM](https://discord.gg/4FJtDNtBpM) | 2025-05-08T21:46:35+00:00 | 1369612520603779205 |
-| <img src="https://cdn.discordapp.com/clan-badges/301993130159374356/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BEL | 💖• Belle Delphine Community [Official] | [belle-delphine-community-official-301993130159374356](https://discord.gg/belle-delphine-community-official-301993130159374356) | 2025-05-08T21:46:34+00:00 | 301993130159374356 |
 
 </details>
 
@@ -582,6 +582,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1175853758509490176/0ef69b328501e83b3a1f8d96ba393932.png" width="24">GD | Daily Dose Of Geometry Dash | [ddogd](https://discord.gg/ddogd) | 1175853758509490176 |
 | <img src="https://cdn.discordapp.com/clan-badges/643089441463992340/f7c7cf187431d14eee43d8b3e67bd966.png" width="24">GDC | Geometry Dash Creators | [gdcreators](https://discord.gg/gdcreators) | 643089441463992340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750643996098662/86735389348f3eacfa519eb553df38fd.png" width="24">GDN | Gare Du Nord | [3KyAY4T69s](https://discord.gg/3KyAY4T69s) | 1369750643996098662 |
+| <img src="https://cdn.discordapp.com/clan-badges/1214885469029011457/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">GEAR | Sixth Gears Shop | [sixthgears](https://discord.gg/sixthgears) | 1214885469029011457 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369247472492351508/5f0404ec39b6724bf523b9ece78ccbd6.png" width="24">GEEK | Geek | [EMP969qgXF](https://discord.gg/EMP969qgXF) | 1369247472492351508 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369762959127216158/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">GENZ | Discord Guild Bangladesh | [YTXBmRQ3by](https://discord.gg/YTXBmRQ3by) | 1369762959127216158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341012593479842/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">GER | Wasted | [5eBE6Wpsb5](https://discord.gg/5eBE6Wpsb5) | 1369341012593479842 |
@@ -743,7 +744,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369119047735709787/4effbd242da8d5f5b2b3736d6d61d368.png" width="24">Kuma | server | [CZcX8JwJM2](https://discord.gg/CZcX8JwJM2) | 1369119047735709787 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369743667295948811/b6f6582eb0301ce069e00b2a99323975.png" width="24">L0ST | L0ST #Tag | [hpEz5pvMnY](https://discord.gg/hpEz5pvMnY) | 1369743667295948811 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369215348674396191/bc7649dc263014d3d8821d5e1e299de4.png" width="24">L33T | /l33t | [fgr6DGGA](https://discord.gg/fgr6DGGA) | 1369215348674396191 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369446861357977692/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">L33T | L33T | [x59dkWpZuJ](https://discord.gg/x59dkWpZuJ) | 1369446861357977692 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369502961520087161/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">L9 | xD | [HEM7ppv8Zb](https://discord.gg/HEM7ppv8Zb) | 1369502961520087161 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369305106276679792/9913006ba65beb13aa78d540c42522b1.png" width="24">LAB | Elixir Lab Tag | [8NgHXDSR8b](https://discord.gg/8NgHXDSR8b) | 1369305106276679792 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369737999947923567/21129b437afdc5d4c56b399d9d86e25d.png" width="24">LAIN | Serial Experiments Lain (LAIN) Tag | [38y5uUSjrq](https://discord.gg/38y5uUSjrq) | 1369737999947923567 |
@@ -1289,6 +1289,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369478244184625192/3ee3eb0bc32791f0f10592efc1cb554c.png" width="24">bun | 𓂅 　buns | [KuCeddDmPa](https://discord.gg/KuCeddDmPa) | 1369478244184625192 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369751578294353920/53e8bf7b21f811968c37a5b1a3e5245d.png" width="24">buni | bunny | [b4E5Kzgvbx](https://discord.gg/b4E5Kzgvbx) | 1369751578294353920 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369683772970111086/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">bယbs | #Boobs .gg/packer | [ndegQDphPx](https://discord.gg/ndegQDphPx) | 1369683772970111086 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369446861357977692/9c2065599a68052362c0fa5265b7efdd.png" width="24">caca | CACA \| .gg/caca | [caca](https://discord.gg/caca) | 1369446861357977692 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369735573320765460/84412606536488d76915487613779361.png" width="24">cars | CARS 🏎 | [Bn6Uk98Ayt](https://discord.gg/Bn6Uk98Ayt) | 1369735573320765460 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369417824241455255/baa4ef94c209be4f8ec5ebadf27bfd96.png" width="24">chan | CHAN TAG • CHAT • SOCIAL | [chans](https://discord.gg/chans) | 1369417824241455255 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369539700049707038/08388dd9d1895cda2b6791aefdcd3eea.png" width="24">chic | すみっこらいふ #chic Tag | [dq7MUQVeN9](https://discord.gg/dq7MUQVeN9) | 1369539700049707038 |

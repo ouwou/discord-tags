@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369744966909169765/c8d016eed5c8752316ca38fdd54380c6.png" width="24">FBI | sad... [FBI] @wiki | [8Whh2dNpGX](https://discord.gg/8Whh2dNpGX) | 2025-05-10T02:52:34+00:00 | 1369744966909169765 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369239682415722547/66e6116fb71622d52bed149a17914270.png" width="24">men | guild /larptag | [QGVC4RVrwK](https://discord.gg/QGVC4RVrwK) | 2025-05-10T02:52:34+00:00 | 1369239682415722547 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370098561580273674/fa3033cd0045a5cd34578fa4b9c69d8b.png" width="24">𝒩𝒮 | Targaryen Gulid .gg/NQ | [NQ](https://discord.gg/NQ) | 2025-05-10T02:52:34+00:00 | 1370098561580273674 |
 | <img src="https://cdn.discordapp.com/clan-badges/1211525432181002270/40a7aa796426347d6b76d20dfed2c273.png" width="24">MEOW | MeowBox | [gdMQtkD5sr](https://discord.gg/gdMQtkD5sr) | 2025-05-10T02:42:28+00:00 | 1211525432181002270 |
 | <img src="https://cdn.discordapp.com/clan-badges/650745730591621170/dc4e546c3277e3e7b85f013bbeb16c9f.png" width="24">WS | ⚡ Wizards Story - RP | [uNapmQ46FA](https://discord.gg/uNapmQ46FA) | 2025-05-10T02:42:28+00:00 | 650745730591621170 |
 | <img src="https://cdn.discordapp.com/clan-badges/816561229601964032/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">OGN | OG-Network | [rTbsQujd6W](https://discord.gg/rTbsQujd6W) | 2025-05-10T02:37:24+00:00 | 816561229601964032 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1173589758593740820/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">MEFF | meffol land | [meffols](https://discord.gg/meffols) | 2025-05-10T00:06:11+00:00 | 1173589758593740820 |
 | <img src="https://cdn.discordapp.com/clan-badges/1299074597500489789/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">moe | ( ౦ ‸ ౦ ) | [moenet](https://discord.gg/moenet) | 2025-05-10T00:06:11+00:00 | 1299074597500489789 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370088642084732938/9c2065599a68052362c0fa5265b7efdd.png" width="24">TEA | Bocon&#x27;s Teacup | [KNrhxGeR34](https://discord.gg/KNrhxGeR34) | 2025-05-10T00:01:07+00:00 | 1370088642084732938 |
-| <img src="https://cdn.discordapp.com/clan-badges/655121499820261407/500310efcb666c62d5bc28ed19e9c1d1.png" width="24">ATG | MTA:SA Ankaram Tofas Gaming... | [ATG](https://discord.gg/ATG) | 2025-05-09T23:56:02+00:00 | 655121499820261407 |
-| <img src="https://cdn.discordapp.com/clan-badges/1092435632124604566/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BABY | School - An OwO Hub \| .gg/... | [school-an-owo-hub-gg-owohub-1092435632124604566](https://discord.gg/school-an-owo-hub-gg-owohub-1092435632124604566) | 2025-05-09T23:56:02+00:00 | 1092435632124604566 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369283973892542584/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">한국인 | [한국인] | [69kuc2TyEm](https://discord.gg/69kuc2TyEm) | 2025-05-09T23:56:02+00:00 | 1369283973892542584 |
 
 </details>
 
@@ -743,6 +743,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369091547613630604/3109dd292bbd2cb6a18f6cd7148ad85a.png" width="24">FBI | F.B.I | [bUdQhQ8YjT](https://discord.gg/bUdQhQ8YjT) | 1369091547613630604 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369278963217862788/1fd8ba5a5663f05ed145bb1bf6f5dbf6.png" width="24">FBI | Federal Investigation \| .g... | [bEQnjn7C7A](https://discord.gg/bEQnjn7C7A) | 1369278963217862788 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369693469278474401/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">FBI | F.B.I | [hbMWqHPydf](https://discord.gg/hbMWqHPydf) | 1369693469278474401 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369744966909169765/c8d016eed5c8752316ca38fdd54380c6.png" width="24">FBI | sad... [FBI] @wiki | [8Whh2dNpGX](https://discord.gg/8Whh2dNpGX) | 1369744966909169765 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369636614292242432/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">FCUK | Corruptt Rune [FCUK] | [vbr2RSFeDe](https://discord.gg/vbr2RSFeDe) | 1369636614292242432 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369453922581745755/736e7d8bb18ed68b6e0223765e79015e.png" width="24">FE!N | Travis Scott Tag | [5ehgvmvmGm](https://discord.gg/5ehgvmvmGm) | 1369453922581745755 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369518292468760620/48d2557a1faf9a790dde3ad334e56efb.png" width="24">FE!N | FE!N | [feinn](https://discord.gg/feinn) | 1369518292468760620 |
@@ -2096,6 +2097,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369147005217013853/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">man | man /sexytag | [vAVZhhTg8U](https://discord.gg/vAVZhhTg8U) | 1369147005217013853 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369363302135758870/40b4ed94a50bdcd5f9c2c4c396e7e9bc.png" width="24">maow | .gg/meowie guild | [vcHVVKarwq](https://discord.gg/vcHVVKarwq) | 1369363302135758870 |
 | <img src="https://cdn.discordapp.com/clan-badges/1111210096421257216/af3bf17d09103e2e89afa176bfbeb362.png" width="24">meaw | Meow\~ | [FRJazwPyJU](https://discord.gg/FRJazwPyJU) | 1111210096421257216 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369239682415722547/66e6116fb71622d52bed149a17914270.png" width="24">men | guild /larptag | [QGVC4RVrwK](https://discord.gg/QGVC4RVrwK) | 1369239682415722547 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369265697196347392/40a7aa796426347d6b76d20dfed2c273.png" width="24">meow | minmin&#x27;s meowmeows | [WrfBarSarS](https://discord.gg/WrfBarSarS) | 1369265697196347392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369450822357749862/8f8f205113716b5e92a4c85bdc768b28.png" width="24">meow | meow \| .gg/fg  for 30+ fre... | [FCDNjvg7sz](https://discord.gg/FCDNjvg7sz) | 1369450822357749862 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370069981961654535/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">meow | .gg/sillycats 🫧 free tag ᵔ ᵕ ᵔ | [2qdgMvRSwp](https://discord.gg/2qdgMvRSwp) | 1370069981961654535 |
@@ -2959,6 +2961,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1103248956999352381/36e09b9c0a0ae281bf63616b0729be16.png" width="24">𖤐ِِ | 𖤐ِِ | [wRvKvARDcC](https://discord.gg/wRvKvARDcC) | 1103248956999352381 |
 | <img src="https://cdn.discordapp.com/clan-badges/1367231264246993058/c8d016eed5c8752316ca38fdd54380c6.png" width="24">𖤐戦争 | /𝔞𝔳𝔬𝔦𝔡 | [Qzydf9eyj8](https://discord.gg/Qzydf9eyj8) | 1367231264246993058 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369505122824224850/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">𝄞ˑ | /snore guild | [39tpAUkdjg](https://discord.gg/39tpAUkdjg) | 1369505122824224850 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370098561580273674/fa3033cd0045a5cd34578fa4b9c69d8b.png" width="24">𝒩𝒮 | Targaryen Gulid .gg/NQ | [NQ](https://discord.gg/NQ) | 1370098561580273674 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369826686702715062/dea97e909a0211e2479d75cd11c2ec41.png" width="24">𝓛 . | ݁݁ | [urC6At43aK](https://discord.gg/urC6At43aK) | 1369826686702715062 |
 | <img src="https://cdn.discordapp.com/clan-badges/1057809453149323264/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">𝜗౿ | bow tag | [rN4FxuV3P4](https://discord.gg/rN4FxuV3P4) | 1057809453149323264 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369385550720667761/0b5ecfdff2d46f3584e3d0336cf7d4c6.png" width="24">𝜗𝜚 | 苺𝜗𝜚 | [R3wzFj3HK9](https://discord.gg/R3wzFj3HK9) | 1369385550720667761 |

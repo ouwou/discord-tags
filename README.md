@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369804223377703043/c7de302f15d896040a41df1c9c6b34c2.png" width="24">$$ | aure world ✮⋆˙ | [yN4DstM4CU](https://discord.gg/yN4DstM4CU) | 2025-05-10T01:51:51+00:00 | 1369804223377703043 |
+| <img src="https://cdn.discordapp.com/clan-badges/772174542235238410/411da0f939dd7cb8d5dd76ba410ea659.png" width="24">tttt | Blue House | [tttt](https://discord.gg/tttt) | 2025-05-10T01:51:51+00:00 | 772174542235238410 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370074312245248000/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">404 | Realshi Guild Server | [UdPxmyp2ag](https://discord.gg/UdPxmyp2ag) | 2025-05-10T01:46:47+00:00 | 1370074312245248000 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370072523215212604/cfb5d64580ebd15df2d071997b5fd2c4.png" width="24">۟bun | .gg/cinnabun ‧₊˚✩ | [bkpCqr4sEe](https://discord.gg/bkpCqr4sEe) | 2025-05-10T01:46:47+00:00 | 1370072523215212604 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369771882571759766/a4d9239e5b7fd682fa69972a93976352.png" width="24">ʚꨄɞ | emp!! | [aPANHaWcSZ](https://discord.gg/aPANHaWcSZ) | 2025-05-10T01:46:47+00:00 | 1369771882571759766 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1343245101132152842/1c8f8efb11de25463d853de6f864ffc6.png" width="24">FREE | FREE2RP | [ttth23APhM](https://discord.gg/ttth23APhM) | 2025-05-09T23:35:49+00:00 | 1343245101132152842 |
 | <img src="https://cdn.discordapp.com/clan-badges/1338940419114799134/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MxL | .gg/01 | [01](https://discord.gg/01) | 2025-05-09T23:35:49+00:00 | 1338940419114799134 |
 | <img src="https://cdn.discordapp.com/clan-badges/1271667812213063730/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">njz | diaspro guild tag | [y3G3AYyCYf](https://discord.gg/y3G3AYyCYf) | 2025-05-09T23:35:49+00:00 | 1271667812213063730 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369744392189116508/8e1242faa9826ddc280b4ac59bebf54b.png" width="24">sad | SAD /deserved | [bHyFhNYqDN](https://discord.gg/bHyFhNYqDN) | 2025-05-09T23:35:49+00:00 | 1369744392189116508 |
-| <img src="https://cdn.discordapp.com/clan-badges/1355690185798455306/878c62b6694a4f5931104f766191bec7.png" width="24">꩜ .ᐟ | strw 🍓 bry | [4wuwcamPN2](https://discord.gg/4wuwcamPN2) | 2025-05-09T23:30:45+00:00 | 1355690185798455306 |
 
 </details>
 
@@ -128,6 +128,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369115283532284025/885655109920302254b03aeb071dc4a1.png" width="24">$$ | $$ | [KK6kRKvSrB](https://discord.gg/KK6kRKvSrB) | 1369115283532284025 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369216956099596380/58c31c1dd6bd26cbc3b14b291897487b.png" width="24">$$ | Trace [$$] | [wDbdqzSvXs](https://discord.gg/wDbdqzSvXs) | 1369216956099596380 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369608917570682890/b6f6582eb0301ce069e00b2a99323975.png" width="24">$$ | $$ \| .gg/fg  for 30+ free ... | [ahThVwv2wV](https://discord.gg/ahThVwv2wV) | 1369608917570682890 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369804223377703043/c7de302f15d896040a41df1c9c6b34c2.png" width="24">$$ | aure world ✮⋆˙ | [yN4DstM4CU](https://discord.gg/yN4DstM4CU) | 1369804223377703043 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369571894419914753/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">$$$ | $$$ | [hFc7yD8z6f](https://discord.gg/hFc7yD8z6f) | 1369571894419914753 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369820076165042216/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">$10 | sell!ng guild tags  10 $ - ... | [NFMNfX4XGe](https://discord.gg/NFMNfX4XGe) | 1369820076165042216 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369989479498256406/551793a5d13a2dc369acd249ad6be5c5.png" width="24">$ES | $ES S&amp;P 500 | [bWK2bQPDhk](https://discord.gg/bWK2bQPDhk) | 1369989479498256406 |
@@ -2232,6 +2233,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369643746534101113/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">tra㎱ | Cynically&#x27;s appartment | [56fyqAvr](https://discord.gg/56fyqAvr) | 1369643746534101113 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779864231739423/a38d8a9ffae51409870d8609399d1716.png" width="24">tren | .gg/tren #tren | [5mU5ZHfr3p](https://discord.gg/5mU5ZHfr3p) | 1369779864231739423 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369843925711327233/2c7aa014ee3599b6b7089ce933971852.png" width="24">ttpd | ttpd tag | [SeUvS5SX3V](https://discord.gg/SeUvS5SX3V) | 1369843925711327233 |
+| <img src="https://cdn.discordapp.com/clan-badges/772174542235238410/411da0f939dd7cb8d5dd76ba410ea659.png" width="24">tttt | Blue House | [tttt](https://discord.gg/tttt) | 772174542235238410 |
 | <img src="https://cdn.discordapp.com/clan-badges/1323323031288025222/c8d016eed5c8752316ca38fdd54380c6.png" width="24">tuff | Memory Tag Guild! | [TRfGX8qdBh](https://discord.gg/TRfGX8qdBh) | 1323323031288025222 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369732957681483928/b9d9f7ae4e60a3a9d8758f97a3379d6c.png" width="24">usif | &gt;FSOCIETY #USIF | [Q3JER694jR](https://discord.gg/Q3JER694jR) | 1369732957681483928 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637049665327134/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">uwu | uwu land | [meg88s2kZv](https://discord.gg/meg88s2kZv) | 1369637049665327134 |

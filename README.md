@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1269744436200603659/249ec50deb082d1756863906003f6a4c.png" width="24">JKMC | JKMC - Mini-jeux 1.21.4 | [UhBhjnSe](https://discord.gg/UhBhjnSe) | 2025-05-10T08:06:15+00:00 | 1269744436200603659 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369470444339593308/7f968d34689b032120d7a0f2a3d69b83.png" width="24">덕후 | 🔥 덕후 [discord.gg/gm5Dt6qDkR] | [gm5Dt6qDkR](https://discord.gg/gm5Dt6qDkR) | 2025-05-10T08:06:15+00:00 | 1369470444339593308 |
 | <img src="https://cdn.discordapp.com/clan-badges/893784726656139344/21bf5dc5e9b4844f638c2f13221eff00.png" width="24">MW | Milky Way┋🚀 | [milkygw](https://discord.gg/milkygw) | 2025-05-10T07:56:10+00:00 | 893784726656139344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1360682084326183082/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">903 | 9 0 3 #Tag | [FXqNvmwqUD](https://discord.gg/FXqNvmwqUD) | 2025-05-10T07:51:06+00:00 | 1360682084326183082 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749178334449725/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">neko | kiffy ♡ | [F9vBS2d7](https://discord.gg/F9vBS2d7) | 2025-05-10T07:51:06+00:00 | 1369749178334449725 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369407267253780522/81b132e1ed5abd74983f8036ba887ac6.png" width="24">志歩 | shiho、［志歩］ | [D6WkHy8D2N](https://discord.gg/D6WkHy8D2N) | 2025-05-10T04:28:43+00:00 | 1369407267253780522 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370072523215212604/cfb5d64580ebd15df2d071997b5fd2c4.png" width="24">₍ᐢᐢ₎ | .gg/cinnabun ₍ᐢᐢ₎ | [fMcXfVM8Rh](https://discord.gg/fMcXfVM8Rh) | 2025-05-10T04:23:39+00:00 | 1370072523215212604 |
 | <img src="https://cdn.discordapp.com/clan-badges/1339787909871439953/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">d4vd | 𝒹𝟦𝓋𝒹 𝑔𝓊𝒾𝓁𝒹 | [ZTZyR9peMa](https://discord.gg/ZTZyR9peMa) | 2025-05-10T04:23:39+00:00 | 1339787909871439953 |
-| <img src="https://cdn.discordapp.com/clan-badges/1025903728471052338/8d61abb8b5da075befaff858861dba54.png" width="24">백지헌 | zranger tips | [BHKXNcUK5c](https://discord.gg/BHKXNcUK5c) | 2025-05-10T04:23:39+00:00 | 1025903728471052338 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369875852887720107/cf4c1081a96c5297288a96ef4a76c36c.png" width="24">幹你娘 | 好有感覺 集會所 | [kumha2AnRu](https://discord.gg/kumha2AnRu) | 2025-05-10T04:23:39+00:00 | 1369875852887720107 |
 
 </details>
 
@@ -1031,6 +1031,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369741116848603206/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">JEW | # JEW \| .gg/slave | [A3UjPSWtAE](https://discord.gg/A3UjPSWtAE) | 1369741116848603206 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369720756577112085/fe1ee14c2a2a199e7475fffa2c8f4d95.png" width="24">JEWS | Jews United | [PgqpMbNwyq](https://discord.gg/PgqpMbNwyq) | 1369720756577112085 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369792933397532702/8d61abb8b5da075befaff858861dba54.png" width="24">JINX | 🔫JINX | [JuNDDbwquW](https://discord.gg/JuNDDbwquW) | 1369792933397532702 |
+| <img src="https://cdn.discordapp.com/clan-badges/1269744436200603659/249ec50deb082d1756863906003f6a4c.png" width="24">JKMC | JKMC - Mini-jeux 1.21.4 | [UhBhjnSe](https://discord.gg/UhBhjnSe) | 1269744436200603659 |
 | <img src="https://cdn.discordapp.com/clan-badges/1318561028035838002/e6a98f45c4a16534a3668d17754253fc.png" width="24">JMJ | 지민정 | [cPJ7vJpKtg](https://discord.gg/cPJ7vJpKtg) | 1318561028035838002 |
 | <img src="https://cdn.discordapp.com/clan-badges/706633320745664634/57105dd5d54ebb9faef5e1b90c3768e1.png" width="24">JOE | JOE HUB | [joehub](https://discord.gg/joehub) | 706633320745664634 |
 | <img src="https://cdn.discordapp.com/clan-badges/1092648084598702131/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">JOKO | Kolam Circle | [9YcUns9rTa](https://discord.gg/9YcUns9rTa) | 1092648084598702131 |
@@ -2899,6 +2900,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369275052146692136/d82992716e6a3a87b5de9af4368a6308.png" width="24">노무현 | Hyerin’s Guild Tag | [ilbe](https://discord.gg/ilbe) | 1369275052146692136 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369647496556711959/0bc4a6857f4bd8716268acf5dfcb8834.png" width="24">뉴진스 | NewJeans - 뉴진스 | [5wVCH7EsCd](https://discord.gg/5wVCH7EsCd) | 1369647496556711959 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369251625851420673/bcac8aacf94b9885757389051552ed33.png" width="24">댕댕이 | discord.gg/arki [🍃댕댕이] | [kMfPHrYkCs](https://discord.gg/kMfPHrYkCs) | 1369251625851420673 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369470444339593308/7f968d34689b032120d7a0f2a3d69b83.png" width="24">덕후 | 🔥 덕후 [discord.gg/gm5Dt6qDkR] | [gm5Dt6qDkR](https://discord.gg/gm5Dt6qDkR) | 1369470444339593308 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369337851572912229/573e1723469ff275ff5a3fd823ce291f.png" width="24">도라에몽 | Doraemon TAG | [a9ZstsX85k](https://discord.gg/a9ZstsX85k) | 1369337851572912229 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369673322958422076/df618e52daa1e175755f1d5902d2243f.png" width="24">도토리 | 도토리 (acorn) | [AAbhepsggT](https://discord.gg/AAbhepsggT) | 1369673322958422076 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753291755360336/70d9ced47695a61129b27abd45a5b44b.png" width="24">돌고래 | 돌고래 태그 | [E2Y5BueQSj](https://discord.gg/E2Y5BueQSj) | 1369753291755360336 |

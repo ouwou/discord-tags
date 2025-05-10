@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/541244174163378176/7f968d34689b032120d7a0f2a3d69b83.png" width="24">02 | Area 02 | [02](https://discord.gg/02) | 2025-05-10T07:05:33+00:00 | 541244174163378176 |
 | <img src="https://cdn.discordapp.com/clan-badges/1335730872761974907/bb553d29ea6a344d15aa8d23d66c992a.png" width="24">•ᴗ• | 💎𝙇𝙞𝙩𝙩𝙡𝙚𝙡𝙚𝙖𝙛 𝙥𝙨99 𝙜𝙖𝙢𝙗𝙡𝙞𝙣𝙜, ... | [X4SkfFTfRX](https://discord.gg/X4SkfFTfRX) | 2025-05-10T07:00:29+00:00 | 1335730872761974907 |
 | <img src="https://cdn.discordapp.com/clan-badges/1145687282737758329/0fb607edecdb2bfe945ef427bcb50224.png" width="24">GLCR | Glacier Hosting \| Premium ... | [94u6KXgY68](https://discord.gg/94u6KXgY68) | 2025-05-10T07:00:29+00:00 | 1145687282737758329 |
 | <img src="https://cdn.discordapp.com/clan-badges/1334572600684449895/75cb51602a94404aa632d6acbfe3a3ef.png" width="24">rose | Blue Rose | [CmSrEendNS](https://discord.gg/CmSrEendNS) | 2025-05-10T07:00:29+00:00 | 1334572600684449895 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1319448923928133743/c8d016eed5c8752316ca38fdd54380c6.png" width="24">hnny | hunny | [hunny](https://discord.gg/hunny) | 2025-05-10T03:48:15+00:00 | 1319448923928133743 |
 | <img src="https://cdn.discordapp.com/clan-badges/1356882792247726191/ba46b7074609a9969378ae106b181188.png" width="24">JENO | jeno | [jeno](https://discord.gg/jeno) | 2025-05-10T03:48:15+00:00 | 1356882792247726191 |
 | <img src="https://cdn.discordapp.com/clan-badges/1296434828048338954/a3290d71cdc373a5f63598746c8f1476.png" width="24">LIVE | MisterALX | [MisterALX](https://discord.gg/MisterALX) | 2025-05-10T03:48:15+00:00 | 1296434828048338954 |
-| <img src="https://cdn.discordapp.com/clan-badges/1223051343065776220/edc8d2747875fda3b0b4c5846dfd68e7.png" width="24">PQP | Puta que Pariu | [sFzXfcq6HA](https://discord.gg/sFzXfcq6HA) | 2025-05-10T03:48:15+00:00 | 1223051343065776220 |
 
 </details>
 
@@ -168,6 +168,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369541307298746440/bc2f7685eed9d27522595f510bb2da48.png" width="24">007 | #004 Kanji | [mZztAAq6TP](https://discord.gg/mZztAAq6TP) | 1369541307298746440 |
 | <img src="https://cdn.discordapp.com/clan-badges/1258249542823055380/86735389348f3eacfa519eb553df38fd.png" width="24">007 | .gg/envvy &#x27; #007 | [M6Sx7j99ec](https://discord.gg/M6Sx7j99ec) | 1258249542823055380 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369816311676407898/b6f6582eb0301ce069e00b2a99323975.png" width="24">007 | 007 TAG \| .gg/highs | [z4GmbFv9H9](https://discord.gg/z4GmbFv9H9) | 1369816311676407898 |
+| <img src="https://cdn.discordapp.com/clan-badges/541244174163378176/7f968d34689b032120d7a0f2a3d69b83.png" width="24">02 | Area 02 | [02](https://discord.gg/02) | 541244174163378176 |
 | <img src="https://cdn.discordapp.com/clan-badges/1062082948830081034/86735389348f3eacfa519eb553df38fd.png" width="24">06 ぅ | ZeroSix ༒ | [06](https://discord.gg/06) | 1062082948830081034 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369763763741262028/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">09 | #09 M E Y H A N E | [g8Xh4eVYMY](https://discord.gg/g8Xh4eVYMY) | 1369763763741262028 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369600500776960012/8d61abb8b5da075befaff858861dba54.png" width="24">0\_1 | jebewon﹐guild﹒blue ! | [yMVwEWsVJP](https://discord.gg/yMVwEWsVJP) | 1369600500776960012 |

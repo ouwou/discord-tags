@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369532984360702043/66e6116fb71622d52bed149a17914270.png" width="24">yn | /trollz (yn) | [8TZPK9A4b8](https://discord.gg/8TZPK9A4b8) | 2025-05-10T01:22:39+00:00 | 1369532984360702043 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369591127459631135/8ed3a723b684b1c1e4249638d3a562dd.png" width="24">AAN | AAN TAGS | [kRxNg4dKgf](https://discord.gg/kRxNg4dKgf) | 2025-05-10T01:22:05+00:00 | 1369591127459631135 |
 | <img src="https://cdn.discordapp.com/clan-badges/1337953068901335193/c12795ef98ba20ff581eaea53e51a9c7.png" width="24">NICE | Bilhar Lab™ | [Xzy8TKSBDQ](https://discord.gg/Xzy8TKSBDQ) | 2025-05-10T01:22:05+00:00 | 1337953068901335193 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358201502874865724/d7a05a4bffd99be4c316d2098805cc50.png" width="24">NOLI | Hello John Doe Baby Playground | [VGpmxganQv](https://discord.gg/VGpmxganQv) | 2025-05-10T01:22:05+00:00 | 1358201502874865724 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369663708028080139/b97e3dbf03749699d70ed1de661f2543.png" width="24">可爱 | ノ mofu  ;  new / wip | [NT4P6dm5U5](https://discord.gg/NT4P6dm5U5) | 2025-05-09T23:15:35+00:00 | 1369663708028080139 |
 | <img src="https://cdn.discordapp.com/clan-badges/1021989221751341116/9e2e2b0974011f53124461ed40ffd66b.png" width="24">CAMP | discord.gg/thecamp | [camptag](https://discord.gg/camptag) | 2025-05-09T23:10:32+00:00 | 1021989221751341116 |
 | <img src="https://cdn.discordapp.com/clan-badges/1162312335210332193/0625caabbdb25cb8406ebdd64b90a445.png" width="24">FUTA | schoolio | [twZqnt3AhQ](https://discord.gg/twZqnt3AhQ) | 2025-05-09T23:10:32+00:00 | 1162312335210332193 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369340205278040104/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">litc | /　litc　𐂯ྀི | [d6Dnbmp8zx](https://discord.gg/d6Dnbmp8zx) | 2025-05-09T23:10:32+00:00 | 1369340205278040104 |
 
 </details>
 
@@ -2275,6 +2275,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369716876673814588/736e7d8bb18ed68b6e0223765e79015e.png" width="24">xyz | /chillcafe [xyz] | [xU6NSmVFMN](https://discord.gg/xU6NSmVFMN) | 1369716876673814588 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369460292177891408/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">xٴٴ | ᲼᲼ | [DMA](https://discord.gg/DMA) | 1369460292177891408 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369712171386277888/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">yen | .gg/projection #yen | [qSrY4jwBrX](https://discord.gg/qSrY4jwBrX) | 1369712171386277888 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369532984360702043/66e6116fb71622d52bed149a17914270.png" width="24">yn | /trollz (yn) | [8TZPK9A4b8](https://discord.gg/8TZPK9A4b8) | 1369532984360702043 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369762770009985186/5fc1b7880a731a31836513dc684c0f64.png" width="24">yumi | Yumi Fluff [yumi] | [fw3kHK35cJ](https://discord.gg/fw3kHK35cJ) | 1369762770009985186 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369731511690989759/da6cdb756dce783c6793289239ac55a2.png" width="24">yuna | 🌟 yuna&#x27;s world | [hv9Dk6PdvQ](https://discord.gg/hv9Dk6PdvQ) | 1369731511690989759 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369599911678574642/da323979c7c906d2c27374e380f41961.png" width="24">yuri | 📷 　𖨂　mitsuaya　❀　#yuri | [3sQbXNEKB5](https://discord.gg/3sQbXNEKB5) | 1369599911678574642 |

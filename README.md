@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1295669921803538462/0625caabbdb25cb8406ebdd64b90a445.png" width="24">Omen | Fiend | [fiend](https://discord.gg/fiend) | 2025-05-10T04:08:28+00:00 | 1295669921803538462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1133012712021033010/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">&gt;\_# | &gt;\_# | [VSHhTnynzz](https://discord.gg/VSHhTnynzz) | 2025-05-10T04:03:25+00:00 | 1133012712021033010 |
 | <img src="https://cdn.discordapp.com/clan-badges/1089675735788171287/a9dd253a3237515b30da0f5a0c82386f.png" width="24">AI | Ultimate AI /uai | [uai](https://discord.gg/uai) | 2025-05-10T04:03:25+00:00 | 1089675735788171287 |
 | <img src="https://cdn.discordapp.com/clan-badges/1322683365534597162/1c8d422c5c8051d93fc0c549ea1f3675.png" width="24">ECHO | {18+} 🦋 End Of Wandering | [shorekeeper](https://discord.gg/shorekeeper) | 2025-05-10T04:03:25+00:00 | 1322683365534597162 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1358201502874865724/d7a05a4bffd99be4c316d2098805cc50.png" width="24">NOLI | Hello John Doe Baby Playground | [VGpmxganQv](https://discord.gg/VGpmxganQv) | 2025-05-10T01:22:05+00:00 | 1358201502874865724 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369968425325035600/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">Mia | .gg/miabot | [dDevNbjeUb](https://discord.gg/dDevNbjeUb) | 2025-05-10T01:17:01+00:00 | 1369968425325035600 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369673322958422076/df618e52daa1e175755f1d5902d2243f.png" width="24">도토리 | 도토리 (acorn) | [AAbhepsggT](https://discord.gg/AAbhepsggT) | 2025-05-10T01:17:01+00:00 | 1369673322958422076 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369557511425888257/92a52c108aecc39ec4d94f065226c6f8.png" width="24">破裂 | / 破裂 kuro¹⁸ | [KSsfufSx4Z](https://discord.gg/KSsfufSx4Z) | 2025-05-10T01:17:01+00:00 | 1369557511425888257 |
 
 </details>
 
@@ -1312,6 +1312,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370083468440240138/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">OWL | OWL | [eSHDPwz85g](https://discord.gg/eSHDPwz85g) | 1370083468440240138 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370051852619743284/67d751b6caea36dbd57057f9cbb4f050.png" width="24">OZO1 | #OZO1  Join .gg/NU5hzaPTBA | [v6jPk3tKm9](https://discord.gg/v6jPk3tKm9) | 1370051852619743284 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369365148053143634/1897636167e0b09146fb12ce58e63294.png" width="24">O\_o | O\_o | [m2neXq4YF3](https://discord.gg/m2neXq4YF3) | 1369365148053143634 |
+| <img src="https://cdn.discordapp.com/clan-badges/1295669921803538462/0625caabbdb25cb8406ebdd64b90a445.png" width="24">Omen | Fiend | [fiend](https://discord.gg/fiend) | 1295669921803538462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369139585761935450/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">OwO | OwO | [Xk4jN3g9k3](https://discord.gg/Xk4jN3g9k3) | 1369139585761935450 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369479368287584266/878c62b6694a4f5931104f766191bec7.png" width="24">OwO | OwO Server | [Nqt3kWWxhB](https://discord.gg/Nqt3kWWxhB) | 1369479368287584266 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369824535939125269/e6da05ef10eca6a0facdca0c0f855575.png" width="24">P1H | p1harmony (GUILDTAG) | [yeXa7GBwbt](https://discord.gg/yeXa7GBwbt) | 1369824535939125269 |

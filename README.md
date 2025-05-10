@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1227468427132928110/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">MODЅ | Mods Café | [uDRaNE7M2b](https://discord.gg/uDRaNE7M2b) | 2025-05-10T03:33:04+00:00 | 1227468427132928110 |
+| <img src="https://cdn.discordapp.com/clan-badges/591004895839256595/4ee87a7b93ec4dce0a2e4f56f7ba6de2.png" width="24">NEO | Neo Nation | [NeoNation](https://discord.gg/NeoNation) | 2025-05-10T03:33:04+00:00 | 591004895839256595 |
 | <img src="https://cdn.discordapp.com/clan-badges/862330513209163796/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">IoE | Isles of Eclipsia™ | [eclipsia](https://discord.gg/eclipsia) | 2025-05-10T03:28:00+00:00 | 862330513209163796 |
 | <img src="https://cdn.discordapp.com/clan-badges/879720242920697918/5ac21dc216c0da589746cb752405ab1e.png" width="24">PWF | POOP WITH FRIENDS | [Mn9zAy3cSY](https://discord.gg/Mn9zAy3cSY) | 2025-05-10T03:28:00+00:00 | 879720242920697918 |
 | <img src="https://cdn.discordapp.com/clan-badges/983225164596650004/91bcafc9ada240a36d8b76d5ca1e682d.png" width="24">𐤲᲼ | obituary | [FepsPDgUY8](https://discord.gg/FepsPDgUY8) | 2025-05-10T03:28:00+00:00 | 983225164596650004 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/949183273383395328/7b41e87f92f5e4ab431c5d6ab8f8f92a.png" width="24">SIDE | SideStore | [sidestore-949183273383395328](https://discord.gg/sidestore-949183273383395328) | 2025-05-10T00:46:39+00:00 | 949183273383395328 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369948233031483413/0e4725cb6b109e254fffb697364845b6.png" width="24">soob | soob 🐰ྀི @guild | [tzeyqTy9jj](https://discord.gg/tzeyqTy9jj) | 2025-05-10T00:46:39+00:00 | 1369948233031483413 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369655310867894394/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">SUN | SUN Guild | [kqE3SNKxnz](https://discord.gg/kqE3SNKxnz) | 2025-05-10T00:46:39+00:00 | 1369655310867894394 |
-| <img src="https://cdn.discordapp.com/clan-badges/1283057921495924799/2b5795cd54e733c6cb082b97416a4cde.png" width="24">TFT | Chicken Factory | [9tmpG9kkK5](https://discord.gg/9tmpG9kkK5) | 2025-05-10T00:41:35+00:00 | 1283057921495924799 |
-| <img src="https://cdn.discordapp.com/clan-badges/1318354349625180223/bf1e209330d89b2c70da48e45283a25f.png" width="24">TPSR | The Pink Shadow Realm | [JsVwy8ADe3](https://discord.gg/JsVwy8ADe3) | 2025-05-10T00:41:35+00:00 | 1318354349625180223 |
 
 </details>
 
@@ -1184,6 +1184,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369198550017245264/b6f6582eb0301ce069e00b2a99323975.png" width="24">MOAI | MoaiTag \| dsc.gg/moai-tag | [eun3C9QfDD](https://discord.gg/eun3C9QfDD) | 1369198550017245264 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370075777558909000/8efcb2dc35b0e181a8376d07f62ca943.png" width="24">MOAN | moan .gg/terminus | [R7VUcBSj](https://discord.gg/R7VUcBSj) | 1370075777558909000 |
 | <img src="https://cdn.discordapp.com/clan-badges/1035830547966066709/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">MODЅ | GUILD | [QTE4zqwQtg](https://discord.gg/QTE4zqwQtg) | 1035830547966066709 |
+| <img src="https://cdn.discordapp.com/clan-badges/1227468427132928110/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">MODЅ | Mods Café | [uDRaNE7M2b](https://discord.gg/uDRaNE7M2b) | 1227468427132928110 |
 | <img src="https://cdn.discordapp.com/clan-badges/1310286846965846146/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">MOE | mishkacord | [puppygirls](https://discord.gg/puppygirls) | 1310286846965846146 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369860628386414673/14053a0be93c38232841c3b4c692190a.png" width="24">MOMO | @sillygoobermomo | [AHzCEqGYeV](https://discord.gg/AHzCEqGYeV) | 1369860628386414673 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369123592595570738/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">MOON | Moon Tag | [HBFQPpFaYW](https://discord.gg/HBFQPpFaYW) | 1369123592595570738 |
@@ -1240,6 +1241,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369418411641147472/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">NEKO | 1000$ | [tDvTjENvPJ](https://discord.gg/tDvTjENvPJ) | 1369418411641147472 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686458834747432/bdf785dc70cd3768b5694a3503f40363.png" width="24">NEL | PROJECT: NEL [NEL TAG] | [VdEkrkG8EX](https://discord.gg/VdEkrkG8EX) | 1369686458834747432 |
 | <img src="https://cdn.discordapp.com/clan-badges/818158519165255700/b20f92c9acde0921c190eba55e56b94f.png" width="24">NEMO | Party Animal | [M9UbrBcVA7](https://discord.gg/M9UbrBcVA7) | 818158519165255700 |
+| <img src="https://cdn.discordapp.com/clan-badges/591004895839256595/4ee87a7b93ec4dce0a2e4f56f7ba6de2.png" width="24">NEO | Neo Nation | [NeoNation](https://discord.gg/NeoNation) | 591004895839256595 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369248156151316563/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">NERD | Nerd | [Cd78jGqA5a](https://discord.gg/Cd78jGqA5a) | 1369248156151316563 |
 | <img src="https://cdn.discordapp.com/clan-badges/1160906123499552818/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">NERD | Kaizora Labs 🧪 | [NvW7JTmVD9](https://discord.gg/NvW7JTmVD9) | 1160906123499552818 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369247242724179998/1c8f8efb11de25463d853de6f864ffc6.png" width="24">NERU | baka baka baka | [kZjPFV4FYs](https://discord.gg/kZjPFV4FYs) | 1369247242724179998 |

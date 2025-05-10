@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1283057921495924799/2b5795cd54e733c6cb082b97416a4cde.png" width="24">TFT | Chicken Factory | [9tmpG9kkK5](https://discord.gg/9tmpG9kkK5) | 2025-05-10T00:41:35+00:00 | 1283057921495924799 |
+| <img src="https://cdn.discordapp.com/clan-badges/1318354349625180223/bf1e209330d89b2c70da48e45283a25f.png" width="24">TPSR | The Pink Shadow Realm | [JsVwy8ADe3](https://discord.gg/JsVwy8ADe3) | 2025-05-10T00:41:35+00:00 | 1318354349625180223 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369748205990056058/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">我爱你 | 𝓜𝓪𝓵𝓵𝓮𝓾𝓼 𐙚⋆.˚   [我爱你] .gg/fu... | [pAxfuzSgdU](https://discord.gg/pAxfuzSgdU) | 2025-05-10T00:31:29+00:00 | 1369748205990056058 |
 | <img src="https://cdn.discordapp.com/clan-badges/416432187324497921/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DBOG | Dragon Ball Online Generations | [dbog](https://discord.gg/dbog) | 2025-05-10T00:21:21+00:00 | 416432187324497921 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369091014194630717/9173796b835771cf3f92e61ae082aefc.png" width="24">puff | 8. | [K4kmfxJrgt](https://discord.gg/K4kmfxJrgt) | 2025-05-10T00:21:21+00:00 | 1369091014194630717 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/285080033230323712/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">ALS | ALLIES | [allies](https://discord.gg/allies) | 2025-05-09T22:25:01+00:00 | 285080033230323712 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369737121820049458/450ab1d002f8aebff7595975dcaa70dc.png" width="24">ATZ | ateez guild 𓍯𓂃 #rt400 | [atz](https://discord.gg/atz) | 2025-05-09T22:25:01+00:00 | 1369737121820049458 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369709567604162565/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">djin | شيطان #pv | [paf](https://discord.gg/paf) | 2025-05-09T22:25:01+00:00 | 1369709567604162565 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369764710152540210/bc4e025173c97f41a09ae15260f5a462.png" width="24">SEX | Xur | [xur](https://discord.gg/xur) | 2025-05-09T22:25:01+00:00 | 1369764710152540210 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369756122109448192/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">리쿠 | ͜\| ͜͝ 𓏼   🍵  riku  ᣟ݂ ᥥ   ⑅ | [VsU49QeRXh](https://discord.gg/VsU49QeRXh) | 2025-05-09T22:25:01+00:00 | 1369756122109448192 |
 
 </details>
 
@@ -1568,6 +1568,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369773615129559090/fcf7a320d1899c08dfcd2d5d490e968c.png" width="24">TEQ | Tequila Tag | [PWs3GFH6fU](https://discord.gg/PWs3GFH6fU) | 1369773615129559090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369181065385869352/0437e66874944d9eafae8ed3b9b7418a.png" width="24">TETO | Teto Territory | [FRZa2u59YG](https://discord.gg/FRZa2u59YG) | 1369181065385869352 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369793238717694093/74a4d9095719af0bbde0ceace6bdd965.png" width="24">TFN | 🇫🇷 TFN  \| GuildTags | [66cfmmYbdN](https://discord.gg/66cfmmYbdN) | 1369793238717694093 |
+| <img src="https://cdn.discordapp.com/clan-badges/1283057921495924799/2b5795cd54e733c6cb082b97416a4cde.png" width="24">TFT | Chicken Factory | [9tmpG9kkK5](https://discord.gg/9tmpG9kkK5) | 1283057921495924799 |
 | <img src="https://cdn.discordapp.com/clan-badges/783333047662805003/b2c66a16d275bd33f8bd7a27f79741e5.png" width="24">TGT | Türk Geliştiriciler Topluluğu | [aR6bfHEG6R](https://discord.gg/aR6bfHEG6R) | 783333047662805003 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369616857438486558/2d8bea68b3152b52858942d2bc854cc7.png" width="24">TISM | TISM \| dsc.gg/tism-tag | [KgU6NYBumH](https://discord.gg/KgU6NYBumH) | 1369616857438486558 |
 | <img src="https://cdn.discordapp.com/clan-badges/1080480785607438356/7f968d34689b032120d7a0f2a3d69b83.png" width="24">TISM | #TISM [JANN HUB] | [tXJdru6Wfc](https://discord.gg/tXJdru6Wfc) | 1080480785607438356 |
@@ -1578,6 +1579,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1293949373176090645/40a7aa796426347d6b76d20dfed2c273.png" width="24">TOON | Anime Shadow 2 | [animeshadow](https://discord.gg/animeshadow) | 1293949373176090645 |
 | <img src="https://cdn.discordapp.com/clan-badges/1350210004917162036/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">TOON | Toon&#x27;s Universe [IN-DEV] | [toonsuniverse](https://discord.gg/toonsuniverse) | 1350210004917162036 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369444094539206727/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">TOP | Top of the Top | [dmTzU6Xx5t](https://discord.gg/dmTzU6Xx5t) | 1369444094539206727 |
+| <img src="https://cdn.discordapp.com/clan-badges/1318354349625180223/bf1e209330d89b2c70da48e45283a25f.png" width="24">TPSR | The Pink Shadow Realm | [JsVwy8ADe3](https://discord.gg/JsVwy8ADe3) | 1318354349625180223 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369406187296264273/84412606536488d76915487613779361.png" width="24">TR | Marley | [wzbFHWbaQ8](https://discord.gg/wzbFHWbaQ8) | 1369406187296264273 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369631398536937512/c6ebe55b102f1cf8aec7cdd23d37ee41.png" width="24">TRIP | Trippy (Void) | [SDYw7XqFPa](https://discord.gg/SDYw7XqFPa) | 1369631398536937512 |
 | <img src="https://cdn.discordapp.com/clan-badges/966097546856509520/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">TS | Rogue Demon | [87nKwsZssY](https://discord.gg/87nKwsZssY) | 966097546856509520 |

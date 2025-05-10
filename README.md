@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1292056821367967796/2be9e5787ba27b78d0623d6f60c2acce.png" width="24">EXPR | eXpress Keys | [expresskeys](https://discord.gg/expresskeys) | 2025-05-10T07:40:59+00:00 | 1292056821367967796 |
+| <img src="https://cdn.discordapp.com/clan-badges/598731989033680896/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">MDUD | Sono Bisque Doll wa Koi wo ... | [sonobisquedoll](https://discord.gg/sonobisquedoll) | 2025-05-10T07:40:59+00:00 | 598731989033680896 |
+| <img src="https://cdn.discordapp.com/clan-badges/1314106867559170080/b6f6582eb0301ce069e00b2a99323975.png" width="24">NEGA | Vixen Community | [vixencommunity](https://discord.gg/vixencommunity) | 2025-05-10T07:40:59+00:00 | 1314106867559170080 |
 | <img src="https://cdn.discordapp.com/clan-badges/1349200415236821093/bbba913bfdc53aef3af68f612a75c9bf.png" width="24">BRAT | brat | [Brat](https://discord.gg/Brat) | 2025-05-10T07:35:55+00:00 | 1349200415236821093 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369625361490640916/e6b82d9fc4957498c27638f5fb209f0a.png" width="24">₊ ྀ | loathe | [3Ehm9DVHEY](https://discord.gg/3Ehm9DVHEY) | 2025-05-10T07:30:52+00:00 | 1369625361490640916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1168936936359067778/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">KⅲKⅲ | KiiiKiii | [kiiikiii](https://discord.gg/kiiikiii) | 2025-05-10T07:30:52+00:00 | 1168936936359067778 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1157659245223886898/959a89cde91da1f60b1f84e856d5bc02.png" width="24">VIET | Vietnam Drift Team | [zXNK7SxH5K](https://discord.gg/zXNK7SxH5K) | 2025-05-10T04:18:36+00:00 | 1157659245223886898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1295669921803538462/0625caabbdb25cb8406ebdd64b90a445.png" width="24">Omen | Fiend | [fiend](https://discord.gg/fiend) | 2025-05-10T04:08:28+00:00 | 1295669921803538462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1089675735788171287/a9dd253a3237515b30da0f5a0c82386f.png" width="24">AI | Ultimate AI /uai | [uai](https://discord.gg/uai) | 2025-05-10T04:03:25+00:00 | 1089675735788171287 |
-| <img src="https://cdn.discordapp.com/clan-badges/1322683365534597162/1c8d422c5c8051d93fc0c549ea1f3675.png" width="24">ECHO | {18+} 🦋 End Of Wandering | [shorekeeper](https://discord.gg/shorekeeper) | 2025-05-10T04:03:25+00:00 | 1322683365534597162 |
-| <img src="https://cdn.discordapp.com/clan-badges/1357532302867173608/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">gm2l | gm2l tag | [UJ588b8R9z](https://discord.gg/UJ588b8R9z) | 2025-05-10T04:03:25+00:00 | 1357532302867173608 |
-| <img src="https://cdn.discordapp.com/clan-badges/969254826108141678/83bdd879e0f696069643beb82e02672f.png" width="24">豊川祥子 | 祥子的箱庭 | [qy7nKGJBJe](https://discord.gg/qy7nKGJBJe) | 2025-05-10T04:03:25+00:00 | 969254826108141678 |
 
 </details>
 
@@ -744,6 +744,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1062663119844933682/48d2557a1faf9a790dde3ad334e56efb.png" width="24">EVIL | Evil Clan | [7q6gGdkSnb](https://discord.gg/7q6gGdkSnb) | 1062663119844933682 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637167323943023/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">EVIL | EVIL | [teUmC3ucrx](https://discord.gg/teUmC3ucrx) | 1369637167323943023 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369983648316657706/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">EXDM | EXDM $ is built for Chaos | [exdm](https://discord.gg/exdm) | 1369983648316657706 |
+| <img src="https://cdn.discordapp.com/clan-badges/1292056821367967796/2be9e5787ba27b78d0623d6f60c2acce.png" width="24">EXPR | eXpress Keys | [expresskeys](https://discord.gg/expresskeys) | 1292056821367967796 |
 | <img src="https://cdn.discordapp.com/clan-badges/986691543102529546/500be9a65c7c74da48866d6bba3d3b2f.png" width="24">EZ | VALORANT IL | [valorantil](https://discord.gg/valorantil) | 986691543102529546 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369905132791398461/e1468eb3780d8f0107a74a81a0064569.png" width="24">EZ | EZ /pxguild | [Jw7zAMaBcF](https://discord.gg/Jw7zAMaBcF) | 1369905132791398461 |
 | <img src="https://cdn.discordapp.com/clan-badges/1347595667207618560/5f0404ec39b6724bf523b9ece78ccbd6.png" width="24">EZ | EZOW | [ezow](https://discord.gg/ezow) | 1347595667207618560 |
@@ -1172,6 +1173,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1259108333038866455/60822eb8c504c45cee27680dbccf599b.png" width="24">MC7 | 𝐌𝐈𝐀𝐌𝐈 𝐑𝐏 | [yr5aVG78MB](https://discord.gg/yr5aVG78MB) | 1259108333038866455 |
 | <img src="https://cdn.discordapp.com/clan-badges/707193125478596668/ad842b5ea717cde056d0093cb9e90d1d.png" width="24">MCC | MC Championship | [mcc](https://discord.gg/mcc) | 707193125478596668 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369600024136388618/bfe352506f300d380de9ee9bb095fefb.png" width="24">MCPE | NexusSMP \| MCPE Tag | [nexussmp](https://discord.gg/nexussmp) | 1369600024136388618 |
+| <img src="https://cdn.discordapp.com/clan-badges/598731989033680896/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">MDUD | Sono Bisque Doll wa Koi wo ... | [sonobisquedoll](https://discord.gg/sonobisquedoll) | 598731989033680896 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369407774789865632/878c62b6694a4f5931104f766191bec7.png" width="24">MDZS | 魔道祖师、［MDZS］ | [2tpCaYZnJp](https://discord.gg/2tpCaYZnJp) | 1369407774789865632 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369453705816182794/e4bfaa88b479e2563ba1a7cb8698669a.png" width="24">MEFA | MEFA #TAG | [jUdeFpBZgR](https://discord.gg/jUdeFpBZgR) | 1369453705816182794 |
 | <img src="https://cdn.discordapp.com/clan-badges/1173589758593740820/e065f17667d724430c41cc758f02fb6a.png" width="24">MEFF | meffol land | [meffols](https://discord.gg/meffols) | 1173589758593740820 |
@@ -1268,6 +1270,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369694804413517865/ba4666ec684b28253c036851b97de8a9.png" width="24">NCT | nct \| .gg/doyoung | [zJru9Z6DTS](https://discord.gg/zJru9Z6DTS) | 1369694804413517865 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369334204374188133/26682df3e5244b382af19dba358f0a4e.png" width="24">NCT | NCT \| .gg/mahae ೀ \| DECO ... | [mahae](https://discord.gg/mahae) | 1369334204374188133 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369746507674419360/4c6b987648217084cc4371c4f129b87b.png" width="24">NDA | nda #billieelish | [XGGeW5e9MK](https://discord.gg/XGGeW5e9MK) | 1369746507674419360 |
+| <img src="https://cdn.discordapp.com/clan-badges/1314106867559170080/b6f6582eb0301ce069e00b2a99323975.png" width="24">NEGA | Vixen Community | [vixencommunity](https://discord.gg/vixencommunity) | 1314106867559170080 |
 | <img src="https://cdn.discordapp.com/clan-badges/302655971946135554/0dde9feca1e7ed7a89b27b1b5f9d3d87.png" width="24">NEKO | Gamer Source Pub☕ | [gamersource](https://discord.gg/gamersource) | 302655971946135554 |
 | <img src="https://cdn.discordapp.com/clan-badges/885430702491987968/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">NEKO | neko sanctuary v2 | [gPt4PXEP8K](https://discord.gg/gPt4PXEP8K) | 885430702491987968 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369981707255549993/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">NEKO | Clandestine Cat Cafe v2 | [ZHgrBuDWDe](https://discord.gg/ZHgrBuDWDe) | 1369981707255549993 |

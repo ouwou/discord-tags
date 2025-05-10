@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370072523215212604/cfb5d64580ebd15df2d071997b5fd2c4.png" width="24">₍ᐢᐢ₎ | .gg/cinnabun ₍ᐢᐢ₎ | [fMcXfVM8Rh](https://discord.gg/fMcXfVM8Rh) | 2025-05-10T04:23:39+00:00 | 1370072523215212604 |
+| <img src="https://cdn.discordapp.com/clan-badges/1339787909871439953/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">d4vd | 𝒸𝓇𝒶𝓎 𝓃 𝓀𝓇𝒾𝓃𝒸𝑒𝓁𝓈 𝓈𝑒𝓇𝓋𝑒𝓇 | [ZTZyR9peMa](https://discord.gg/ZTZyR9peMa) | 2025-05-10T04:23:39+00:00 | 1339787909871439953 |
+| <img src="https://cdn.discordapp.com/clan-badges/1025903728471052338/8d61abb8b5da075befaff858861dba54.png" width="24">백지헌 | zranger tips | [BHKXNcUK5c](https://discord.gg/BHKXNcUK5c) | 2025-05-10T04:23:39+00:00 | 1025903728471052338 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369875852887720107/cf4c1081a96c5297288a96ef4a76c36c.png" width="24">幹你娘 | 好有感覺 集會所 | [kumha2AnRu](https://discord.gg/kumha2AnRu) | 2025-05-10T04:23:39+00:00 | 1369875852887720107 |
 | <img src="https://cdn.discordapp.com/clan-badges/1134063169464193064/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">4 3 | 𝗦𝘁𝗮𝗿 | [st7](https://discord.gg/st7) | 2025-05-10T04:18:36+00:00 | 1134063169464193064 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369441123457831013/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">Mೲdy | /Moody Tag Server | [DqPkCTrAnC](https://discord.gg/DqPkCTrAnC) | 2025-05-10T04:18:36+00:00 | 1369441123457831013 |
 | <img src="https://cdn.discordapp.com/clan-badges/1157659245223886898/40a7aa796426347d6b76d20dfed2c273.png" width="24">VIET | Vietnam Drift Team | [zXNK7SxH5K](https://discord.gg/zXNK7SxH5K) | 2025-05-10T04:18:36+00:00 | 1157659245223886898 |
@@ -101,10 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1214554801530994708/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">CS | /cs | [cs](https://discord.gg/cs) | 2025-05-10T01:26:34+00:00 | 1214554801530994708 |
 | <img src="https://cdn.discordapp.com/clan-badges/1342479499685527603/3b966b4d291ffb2c3b2ff3b031f884a7.png" width="24">koga | 𝘤𝘥 𝘴𝘩𝘰𝘱 𝟅𝟈﹒ /kinioto !  ★ [... | [YZGnBugCwz](https://discord.gg/YZGnBugCwz) | 2025-05-10T01:26:34+00:00 | 1342479499685527603 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369901092929802390/22f8c38a62b66123c4242d0cbdd46282.png" width="24">QLF | QLF \| TAG | [mggC6UnPu3](https://discord.gg/mggC6UnPu3) | 2025-05-10T01:26:34+00:00 | 1369901092929802390 |
-| <img src="https://cdn.discordapp.com/clan-badges/1126961059450863686/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">SLOP | PTU Community Edition | [pizza-tower-united-community-edition-1126961059450863686](https://discord.gg/pizza-tower-united-community-edition-1126961059450863686) | 2025-05-10T01:26:34+00:00 | 1126961059450863686 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369954637255409716/dea97e909a0211e2479d75cd11c2ec41.png" width="24">とuん十 | とuん十 | [HjnmzC2kSM](https://discord.gg/HjnmzC2kSM) | 2025-05-10T01:26:34+00:00 | 1369954637255409716 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369532984360702043/66e6116fb71622d52bed149a17914270.png" width="24">yn | /trollz (yn) | [8TZPK9A4b8](https://discord.gg/8TZPK9A4b8) | 2025-05-10T01:22:39+00:00 | 1369532984360702043 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369591127459631135/8ed3a723b684b1c1e4249638d3a562dd.png" width="24">AAN | AAN TAGS | [kRxNg4dKgf](https://discord.gg/kRxNg4dKgf) | 2025-05-10T01:22:05+00:00 | 1369591127459631135 |
 
 </details>
 
@@ -1918,6 +1918,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369694747219857580/080f6fe261351ecf6e31d8da77448b24.png" width="24">cuty | @/cuty #tag | [c2ftCm3mh5](https://discord.gg/c2ftCm3mh5) | 1369694747219857580 |
 | <img src="https://cdn.discordapp.com/clan-badges/1364290525871472670/40a7aa796426347d6b76d20dfed2c273.png" width="24">cuпt | lipstick  ۶ৎ  guilds 。decor... | [rrTpPvRJUQ](https://discord.gg/rrTpPvRJUQ) | 1364290525871472670 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369396872279490661/22be82063be1461142de3411204ec19a.png" width="24">cvnt | azrael :( [cvnt] (exclu) | [eJXqPuseN9](https://discord.gg/eJXqPuseN9) | 1369396872279490661 |
+| <img src="https://cdn.discordapp.com/clan-badges/1339787909871439953/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">d4vd | 𝒸𝓇𝒶𝓎 𝓃 𝓀𝓇𝒾𝓃𝒸𝑒𝓁𝓈 𝓈𝑒𝓇𝓋𝑒𝓇 | [ZTZyR9peMa](https://discord.gg/ZTZyR9peMa) | 1339787909871439953 |
 | <img src="https://cdn.discordapp.com/clan-badges/1023135512657145916/d4292779a984904b53f78802a443308c.png" width="24">dcmm | Một lũ không kỹ năng | [NtSbTp6nzD](https://discord.gg/NtSbTp6nzD) | 1023135512657145916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1258564707535556689/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ddlg | 🧊kitty paradise ≽ ^ • ⩊ • ^ ≼🧊 | [xez2NGEjT6](https://discord.gg/xez2NGEjT6) | 1258564707535556689 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369156192684871752/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">dead | .gg/deadtag #guilds | [hwdMtXdWHK](https://discord.gg/hwdMtXdWHK) | 1369156192684871752 |
@@ -2624,6 +2625,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369629777299898379/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">₊ᐝ | ₊ᐝ Heiuwu ₊ᐝ | [qddVbjWaHd](https://discord.gg/qddVbjWaHd) | 1369629777299898379 |
 | <img src="https://cdn.discordapp.com/clan-badges/1295713501679190016/c58c5a1e1673b2bdf038763fb75ff8ac.png" width="24">₊🫧ɞ | 🌈  ttzewo﹕emotes hub ♪ ( ˶ᵔ... | [JQDpkzbN6g](https://discord.gg/JQDpkzbN6g) | 1295713501679190016 |
 | <img src="https://cdn.discordapp.com/clan-badges/893029354068668476/d90c2fde02048ee9b99e86c49da61593.png" width="24">₊🫧⁺ | ⋆˚🫧࿔ Bubbles 𝜗𝜚˚⋆ | [GNtYM6dPFC](https://discord.gg/GNtYM6dPFC) | 893029354068668476 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370072523215212604/cfb5d64580ebd15df2d071997b5fd2c4.png" width="24">₍ᐢᐢ₎ | .gg/cinnabun ₍ᐢᐢ₎ | [fMcXfVM8Rh](https://discord.gg/fMcXfVM8Rh) | 1370072523215212604 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369675435713237123/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">₳DMN | ₳DMN Guild TAG #Open | [EpfzBpR2KU](https://discord.gg/EpfzBpR2KU) | 1369675435713237123 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369540066304725052/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">⃟⃟⃟ | 91&#x27;s | [2Yc6C5VM93](https://discord.gg/2Yc6C5VM93) | 1369540066304725052 |
 | <img src="https://cdn.discordapp.com/clan-badges/1366438223093563483/3da695a3845833b28878ed0d3d86dec6.png" width="24">ⅤⅡ | ⅤⅡ | [5mpfx3dDdt](https://discord.gg/5mpfx3dDdt) | 1366438223093563483 |
@@ -2717,6 +2719,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369681888381243493/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">宅宅 | 宅圈 ✖ 狸貓社群 | [2W7sCx8wmr](https://discord.gg/2W7sCx8wmr) | 1369681888381243493 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369101208207360092/9c553dab03aca71234256efc3b52c367.png" width="24">小猫 | ❀ Ethan&#x27;s Chill Space ❀ | [ws7XfyWR7u](https://discord.gg/ws7XfyWR7u) | 1369101208207360092 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369623216728965160/02d3aafa78e3d6d96abd35cd12645683.png" width="24">山崎令恩 | ♧ROMEDA: PROGRESSIVE | [gnKmAPddN6](https://discord.gg/gnKmAPddN6) | 1369623216728965160 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369875852887720107/cf4c1081a96c5297288a96ef4a76c36c.png" width="24">幹你娘 | 好有感覺 集會所 | [kumha2AnRu](https://discord.gg/kumha2AnRu) | 1369875852887720107 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369616390327242762/f739959091aae8bf7255af05352e0202.png" width="24">床戰 | [床戰] Guild | [K4eB2MfYjw](https://discord.gg/K4eB2MfYjw) | 1369616390327242762 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369119511818797188/4fa9419c5a759e29676358f420b5c780.png" width="24">彰人 | akito  @ ﹒ [ 彰人 ] ﹒ 🥞 | [2ddbhAZpQP](https://discord.gg/2ddbhAZpQP) | 1369119511818797188 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369743730587734057/40a7aa796426347d6b76d20dfed2c273.png" width="24">想要ii | 表溜進去心花怒放 | [9hMMESxyKZ](https://discord.gg/9hMMESxyKZ) | 1369743730587734057 |
@@ -2832,6 +2835,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369506969404047371/0bc4a6857f4bd8716268acf5dfcb8834.png" width="24">민지 | NewJeans - 민지 | [rd5j6YP5Dk](https://discord.gg/rd5j6YP5Dk) | 1369506969404047371 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369257855529517067/a694fd167864f37a811bea648b8079eb.png" width="24">밀냥이꺼 | 밀냥이꺼 할래? | [P8DQN7bMPj](https://discord.gg/P8DQN7bMPj) | 1369257855529517067 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369789293156892867/4bca913c9b2106ed777541ec65def38c.png" width="24">발로란트 | TagZone™: VALORANT | [vJrfTkNS69](https://discord.gg/vJrfTkNS69) | 1369789293156892867 |
+| <img src="https://cdn.discordapp.com/clan-badges/1025903728471052338/8d61abb8b5da075befaff858861dba54.png" width="24">백지헌 | zranger tips | [BHKXNcUK5c](https://discord.gg/BHKXNcUK5c) | 1025903728471052338 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369290744111566848/84412606536488d76915487613779361.png" width="24">번개장터 | [번개장터 태그] | [K7vuDxy6zh](https://discord.gg/K7vuDxy6zh) | 1369290744111566848 |
 | <img src="https://cdn.discordapp.com/clan-badges/1344456827643101255/a6a8d0a437833807678a94923d034137.png" width="24">분홍색 | 𝄞　　𓏼　　◜ ͡  　ノsundaey　𓈒 　　 ݁... | [fRnKxKm9Uu](https://discord.gg/fRnKxKm9Uu) | 1344456827643101255 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369265571903967326/5f0404ec39b6724bf523b9ece78ccbd6.png" width="24">쀏쀏 | 쀏쀏 | [fhZVc6FGJR](https://discord.gg/fhZVc6FGJR) | 1369265571903967326 |

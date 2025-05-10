@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369445406202794087/ea37c0bb5898f6df94100cd873102f2c.png" width="24">୨୧ | 𓈒˳ꭶᧉⱺ⍺ꚕ ˚♡˖ᣟ | [UPpMxgmhNQ](https://discord.gg/UPpMxgmhNQ) | 2025-05-10T05:14:14+00:00 | 1369445406202794087 |
+| <img src="https://cdn.discordapp.com/clan-badges/1359041869476135003/5167acd28143ee835a729c2bf61fd975.png" width="24">DOVE | CHILLSPACE | [FVTcfNxZT3](https://discord.gg/FVTcfNxZT3) | 2025-05-10T05:14:14+00:00 | 1359041869476135003 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369793100679221259/58aba4c7624679a4e7f8e10b05cb4f61.png" width="24">투바투 | soobie&#x27;s guild ❦   𓂃  ... | [SNnmceqbN5](https://discord.gg/SNnmceqbN5) | 2025-05-10T05:14:14+00:00 | 1369793100679221259 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369781575084146838/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">みのり | みのり - Minori Project Sekai | [VzfC4kCCZn](https://discord.gg/VzfC4kCCZn) | 2025-05-10T05:09:10+00:00 | 1369781575084146838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369337851572912229/573e1723469ff275ff5a3fd823ce291f.png" width="24">도라에몽 | Doraemon TAG | [a9ZstsX85k](https://discord.gg/a9ZstsX85k) | 2025-05-10T05:04:07+00:00 | 1369337851572912229 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369540136911507557/09d92e91e9d29e0c92b0cf870948dea8.png" width="24">휴닝카이 | hyukα&#x27;s guild ❦   𓂃   ... | [vGnprd2VdT](https://discord.gg/vGnprd2VdT) | 2025-05-10T05:04:07+00:00 | 1369540136911507557 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/825451541220818969/dea4f5f8e9aaa736c9b599506226508e.png" width="24">ER | Elden Ring PvP | [erpvp](https://discord.gg/erpvp) | 2025-05-10T02:17:09+00:00 | 825451541220818969 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370021435887845376/232d1d2a366ec512dde707821f672cce.png" width="24">ᶰᵉʳᵛ | ᶰᵉʳᵛ | [dztmjJkDXf](https://discord.gg/dztmjJkDXf) | 2025-05-10T02:17:09+00:00 | 1370021435887845376 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369905010053349407/b6f6582eb0301ce069e00b2a99323975.png" width="24">김독자 | 49/51　⌣　 [ KDJ ] : tag . gw... | [9mG5UzETbE](https://discord.gg/9mG5UzETbE) | 2025-05-10T02:17:09+00:00 | 1369905010053349407 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369837463497085088/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">BOOL | /BOOL #BOOL | [f4cNrKtBNC](https://discord.gg/f4cNrKtBNC) | 2025-05-10T02:12:05+00:00 | 1369837463497085088 |
-| <img src="https://cdn.discordapp.com/clan-badges/1363099918436405430/0e3f40289a98c41b58e0bb10970c4749.png" width="24">ﾒ𝘰 | ﾒ𝘰 | [qR3pyghyaK](https://discord.gg/qR3pyghyaK) | 2025-05-10T02:12:05+00:00 | 1363099918436405430 |
-| <img src="https://cdn.discordapp.com/clan-badges/105041697003540480/b190a9d50dae864ce6404d00a7f9a3a1.png" width="24">⏾·₊° | reap | [AD7PFCatEG](https://discord.gg/AD7PFCatEG) | 2025-05-10T02:12:05+00:00 | 105041697003540480 |
 
 </details>
 
@@ -668,6 +668,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369734682278625370/8388948b433aa0fa792a29b1f286df5c.png" width="24">DOLL | DOLL #Guild | [DJ9HtBYGuF](https://discord.gg/DJ9HtBYGuF) | 1369734682278625370 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369393106608459776/098b8746b2505fbd5f4bba77b81b744e.png" width="24">DOLL | DOLL - /rupture | [cftj4PMe38](https://discord.gg/cftj4PMe38) | 1369393106608459776 |
 | <img src="https://cdn.discordapp.com/clan-badges/74287487459004416/2abd166afb302f1736cafdf970a5d18d.png" width="24">DOTA | /r/Dota2 | [rdota2](https://discord.gg/rdota2) | 74287487459004416 |
+| <img src="https://cdn.discordapp.com/clan-badges/1359041869476135003/5167acd28143ee835a729c2bf61fd975.png" width="24">DOVE | CHILLSPACE | [FVTcfNxZT3](https://discord.gg/FVTcfNxZT3) | 1359041869476135003 |
 | <img src="https://cdn.discordapp.com/clan-badges/1362074990710751282/bc2f7685eed9d27522595f510bb2da48.png" width="24">DRFT | drft | [4VHwPWJEt7](https://discord.gg/4VHwPWJEt7) | 1362074990710751282 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369652310212612096/f08bf3a8e8010cb58b329f1cb242a3f5.png" width="24">DRGN | Dragon Empire [GUILD] | [x8ZFfGvfvd](https://discord.gg/x8ZFfGvfvd) | 1369652310212612096 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369383004853764126/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">DRP | 𝐃𝐑𝐏 - 𝐆𝐮𝐢𝐥𝐝 𝐒𝐞𝐫𝐯𝐞𝐫 | [hC7RbuSyrm](https://discord.gg/hC7RbuSyrm) | 1369383004853764126 |
@@ -2511,6 +2512,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369785328021274644/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">୨ৎ | /mlㆍ100+ free guilds | [ml](https://discord.gg/ml) | 1369785328021274644 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369922741742075985/56a344005a8b819ad2b25e7ecf7e269c.png" width="24">୨ৎ | /sakurasnya #୨ৎ Tag | [MGWGeW7adM](https://discord.gg/MGWGeW7adM) | 1369922741742075985 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369069432055267411/2c7aa014ee3599b6b7089ce933971852.png" width="24">୨୧ | ୨୧ /backup | [R2Mw6Y4J2Y](https://discord.gg/R2Mw6Y4J2Y) | 1369069432055267411 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369445406202794087/ea37c0bb5898f6df94100cd873102f2c.png" width="24">୨୧ | 𓈒˳ꭶᧉⱺ⍺ꚕ ˚♡˖ᣟ | [UPpMxgmhNQ](https://discord.gg/UPpMxgmhNQ) | 1369445406202794087 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369427851316559952/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">୨୧ | ୨୧ \| .gg/fg  for 30+ free ... | [mtNabwW4u3](https://discord.gg/mtNabwW4u3) | 1369427851316559952 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369692269376176188/d2061ecb2533145b49ea1768da8683c2.png" width="24">୨୧ | ୨୧ /society | [Eqq388jTtq](https://discord.gg/Eqq388jTtq) | 1369692269376176188 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369675963348291696/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">୨୧ | ୨୧ /pxguild | [ZatPfjm8Pa](https://discord.gg/ZatPfjm8Pa) | 1369675963348291696 |
@@ -2882,6 +2884,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369394717569323029/0625caabbdb25cb8406ebdd64b90a445.png" width="24">코텍스 | 코텍스 / .gg/XGdJh3RU | [3mXQpxeckY](https://discord.gg/3mXQpxeckY) | 1369394717569323029 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369693695150133429/40a7aa796426347d6b76d20dfed2c273.png" width="24">쿠로미 | 쿠로미당 | [6d49nH29Ta](https://discord.gg/6d49nH29Ta) | 1369693695150133429 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369993568470564976/bf916a2c2a748e2fdbffe250a18ef077.png" width="24">크림묘 | 크림이 태그 서버 | [S9mVeYkZcn](https://discord.gg/S9mVeYkZcn) | 1369993568470564976 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369793100679221259/58aba4c7624679a4e7f8e10b05cb4f61.png" width="24">투바투 | soobie&#x27;s guild ❦   𓂃  ... | [SNnmceqbN5](https://discord.gg/SNnmceqbN5) | 1369793100679221259 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369130526295851079/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">트와이스 | TWICE (트와이스) | [jaSbMXDTBM](https://discord.gg/jaSbMXDTBM) | 1369130526295851079 |
 | <img src="https://cdn.discordapp.com/clan-badges/1341505920127209497/d79bc3d07fd24344d1e6c6e863a62a24.png" width="24">파도 | ♡  ⋮  ROMA LABELS  ₊ ⊹ revamp! | [romalabels](https://discord.gg/romalabels) | 1341505920127209497 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369797737989542019/b6f5250aaefd671e7af570b8250f3e33.png" width="24">파도 | 𝐵𝑙𝑢𝑒 𝑜𝑛 𝑡ℎ𝑒 𝑅𝑢𝑛 | [9JeVSmsxvB](https://discord.gg/9JeVSmsxvB) | 1369797737989542019 |

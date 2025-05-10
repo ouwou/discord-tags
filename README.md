@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1078611899542929438/0376eb6e1c226cbb1e3da71473e854c0.png" width="24">CVV | CVV • TAG | [mfchJRqqra](https://discord.gg/mfchJRqqra) | 2025-05-10T23:33:08+00:00 | 1078611899542929438 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369737270935945336/1e1d5a01d20062e6b770e392cdb43806.png" width="24">HAXE | Dev Server | [DHrvPvvB](https://discord.gg/DHrvPvvB) | 2025-05-10T23:33:08+00:00 | 1369737270935945336 |
 | <img src="https://cdn.discordapp.com/clan-badges/1217712356847783966/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">JAWA | JAWA JAWA JAWA | [UeDcQSePga](https://discord.gg/UeDcQSePga) | 2025-05-10T23:28:04+00:00 | 1217712356847783966 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698995840094269/b6f6582eb0301ce069e00b2a99323975.png" width="24">PM2 | PM2  \| .gg/soulbot | [wfaJS2aGZV](https://discord.gg/wfaJS2aGZV) | 2025-05-10T23:28:04+00:00 | 1369698995840094269 |
 | <img src="https://cdn.discordapp.com/clan-badges/933467611667238992/bc707a3929333093c4217316a6abca05.png" width="24">BLUE | 𝖡𝖫𝖴𝖤 ⋆˙⟡ 𝐁𝐈𝐋𝐋𝐈𝐄 𝐄𝐈𝐋𝐈𝐒𝐇 | [dKb7MuyHfm](https://discord.gg/dKb7MuyHfm) | 2025-05-10T23:23:01+00:00 | 933467611667238992 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1147934515482874036/9c7998338a95e2e7dea7b3d15b939252.png" width="24">PIWO | Trujki | [trujki](https://discord.gg/trujki) | 2025-05-10T21:21:41+00:00 | 1147934515482874036 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369783882563457034/75c9ec7cbcf9ce147ab04470a1b2882e.png" width="24">S4 | S4 - Guild | [qumP5NjRP5](https://discord.gg/qumP5NjRP5) | 2025-05-10T21:21:41+00:00 | 1369783882563457034 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369315968307695727/40a7aa796426347d6b76d20dfed2c273.png" width="24">SLAY | #SLAY | [63eawB6NDq](https://discord.gg/63eawB6NDq) | 2025-05-10T21:21:41+00:00 | 1369315968307695727 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369341963794387085/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">^\_^ | xd | [4sRrZqX8gZ](https://discord.gg/4sRrZqX8gZ) | 2025-05-10T21:16:37+00:00 | 1369341963794387085 |
-| <img src="https://cdn.discordapp.com/clan-badges/1366127495312834681/b6f6582eb0301ce069e00b2a99323975.png" width="24">702 | 702 | [vCcpJeJurc](https://discord.gg/vCcpJeJurc) | 2025-05-10T21:16:37+00:00 | 1366127495312834681 |
 
 </details>
 
@@ -724,6 +724,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369614764027805751/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">CUΜ | cool tag \| .gg/diddled | [UkvmK8zhYE](https://discord.gg/UkvmK8zhYE) | 1369614764027805751 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769906110992444/878c62b6694a4f5931104f766191bec7.png" width="24">CVNT | WEEKLY CHANGING TAGS! | [xWfTd9eERf](https://discord.gg/xWfTd9eERf) | 1369769906110992444 |
 | <img src="https://cdn.discordapp.com/clan-badges/1298187007012507721/8a36cb214b89bdf18e156ffb44eec982.png" width="24">CVNT | Gamer&#x27;s Haven  \| Soci... | [P9ApPbxVpa](https://discord.gg/P9ApPbxVpa) | 1298187007012507721 |
+| <img src="https://cdn.discordapp.com/clan-badges/1078611899542929438/0376eb6e1c226cbb1e3da71473e854c0.png" width="24">CVV | CVV • TAG | [mfchJRqqra](https://discord.gg/mfchJRqqra) | 1078611899542929438 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369290223124480092/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">CWEL | 🔥CWEL community🔥 | [v8aKGy4Pkz](https://discord.gg/v8aKGy4Pkz) | 1369290223124480092 |
 | <img src="https://cdn.discordapp.com/clan-badges/543652415870730240/4b70e09b6b8ddf55b5f9dc6816636760.png" width="24">CYBR | Cyber Info | [cyberinfo](https://discord.gg/cyberinfo) | 543652415870730240 |
 | <img src="https://cdn.discordapp.com/clan-badges/1354452177426321509/41af2db8ad9418588430040fa06e43fb.png" width="24">CYE | cye guild tag | [prqTHFtpEY](https://discord.gg/prqTHFtpEY) | 1354452177426321509 |
@@ -1144,6 +1145,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1304252916483227678/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">HARU | Haru | [qQeAHmSwXt](https://discord.gg/qQeAHmSwXt) | 1304252916483227678 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369787912840810607/48d2557a1faf9a790dde3ad334e56efb.png" width="24">HATE | Tashiba 🥢 #ComeBack #Tag | [vd2nERGGwd](https://discord.gg/vd2nERGGwd) | 1369787912840810607 |
 | <img src="https://cdn.discordapp.com/clan-badges/1317072581928550440/2c7aa014ee3599b6b7089ce933971852.png" width="24">HATE | #HATE .gg/sweett | [q5SFs4Y9Xc](https://discord.gg/q5SFs4Y9Xc) | 1317072581928550440 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369737270935945336/1e1d5a01d20062e6b770e392cdb43806.png" width="24">HAXE | Dev Server | [DHrvPvvB](https://discord.gg/DHrvPvvB) | 1369737270935945336 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369739444994969684/e0fb315519bcb35d53e4ac4fb5b81b8c.png" width="24">HAZE | XP Farm | [xpfarm](https://discord.gg/xpfarm) | 1369739444994969684 |
 | <img src="https://cdn.discordapp.com/clan-badges/885433345377456168/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">HDVL | HOODVILLE | [hBXrPaT2b3](https://discord.gg/hBXrPaT2b3) | 885433345377456168 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369426248459358218/c15d984a19e18d03a8a4e23af96d4340.png" width="24">HEAL | heal | [hQApmEHSUV](https://discord.gg/hQApmEHSUV) | 1369426248459358218 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1365717794137833513/0625caabbdb25cb8406ebdd64b90a445.png" width="24">еgо | /reason | [reason](https://discord.gg/reason) | 2025-05-10T03:07:45+00:00 | 1365717794137833513 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369555761226715358/86735389348f3eacfa519eb553df38fd.png" width="24">edr | SEing | [akFgBUgYGz](https://discord.gg/akFgBUgYGz) | 2025-05-10T03:02:41+00:00 | 1369555761226715358 |
 | <img src="https://cdn.discordapp.com/clan-badges/280136391327744001/59c0f381f2399f5317d14ebcda909857.png" width="24">GER | .gg/ger | [ger](https://discord.gg/ger) | 2025-05-10T03:02:41+00:00 | 280136391327744001 |
 | <img src="https://cdn.discordapp.com/clan-badges/1352062457794924544/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">RNKD | ranked tag | [DHKAVK4xMR](https://discord.gg/DHKAVK4xMR) | 2025-05-10T03:02:41+00:00 | 1352062457794924544 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369748585721233408/22f8c38a62b66123c4242d0cbdd46282.png" width="24">TXT | TOMORROW X TOGETHER - TAG | [Fwd7MywrVr](https://discord.gg/Fwd7MywrVr) | 2025-05-10T00:16:18+00:00 | 1369748585721233408 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369773764019224788/43c41cf65daed002eebbeb30059a2497.png" width="24">won | /won guild | [UuGT6PGVve](https://discord.gg/UuGT6PGVve) | 2025-05-10T00:16:18+00:00 | 1369773764019224788 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780403497603242/b1de9f49a27e16f42a74685bf374f34b.png" width="24">𑁯੭ | kuo #𑁯੭ | [RzbzVK7wMm](https://discord.gg/RzbzVK7wMm) | 2025-05-10T00:11:14+00:00 | 1369780403497603242 |
-| <img src="https://cdn.discordapp.com/clan-badges/822032153520504852/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">BZH | Zeluck | [Z5fNuuE2jw](https://discord.gg/Z5fNuuE2jw) | 2025-05-10T00:11:14+00:00 | 822032153520504852 |
 
 </details>
 
@@ -2407,6 +2407,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369720042316370060/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">ПОХ | #ПОХУЙ | [ceXuYHTjtY](https://discord.gg/ceXuYHTjtY) | 1369720042316370060 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369771226326634616/0b656392c4d8a5f7ee56ae7ec91ec1b1.png" width="24">СОСИ | kiwi | [vcRRRSzc44](https://discord.gg/vcRRRSzc44) | 1369771226326634616 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369590887255900180/60695e0f6c7a5b9eb60a5be14d471158.png" width="24">Ыꝏdy | Bloody Tag Server \| Official | [ShvcevwzFS](https://discord.gg/ShvcevwzFS) | 1369590887255900180 |
+| <img src="https://cdn.discordapp.com/clan-badges/1365717794137833513/0625caabbdb25cb8406ebdd64b90a445.png" width="24">еgо | /reason | [reason](https://discord.gg/reason) | 1365717794137833513 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369963098609549343/eb757500a7d84e47492c2a398da7123b.png" width="24">лега | лега | [QsZ5uB4D42](https://discord.gg/QsZ5uB4D42) | 1369963098609549343 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369685878909440141/84694bab5926192d1749ccecc93e39b5.png" width="24">сum | CUM! | [WvHTSFnEW8](https://discord.gg/WvHTSFnEW8) | 1369685878909440141 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369709056389943316/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">сука | ᲼᲼ | [QEtnEyv2xN](https://discord.gg/QEtnEyv2xN) | 1369709056389943316 |

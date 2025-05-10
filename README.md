@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1359444818270490704/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ACTD | Anime Conquest | [animeconquest](https://discord.gg/animeconquest) | 2025-05-10T02:01:58+00:00 | 1359444818270490704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370017424124153866/385c13fa02a9552e9a790b29e7b319df.png" width="24">𓏲𝄢 | 𓏲𝄢 \| .gg/doyoung | [du2WNCb7SG](https://discord.gg/du2WNCb7SG) | 2025-05-10T01:56:55+00:00 | 1370017424124153866 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369804223377703043/c7de302f15d896040a41df1c9c6b34c2.png" width="24">$$ | aure world ✮⋆˙ | [yN4DstM4CU](https://discord.gg/yN4DstM4CU) | 2025-05-10T01:51:51+00:00 | 1369804223377703043 |
 | <img src="https://cdn.discordapp.com/clan-badges/772174542235238410/411da0f939dd7cb8d5dd76ba410ea659.png" width="24">tttt | Blue House | [tttt](https://discord.gg/tttt) | 2025-05-10T01:51:51+00:00 | 772174542235238410 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1147045686026719284/6082c2553b03b47ccaea5203567df3cf.png" width="24">˚  草 | the swamp | [6RbVN8N3fV](https://discord.gg/6RbVN8N3fV) | 2025-05-09T23:35:49+00:00 | 1147045686026719284 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369739079289143428/6082c2553b03b47ccaea5203567df3cf.png" width="24">DRUG | DRUG FXCK・TAG | [AFNevTMAGT](https://discord.gg/AFNevTMAGT) | 2025-05-09T23:35:49+00:00 | 1369739079289143428 |
 | <img src="https://cdn.discordapp.com/clan-badges/1343245101132152842/1c8f8efb11de25463d853de6f864ffc6.png" width="24">FREE | FREE2RP | [ttth23APhM](https://discord.gg/ttth23APhM) | 2025-05-09T23:35:49+00:00 | 1343245101132152842 |
-| <img src="https://cdn.discordapp.com/clan-badges/1338940419114799134/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MxL | .gg/01 | [01](https://discord.gg/01) | 2025-05-09T23:35:49+00:00 | 1338940419114799134 |
 
 </details>
 
@@ -368,6 +368,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369512663377248356/b07c43a5ede2d3e7daaf418ac5d98a44.png" width="24">ACE | #ACE | [BF7gRnBZG3](https://discord.gg/BF7gRnBZG3) | 1369512663377248356 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369663500749897728/dea4f5f8e9aaa736c9b599506226508e.png" width="24">ACE | ⚔ ACE ⚔ .gg/acetag | [YPrzXz8ejn](https://discord.gg/YPrzXz8ejn) | 1369663500749897728 |
 | <img src="https://cdn.discordapp.com/clan-badges/1364789304345366716/2d8bea68b3152b52858942d2bc854cc7.png" width="24">ACIE | Groom&#x27;s Grove | [M3meQqd5YW](https://discord.gg/M3meQqd5YW) | 1364789304345366716 |
+| <img src="https://cdn.discordapp.com/clan-badges/1359444818270490704/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ACTD | Anime Conquest | [animeconquest](https://discord.gg/animeconquest) | 1359444818270490704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369298770751131669/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ADHD | ADHD｜dsc.gg/adhd-tag | [7ADx9YJddC](https://discord.gg/7ADx9YJddC) | 1369298770751131669 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369512178620829767/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">ADM | World Control [ADM] | [servidores](https://discord.gg/servidores) | 1369512178620829767 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369169748830453791/7b28034df1f94b9b603bbf2ce9d7e3d4.png" width="24">ADO | ᶻ 𝗓 𐰁［ADO］ | [CSD27Vggc7](https://discord.gg/CSD27Vggc7) | 1369169748830453791 |

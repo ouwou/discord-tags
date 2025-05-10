@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/816561229601964032/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">OGN | OG-Network | [rTbsQujd6W](https://discord.gg/rTbsQujd6W) | 2025-05-10T02:37:24+00:00 | 816561229601964032 |
+| <img src="https://cdn.discordapp.com/clan-badges/1363383790642135271/59c0f381f2399f5317d14ebcda909857.png" width="24">RICH | 7Sins RP \| New Era | [7sinsrp](https://discord.gg/7sinsrp) | 2025-05-10T02:37:24+00:00 | 1363383790642135271 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369374738337759333/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">WEAO | .gg/weaotag | [weaotag](https://discord.gg/weaotag) | 2025-05-10T02:37:24+00:00 | 1369374738337759333 |
 | <img src="https://cdn.discordapp.com/clan-badges/1337638732865474624/b2d4e1b57dc96fd19f02d45082e61717.png" width="24">CPVP | CrackedPvP | [crackedpvp](https://discord.gg/crackedpvp) | 2025-05-10T02:32:20+00:00 | 1337638732865474624 |
 | <img src="https://cdn.discordapp.com/clan-badges/513064096921550878/60695e0f6c7a5b9eb60a5be14d471158.png" width="24">ꜰᴀꜰᴀ | Farfadox | [farfadox](https://discord.gg/farfadox) | 2025-05-10T02:32:20+00:00 | 513064096921550878 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219781309698801816/8d61abb8b5da075befaff858861dba54.png" width="24">smpv | shadowvanilla　　꣑ৎ　[smpv]　♡ | [hYgUrD8z84](https://discord.gg/hYgUrD8z84) | 2025-05-10T02:22:14+00:00 | 1219781309698801816 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369283973892542584/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">한국인 | [한국인] | [69kuc2TyEm](https://discord.gg/69kuc2TyEm) | 2025-05-09T23:56:02+00:00 | 1369283973892542584 |
 | <img src="https://cdn.discordapp.com/clan-badges/1136363057740779573/8d61abb8b5da075befaff858861dba54.png" width="24">𑁯ᰍ | fontaine ⛲  genshin impact ... | [furina](https://discord.gg/furina) | 2025-05-09T23:50:59+00:00 | 1136363057740779573 |
 | <img src="https://cdn.discordapp.com/clan-badges/752404225379795045/89339f01c078bf79aaf91a86d2741956.png" width="24">GOTH | Hailey’s Hangout | [HSEQgtcNPY](https://discord.gg/HSEQgtcNPY) | 2025-05-09T23:50:59+00:00 | 752404225379795045 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369625869844484196/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MC | Miltrix | [KdTBfgszNd](https://discord.gg/KdTBfgszNd) | 2025-05-09T23:50:59+00:00 | 1369625869844484196 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369446861357977692/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">AMEX | American Express | [gMxEuMHejZ](https://discord.gg/gMxEuMHejZ) | 2025-05-09T23:45:55+00:00 | 1369446861357977692 |
-| <img src="https://cdn.discordapp.com/clan-badges/984853742904029255/968545a2419ed541b78b3ec7500aaed0.png" width="24">CAP | Capitano Mains \| The Captain | [capitano](https://discord.gg/capitano) | 2025-05-09T23:45:55+00:00 | 984853742904029255 |
 
 </details>
 
@@ -1279,6 +1279,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1157023998908047410/7f968d34689b032120d7a0f2a3d69b83.png" width="24">OG&#x27;s | Gamer&#x27;s Hub/GH | [gamers-hub](https://discord.gg/gamers-hub) | 1157023998908047410 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369435237704269854/85461a0ccb874e754bc2b96603958319.png" width="24">OGER | Dempel zum Ogerschildne | [NgRsqQ9vNv](https://discord.gg/NgRsqQ9vNv) | 1369435237704269854 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370024836658630741/78b1ebb6b97565376cb5345a0631e362.png" width="24">OGFN | ogfn tag [.gg/junglefn] | [dnhhz2PXSG](https://discord.gg/dnhhz2PXSG) | 1370024836658630741 |
+| <img src="https://cdn.discordapp.com/clan-badges/816561229601964032/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">OGN | OG-Network | [rTbsQujd6W](https://discord.gg/rTbsQujd6W) | 816561229601964032 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750825660055675/878c62b6694a4f5931104f766191bec7.png" width="24">OHIO | Ohio Tag | [rBWKSPvgDw](https://discord.gg/rBWKSPvgDw) | 1369750825660055675 |
 | <img src="https://cdn.discordapp.com/clan-badges/1068627892986183700/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">OHIO | Ohionest | [pCHamuz8Bf](https://discord.gg/pCHamuz8Bf) | 1068627892986183700 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761953672597675/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">OKLM | [OKLM-TAG] .gg/oklm | [GpxT3JZVtd](https://discord.gg/GpxT3JZVtd) | 1369761953672597675 |
@@ -1408,6 +1409,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369827583910350919/45dec9cc747ee3949b568836f2a1adbf.png" width="24">RICH | RICH \| .gg/easytags | [P3xxVpuSz2](https://discord.gg/P3xxVpuSz2) | 1369827583910350919 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369991425164316795/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">RICH | RICH \| /diorr | [fnwxzcRDG6](https://discord.gg/fnwxzcRDG6) | 1369991425164316795 |
 | <img src="https://cdn.discordapp.com/clan-badges/1266423492010840127/6fa8b5ee7310050446627654f4a06840.png" width="24">RICH | Nashe Staffs Community [RICH] | [hj2NmKfwke](https://discord.gg/hj2NmKfwke) | 1266423492010840127 |
+| <img src="https://cdn.discordapp.com/clan-badges/1363383790642135271/59c0f381f2399f5317d14ebcda909857.png" width="24">RICH | 7Sins RP \| New Era | [7sinsrp](https://discord.gg/7sinsrp) | 1363383790642135271 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369613027753726035/560794f11f66275f7ea52c4a54d22a90.png" width="24">RIN | Kusatsu Tag | [tPXxXJ2Kxq](https://discord.gg/tPXxXJ2Kxq) | 1369613027753726035 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369499423318741123/f5ef05c46792ab33c21435413b70d2f8.png" width="24">RIN | Kagamine Club | [7hFCcpgeU5](https://discord.gg/7hFCcpgeU5) | 1369499423318741123 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369763005507702924/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">RIOT | Riot | [JYZhQX7k8v](https://discord.gg/JYZhQX7k8v) | 1369763005507702924 |
@@ -1707,6 +1709,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369398582024601650/4f25524787fd4a78abbe4cf889599ea7.png" width="24">WAR | Holm gang | [5AFBPf79Mk](https://discord.gg/5AFBPf79Mk) | 1369398582024601650 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369672261065244743/ad842b5ea717cde056d0093cb9e90d1d.png" width="24">WAR | #WAR | [qKn64BuEB6](https://discord.gg/qKn64BuEB6) | 1369672261065244743 |
 | <img src="https://cdn.discordapp.com/clan-badges/522561390330904585/5fedbac57771e006269e8c2ff4a2426b.png" width="24">WBOX | WorldBox - God Simulator | [worldbox](https://discord.gg/worldbox) | 522561390330904585 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369374738337759333/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">WEAO | .gg/weaotag | [weaotag](https://discord.gg/weaotag) | 1369374738337759333 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369421874601398362/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">WEB | Web Guild | [C9QNMPCzD8](https://discord.gg/C9QNMPCzD8) | 1369421874601398362 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369633469755424848/b144b97e91dda5ed4ad9ca5d0626528d.png" width="24">WEB | WEB Guild #Internet | [6XZ6h56uE8](https://discord.gg/6XZ6h56uE8) | 1369633469755424848 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370077691625209937/dc61eaed9e8b012148661df1ada874e6.png" width="24">WEB | Univers du Web #GUILD | [45R7rcYBdm](https://discord.gg/45R7rcYBdm) | 1370077691625209937 |

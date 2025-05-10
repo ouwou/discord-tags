@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/803130916384800779/a6c824a875bd2f349ab27f3280a5218c.png" width="24">ADO | lugar secreto | [8XWFmFAydt](https://discord.gg/8XWFmFAydt) | 2025-05-10T01:31:38+00:00 | 803130916384800779 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369728535534506196/79366e8660935912726217b413fcc19b.png" width="24">DB4D | DB4D | [qjprEC7hDG](https://discord.gg/qjprEC7hDG) | 2025-05-10T01:31:38+00:00 | 1369728535534506196 |
+| <img src="https://cdn.discordapp.com/clan-badges/1184379679621255168/ad171795fb0d424391a2a17d6f144b6c.png" width="24">ᓚᘏᗢ | cooler cats | [nSPt5mc5b5](https://discord.gg/nSPt5mc5b5) | 2025-05-10T01:31:38+00:00 | 1184379679621255168 |
 | <img src="https://cdn.discordapp.com/clan-badges/1214554801530994708/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">CS | /cs | [cs](https://discord.gg/cs) | 2025-05-10T01:26:34+00:00 | 1214554801530994708 |
 | <img src="https://cdn.discordapp.com/clan-badges/1342479499685527603/3b966b4d291ffb2c3b2ff3b031f884a7.png" width="24">koga | 𝘤𝘥 𝘴𝘩𝘰𝘱 𝟅𝟈﹒ /kinioto !  ★ [... | [YZGnBugCwz](https://discord.gg/YZGnBugCwz) | 2025-05-10T01:26:34+00:00 | 1342479499685527603 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369901092929802390/22f8c38a62b66123c4242d0cbdd46282.png" width="24">QLF | QLF \| TAG | [mggC6UnPu3](https://discord.gg/mggC6UnPu3) | 2025-05-10T01:26:34+00:00 | 1369901092929802390 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1357696154858553534/b6f6582eb0301ce069e00b2a99323975.png" width="24">AMEN | s4ge.lol | [QAUBACNrCW](https://discord.gg/QAUBACNrCW) | 2025-05-09T23:20:38+00:00 | 1357696154858553534 |
 | <img src="https://cdn.discordapp.com/clan-badges/1186313624071974912/86ad0a24dfa8b14dae6b8f21cde55634.png" width="24">APFL | ApfelGemeinde | [apfel](https://discord.gg/apfel) | 2025-05-09T23:20:38+00:00 | 1186313624071974912 |
 | <img src="https://cdn.discordapp.com/clan-badges/1156389215551094785/878c62b6694a4f5931104f766191bec7.png" width="24">Cute | 💜𓂃𓈒𓏸 CuteHub⁺¹⁸﹕Nsfw﹕Nitro﹕... | [VXyhFfCwW8](https://discord.gg/VXyhFfCwW8) | 2025-05-09T23:20:38+00:00 | 1156389215551094785 |
-| <img src="https://cdn.discordapp.com/clan-badges/1364026506220933210/6082c2553b03b47ccaea5203567df3cf.png" width="24">KUR | Velocity Essentials | [velocityessentials](https://discord.gg/velocityessentials) | 2025-05-09T23:20:38+00:00 | 1364026506220933210 |
-| <img src="https://cdn.discordapp.com/clan-badges/1352056717063487578/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">666 | Vylts | [Vylts](https://discord.gg/Vylts) | 2025-05-09T23:15:35+00:00 | 1352056717063487578 |
-| <img src="https://cdn.discordapp.com/clan-badges/1215491957254660126/ffc6011fcfd800de0466155454b231d9.png" width="24">high | High 💬 | [high](https://discord.gg/high) | 2025-05-09T23:15:35+00:00 | 1215491957254660126 |
 
 </details>
 
@@ -369,6 +369,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369512178620829767/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">ADM | World Control [ADM] | [servidores](https://discord.gg/servidores) | 1369512178620829767 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369169748830453791/7b28034df1f94b9b603bbf2ce9d7e3d4.png" width="24">ADO | ᶻ 𝗓 𐰁［ADO］ | [CSD27Vggc7](https://discord.gg/CSD27Vggc7) | 1369169748830453791 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369601610216509510/5a2c733ca8f4d7800d760a98fb0bb271.png" width="24">ADO | アド Fan Tag | [yftcEww9SZ](https://discord.gg/yftcEww9SZ) | 1369601610216509510 |
+| <img src="https://cdn.discordapp.com/clan-badges/803130916384800779/a6c824a875bd2f349ab27f3280a5218c.png" width="24">ADO | lugar secreto | [8XWFmFAydt](https://discord.gg/8XWFmFAydt) | 803130916384800779 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369472914369286194/8d61abb8b5da075befaff858861dba54.png" width="24">ADV | ADV | [DNDdpjQ26e](https://discord.gg/DNDdpjQ26e) | 1369472914369286194 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369195056082325554/39b2f39bec5d121b095b920f557b4c69.png" width="24">AFK | 熱風/Heat wind | [ZrjZfRzQsK](https://discord.gg/ZrjZfRzQsK) | 1369195056082325554 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369404360181944340/7b571a46a1266491cfabe2e362aad176.png" width="24">AFK | Tag: AFK | [T2ZGxhJHj7](https://discord.gg/T2ZGxhJHj7) | 1369404360181944340 |
@@ -609,6 +610,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369584786359848980/8bbe85110c037a420102799feb3c9c9b.png" width="24">DATA | #DATA 🌿 | [data-guild](https://discord.gg/data-guild) | 1369584786359848980 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369795319835000902/369b659dc2ccca62698ea0ac64248f91.png" width="24">DATA | SearchData - Guild | [searchdatag](https://discord.gg/searchdatag) | 1369795319835000902 |
 | <img src="https://cdn.discordapp.com/clan-badges/1259262060596953148/a2b02aa127259c265ac43df3799a29ad.png" width="24">DAWG | Kool Dogg&#x27;s Dawg House | [kbVCDSNCVH](https://discord.gg/kbVCDSNCVH) | 1259262060596953148 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369728535534506196/79366e8660935912726217b413fcc19b.png" width="24">DB4D | DB4D | [qjprEC7hDG](https://discord.gg/qjprEC7hDG) | 1369728535534506196 |
 | <img src="https://cdn.discordapp.com/clan-badges/754847510576758934/0ae74be9dc7fcdcbeace441566d757e5.png" width="24">DBD | Dead by Daylight Unofficial | [edFAThDW5D](https://discord.gg/edFAThDW5D) | 754847510576758934 |
 | <img src="https://cdn.discordapp.com/clan-badges/416432187324497921/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DBOG | Dragon Ball Online Generations | [dbog](https://discord.gg/dbog) | 416432187324497921 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369331916008067173/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">DBUG | [DBUG TAG] \| Dev Home ⌨ | [mctYdvr6qJ](https://discord.gg/mctYdvr6qJ) | 1369331916008067173 |
@@ -2509,6 +2511,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1338292421141987328/436890262370fc96911e905c27576be1.png" width="24">ᓚᘏᗢ | senidate&#x27;s boundary #ᓚᘏᗢ | [QT3hqUv5ra](https://discord.gg/QT3hqUv5ra) | 1338292421141987328 |
 | <img src="https://cdn.discordapp.com/clan-badges/1315863401934618747/5167acd28143ee835a729c2bf61fd975.png" width="24">ᓚᘏᗢ | KITTEN ᓚᘏᗢ | [cSkg7jcXfJ](https://discord.gg/cSkg7jcXfJ) | 1315863401934618747 |
 | <img src="https://cdn.discordapp.com/clan-badges/953102536880033852/a666c14ba3f1121af1477b0cc5afc9e3.png" width="24">ᓚᘏᗢ | Mongocord | [Mongocat](https://discord.gg/Mongocat) | 953102536880033852 |
+| <img src="https://cdn.discordapp.com/clan-badges/1184379679621255168/ad171795fb0d424391a2a17d6f144b6c.png" width="24">ᓚᘏᗢ | cooler cats | [nSPt5mc5b5](https://discord.gg/nSPt5mc5b5) | 1184379679621255168 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369347270146785353/0d716df2b0dc49fd1946ba710ac8f198.png" width="24">ᔰᒿᦲ | The GANG \| ᔰᒿᦲ | [CdmTBe32Qs](https://discord.gg/CdmTBe32Qs) | 1369347270146785353 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369624259738996756/0397fae2dec63b5f0ace7b694f5e4d34.png" width="24">ᕱ.ᕱ | 𝓫𝓾𝓷𝓷𝔂 𝓬𝓸𝓻𝓮 ᕱ.ᕱ | [yQCXWQhhum](https://discord.gg/yQCXWQhhum) | 1369624259738996756 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369187553961312396/7728f745b575a531e1d81ddfcbc5914b.png" width="24">ᗜ\_ᗜ | ᗜ\_ᗜ | [24msrBfVYW](https://discord.gg/24msrBfVYW) | 1369187553961312396 |

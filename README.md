@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1134063169464193064/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">4 3 | 𝗦𝘁𝗮𝗿 | [st7](https://discord.gg/st7) | 2025-05-10T04:18:36+00:00 | 1134063169464193064 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369441123457831013/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">Mೲdy | /Moody Tag Server | [DqPkCTrAnC](https://discord.gg/DqPkCTrAnC) | 2025-05-10T04:18:36+00:00 | 1369441123457831013 |
+| <img src="https://cdn.discordapp.com/clan-badges/1157659245223886898/40a7aa796426347d6b76d20dfed2c273.png" width="24">VIET | Vietnam Drift Team | [zXNK7SxH5K](https://discord.gg/zXNK7SxH5K) | 2025-05-10T04:18:36+00:00 | 1157659245223886898 |
 | <img src="https://cdn.discordapp.com/clan-badges/960493365911248916/c0f063112cf7cddc050b1ffdd5c19ddf.png" width="24">魔法兔兔 | 魔法兔兔 | [FKVvSSPs9t](https://discord.gg/FKVvSSPs9t) | 2025-05-10T04:13:32+00:00 | 960493365911248916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1295669921803538462/0625caabbdb25cb8406ebdd64b90a445.png" width="24">Omen | Fiend | [fiend](https://discord.gg/fiend) | 2025-05-10T04:08:28+00:00 | 1295669921803538462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1133012712021033010/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">&gt;\_# | &gt;\_# | [VSHhTnynzz](https://discord.gg/VSHhTnynzz) | 2025-05-10T04:03:25+00:00 | 1133012712021033010 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369954637255409716/dea97e909a0211e2479d75cd11c2ec41.png" width="24">とuん十 | とuん十 | [HjnmzC2kSM](https://discord.gg/HjnmzC2kSM) | 2025-05-10T01:26:34+00:00 | 1369954637255409716 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369532984360702043/66e6116fb71622d52bed149a17914270.png" width="24">yn | /trollz (yn) | [8TZPK9A4b8](https://discord.gg/8TZPK9A4b8) | 2025-05-10T01:22:39+00:00 | 1369532984360702043 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369591127459631135/8ed3a723b684b1c1e4249638d3a562dd.png" width="24">AAN | AAN TAGS | [kRxNg4dKgf](https://discord.gg/kRxNg4dKgf) | 2025-05-10T01:22:05+00:00 | 1369591127459631135 |
-| <img src="https://cdn.discordapp.com/clan-badges/1337953068901335193/c12795ef98ba20ff581eaea53e51a9c7.png" width="24">NICE | Bilhar Lab™ | [Xzy8TKSBDQ](https://discord.gg/Xzy8TKSBDQ) | 2025-05-10T01:22:05+00:00 | 1337953068901335193 |
-| <img src="https://cdn.discordapp.com/clan-badges/1358201502874865724/d7a05a4bffd99be4c316d2098805cc50.png" width="24">NOLI | Hello John Doe Baby Playground | [VGpmxganQv](https://discord.gg/VGpmxganQv) | 2025-05-10T01:22:05+00:00 | 1358201502874865724 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369968425325035600/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">Mia | .gg/miabot | [dDevNbjeUb](https://discord.gg/dDevNbjeUb) | 2025-05-10T01:17:01+00:00 | 1369968425325035600 |
 
 </details>
 
@@ -207,6 +207,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369570564531818536/6082c2553b03b47ccaea5203567df3cf.png" width="24">36 | 36 | [FDzHJphg3Y](https://discord.gg/FDzHJphg3Y) | 1369570564531818536 |
 | <img src="https://cdn.discordapp.com/clan-badges/1299078044777971743/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">3ZBH | ✦ مجلـس العزبـة ✦ | [3zbh](https://discord.gg/3zbh) | 1299078044777971743 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369528391723913317/310d9b669d687de773b5f3b5310ca1f3.png" width="24">3xs | splendid | [3xs](https://discord.gg/3xs) | 1369528391723913317 |
+| <img src="https://cdn.discordapp.com/clan-badges/1134063169464193064/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">4 3 | 𝗦𝘁𝗮𝗿 | [st7](https://discord.gg/st7) | 1134063169464193064 |
 | <img src="https://cdn.discordapp.com/clan-badges/640686379281416202/4f25524787fd4a78abbe4cf889599ea7.png" width="24">404 | 404 | [ACxpgvnAyZ](https://discord.gg/ACxpgvnAyZ) | 640686379281416202 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370074312245248000/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">404 | Realshi Guild Server ( disc... | [UdPxmyp2ag](https://discord.gg/UdPxmyp2ag) | 1370074312245248000 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369305523752534168/71d7cc4113128e907aa012cd4385a971.png" width="24">420 | 420 \| cool kids club | [reEnPHyhhh](https://discord.gg/reEnPHyhhh) | 1369305523752534168 |
@@ -1232,6 +1233,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369479975245316157/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">MÍŁF | Mace&#x27;s Hangout | [3vSxZsTeSH](https://discord.gg/3vSxZsTeSH) | 1369479975245316157 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369841814399488153/6fcee324d08e3c151d349af171b5efed.png" width="24">MΟDЅ | Discord Staff | [JYScVyH9ed](https://discord.gg/JYScVyH9ed) | 1369841814399488153 |
 | <img src="https://cdn.discordapp.com/clan-badges/997513226952658995/7dff089fbee252a67e72a08ae58a0376.png" width="24">MОD | L Server | [Hub8Twe6qp](https://discord.gg/Hub8Twe6qp) | 997513226952658995 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369441123457831013/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">Mೲdy | /Moody Tag Server | [DqPkCTrAnC](https://discord.gg/DqPkCTrAnC) | 1369441123457831013 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369735579708948531/ba2a149cc0a25ff08c968a265e1a5bd2.png" width="24">Mᴏd | Discord Moderators | [6hWBt5CnwT](https://discord.gg/6hWBt5CnwT) | 1369735579708948531 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369520790827175986/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">N25 | nightcord、［N25］ | [43Z2kBae9y](https://discord.gg/43Z2kBae9y) | 1369520790827175986 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369711054430670960/dc61eaed9e8b012148661df1ada874e6.png" width="24">NASA | GUILD NASA ! | [xguilds](https://discord.gg/xguilds) | 1369711054430670960 |
@@ -1689,6 +1691,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369737287033688175/fbfeab472b1dfce54f7910b0eb4f51a4.png" width="24">VIBE | +VIBE | [EcUQpfPeBS](https://discord.gg/EcUQpfPeBS) | 1369737287033688175 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369110877231513771/878c62b6694a4f5931104f766191bec7.png" width="24">VIE | Vietnam 🇻🇳 | [DSvNbERpHT](https://discord.gg/DSvNbERpHT) | 1369110877231513771 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369318967931305994/878c62b6694a4f5931104f766191bec7.png" width="24">VIE | VietNam・Chat・Community | [XWCymFSGHx](https://discord.gg/XWCymFSGHx) | 1369318967931305994 |
+| <img src="https://cdn.discordapp.com/clan-badges/1157659245223886898/40a7aa796426347d6b76d20dfed2c273.png" width="24">VIET | Vietnam Drift Team | [zXNK7SxH5K](https://discord.gg/zXNK7SxH5K) | 1157659245223886898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1171861055161520179/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">VIO | Anime Gallery support | [XH2TY9AZfB](https://discord.gg/XH2TY9AZfB) | 1171861055161520179 |
 | <img src="https://cdn.discordapp.com/clan-badges/710871326557995079/83a083caeb028f56086ec619735b231f.png" width="24">VIP | Nico&#x27;s Safe Space | [nico-vip](https://discord.gg/nico-vip) | 710871326557995079 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369322973260943440/e0979460372743b49b5e6c62c83f90b2.png" width="24">VIP | VIP Tag \| /viptag | [ZK6BAGU4v5](https://discord.gg/ZK6BAGU4v5) | 1369322973260943440 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370088642084732938/9c2065599a68052362c0fa5265b7efdd.png" width="24">TEA | Bocon&#x27;s Teacup | [KNrhxGeR34](https://discord.gg/KNrhxGeR34) | 2025-05-10T00:01:07+00:00 | 1370088642084732938 |
 | <img src="https://cdn.discordapp.com/clan-badges/655121499820261407/500310efcb666c62d5bc28ed19e9c1d1.png" width="24">ATG | MTA:SA Ankaram Tofas Gaming... | [ATG](https://discord.gg/ATG) | 2025-05-09T23:56:02+00:00 | 655121499820261407 |
 | <img src="https://cdn.discordapp.com/clan-badges/1092435632124604566/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BABY | School - An OwO Hub \| .gg/... | [school-an-owo-hub-gg-owohub-1092435632124604566](https://discord.gg/school-an-owo-hub-gg-owohub-1092435632124604566) | 2025-05-09T23:56:02+00:00 | 1092435632124604566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369283973892542584/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">한국인 | [한국인] | [69kuc2TyEm](https://discord.gg/69kuc2TyEm) | 2025-05-09T23:56:02+00:00 | 1369283973892542584 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/831166624245612584/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">RAID | Grupo Dos Mais Mais | [BgCUf4xr6m](https://discord.gg/BgCUf4xr6m) | 2025-05-09T22:09:47+00:00 | 831166624245612584 |
 | <img src="https://cdn.discordapp.com/clan-badges/1255858644965396550/41ac480df4be92cbcbfb08eb88abd302.png" width="24">SNOW | Snoway Bots 🪐 | [PUcFu345fs](https://discord.gg/PUcFu345fs) | 2025-05-09T22:09:47+00:00 | 1255858644965396550 |
 | <img src="https://cdn.discordapp.com/clan-badges/265565751010787328/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">ヘタリア | ᵀᴴᴱ Hetalia Region | [Hetalia](https://discord.gg/Hetalia) | 2025-05-09T22:09:47+00:00 | 265565751010787328 |
-| <img src="https://cdn.discordapp.com/clan-badges/215470597520621569/9a483a3be2300cd6ebe71aafae07208d.png" width="24">LOVE | Lovely Friends | [europe](https://discord.gg/europe) | 2025-05-09T22:04:44+00:00 | 215470597520621569 |
 
 </details>
 
@@ -1552,6 +1552,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/718268027690549249/6473797948e6d36a991e425c8b7c353c.png" width="24">TBZ | Tower Blitz | [VJ3TP4cGKK](https://discord.gg/VJ3TP4cGKK) | 718268027690549249 |
 | <img src="https://cdn.discordapp.com/clan-badges/1278019494391840810/e0fb315519bcb35d53e4ac4fb5b81b8c.png" width="24">TCGP | Pokémon TCG Pocket | [ptcgp](https://discord.gg/ptcgp) | 1278019494391840810 |
 | <img src="https://cdn.discordapp.com/clan-badges/1028751790000316506/6ed907032e3a22a1cd30d3f61a5cd96e.png" width="24">TCP | CoroHost.cloud | [corohost](https://discord.gg/corohost) | 1028751790000316506 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370088642084732938/9c2065599a68052362c0fa5265b7efdd.png" width="24">TEA | Bocon&#x27;s Teacup | [KNrhxGeR34](https://discord.gg/KNrhxGeR34) | 1370088642084732938 |
 | <img src="https://cdn.discordapp.com/clan-badges/1193274068338741392/8d61abb8b5da075befaff858861dba54.png" width="24">TECH | r/BTechtards | [btechtards](https://discord.gg/btechtards) | 1193274068338741392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1108481962907271209/32d310e9a81f0f189722186c9a6fbb37.png" width="24">TECH | TechAssist | [qnauKgn2Uj](https://discord.gg/qnauKgn2Uj) | 1108481962907271209 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369738822795133009/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">TEKK | /tekktag - TEKKNiNE | [tekktag](https://discord.gg/tekktag) | 1369738822795133009 |

@@ -92,7 +92,7 @@
     },
     "1024757827509690459": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1024757827509690459/44c8cd0a538b97d73b85352504498b96.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1024757827509690459/fd3c517ee994951e94380c5b5fa87972.png",
         "invite": "https://discord.gg/uJeHcXmURq",
         "name": "\u17b5\u17b5\u17b5 \ud83d\udde1",
         "tag": "\u17b5\u17b5\u17b5"
@@ -286,13 +286,6 @@
         "name": "Jacks' Silly Server",
         "tag": "JSS"
     },
-    "1059559465541718058": {
-        "added_at": 1746904508,
-        "icon": "https://cdn.discordapp.com/clan-badges/1059559465541718058/fba0bb6a11f10650816c7ac3f85593b6.png",
-        "invite": "https://discord.gg/gr39rRDXuf",
-        "name": "\u2661 / \u751f\u304d\u304c\u3044 \u3010Ikigai\u3011",
-        "tag": "\u751f\u304d\u304c\u3044"
-    },
     "1060810811347570698": {
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1060810811347570698/16bd94602da9ae5a2c222eb3bbf31c73.png",
@@ -313,6 +306,13 @@
         "invite": "https://discord.gg/7q6gGdkSnb",
         "name": "Evil Clan",
         "tag": "EVIL"
+    },
+    "1063149680395042817": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1063149680395042817/989b85d9faf5f966aba5a67fd4cbacfe.png",
+        "invite": "https://discord.gg/22Nd4YW4zw",
+        "name": "PLUS",
+        "tag": "SFTS"
     },
     "1063458575667699832": {
         "added_at": 1746816776,
@@ -381,7 +381,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1072898206985359390/da998d1181a62c14933f4a437419a923.png",
         "invite": "https://discord.gg/CVBzVQebjP",
-        "name": "ICE TAG - FrostyMC",
+        "name": "$$ ICE TAG $$",
         "tag": "ICE"
     },
     "1074818873158795324": {
@@ -501,7 +501,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1087006772071510138/dc61eaed9e8b012148661df1ada874e6.png",
         "invite": "https://discord.gg/dmKtgBMTh9",
         "name": "NXS",
-        "tag": "NX"
+        "tag": "\u06df\u06df"
     },
     "1087085359269167205": {
         "added_at": 1746816776,
@@ -528,7 +528,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1088083400579108936/dbf1a38beff20eb76ce6edb07a47b9ee.png",
         "invite": "https://discord.gg/gjx7QgmWnS",
-        "name": "idzydorian",
+        "name": "Izydorek \ud83e\udd81",
         "tag": "C0ZY"
     },
     "1088514203603710093": {
@@ -806,10 +806,10 @@
     },
     "1122578979560358009": {
         "added_at": 1746907849,
-        "icon": "https://cdn.discordapp.com/clan-badges/1122578979560358009/c1e4439afa95753a4bab531e3c4c42d1.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1122578979560358009/2aa185c0eb2bfa5bfb2f083058af9f8d.png",
         "invite": "https://discord.gg/faKX8dqTBG",
         "name": "#1",
-        "tag": "TOP1"
+        "tag": "\uff34\uff2f\uff30\uff11"
     },
     "1122923289803759617": {
         "added_at": 1746816776,
@@ -904,10 +904,10 @@
     },
     "1131753112244330560": {
         "added_at": 1746909670,
-        "icon": "https://cdn.discordapp.com/clan-badges/1131753112244330560/813846ce33ed1c30a15d1569fd2e4fd9.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1131753112244330560/7f968d34689b032120d7a0f2a3d69b83.png",
         "invite": "https://discord.gg/8KxJNzTJzq",
         "name": "\u300cParadisus-Paradoxum\u300d",
-        "tag": "PCD"
+        "tag": "RUST"
     },
     "1131947033373192263": {
         "added_at": 1746816776,
@@ -965,13 +965,6 @@
         "name": "\ud835\udde6\ud835\ude01\ud835\uddee\ud835\uddff",
         "tag": "501"
     },
-    "1134854783166054542": {
-        "added_at": 1746904205,
-        "icon": "https://cdn.discordapp.com/clan-badges/1134854783166054542/ba8a90eede32aca30ce7305dfb77b4cd.png",
-        "invite": "https://discord.gg/uywySsVE3x",
-        "name": "World Dai Star \u5922\u4e4b\u661f\u96f2 \u8a0e\u8ad6\u5340",
-        "tag": "\u7d44\u7e54\u9670\u8b00"
-    },
     "1134993311560646767": {
         "added_at": 1746902380,
         "icon": "https://cdn.discordapp.com/clan-badges/1134993311560646767/8d61abb8b5da075befaff858861dba54.png",
@@ -985,6 +978,13 @@
         "invite": "https://discord.gg/FoxyDen",
         "name": "The Fox Den",
         "tag": "FOX"
+    },
+    "1135185564522516600": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1135185564522516600/310d9b669d687de773b5f3b5310ca1f3.png",
+        "invite": "https://discord.gg/t88vYsyZGn",
+        "name": "Ultras Valkyra",
+        "tag": "VALK"
     },
     "1135579383617290380": {
         "added_at": 1746816776,
@@ -1014,6 +1014,13 @@
         "name": "Jhrox Oyun Turnuvas\u0131",
         "tag": "SMS"
     },
+    "1137768682475491419": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1137768682475491419/6082c2553b03b47ccaea5203567df3cf.png",
+        "invite": "https://discord.gg/UUxxPgJ2wd",
+        "name": "CodeDev",
+        "tag": "Cdev"
+    },
     "1138145464018018304": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1138145464018018304/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
@@ -1025,7 +1032,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1138572700567212032/28c050687a51a9120e97f95f8a766edd.png",
         "invite": "https://discord.gg/R3BpGWuwNF",
-        "name": "WEED - Tag",
+        "name": "WEED - Tag | by Andor73",
         "tag": "WEED"
     },
     "1138677630011461643": {
@@ -1233,7 +1240,7 @@
     },
     "1164209312000901271": {
         "added_at": 1746905723,
-        "icon": "https://cdn.discordapp.com/clan-badges/1164209312000901271/db5f90658bee87a97df27ee162a5a179.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1164209312000901271/dd9577704a81e5ee3ae70cbc7f05d244.png",
         "invite": "https://discord.gg/qJyyBby57b",
         "name": "\ud835\udda1\ud835\uddab\ud835\uddb4\ud835\udda4 \u22c6\u02d9\u27e1 \ud835\udc01\ud835\udc08\ud835\udc0b\ud835\udc0b\ud835\udc08\ud835\udc04 \ud835\udc04\ud835\udc08\ud835\udc0b\ud835\udc08\ud835\udc12\ud835\udc07",
         "tag": "BLUE"
@@ -1347,7 +1354,7 @@
         "added_at": 1746903598,
         "icon": "https://cdn.discordapp.com/clan-badges/1176974137768558683/c08ecb1ef98d938294b1db84ca629ef7.png",
         "invite": "https://discord.gg/phTyrWkCve",
-        "name": "\ud835\ude82\ud835\ude95\ud835\ude8e\ud835\ude8e\ud835\ude99\ud835\udea2 \ud835\ude82\ud835\ude94\ud835\ude8e\ud835\ude95\ud835\ude8e\ud835\ude9d\ud835\ude98\ud835\ude97\ud835\ude9c",
+        "name": "\ud835\ude82\ud835\ude95\ud835\ude8e\ud835\ude8e\ud835\ude99\ud835\udea2 \ud835\ude82\ud835\ude94\ud835\ude8e\ud835\ude95\ud835\ude8e\ud835\ude9d\ud835\ude98\ud835\ude97\ud835\ude9c \u1dbbz\ud803\udc01",
         "tag": "\u1dbbz\ud803\udc01"
     },
     "1179051452824563793": {
@@ -1370,6 +1377,13 @@
         "invite": "https://discord.gg/rnj6kaj2Kd",
         "name": "\ud835\udc77\ud835\udc89 \ud835\udc6d\ud835\udc82\ud835\udc8e\ud835\udc8a\ud835\udc8d\ud835\udc9a",
         "tag": "PH"
+    },
+    "1181484126352724029": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1181484126352724029/b1dc33d557c4d3c9db80ac12762f5b9f.png",
+        "invite": "https://discord.gg/cash",
+        "name": "/cash",
+        "tag": "\u00d7\u035c\u00d7"
     },
     "1181941995644661831": {
         "added_at": 1746898788,
@@ -1593,7 +1607,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1199564435119943780/40a7aa796426347d6b76d20dfed2c273.png",
         "invite": "https://discord.gg/dVuNM8wrtd",
         "name": "Frry Central",
-        "tag": "frry"
+        "tag": "FRRY"
     },
     "1200075110472757348": {
         "added_at": 1746898788,
@@ -1786,7 +1800,7 @@
     },
     "1216586098168430664": {
         "added_at": 1746859822,
-        "icon": "https://cdn.discordapp.com/clan-badges/1216586098168430664/2d9908aeb26b0c8d246dbd97f8258a72.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1216586098168430664/49f0fa0ec02349cb29e5f67ad7c3b98b.png",
         "invite": "https://discord.gg/caseycordia",
         "name": "caseycordia",
         "tag": "GOAT"
@@ -1839,6 +1853,13 @@
         "invite": "https://discord.gg/kcTy2DjdUa",
         "name": "yvl",
         "tag": "yvl"
+    },
+    "1221917995782115500": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1221917995782115500/79366e8660935912726217b413fcc19b.png",
+        "invite": "https://discord.gg/S47FzPc4PB",
+        "name": "Scorched UGC",
+        "tag": "OPPS"
     },
     "1223051343065776220": {
         "added_at": 1746848895,
@@ -1942,7 +1963,7 @@
         "added_at": 1746851626,
         "icon": "https://cdn.discordapp.com/clan-badges/1227941619249188975/a1a8d7066521a13ede4b94de530e98b5.png",
         "invite": "https://discord.gg/ACA",
-        "name": "Academie \ud83c\udfef #2025",
+        "name": "Academie \ud83c\udfef #Only Staff",
         "tag": "ACA"
     },
     "1229047904786972672": {
@@ -1991,7 +2012,7 @@
         "added_at": 1746822216,
         "icon": "https://cdn.discordapp.com/clan-badges/1234059646390767717/fdcca1baff8053b5a5f51f50760c7b67.png",
         "invite": "https://discord.gg/t4d7EXyDpk",
-        "name": "\u0323\u0323 \u3000katseye (kats) \\\\ #ROADTO400",
+        "name": "\u0323\u0323 \u3000katseye (gnarly) \\\\ #ROADTO450",
         "tag": "KATS"
     },
     "1234126814994108508": {
@@ -2187,8 +2208,8 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1251511165335633920/d5fcfb1c1d7458030137d85d1c9f6feb.png",
         "invite": "https://discord.gg/5YDVymwGfJ",
-        "name": "/okii  >\u15dc<  tag",
-        "tag": ">\u15dc<"
+        "name": "/okii  >\u2e1d\u2e1d<  tag",
+        "tag": ">\u2e1d\u2e1d<"
     },
     "1251531395965386824": {
         "added_at": 1746816776,
@@ -2222,7 +2243,7 @@
         "added_at": 1746909670,
         "icon": "https://cdn.discordapp.com/clan-badges/1253922002553536636/d22ef2475283f52dfe80e34fe99442dd.png",
         "invite": "https://discord.gg/2mmwsSVTWk",
-        "name": "bae tag (.gg/rosie)",
+        "name": "bae guild (.gg/rosie)",
         "tag": "bae"
     },
     "1254960057473564762": {
@@ -2245,13 +2266,6 @@
         "invite": "https://discord.gg/stKvWJvx2V",
         "name": "wioskowa hustlerka",
         "tag": "PCD"
-    },
-    "1255324183894954014": {
-        "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1255324183894954014/c4f3da46145cc6bedafa4b771ed0ed4e.png",
-        "invite": "https://discord.gg/BuuB6CPug7",
-        "name": "guild",
-        "tag": "\u3042\u17b5\u17b5"
     },
     "1255858644965396550": {
         "added_at": 1746828587,
@@ -2402,10 +2416,10 @@
     },
     "1264604073953329238": {
         "added_at": 1746820995,
-        "icon": "https://cdn.discordapp.com/clan-badges/1264604073953329238/66e6116fb71622d52bed149a17914270.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1264604073953329238/71ad19a2603191a0dc56568625dabb50.png",
         "invite": "https://discord.gg/fivemtag",
         "name": "suomi rp lase | .gg/fivemtag",
-        "tag": "lase"
+        "tag": "\ufb01vem"
     },
     "1264933284119449620": {
         "added_at": 1746828891,
@@ -2488,7 +2502,7 @@
         "added_at": 1746851323,
         "icon": "https://cdn.discordapp.com/clan-badges/1268747419747880980/310d9b669d687de773b5f3b5310ca1f3.png",
         "invite": "https://discord.gg/sybau",
-        "name": "Rizzlers",
+        "name": "/sybau",
         "tag": "rizz"
     },
     "1269541841917710336": {
@@ -2511,6 +2525,13 @@
         "invite": "https://discord.gg/UhBhjnSe",
         "name": "JKMC - Mini-jeux 1.21.4",
         "tag": "JKMC"
+    },
+    "1269805716424884306": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1269805716424884306/9c4a3c6d3b2026599ba798c4efc07a00.png",
+        "invite": "https://discord.gg/3jaCUtAQAr",
+        "name": "\ufe52eyek\uaa04ns \ufe52\ufe52 [NRLY]    ||  #RT100",
+        "tag": "NRLY"
     },
     "1269956577096630345": {
         "added_at": 1746816776,
@@ -2535,10 +2556,10 @@
     },
     "1270765263788310641": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1270765263788310641/b1dc33d557c4d3c9db80ac12762f5b9f.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1270765263788310641/e701df75ce906698f0d02ce19bf7c8c6.png",
         "invite": "https://discord.gg/27",
         "name": "paranoid",
-        "tag": "69"
+        "tag": "27"
     },
     "1270810383262683146": {
         "added_at": 1746898788,
@@ -2549,10 +2570,10 @@
     },
     "1270813881425592414": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1270813881425592414/4136604a53bc5397f6974d6d0ba04d79.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1270813881425592414/3d4781850446d62d6ff76db57e2ba77a.png",
         "invite": "https://discord.gg/kyu",
         "name": "\uaa86\u09ce     kyu    \u318d",
-        "tag": "xo"
+        "tag": "tuna"
     },
     "1271108571249250377": {
         "added_at": 1746902380,
@@ -2656,7 +2677,7 @@
         "added_at": 1746911492,
         "icon": "https://cdn.discordapp.com/clan-badges/1277841018825478164/c08ecb1ef98d938294b1db84ca629ef7.png",
         "invite": "https://discord.gg/pBVaD7wNq8",
-        "name": "LORD TAG \ud83d\udc51 | Egirls\u30fbGuild Tags\u30fbSocial\u30fbAnime\u30fbActive\u30fbSelfies",
+        "name": "LORD TAG \ud83d\udc51 #guilds",
         "tag": "LORD"
     },
     "1278019494391840810": {
@@ -2724,10 +2745,10 @@
     },
     "1279945878182039572": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1279945878182039572/22f8c38a62b66123c4242d0cbdd46282.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1279945878182039572/76e358d951d7bb7d73d4c80ea0b064a5.png",
         "invite": "https://discord.gg/Ajvxm9PnpP",
         "name": "GLSeriesDEV",
-        "tag": "SUDO"
+        "tag": "JS"
     },
     "1279958878414573610": {
         "added_at": 1746816776,
@@ -2752,14 +2773,14 @@
     },
     "1280113642410475614": {
         "added_at": 1746905723,
-        "icon": "https://cdn.discordapp.com/clan-badges/1280113642410475614/675842192e283acebb77e62f0d8e7b92.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1280113642410475614/d39d45c63a05e8c9445fe2189aa4bd37.png",
         "invite": "https://discord.gg/cev",
         "name": "Cerv",
-        "tag": "6lo"
+        "tag": "111"
     },
     "1280731001508855858": {
         "added_at": 1746902380,
-        "icon": "https://cdn.discordapp.com/clan-badges/1280731001508855858/90a3edbdc5465bd6b6574adadb29b32e.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1280731001508855858/7ed83c50c593aa899b58345840ca4e5b.png",
         "invite": "https://discord.gg/comandorp",
         "name": "COMANDO RJ",
         "tag": "CMRJ"
@@ -2808,10 +2829,10 @@
     },
     "1283056755336806463": {
         "added_at": 1746909670,
-        "icon": "https://cdn.discordapp.com/clan-badges/1283056755336806463/b70926c4409284ee5f7ecae334eed9fe.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1283056755336806463/9b43d5ec59ffd0a187b7d343ac707643.png",
         "invite": "https://discord.gg/GkJGNhSjWM",
         "name": "w47 #fam",
-        "tag": "O\u0130O"
+        "tag": "BJK"
     },
     "1283437828495245342": {
         "added_at": 1746898788,
@@ -2845,7 +2866,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1286367955378114601/caa9534ee34c4cc7f42d36bebc8b43be.png",
         "invite": "https://discord.gg/Z86xc8JtfC",
-        "name": "\ud835\udde8.\ud835\uddd5.\ud835\uddec.\ud835\udddc.\ud835\udde6",
+        "name": "U.B.Y.I.S {HTML TAG}",
         "tag": "HTML"
     },
     "1286763440291053568": {
@@ -2862,12 +2883,26 @@
         "name": "Friendship_Heaven",
         "tag": "SEX!"
     },
+    "1287481774343061606": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1287481774343061606/dc61eaed9e8b012148661df1ada874e6.png",
+        "invite": "https://discord.gg/6YEUxq4WUf",
+        "name": "zuni",
+        "tag": "Zuni"
+    },
     "1287733119239065671": {
         "added_at": 1746817019,
         "icon": "https://cdn.discordapp.com/clan-badges/1287733119239065671/59efe4dd36faa2a69b4e7dae5ac2e77d.png",
         "invite": "https://discord.gg/otaku-cz-sk",
         "name": "Otaku CZ/SK \u2022 WEEB Tag",
         "tag": "WEEB"
+    },
+    "1287890674192224356": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1287890674192224356/439c5b7117f3f3e8e574b4766d1b7e73.png",
+        "invite": "https://discord.gg/qEtVaxdmF3",
+        "name": "Galactic Gamers",
+        "tag": "LUCK"
     },
     "1288270870455779392": {
         "added_at": 1746898788,
@@ -3013,7 +3048,7 @@
         "added_at": 1746848287,
         "icon": "https://cdn.discordapp.com/clan-badges/1294028715742990367/c1fc87918ae8cf5a0ba32a2ecd486914.png",
         "invite": "https://discord.gg/ud94uJhBtK",
-        "name": "be in .gg/dolly 2 enter !",
+        "name": "awh .gg/dolly",
         "tag": "awh"
     },
     "1294208081244459060": {
@@ -3069,7 +3104,7 @@
         "added_at": 1746829805,
         "icon": "https://cdn.discordapp.com/clan-badges/1295713501679190016/c58c5a1e1673b2bdf038763fb75ff8ac.png",
         "invite": "https://discord.gg/JQDpkzbN6g",
-        "name": "\ud83c\udf08 \u2002ttzewo\ufe55emotes hub\u2002\u266a\u2002( \u02f6\u1d54\u1d17\u1d54\u02f5 )\u2002\ud83c\udf37\ud83d\udcab   \u2002 \u2002 resources \ufe52cute \ufe52 decor \ufe52text",
+        "name": "\ud83c\udf08 \u2002ttzewo\ufe55emotes hub\u2002\u266a\u2002( \u02f6\u1d54\u1d17\u1d54\u02f5 )\u2002\ud83d\udcab   \u2002 \u2002 resources \ufe52cute \ufe52 decor \ufe52text \ufe52guild \ufe52tag",
         "tag": "\u208a\ud83e\udee7\u025e"
     },
     "1295808187148140544": {
@@ -3127,13 +3162,6 @@
         "invite": "https://discord.gg/uncoverit",
         "name": "Uncover it",
         "tag": "SKID"
-    },
-    "1298761182676516965": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1298761182676516965/871622d8e68c1402786cbfe8ee329c7f.png",
-        "invite": "https://discord.gg/YAQ5MJVCKr",
-        "name": "TCHECA",
-        "tag": "1912"
     },
     "1298809915430797343": {
         "added_at": 1746835874,
@@ -3193,7 +3221,7 @@
     },
     "1301723634125246484": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1301723634125246484/fae4db2c7664adbc8f09c6381c09c0d2.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1301723634125246484/1f9010f77f92f8490eb5f584732d4814.png",
         "invite": "https://discord.gg/JpeKrcTS",
         "name": "yeezy twins !",
         "tag": "YEEZ"
@@ -3328,15 +3356,22 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1309246461099380766/80e49bbcd08c608a6f49671e2d0828da.png",
         "invite": "https://discord.gg/b5YwZZeMs7",
-        "name": "V-Shop",
+        "name": "V-SHOP",
         "tag": "$DMA"
     },
     "1309426739759288371": {
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1309426739759288371/2d9908aeb26b0c8d246dbd97f8258a72.png",
         "invite": "https://discord.gg/WCkn6mfJVz",
-        "name": "\u4e48 Eternal on TOP",
+        "name": "\u4e48 ETR on TOP",
         "tag": "ETR"
+    },
+    "1309678410255044628": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1309678410255044628/8d61abb8b5da075befaff858861dba54.png",
+        "invite": "https://discord.gg/zjG5dMMcpH",
+        "name": "Polaroid Love",
+        "tag": "l\u101ase"
     },
     "1310105911993438298": {
         "added_at": 1746866198,
@@ -3391,7 +3426,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1314324899086598174/b1a70b12c9fc93280fd0f46b4365019c.png",
         "invite": "https://discord.gg/U4MYajScMr",
-        "name": "/apocalypse",
+        "name": "apocalypse",
         "tag": "\u17b5\ud808\ude6d"
     },
     "1314357693384888451": {
@@ -3424,7 +3459,7 @@
     },
     "1314993142193328158": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1314993142193328158/c06ecaa9053c582b894a78177f3ea744.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1314993142193328158/84412606536488d76915487613779361.png",
         "invite": "https://discord.gg/murderstock",
         "name": "Murder Stock",
         "tag": "MSLS"
@@ -3481,7 +3516,7 @@
     "1317073182741631026": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1317073182741631026/e293f0290c00205caf530f1cce8187fe.png",
-        "invite": "https://discord.gg/mhSNxjVH",
+        "invite": "https://discord.gg/qRAdBuXV",
         "name": "THE Herta Station .gg/sweett",
         "tag": "Yuki"
     },
@@ -3616,7 +3651,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1324470709535244319/8e228078dc56d4ad8bdccb696d4e90be.png",
         "invite": "https://discord.gg/8wmsFKutJc",
         "name": "#K O",
-        "tag": "K O."
+        "tag": "K O"
     },
     "1324500353252720650": {
         "added_at": 1746816776,
@@ -3923,7 +3958,7 @@
         "added_at": 1746912404,
         "icon": "https://cdn.discordapp.com/clan-badges/1334530067015139430/80e5e6bdbdd81e95b650670b2afba2cc.png",
         "invite": "https://discord.gg/veilofdesire",
-        "name": "\u26e7\u20dd Veil Of Desire \u26e7\u20dd",
+        "name": "\u26e7Veil Of Desire\u26e7",
         "tag": "BDSM"
     },
     "1334572600684449895": {
@@ -3935,17 +3970,24 @@
     },
     "1334652504457084948": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1334652504457084948/2024c67cbcf8f78be3703be483177e98.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1334652504457084948/7dff089fbee252a67e72a08ae58a0376.png",
         "invite": "https://discord.gg/XWJGPynpM6",
-        "name": "/residence #\u0714\u0714\u071b\u0714 tag",
-        "tag": "\u0714\u0714\u071b\u0714"
+        "name": "/residence # \u7948\u308b tag",
+        "tag": "#\u7948\u308b"
     },
     "1334983098034815017": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1334983098034815017/c0f7cd8a9397e280344d205ca7e31bf9.png",
         "invite": "https://discord.gg/ZxAzgedS5Y",
-        "name": "Server TAG - OFF",
+        "name": "OFF Official",
         "tag": "OFF"
+    },
+    "1335270427257339984": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1335270427257339984/1256c924cab5f85e093a1b9be3065d92.png",
+        "invite": "https://discord.gg/jnt",
+        "name": "JNT (m.A.A.d Industries)",
+        "tag": "JNT"
     },
     "1335730872761974907": {
         "added_at": 1746860429,
@@ -4082,7 +4124,7 @@
     },
     "1339268103942443040": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1339268103942443040/04cee49fbcaa69a71206ccb637470e72.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1339268103942443040/3d67dec5dff3a7d999042257b6a5f19a.png",
         "invite": "https://discord.gg/j6hEEZrewZ",
         "name": "Breezabelle Beach",
         "tag": "FNCS"
@@ -4098,7 +4140,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1339699977500233960/2d9908aeb26b0c8d246dbd97f8258a72.png",
         "invite": "https://discord.gg/69gWfYR5HV",
-        "name": "DOTA",
+        "name": "DOTA TAG",
         "tag": "Dota"
     },
     "1339758993962307666": {
@@ -4148,13 +4190,13 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1340323478955626567/37d1ac35ec7e43844ee2901cce3055fc.png",
         "invite": "https://discord.gg/tPWa3BXnse",
         "name": "Project \ud835\udc12\ud835\udc1a\ud835\udc24\ud835\udc1a\ud835\udc22\ud83c\udf38",
-        "tag": "DGSI"
+        "tag": ".py"
     },
     "1340358162318098522": {
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1340358162318098522/413dd660c07a79aa402b2be39d3fe95e.png",
         "invite": "https://discord.gg/uVgtjcftGg",
-        "name": "MVP",
+        "name": "MVP TAG",
         "tag": "MVP"
     },
     "1340360475774554214": {
@@ -4173,7 +4215,7 @@
     },
     "1340994021350182922": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1340994021350182922/036a27b8bfc2e610e0c74802c295c969.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1340994021350182922/c0e3400d7d0b1da9c2d2b8b2a09cb45c.png",
         "invite": "https://discord.gg/gabSMaG78V",
         "name": "25ms Hideout",
         "tag": "25ms"
@@ -4210,7 +4252,7 @@
         "added_at": 1746902380,
         "icon": "https://cdn.discordapp.com/clan-badges/1341562910513561610/c1fc87918ae8cf5a0ba32a2ecd486914.png",
         "invite": "https://discord.gg/B4wJPZqTe4",
-        "name": "join /dolly",
+        "name": "dear .gg/dolly",
         "tag": "dear"
     },
     "1341726047330238464": {
@@ -4315,7 +4357,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1346502409563668604/c95a3e30f3c55a5364a7138600ae14d2.png",
         "invite": "https://discord.gg/GhwHBSWAtH",
-        "name": "\u5fc3\u7d2ftag",
+        "name": "\u5fc3\u7d2f / Tag",
         "tag": "\u5fc3\u7d2f"
     },
     "1346522530977943582": {
@@ -4453,7 +4495,7 @@
     },
     "1350210004917162036": {
         "added_at": 1746831321,
-        "icon": "https://cdn.discordapp.com/clan-badges/1350210004917162036/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1350210004917162036/7b571a46a1266491cfabe2e362aad176.png",
         "invite": "https://discord.gg/toonsuniverse",
         "name": "Toon's Universe [IN-DEV]",
         "tag": "TOON"
@@ -4492,13 +4534,6 @@
         "invite": "https://discord.gg/jvsZYeqTvb",
         "name": "drew's house",
         "tag": "brat"
-    },
-    "1351275099982135306": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1351275099982135306/b6f6582eb0301ce069e00b2a99323975.png",
-        "invite": "https://discord.gg/Pn8GJxQQTB",
-        "name": "OH YEAAHH BABY",
-        "tag": "arab"
     },
     "1351303828418334740": {
         "added_at": 1746816776,
@@ -4574,8 +4609,8 @@
         "added_at": 1746827980,
         "icon": "https://cdn.discordapp.com/clan-badges/1353523369450016831/b0036e060a7976dec28e5c8543ff6fff.png",
         "invite": "https://discord.gg/yeonbin",
-        "name": "+x+",
-        "tag": "+x+"
+        "name": "+\u00d7+",
+        "tag": "+\u00d7+"
     },
     "1353583735596912670": {
         "added_at": 1746816776,
@@ -4588,7 +4623,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1354099871300456498/f69ad1ad319003337f26608fb7cef44c.png",
         "invite": "https://discord.gg/VuZNFepSYP",
-        "name": "\u22c6\u02da\u0fd4 seal tag \ud835\udf17\ud835\udf1a\u02da\u22c6  (revamp)",
+        "name": "\u22c6\u02da\u0fd4 seal tag \ud835\udf17\ud835\udf1a\u02da\u22c6 GUILD (revamp)",
         "tag": "seal"
     },
     "1354243847223382086": {
@@ -4616,7 +4651,7 @@
         "added_at": 1746903598,
         "icon": "https://cdn.discordapp.com/clan-badges/1354516834988064930/e929e1c0111f2acf104ba53aefc5ee44.png",
         "invite": "https://discord.gg/Mhg6zduUBx",
-        "name": "X X L",
+        "name": "X X L #FreeTag",
         "tag": "XXL"
     },
     "1354546342994903332": {
@@ -4740,7 +4775,7 @@
     },
     "1357392134973686093": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1357392134973686093/ffea1dd56904e1479b8d5e67b907ad65.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1357392134973686093/736e7d8bb18ed68b6e0223765e79015e.png",
         "invite": "https://discord.gg/knBaxJVMSP",
         "name": "QLF",
         "tag": "QLF"
@@ -4922,7 +4957,7 @@
     },
     "1361511073882308619": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1361511073882308619/e9eebc59f8cbb87d52e352e4fc1fd10d.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1361511073882308619/439c5b7117f3f3e8e574b4766d1b7e73.png",
         "invite": "https://discord.gg/rNmpuKkZxS",
         "name": "#fall /falling",
         "tag": "fall"
@@ -4973,7 +5008,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1362610785729384560/44f48a03d37997a937aea7127c1f7197.png",
         "invite": "https://discord.gg/sYpeJXugvZ",
-        "name": "Axol Guild",
+        "name": "Axol #TAG",
         "tag": "Axol"
     },
     "1362725530968916188": {
@@ -4992,10 +5027,10 @@
     },
     "1362954033970548736": {
         "added_at": 1746912708,
-        "icon": "https://cdn.discordapp.com/clan-badges/1362954033970548736/878c62b6694a4f5931104f766191bec7.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1362954033970548736/cbc8765dbaa3acebe39059b5a02fb40b.png",
         "invite": "https://discord.gg/2pYA3FrCua",
-        "name": ";-; | TAG de L'empire de KanekiTV",
-        "tag": ";-;"
+        "name": "UuU | TAG de L'empire de KanekiTV",
+        "tag": "UuU"
     },
     "1363079879406518452": {
         "added_at": 1746823430,
@@ -5102,6 +5137,13 @@
         "name": "Ayuna \ud83c\udfef #\ud83c\uddef\ud83c\uddf5",
         "tag": "Nerd"
     },
+    "1363961197170528276": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1363961197170528276/310d9b669d687de773b5f3b5310ca1f3.png",
+        "invite": "https://discord.gg/sz2ZQ5kFzW",
+        "name": "x_x",
+        "tag": "x_x"
+    },
     "1363986065639084106": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1363986065639084106/c21599057ae3684bb57fc3bfc248283e.png",
@@ -5186,6 +5228,13 @@
         "name": "Sunshi \ud83c\udfaa #GW",
         "tag": "SNSH"
     },
+    "1365357449858515055": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1365357449858515055/723f9e19e5a65a7ee484a517b159e3cf.png",
+        "invite": "https://discord.gg/coldw",
+        "name": "/coldw",
+        "tag": "esex"
+    },
     "1365428253208088648": {
         "added_at": 1746865591,
         "icon": "https://cdn.discordapp.com/clan-badges/1365428253208088648/5772c9a719f7ef3cfc14740285ef63e0.png",
@@ -5204,8 +5253,8 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1365671612749185116/296ae7223e4db0860f08c622f2afc1f4.png",
         "invite": "https://discord.gg/Gd6xJREwqJ",
-        "name": "Sans Serenity (100+ guilds) \ud80c\udc83\ud80c\udc83\u2661",
-        "tag": "San"
+        "name": "Sans Serenity | 100+ Free Guilds \ud80c\udc83\ud80c\udc83\u2661",
+        "tag": "\u0670\u0670\u0670"
     },
     "1365717794137833513": {
         "added_at": 1746846465,
@@ -5258,7 +5307,7 @@
     },
     "1366434354879791124": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1366434354879791124/ee44075c4a9674a9f750537a0e8f7276.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1366434354879791124/71ad19a2603191a0dc56568625dabb50.png",
         "invite": "https://discord.gg/BFP83BJzDr",
         "name": "B7",
         "tag": "B7"
@@ -5272,7 +5321,7 @@
     },
     "1366727541787725874": {
         "added_at": 1746907545,
-        "icon": "https://cdn.discordapp.com/clan-badges/1366727541787725874/f62c3c2c4c6e3ce4e09f3a51044877ec.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1366727541787725874/7dff089fbee252a67e72a08ae58a0376.png",
         "invite": "https://discord.gg/QkWqSF8WJA",
         "name": "elysium",
         "tag": "kne"
@@ -5295,7 +5344,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1367215879489716297/86735389348f3eacfa519eb553df38fd.png",
         "invite": "https://discord.gg/P2vvqbArwx",
-        "name": "Null Guild",
+        "name": "Null #TAG",
         "tag": "Null"
     },
     "1367231264246993058": {
@@ -5323,7 +5372,7 @@
         "added_at": 1746911797,
         "icon": "https://cdn.discordapp.com/clan-badges/1367555361191497749/643aa6e57aa06162bc2c1f86edd32bfe.png",
         "invite": "https://discord.gg/KhDkFzHgAe",
-        "name": "test server",
+        "name": "\u0b6d\u09ce #guild",
         "tag": "\u0b6d\u09ce"
     },
     "1368260314864423044": {
@@ -5339,13 +5388,6 @@
         "invite": "https://discord.gg/vNKs5FpqZh",
         "name": "Zem",
         "tag": "Zem"
-    },
-    "1368359928112091196": {
-        "added_at": 1746827980,
-        "icon": "https://cdn.discordapp.com/clan-badges/1368359928112091196/dc61eaed9e8b012148661df1ada874e6.png",
-        "invite": "https://discord.gg/kRttr9563F",
-        "name": "Dead Rails Services",
-        "tag": "777"
     },
     "1368383142083428552": {
         "added_at": 1746816776,
@@ -5400,8 +5442,8 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1368945405320101929/0c4836959b0927609b8a156381a666df.png",
         "invite": "https://discord.gg/4dqnZDk2ch",
-        "name": "#sync tag",
-        "tag": "sync"
+        "name": "Heiwa \ud83e\udd40 #SYNC",
+        "tag": "SYNC"
     },
     "1368990963862863872": {
         "added_at": 1746816776,
@@ -6161,7 +6203,7 @@
     },
     "1369174127801405492": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369174127801405492/8d61abb8b5da075befaff858861dba54.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369174127801405492/bb6f447245dd4c9243d2aeb61d26154d.png",
         "invite": "https://discord.gg/ZJkbJC42WM",
         "name": "This is SNOW joke!",
         "tag": "SNOW"
@@ -7045,7 +7087,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1369295280134164571/e701df75ce906698f0d02ce19bf7c8c6.png",
         "invite": "https://discord.gg/jsv8ZQTUT7",
-        "name": "/xhrome > boost = tag",
+        "name": "/x > boost = tag",
         "tag": "\u6d77\u5916"
     },
     "1369295566596472894": {
@@ -7136,7 +7178,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369305106276679792/5d879ca7ede0b494b85bf02dcfaf9d37.png",
         "invite": "https://discord.gg/8NgHXDSR8b",
-        "name": "Elixir Lab Tag",
+        "name": "Lab Tag",
         "tag": "LAB"
     },
     "1369305363291177041": {
@@ -7302,14 +7344,14 @@
     },
     "1369315940352921672": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369315940352921672/54d05843d1be923b53482c8ecfa01b3a.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369315940352921672/71c3273d2faa1fd226eb3288ad3c444a.png",
         "invite": "https://discord.gg/mYduhTmRhs",
         "name": "\u2728 Official Tag RTX",
         "tag": "RTX"
     },
     "1369315968307695727": {
         "added_at": 1746912101,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369315968307695727/e929e1c0111f2acf104ba53aefc5ee44.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369315968307695727/40a7aa796426347d6b76d20dfed2c273.png",
         "invite": "https://discord.gg/63eawB6NDq",
         "name": "#SLAY",
         "tag": "SLAY"
@@ -7598,7 +7640,7 @@
         "added_at": 1746833142,
         "icon": "https://cdn.discordapp.com/clan-badges/1369338771476185119/4d6d0a54a28859fb2b8ce09ee98b6f72.png",
         "invite": "https://discord.gg/Kqp2JnNvwd",
-        "name": "Selling guilds [5] left in stock",
+        "name": "Selling guilds [4] left in stock",
         "tag": "ogu"
     },
     "1369339721670721647": {
@@ -7652,10 +7694,10 @@
     },
     "1369341963794387085": {
         "added_at": 1746911797,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369341963794387085/302fa822733a87718c36661b637b67ed.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369341963794387085/e701df75ce906698f0d02ce19bf7c8c6.png",
         "invite": "https://discord.gg/4sRrZqX8gZ",
         "name": "xd",
-        "tag": "\u1d54\u1d55\u1d54"
+        "tag": "^_^"
     },
     "1369342035995267153": {
         "added_at": 1746816776,
@@ -7897,10 +7939,10 @@
     },
     "1369355939333013546": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369355939333013546/d5f1d03a2e4d13d568a35169eca064e3.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369355939333013546/b6f6582eb0301ce069e00b2a99323975.png",
         "invite": "https://discord.gg/wmEdrTQgem",
-        "name": "/lovespell [softy]",
-        "tag": "so\ufb05y"
+        "name": "/row",
+        "tag": "\u1dbb \ud835\uddd3"
     },
     "1369356005569204337": {
         "added_at": 1746857087,
@@ -8051,10 +8093,10 @@
     },
     "1369364294650560573": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369364294650560573/ea76d37bcd6f1b0543efcce6c32fe999.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369364294650560573/1897636167e0b09146fb12ce58e63294.png",
         "invite": "https://discord.gg/7gmVPzth5N",
         "name": "yvl",
-        "tag": "yvl"
+        "tag": "com"
     },
     "1369364302938636318": {
         "added_at": 1746816776,
@@ -8200,7 +8242,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369371488402149468/35b98e39f9421ac829ee3e08338c863f.png",
         "invite": "https://discord.gg/richtag",
-        "name": "Rich tag",
+        "name": "rich | .gg/deadtag",
         "tag": "rich"
     },
     "1369371531817517258": {
@@ -8373,10 +8415,10 @@
     },
     "1369382775400042526": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369382775400042526/2d9908aeb26b0c8d246dbd97f8258a72.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369382775400042526/a3157678d3f97d789e959f9c62499918.png",
         "invite": "https://discord.gg/SRKGpFhKDP",
         "name": "xxx",
-        "tag": "212"
+        "tag": "Hlel"
     },
     "1369382919948210248": {
         "added_at": 1746816776,
@@ -8396,7 +8438,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369383012667756694/b6f6582eb0301ce069e00b2a99323975.png",
         "invite": "https://discord.gg/rSwyFUQvzg",
-        "name": "\u611b\u3057\u3066 | #3.6k",
+        "name": "\u611b\u3057\u3066 | #3.7k",
         "tag": "\u611b\u3057\u3066"
     },
     "1369383992570413107": {
@@ -8408,10 +8450,10 @@
     },
     "1369384153929482373": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369384153929482373/5f7162b1e1b367bc02d35da917d81f0f.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369384153929482373/e701df75ce906698f0d02ce19bf7c8c6.png",
         "invite": "https://discord.gg/HBgcyvHCzf",
         "name": "\ud835\udc53\ud835\udc4e\ud835\udc59\ud835\udc59\ud835\udc52\ud835\udc5b \ud835\udc4e\ud835\udc5b\ud835\udc54el\u015f \u27e1 \u08ea \u02d6",
-        "tag": "\u061b \u0b13"
+        "tag": "\u0b13 \u207a"
     },
     "1369384950159114394": {
         "added_at": 1746816776,
@@ -8735,6 +8777,13 @@
         "name": "/RE4L #tag",
         "tag": "RE4L"
     },
+    "1369398823012663327": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1369398823012663327/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
+        "invite": "https://discord.gg/q6jmU8XVZa",
+        "name": "Cow Hub",
+        "tag": "kiss"
+    },
     "1369399297224872080": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369399297224872080/e701df75ce906698f0d02ce19bf7c8c6.png",
@@ -8970,7 +9019,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369409344818643025/407da8e0eaca1d368e20172bccd3dcf7.png",
         "invite": "https://discord.gg/rDvRhneBnq",
-        "name": "enha , deco & nitro giveaway",
+        "name": "enha , nitro giveaway",
         "tag": "enha"
     },
     "1369409454562611280": {
@@ -9322,13 +9371,6 @@
         "invite": "https://discord.gg/ww5fehpu9q",
         "name": "\u611b.",
         "tag": "\u611b."
-    },
-    "1369424571488276572": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369424571488276572/2d9908aeb26b0c8d246dbd97f8258a72.png",
-        "invite": "https://discord.gg/cAuBbCtPMF",
-        "name": "FILMS GRATUITS",
-        "tag": "FILM"
     },
     "1369424772848685056": {
         "added_at": 1746816776,
@@ -9784,13 +9826,6 @@
         "invite": "https://discord.gg/rBXrMgeM57",
         "name": "wolf club",
         "tag": "LOL"
-    },
-    "1369440204779425882": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369440204779425882/024e2e3b8f54596f3e60a8a50df06f18.png",
-        "invite": "https://discord.gg/milftag",
-        "name": "Milf Hunters",
-        "tag": "\u041cILF"
     },
     "1369440410186940537": {
         "added_at": 1746816776,
@@ -10564,16 +10599,16 @@
     },
     "1369470682634911765": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369470682634911765/4b70e09b6b8ddf55b5f9dc6816636760.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369470682634911765/439c5b7117f3f3e8e574b4766d1b7e73.png",
         "invite": "https://discord.gg/yaRWP9C36T",
-        "name": "s1xo",
-        "tag": "s1xo"
+        "name": "s1xo | \u3055\u304f\u3089 Tag",
+        "tag": "\u3055\u304f\u3089"
     },
     "1369472413137637537": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369472413137637537/b1dc33d557c4d3c9db80ac12762f5b9f.png",
         "invite": "https://discord.gg/XDxPxRvSGv",
-        "name": "#GOON",
+        "name": "#GOON TAG",
         "tag": "GOON"
     },
     "1369472510864658494": {
@@ -10690,10 +10725,10 @@
     },
     "1369477797327671436": {
         "added_at": 1746828891,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369477797327671436/8e228078dc56d4ad8bdccb696d4e90be.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369477797327671436/b1dc33d557c4d3c9db80ac12762f5b9f.png",
         "invite": "https://discord.gg/6fNJmgYjuY",
-        "name": "Luxe #Guild",
-        "tag": "Luxe"
+        "name": "BUG #Guild",
+        "tag": "1945"
     },
     "1369478033978822726": {
         "added_at": 1746816776,
@@ -10736,6 +10771,13 @@
         "invite": "https://discord.gg/exitings",
         "name": "/exitings",
         "tag": "drug"
+    },
+    "1369479117141053450": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1369479117141053450/d84985dab45c3cdcf569e45b89851750.png",
+        "invite": "https://discord.gg/AfcWPxRsSc",
+        "name": "\u17b5\u17b5\u17b5",
+        "tag": "\u17b5\u17b5\u17b5"
     },
     "1369479368287584266": {
         "added_at": 1746816776,
@@ -10877,13 +10919,6 @@
         "name": "Titanium Network REAL",
         "tag": "TN"
     },
-    "1369485638331662346": {
-        "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369485638331662346/b6f6582eb0301ce069e00b2a99323975.png",
-        "invite": "https://discord.gg/sfrguild",
-        "name": "discord.gg/sfrguild",
-        "tag": "MT07"
-    },
     "1369485990657261662": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369485990657261662/3131ac380549eadc0f8c9a797f61a0e4.png",
@@ -10972,7 +11007,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369489613881737317/439c5b7117f3f3e8e574b4766d1b7e73.png",
         "invite": "https://discord.gg/QA366AJsyW",
-        "name": "\ud83e\udd0d\u2027\u208a\u02da",
+        "name": "\ud83e\udd0d \u08ea",
         "tag": "\u17b5\u17b5\u17b5"
     },
     "1369489835860955329": {
@@ -11222,7 +11257,7 @@
     },
     "1369503138398212106": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369503138398212106/f1f151b677eeb0a383f5ef49bf477759.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369503138398212106/d47865f61606d8aa2e47af5d93afbb4a.png",
         "invite": "https://discord.gg/gkHHZczg",
         "name": "ONE OF ONE #XENIAL",
         "tag": "\uff11OF\uff11"
@@ -11420,7 +11455,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1369514396782690354/40a7aa796426347d6b76d20dfed2c273.png",
         "invite": "https://discord.gg/DdgcUMZKWT",
-        "name": "immortality\u3000\ud80c\udf7c\u3000guild tag.\u3000manhwa.\u3000social.\u3000decor.\u3000giveaways.",
+        "name": "immortality\u3000\ud80c\udf7c\u3000guild tag.\u3000manhwa.\u3000social.\u3000decor.",
         "tag": "love"
     },
     "1369514939743731793": {
@@ -11511,7 +11546,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369521607290126507/cbc8765dbaa3acebe39059b5a02fb40b.png",
         "invite": "https://discord.gg/r659zMFmrT",
-        "name": "\ud83c\udf37 \ud80c\udc83     \u2661 \u05c2 \ud80c\ude12    /mwahs",
+        "name": "\ufe59\ud83c\udf37\ufe5a /mw\u0251hs !  \ufe35\u22b9",
         "tag": "mwah"
     },
     "1369521701024567369": {
@@ -11595,8 +11630,8 @@
         "added_at": 1746870146,
         "icon": "https://cdn.discordapp.com/clan-badges/1369525843860389888/8e228078dc56d4ad8bdccb696d4e90be.png",
         "invite": "https://discord.gg/HHVEb2EUre",
-        "name": "NEW /kawai",
-        "tag": "NEW"
+        "name": "VIP /kawai",
+        "tag": "VIP"
     },
     "1369525854941614133": {
         "added_at": 1746816776,
@@ -11656,10 +11691,10 @@
     },
     "1369533044003831958": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369533044003831958/c4d1831d52614158f78e8961586b9521.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369533044003831958/b99e78bf77cf7ec079e222a6156b05a8.png",
         "invite": "https://discord.gg/VfacAFyW76",
-        "name": "VOID - Server Tag",
-        "tag": "V\u00d8ID"
+        "name": "ICE - Server Tag",
+        "tag": "ICE"
     },
     "1369533529393991764": {
         "added_at": 1746816776,
@@ -11868,7 +11903,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369545460536053880/878c62b6694a4f5931104f766191bec7.png",
         "invite": "https://discord.gg/TfBkmuSk6Z",
-        "name": "T1",
+        "name": "\ud835\udc13\ud835\udfcf - \ud835\udc0b\ud835\udc1e\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc1d\ud835\udc2c \ud835\udc27\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc1d\ud835\udc22\ud835\udc1e",
         "tag": "T1"
     },
     "1369545694511366217": {
@@ -12027,10 +12062,10 @@
     },
     "1369556898961035386": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369556898961035386/e929e1c0111f2acf104ba53aefc5ee44.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369556898961035386/8d61abb8b5da075befaff858861dba54.png",
         "invite": "https://discord.gg/JTm5fWfUCJ",
-        "name": "esex tag\u3000\u3000[\u3000.gg/furina\u3000]",
-        "tag": "esex"
+        "name": "PJSK tag\u3000\u3000[\u3000.gg/furina\u3000]",
+        "tag": "PJSK"
     },
     "1369556922545602630": {
         "added_at": 1746816776,
@@ -12065,7 +12100,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1369558675131338825/f72a2a0d942473f055e3939cfd997fec.png",
         "invite": "https://discord.gg/jzSzMs62VG",
         "name": "[\ud83c\udf44]\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b",
-        "tag": "\u17b5\u17b5\u17b5"
+        "tag": "\u17b5\u17b5"
     },
     "1369559026257625109": {
         "added_at": 1746816776,
@@ -12748,7 +12783,7 @@
     },
     "1369599589073813566": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369599589073813566/7bb16a6b44a57fd4b0656f107fee47b0.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369599589073813566/9b43d5ec59ffd0a187b7d343ac707643.png",
         "invite": "https://discord.gg/sEvYr8pSqR",
         "name": "Las Noches",
         "tag": "moon"
@@ -13199,7 +13234,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1369623090132418571/a3290d71cdc373a5f63598746c8f1476.png",
         "invite": "https://discord.gg/HMxMAuFSRn",
         "name": "\ud835\udcd3\ud835\udcf2\ud835\udcfc\ud835\udcec\ud835\udcf8\ud835\udcfb\ud835\udced \ud835\udcd2\ud835\udcfb\ud835\udcee\ud835\udcea\ud835\udcfd\ud835\udcf8\ud835\udcfb\ud835\udcfc   \u2022  \ud835\udcd2\ud835\udcf8\ud835\udcf6\ud835\udcf9\ud835\udcea\ud835\udcf7\ud835\udd02",
-        "tag": "DSCD"
+        "tag": "GG"
     },
     "1369623216728965160": {
         "added_at": 1746816776,
@@ -13474,19 +13509,12 @@
         "name": "Honkai Star Rail Tag",
         "tag": "HSR"
     },
-    "1369633671119900754": {
-        "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369633671119900754/ff0b7f5d8673ee1d559ea38452d73079.png",
-        "invite": "https://discord.gg/kDyqTRfAzM",
-        "name": "\u30e1 | vn's tag",
-        "tag": "\u30e1\u02d1"
-    },
     "1369634088947814540": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369634088947814540/c08ecb1ef98d938294b1db84ca629ef7.png",
         "invite": "https://discord.gg/YMD7CXpmRR",
         "name": "xxx",
-        "tag": "\u0674\u0674"
+        "tag": "xxx"
     },
     "1369634176101388288": {
         "added_at": 1746816776,
@@ -13641,13 +13669,6 @@
         "invite": "https://discord.gg/nMxbXdD4tz",
         "name": "\u3047\u3059 - /rupture",
         "tag": "\u3047\u3059"
-    },
-    "1369639152374648952": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369639152374648952/2c7aa014ee3599b6b7089ce933971852.png",
-        "invite": "https://discord.gg/1804",
-        "name": "1 8 0 4",
-        "tag": "1804"
     },
     "1369639152752267274": {
         "added_at": 1746816776,
@@ -13971,16 +13992,9 @@
         "name": "Larpers #1K",
         "tag": "LARP"
     },
-    "1369651939943645204": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369651939943645204/eda770f3d7806c5809adda0215c166b3.png",
-        "invite": "https://discord.gg/DtWH96jwYK",
-        "name": "Pure | Community, Giveaways, Tag",
-        "tag": "Pure"
-    },
     "1369652125206057000": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369652125206057000/1c8f8efb11de25463d853de6f864ffc6.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369652125206057000/cbc8765dbaa3acebe39059b5a02fb40b.png",
         "invite": "https://discord.gg/rnW7XVtDXc",
         "name": "izna tag | .gg/kpopping",
         "tag": "izna"
@@ -14276,7 +14290,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369663254485274697/4bab303ceaf56f565d1695cf161dc4e0.png",
         "invite": "https://discord.gg/bluetag",
-        "name": "Blue | Social\u30fbEmotes \u30fbNitro\u30fbEgirls\u30fbChill \u02d6 \u1863\ud802\udf69 \u22b9 \u08ea  \u0c68\u09ce\u02da\u208a",
+        "name": "Blue TAG | Social\u30fbEmotes \u30fbNitro\u30fbEgirls\u30fbChill \u02d6 \u1863\ud802\udf69 \u22b9 \u08ea  \u0c68\u09ce\u02da\u208a",
         "tag": "BLUE"
     },
     "1369663500749897728": {
@@ -14547,7 +14561,7 @@
     },
     "1369672831125815336": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369672831125815336/de8656b2e6c0f826ebe803d1e465d168.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369672831125815336/7ce00debf2e25ceb1f37810127fe8c5f.png",
         "invite": "https://discord.gg/dgY6ZN5nNv",
         "name": "SHUUUUUUUUUUUUUUUUU",
         "tag": "SHU"
@@ -14757,7 +14771,7 @@
     },
     "1369680824823451728": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369680824823451728/e701df75ce906698f0d02ce19bf7c8c6.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369680824823451728/85b6826b23632b3754f865e8cd9462d1.png",
         "invite": "https://discord.gg/pYWVrpysY4",
         "name": "\ua8be\ud80c\udf62\u05b4\u0ecb",
         "tag": "\u0b68\u09ce"
@@ -14839,6 +14853,13 @@
         "name": "\u0b13\u0660 \u08ea\ud835\ude27\ud835\ude33\ud835\ude26\ud835\ude22\ud835\ude2c\ud835\ude37\ud835\ude2a\ud835\ude2d\ud835\ude2d\ud835\ude26.\u141f \u2e3b #\u0714\u0714\u071b\u0714",
         "tag": "\u0714\u0714\u071b\u0714"
     },
+    "1369683452412039292": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1369683452412039292/79dae93b4acc456cc8aaf6ed2accc540.png",
+        "invite": "https://discord.gg/8uGQexyv",
+        "name": "JULY <mAKE YOUR TAG>",
+        "tag": "\u0639\u0646\u0632\u064a"
+    },
     "1369683481856315463": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369683481856315463/57105dd5d54ebb9faef5e1b90c3768e1.png",
@@ -14873,13 +14894,6 @@
         "invite": "https://discord.gg/FXn877x9Bf",
         "name": "discord.gg/mobi Tag",
         "tag": "\u0645\u0648\u0628\u064a"
-    },
-    "1369683772970111086": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369683772970111086/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
-        "invite": "https://discord.gg/ndegQDphPx",
-        "name": "#Boobs .gg/packer",
-        "tag": "b\u101abs"
     },
     "1369684136763195402": {
         "added_at": 1746816776,
@@ -14941,7 +14955,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369686064490614865/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
         "invite": "https://discord.gg/rusBn9SJJ8",
-        "name": "/bbctag",
+        "name": "/bbctag #1",
         "tag": "BBC"
     },
     "1369686164428161075": {
@@ -15069,13 +15083,6 @@
         "invite": "https://discord.gg/XuSCkAgeEm",
         "name": "xxx",
         "tag": "xxx"
-    },
-    "1369689072431272006": {
-        "added_at": 1746902380,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369689072431272006/4ef966b9bdd3ca7155e184e893314cd6.png",
-        "invite": "https://discord.gg/84F9ZzCb4J",
-        "name": "The Elite Hub | Nitro, Bots, Events",
-        "tag": "ez"
     },
     "1369689509645783050": {
         "added_at": 1746816776,
@@ -15226,7 +15233,7 @@
     },
     "1369693469278474401": {
         "added_at": 1746821301,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369693469278474401/90a3edbdc5465bd6b6574adadb29b32e.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369693469278474401/581615da9f5b8947d381f26ea6c27ae0.png",
         "invite": "https://discord.gg/hbMWqHPydf",
         "name": "F.B.I",
         "tag": "FBI"
@@ -15275,7 +15282,7 @@
     },
     "1369694747219857580": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369694747219857580/dee5623a135f339141047a82bfc7b070.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369694747219857580/2e57d950b3c2707a0265b57c56455bbc.png",
         "invite": "https://discord.gg/c2ftCm3mh5",
         "name": "@/cuty #tag",
         "tag": "cuty"
@@ -15326,7 +15333,7 @@
         "added_at": 1746818860,
         "icon": "https://cdn.discordapp.com/clan-badges/1369696328422002699/f9ab7eca127fe8531c1c836513a47b49.png",
         "invite": "https://discord.gg/h6jHqFyWFj",
-        "name": "TAGONSALE",
+        "name": "ETARRAS FOR LIFE",
         "tag": "#ETA"
     },
     "1369696480025251952": {
@@ -15366,10 +15373,10 @@
     },
     "1369698074439716926": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369698074439716926/40a7aa796426347d6b76d20dfed2c273.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369698074439716926/1331e1a773facc295e93bfebfbfbfd84.png",
         "invite": "https://discord.gg/F4PkqSQExm",
         "name": "you could never be us",
-        "tag": "-_\uff65"
+        "tag": "SSS"
     },
     "1369698532126363789": {
         "added_at": 1746816776,
@@ -15384,6 +15391,13 @@
         "invite": "https://discord.gg/litecoinz",
         "name": "/litecoinz [LTC]",
         "tag": "LTC"
+    },
+    "1369698844429778975": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1369698844429778975/8e151e60082d136fe4c95a9017d85374.png",
+        "invite": "https://discord.gg/g7z5RUsQt9",
+        "name": "smd | .gg/711",
+        "tag": "smd"
     },
     "1369698922641100934": {
         "added_at": 1746908456,
@@ -15604,7 +15618,7 @@
     },
     "1369705243213828238": {
         "added_at": 1746911492,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369705243213828238/0b3511a69a223eb46ecb6b7114a5c980.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369705243213828238/73a9b609a7cd4e7146487e2d6f193f20.png",
         "invite": "https://discord.gg/N2Q3fXjbWj",
         "name": "DE Tag",
         "tag": "DE"
@@ -15655,7 +15669,7 @@
         "added_at": 1746902380,
         "icon": "https://cdn.discordapp.com/clan-badges/1369706781990850621/bd82a508b43d7affd4d6585f98b7fcbf.png",
         "invite": "https://discord.gg/bfrncAHPHC",
-        "name": "Opium",
+        "name": "Opium /Aura",
         "tag": "AURA"
     },
     "1369707013524951211": {
@@ -15709,10 +15723,10 @@
     },
     "1369709249294368821": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369709249294368821/c08ecb1ef98d938294b1db84ca629ef7.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369709249294368821/b6f6582eb0301ce069e00b2a99323975.png",
         "invite": "https://discord.gg/yvMTFFh2hC",
         "name": "Chill",
-        "tag": ".EXE"
+        "tag": "VMX"
     },
     "1369709405305704520": {
         "added_at": 1746816776,
@@ -16069,7 +16083,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1369717304874762322/f3def05ceab06ae97fe453695fc99880.png",
         "invite": "https://discord.gg/7CbqKcf2A2",
         "name": "\u0323\u3000\u3000\u3000 \ud80c\udffc   \u03c5\u00b4\u2022 \ufecc \u2022`\u03c5",
-        "tag": "\u08ea \u08ea"
+        "tag": "\ud81a\uddc1\u1b6a\ufe12"
     },
     "1369717380716036196": {
         "added_at": 1746898788,
@@ -16152,7 +16166,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369719443030020238/828e642826b37de5d66f197dcbfecca5.png",
         "invite": "https://discord.gg/NU5hzaPTBA",
-        "name": "#Dino | Empire [Guild Hunts]",
+        "name": "#Dino's Guild [Guild Hunts]",
         "tag": "DINO"
     },
     "1369719491935604927": {
@@ -16201,7 +16215,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1369720055348334734/41ba180b92541a7a08c13d03961e840d.png",
         "invite": "https://discord.gg/uCUPgtqN6n",
-        "name": "WRLD \u2089\u2079\u2089",
+        "name": "Active Wrld \u2089\u2079\u2089",
         "tag": "\u17b5\u17b5"
     },
     "1369720204770148393": {
@@ -16273,6 +16287,13 @@
         "invite": "https://discord.gg/UydxksMjaM",
         "name": "NADANOMO :3",
         "tag": "NOMO"
+    },
+    "1369721058839494696": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1369721058839494696/668acd76f4d8a70256d2bc7604870aba.png",
+        "invite": "https://discord.gg/N8K6ThwGnq",
+        "name": "uet \u0482",
+        "tag": "uet"
     },
     "1369721195364225155": {
         "added_at": 1746816776,
@@ -16374,10 +16395,10 @@
     },
     "1369723744091902053": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369723744091902053/856cecbf8055036b98cf05fd54cd8872.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369723744091902053/b095cb2291d96f56e38368ace958eb99.png",
         "invite": "https://discord.gg/TbZaVtGrHV",
         "name": "marek",
-        "tag": "CBZC"
+        "tag": "TYMK"
     },
     "1369723822932103209": {
         "added_at": 1746849199,
@@ -16705,7 +16726,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369729986734325832/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
         "invite": "https://discord.gg/wsyrr7RuVf",
-        "name": "F@g tag - Apothecary Diaries",
+        "name": "YURIHIME HEAVEN / F@G TAG",
         "tag": "F@G"
     },
     "1369730227558940692": {
@@ -17027,7 +17048,7 @@
         "added_at": 1746829501,
         "icon": "https://cdn.discordapp.com/clan-badges/1369737121820049458/b4ae7f4aeb144f69b6fb4314b956a7be.png",
         "invite": "https://discord.gg/atz",
-        "name": "ateez guild \ud80c\udf6f\ud80c\udc83 #rt700",
+        "name": "ATZ guild \ud80c\udf6f\ud80c\udc83 #rt800",
         "tag": "ATZ"
     },
     "1369737152329420931": {
@@ -17035,7 +17056,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1369737152329420931/b1dc33d557c4d3c9db80ac12762f5b9f.png",
         "invite": "https://discord.gg/Ur5fyFAPJd",
         "name": "\uaa86\u09ce     envious",
-        "tag": "\u06dfNV"
+        "tag": "envy"
     },
     "1369737287033688175": {
         "added_at": 1746816776,
@@ -17109,10 +17130,10 @@
     },
     "1369738766305984612": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369738766305984612/e9eebc59f8cbb87d52e352e4fc1fd10d.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369738766305984612/b6f6582eb0301ce069e00b2a99323975.png",
         "invite": "https://discord.gg/GQJdMSJ98v",
-        "name": "miss /sexytag",
-        "tag": "MISS"
+        "name": "\ud83c\uddf5\ud83c\uddf8 /sexytag",
+        "tag": "ps"
     },
     "1369738822795133009": {
         "added_at": 1746816776,
@@ -17340,10 +17361,10 @@
     },
     "1369742337718358217": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369742337718358217/1897636167e0b09146fb12ce58e63294.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369742337718358217/ea76d37bcd6f1b0543efcce6c32fe999.png",
         "invite": "https://discord.gg/JkVnyAK6Z4",
         "name": "! Free guild tags method ^^",
-        "tag": "22"
+        "tag": "Js'"
     },
     "1369742343456034917": {
         "added_at": 1746816776,
@@ -17463,13 +17484,6 @@
         "invite": "https://discord.gg/XJd3CevHrC",
         "name": "fag guild",
         "tag": "fa\u0261"
-    },
-    "1369743867699662919": {
-        "added_at": 1746865591,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369743867699662919/2c7aa014ee3599b6b7089ce933971852.png",
-        "invite": "https://discord.gg/dDuNUFnTvt",
-        "name": "luth",
-        "tag": "luth"
     },
     "1369743870639865978": {
         "added_at": 1746870146,
@@ -17603,13 +17617,6 @@
         "invite": "https://discord.gg/tFmMhx2sCg",
         "name": "fart tag | #roadto500",
         "tag": "fart"
-    },
-    "1369745133142020137": {
-        "added_at": 1746903901,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369745133142020137/79366e8660935912726217b413fcc19b.png",
-        "invite": "https://discord.gg/UVGK6Ph37F",
-        "name": "#Death .gg/packer",
-        "tag": "Dea\u1d7a"
     },
     "1369745178218336406": {
         "added_at": 1746852536,
@@ -17867,7 +17874,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1369749139092537466/ba8a90eede32aca30ce7305dfb77b4cd.png",
         "invite": "https://discord.gg/j95MfJVmCf",
-        "name": "\u300c \u307e\u3069\u307b\u3080 \u300d~  \u208a   \ud83c\udf70   \u2218  mado\u035fkami",
+        "name": "\u300c \u307e\u3069\u307b\u3080 \u300d~  \u208a   \ud83c\udf70   \u2218  mado\u035fhomu",
         "tag": "\u307e\u3069\u307b\u3080"
     },
     "1369749143576117380": {
@@ -18033,7 +18040,7 @@
     },
     "1369751269178085478": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369751269178085478/ae06a22d25f68883ac93c36c6e4e057a.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369751269178085478/ea6c5e154b43f6af946df0e78c35421a.png",
         "invite": "https://discord.gg/Wrf5tWkvgd",
         "name": "HvH Tag | discord.gg/vac",
         "tag": "HvH"
@@ -18068,10 +18075,10 @@
     },
     "1369752390005293188": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369752390005293188/439c5b7117f3f3e8e574b4766d1b7e73.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369752390005293188/8b0922ae6dda9cb73407046df4de37b0.png",
         "invite": "https://discord.gg/5ZAcnquUHc",
         "name": "\u2b50Stars\u2b50",
-        "tag": "\uff33\uff34\uff21\uff32"
+        "tag": "\uff33\uff21\uff2e\uff35"
     },
     "1369752472087953418": {
         "added_at": 1746816776,
@@ -18103,7 +18110,7 @@
     },
     "1369753273170399354": {
         "added_at": 1746902687,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369753273170399354/c08ecb1ef98d938294b1db84ca629ef7.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369753273170399354/48d2557a1faf9a790dde3ad334e56efb.png",
         "invite": "https://discord.gg/U5KnVxVjs8",
         "name": "Tag [9LWA]",
         "tag": "9LWA"
@@ -18327,9 +18334,9 @@
     },
     "1369756925511729277": {
         "added_at": 1746905116,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369756925511729277/86735389348f3eacfa519eb553df38fd.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369756925511729277/c08ecb1ef98d938294b1db84ca629ef7.png",
         "invite": "https://discord.gg/QagFAbQQha",
-        "name": "VIVID ! ? .gg/QagFAbQQha",
+        "name": "\u06df\u06dfVIVID ? !",
         "tag": "\u2165VID"
     },
     "1369756975109374116": {
@@ -18350,8 +18357,8 @@
         "added_at": 1746821606,
         "icon": "https://cdn.discordapp.com/clan-badges/1369757184832835615/fa3033cd0045a5cd34578fa4b9c69d8b.png",
         "invite": "https://discord.gg/npTFq5wYxt",
-        "name": "Join for 150+ guilds free",
-        "tag": "\u17b5\u17b5\ud809\udc2b"
+        "name": "Join for 150+ guilds free\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a\ud809\udc2a",
+        "tag": "\u17b5\u17b5"
     },
     "1369757230186102889": {
         "added_at": 1746910885,
@@ -18595,7 +18602,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369760637051469915/a663262e3b46c8a75946c3affefe1087.png",
         "invite": "https://discord.gg/woda",
-        "name": "W\u00d3DA .gg/woda",
+        "name": "W\u00d3DA Tag  (.gg/woda)",
         "tag": "W\u00d3DA"
     },
     "1369760858011336987": {
@@ -18702,13 +18709,6 @@
         "invite": "https://discord.gg/Y6TnvrSqJ9",
         "name": "[UTA] /optags",
         "tag": "\uff35\uff34\uff21"
-    },
-    "1369761882537463960": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369761882537463960/c08ecb1ef98d938294b1db84ca629ef7.png",
-        "invite": "https://discord.gg/comtag",
-        "name": ".gg/slashzone [com]",
-        "tag": "com"
     },
     "1369761953672597675": {
         "added_at": 1746816776,
@@ -19022,8 +19022,8 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369766297151475743/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
         "invite": "https://discord.gg/WcbChsbxCX",
-        "name": "\u02d8\u03c9\u02d8 20+ FREE TAGS ~ Artist Haven\ud83e\udebdART\u318dSOCIAL\u318dGFX\u318dCOMMISSIONS\u318dGAMING",
-        "tag": "\u02d8\u03c9\u02d8"
+        "name": ">\u1d17< 20+ FREE TAGS ~ Artist Haven\ud83e\udebdART\u318dSOCIAL\u318dGFX\u318dCOMMISSIONS\u318dGAMING",
+        "tag": ">\u1d17<"
     },
     "1369766345968849117": {
         "added_at": 1746816776,
@@ -19134,7 +19134,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369768406949302332/7cb52a6cf038639233d628114d30d4da.png",
         "invite": "https://discord.gg/RwV6N7f3ak",
-        "name": "@champions",
+        "name": "@champions #REAL GUILD",
         "tag": "REAL"
     },
     "1369768425215230205": {
@@ -19160,10 +19160,10 @@
     },
     "1369769320032374864": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369769320032374864/80e5e6bdbdd81e95b650670b2afba2cc.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369769320032374864/170882eb861539a92e245c60aa978be5.png",
         "invite": "https://discord.gg/SSV5dSfuyc",
-        "name": "iy",
-        "tag": "law"
+        "name": "wrath",
+        "tag": "re"
     },
     "1369769375086940233": {
         "added_at": 1746816776,
@@ -19232,7 +19232,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1369770563295514777/cbc8765dbaa3acebe39059b5a02fb40b.png",
         "invite": "https://discord.gg/eWZD8xcGky",
-        "name": "Tag .gg/copacabana",
+        "name": "tag guild .gg/copacabana",
         "tag": "VIOL"
     },
     "1369770673135681536": {
@@ -19571,13 +19571,6 @@
         "name": "PWUC TAG",
         "tag": "KING"
     },
-    "1369777996583665836": {
-        "added_at": 1746908456,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369777996583665836/439c5b7117f3f3e8e574b4766d1b7e73.png",
-        "invite": "https://discord.gg/7bVvDVKAHv",
-        "name": "Sexy Tag",
-        "tag": "SEXY"
-    },
     "1369778028074238102": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369778028074238102/86735389348f3eacfa519eb553df38fd.png",
@@ -19736,7 +19729,7 @@
         "added_at": 1746908456,
         "icon": "https://cdn.discordapp.com/clan-badges/1369779504074985475/2d9908aeb26b0c8d246dbd97f8258a72.png",
         "invite": "https://discord.gg/TPczc5RdZG",
-        "name": "\u2705 fuh tag",
+        "name": "\u2705 #f\u1d1c\u0441k tag",
         "tag": "f\u1d1c\u0441k"
     },
     "1369779615039754300": {
@@ -19972,7 +19965,7 @@
     },
     "1369784280636592290": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369784280636592290/bc2f7685eed9d27522595f510bb2da48.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369784280636592290/b45decdadaf6179d9e53ea1aff4c6360.png",
         "invite": "https://discord.gg/2jyVsanX4N",
         "name": "Kali #Guild",
         "tag": "KALI"
@@ -20042,7 +20035,7 @@
     },
     "1369785292139008071": {
         "added_at": 1746818860,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369785292139008071/7dff089fbee252a67e72a08ae58a0376.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369785292139008071/a1a8d7066521a13ede4b94de530e98b5.png",
         "invite": "https://discord.gg/21official",
         "name": "21",
         "tag": "21"
@@ -20301,7 +20294,7 @@
     },
     "1369792942298107955": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369792942298107955/b6f6582eb0301ce069e00b2a99323975.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369792942298107955/ebdac6ffd0e0aa7c043950198981037b.png",
         "invite": "https://discord.gg/yNggMZaG3r",
         "name": "flxr | /slashkira",
         "tag": "flxr"
@@ -20402,7 +20395,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1369800477998579712/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
         "invite": "https://discord.gg/RxMRCEvYAU",
         "name": "Guild Rotator",
-        "tag": "kty"
+        "tag": "ass"
     },
     "1369803477399769219": {
         "added_at": 1746818860,
@@ -20457,7 +20450,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369805325473157150/bb6f447245dd4c9243d2aeb61d26154d.png",
         "invite": "https://discord.gg/s4nadev",
-        "name": "S4NA DEV - 1,1k #RETOUR",
+        "name": "S4NA DEV - 1,2k #RETOUR",
         "tag": "LUA"
     },
     "1369805534894624828": {
@@ -20595,7 +20588,7 @@
     },
     "1369817257764458536": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369817257764458536/42aad1537fe451bf76fcd0ed99343b6a.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369817257764458536/9b43d5ec59ffd0a187b7d343ac707643.png",
         "invite": "https://discord.gg/KtX8RKyTp4",
         "name": "BONBON'S  WORLD",
         "tag": "\u0334\u030b\u0352"
@@ -20628,13 +20621,6 @@
         "name": "\u2027\ufe35\u203f\u208a\u0b68\u0b67\u208a\u203f\ufe35\u2027",
         "tag": "BND"
     },
-    "1369819263816306698": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369819263816306698/74a4d9095719af0bbde0ceace6bdd965.png",
-        "invite": "https://discord.gg/TngCv2bvDJ",
-        "name": "UGC Shoppe Tag | .gg/freeugc",
-        "tag": "UGC"
-    },
     "1369819532004429915": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1369819532004429915/e701df75ce906698f0d02ce19bf7c8c6.png",
@@ -20655,13 +20641,6 @@
         "invite": "https://discord.gg/86yY4J5Wqe",
         "name": "! Ego Void",
         "tag": "EGO"
-    },
-    "1369823874434334821": {
-        "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369823874434334821/bb6f447245dd4c9243d2aeb61d26154d.png",
-        "invite": "https://discord.gg/gKGwXYmzXE",
-        "name": "we are moving",
-        "tag": "hi"
     },
     "1369824535939125269": {
         "added_at": 1746816776,
@@ -20782,13 +20761,6 @@
         "name": "/BOOL #BOOL",
         "tag": "BOOL"
     },
-    "1369837543385862174": {
-        "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369837543385862174/c08ecb1ef98d938294b1db84ca629ef7.png",
-        "invite": "https://discord.gg/YBzSJD8mJW",
-        "name": "cove",
-        "tag": "eel"
-    },
     "1369837690823905300": {
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1369837690823905300/950aeaf6df9f76c04fc86d1f7ab8f8aa.png",
@@ -20875,10 +20847,10 @@
     },
     "1369847294945394879": {
         "added_at": 1746852232,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369847294945394879/1b67d963490adf5e7b10527efebd4ebd.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369847294945394879/7f968d34689b032120d7a0f2a3d69b83.png",
         "invite": "https://discord.gg/DnB7nRKr9x",
         "name": ":\u0337\u0303\u0350",
-        "tag": ":\u0337\u0303\u0350"
+        "tag": "owns"
     },
     "1369847532683006034": {
         "added_at": 1746898788,
@@ -21053,7 +21025,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/1369867912436908073/091acfbf3528c0dc7cb4cc3ff0aa440c.png",
         "invite": "https://discord.gg/K8fakygECU",
         "name": "! Free guild tags method ^^",
-        "tag": "ava"
+        "tag": "lona"
     },
     "1369872019981733928": {
         "added_at": 1746816776,
@@ -21365,7 +21337,7 @@
     },
     "1369938872808636436": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369938872808636436/40a7aa796426347d6b76d20dfed2c273.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369938872808636436/f4ec9ed63d0c08927d8c66d354f86a77.png",
         "invite": "https://discord.gg/JgGtKr8qAb",
         "name": "PAWS | TAG",
         "tag": "PAWS"
@@ -21724,7 +21696,7 @@
         "added_at": 1746908456,
         "icon": "https://cdn.discordapp.com/clan-badges/1369993226907418716/dc61eaed9e8b012148661df1ada874e6.png",
         "invite": "https://discord.gg/srTnnwz2vE",
-        "name": "#Anonymous",
+        "name": "#Anonymous\ud83c\udf0e",
         "tag": "Anon"
     },
     "1369993477064097793": {
@@ -21743,7 +21715,7 @@
     },
     "1369996955941339251": {
         "added_at": 1746898788,
-        "icon": "https://cdn.discordapp.com/clan-badges/1369996955941339251/21129b437afdc5d4c56b399d9d86e25d.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1369996955941339251/8d61abb8b5da075befaff858861dba54.png",
         "invite": "https://discord.gg/TAjWn7vQQu",
         "name": "sora!",
         "tag": "sora"
@@ -21780,7 +21752,7 @@
         "added_at": 1746826160,
         "icon": "https://cdn.discordapp.com/clan-badges/1370002137299554385/c08ecb1ef98d938294b1db84ca629ef7.png",
         "invite": "https://discord.gg/tvXJ4HVYdN",
-        "name": ".exe\u30fb.gg/guildpb",
+        "name": "@eternxl\u30fb.exe\u30fb.gg/guildpb",
         "tag": ".exe"
     },
     "1370002442305142814": {
@@ -21941,7 +21913,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1370016584818622525/4ef966b9bdd3ca7155e184e893314cd6.png",
         "invite": "https://discord.gg/JFpVs9KZCH",
-        "name": "/bet \ud83d\udcb8 | VC & Social",
+        "name": "/bet \ud83d\udcb8 | VC & Social!",
         "tag": "/bet"
     },
     "1370017175997382706": {
@@ -22205,10 +22177,10 @@
     },
     "1370039829743796305": {
         "added_at": 1746832232,
-        "icon": "https://cdn.discordapp.com/clan-badges/1370039829743796305/84412606536488d76915487613779361.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1370039829743796305/80e49bbcd08c608a6f49671e2d0828da.png",
         "invite": "https://discord.gg/rxiwen",
         "name": "Raiwen Guild",
-        "tag": "\u00b2\u2074\u00b2"
+        "tag": "242"
     },
     "1370041509436457082": {
         "added_at": 1746816776,
@@ -22226,10 +22198,10 @@
     },
     "1370042370397044838": {
         "added_at": 1746902991,
-        "icon": "https://cdn.discordapp.com/clan-badges/1370042370397044838/8388948b433aa0fa792a29b1f286df5c.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1370042370397044838/d8028e3189542f9cd218c28373bc178a.png",
         "invite": "https://discord.gg/FsDYYsEeqf",
         "name": "juifance",
-        "tag": "hom0"
+        "tag": "HOM0"
     },
     "1370042652376043520": {
         "added_at": 1746898788,
@@ -22256,7 +22228,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1370044205518295142/2c7aa014ee3599b6b7089ce933971852.png",
         "invite": "https://discord.gg/yj7VBsPqtT",
-        "name": "@/Bagheraa #tag",
+        "name": "@/Bagheraa #bdg",
         "tag": "bdg"
     },
     "1370044460955865158": {
@@ -22277,7 +22249,7 @@
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1370045937807917176/cd5b2603983049a0b536baf3ca4e16c2.png",
         "invite": "https://discord.gg/CjH9aeZBkb",
-        "name": "( \u25e6 \u02d8\u1d17\u02d8) \u318ddj2l\u318drt 300",
+        "name": "( \u25e6 \u02d8\u1d17\u02d8) \u318ddj2l",
         "tag": "once"
     },
     "1370046153063796737": {
@@ -22399,6 +22371,13 @@
         "name": "\u2018$CAM",
         "tag": "SCAM"
     },
+    "1370056055446573116": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/1370056055446573116/ec60c5e6d1f14d3bbff586e2e0b9e54e.png",
+        "invite": "https://discord.gg/jerscGYkuH",
+        "name": "\u27b7\u2001\u2001\ufe52\u207e\u207e\u2001\u250a    /dino\u2003\u3000\u02d6\u2001\u02f3\u3000\u2445",
+        "tag": "DINO"
+    },
     "1370056110488289390": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/1370056110488289390/e701df75ce906698f0d02ce19bf7c8c6.png",
@@ -22424,7 +22403,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1370056442765246464/80e49bbcd08c608a6f49671e2d0828da.png",
         "invite": "https://discord.gg/esp",
-        "name": "ESCAPE GUILD #ESP",
+        "name": "ESCAPE GU\u0130LD #ESP",
         "tag": "ESP"
     },
     "1370056481696649236": {
@@ -22625,9 +22604,9 @@
     },
     "1370074312245248000": {
         "added_at": 1746841607,
-        "icon": "https://cdn.discordapp.com/clan-badges/1370074312245248000/c08ecb1ef98d938294b1db84ca629ef7.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1370074312245248000/b6f6582eb0301ce069e00b2a99323975.png",
         "invite": "https://discord.gg/UdPxmyp2ag",
-        "name": "Realshi Guild Server ( discord.gg/moddinghub)",
+        "name": "404 Guild",
         "tag": "404"
     },
     "1370074428603498626": {
@@ -22669,7 +22648,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/1370077287050907792/c08ecb1ef98d938294b1db84ca629ef7.png",
         "invite": "https://discord.gg/r1fle",
-        "name": "FREE TAG SERVERS",
+        "name": "GFX Rifle\u30fbEDITS & GFX",
         "tag": "\ufe3b\u82ab\u2550\u4e00"
     },
     "1370077609953591387": {
@@ -22737,10 +22716,10 @@
     },
     "1370083039799152690": {
         "added_at": 1746839517,
-        "icon": "https://cdn.discordapp.com/clan-badges/1370083039799152690/c08ecb1ef98d938294b1db84ca629ef7.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1370083039799152690/8004228b96cd496a1f199cad0c31c37f.png",
         "invite": "https://discord.gg/rrmznaxBtt",
-        "name": "FPVS Guild",
-        "tag": "FPVS"
+        "name": "SYKK Guild",
+        "tag": "SYKK"
     },
     "1370083468440240138": {
         "added_at": 1746816776,
@@ -22829,7 +22808,7 @@
     "1370089704917176320": {
         "added_at": 1746825250,
         "icon": "https://cdn.discordapp.com/clan-badges/1370089704917176320/80e5e6bdbdd81e95b650670b2afba2cc.png",
-        "invite": "https://discord.gg/p2N7s82x",
+        "invite": "https://discord.gg/PUdZmwhV",
         "name": "^-^",
         "tag": "^-^"
     },
@@ -22877,7 +22856,7 @@
     },
     "1370096273943691377": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/1370096273943691377/90a3edbdc5465bd6b6574adadb29b32e.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/1370096273943691377/2d9908aeb26b0c8d246dbd97f8258a72.png",
         "invite": "https://discord.gg/BbXHDgn3VX",
         "name": "Speed Hub X | Tags",
         "tag": "SHX"
@@ -23358,6 +23337,13 @@
         "name": "Ponyville Plaza",
         "tag": "PONY"
     },
+    "378239536939008000": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/378239536939008000/7064fb89f40b7c1cfb310925da246b02.png",
+        "invite": "https://discord.gg/whalesandgames",
+        "name": "Whales And Games \ud83d\udc33",
+        "tag": "WAG"
+    },
     "378599231583289346": {
         "added_at": 1746819163,
         "icon": "https://cdn.discordapp.com/clan-badges/378599231583289346/88b0208a10012f092152dad43dfaa344.png",
@@ -23575,6 +23561,13 @@
         "name": "World of Elsword",
         "tag": "OPO"
     },
+    "522088898541912094": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/522088898541912094/0437e66874944d9eafae8ed3b9b7418a.png",
+        "invite": "https://discord.gg/kasaneteto",
+        "name": "Kasane Teto",
+        "tag": "\u91cd\u97f3\u30c6\u30c8"
+    },
     "522561390330904585": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/522561390330904585/5fedbac57771e006269e8c2ff4a2426b.png",
@@ -23613,7 +23606,7 @@
     "537739586286387201": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/537739586286387201/fa9cc80236e71715c90d24db7ee9eb53.png",
-        "invite": "https://discord.gg/vPGj7CrE",
+        "invite": "https://discord.gg/4Bfkvd3u",
         "name": "PV",
         "tag": "PKMN"
     },
@@ -23829,10 +23822,10 @@
     },
     "649224774337429504": {
         "added_at": 1746908759,
-        "icon": "https://cdn.discordapp.com/clan-badges/649224774337429504/4b4669c9a863e95a08277b2c4260e48a.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/649224774337429504/0f3bee7076c72c56ed73c421c0bb7bf6.png",
         "invite": "https://discord.gg/QNgeMWM4qJ",
         "name": "\ud835\udd91\ud835\udd92\ud835\udd8a\ud835\udd94\ud835\udd9c",
-        "tag": "666"
+        "tag": "cook"
     },
     "650745730591621170": {
         "added_at": 1746844948,
@@ -24118,7 +24111,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/753077609713106975/d915e68da7eb5c82b216a0b64e59e836.png",
         "invite": "https://discord.gg/PqDHkkDBqK",
-        "name": "miku cult",
+        "name": "The Miku Cult",
         "tag": "MIKU"
     },
     "753262512618602498": {
@@ -24144,10 +24137,10 @@
     },
     "753437092486578217": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/753437092486578217/90a3edbdc5465bd6b6574adadb29b32e.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/753437092486578217/a2af5016c5dcf109209201491ec5d31a.png",
         "invite": "https://discord.gg/anytag",
-        "name": "Any Free Tag [Zov]",
-        "tag": "Zov"
+        "name": "Any Free Tag [L2NS]",
+        "tag": "L2NS"
     },
     "753930509721141259": {
         "added_at": 1746816776,
@@ -24174,7 +24167,7 @@
         "added_at": 1746898788,
         "icon": "https://cdn.discordapp.com/clan-badges/767550692897587210/9b43d5ec59ffd0a187b7d343ac707643.png",
         "invite": "https://discord.gg/KcEM2aqtfF",
-        "name": "1998",
+        "name": "1998 - [\u0b68\u3002\ud83e\udebd]",
         "tag": "\u0b68\u3002\ud83e\udebd"
     },
     "768022032965173258": {
@@ -24207,7 +24200,7 @@
     },
     "782007658295197746": {
         "added_at": 1746908759,
-        "icon": "https://cdn.discordapp.com/clan-badges/782007658295197746/11af4c0ef560821543db572234ed5d2a.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/782007658295197746/dc61eaed9e8b012148661df1ada874e6.png",
         "invite": "https://discord.gg/W4sUFHNXY9",
         "name": "Sea Soft",
         "tag": "SSFT"
@@ -24749,7 +24742,7 @@
         "icon": "https://cdn.discordapp.com/clan-badges/895776652032901200/2d8bea68b3152b52858942d2bc854cc7.png",
         "invite": "https://discord.gg/honeytea",
         "name": "honey&tea",
-        "tag": "BEE"
+        "tag": "bee"
     },
     "896184032088457276": {
         "added_at": 1746898788,
@@ -24774,10 +24767,10 @@
     },
     "898924023231168572": {
         "added_at": 1746816776,
-        "icon": "https://cdn.discordapp.com/clan-badges/898924023231168572/69d2e83de8eb2acc4b9708d21a8d5e6c.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/898924023231168572/6a3ca2eb7a2db8dcb3f8b531c66118af.png",
         "invite": "https://discord.gg/anyclan",
-        "name": "Any Free Tag [WRLD]",
-        "tag": "WRLD"
+        "name": "Any Free Tag [3000]",
+        "tag": "3000"
     },
     "899304252055388160": {
         "added_at": 1746898788,
@@ -25145,9 +25138,9 @@
     },
     "975473961183875202": {
         "added_at": 1746905723,
-        "icon": "https://cdn.discordapp.com/clan-badges/975473961183875202/b1dc33d557c4d3c9db80ac12762f5b9f.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/975473961183875202/79366e8660935912726217b413fcc19b.png",
         "invite": "https://discord.gg/z-6",
-        "name": "Zo6 Server tag",
+        "name": "Zo6 Server Tag",
         "tag": "Zo6"
     },
     "976200689996935178": {
@@ -25220,6 +25213,13 @@
         "name": "Capitano Mains | The Captain",
         "tag": "CAP"
     },
+    "986663574304882738": {
+        "added_at": 1746914820,
+        "icon": "https://cdn.discordapp.com/clan-badges/986663574304882738/1e6dec86bae5252dc83d8bec752cd688.png",
+        "invite": "https://discord.gg/VhEkvxaQsS",
+        "name": "Unit X #\u0632\u0628\u064a",
+        "tag": "\u0632\u0628\u064a"
+    },
     "986691543102529546": {
         "added_at": 1746816776,
         "icon": "https://cdn.discordapp.com/clan-badges/986691543102529546/500be9a65c7c74da48866d6bba3d3b2f.png",
@@ -25264,9 +25264,9 @@
     },
     "995024957828517921": {
         "added_at": 1746908456,
-        "icon": "https://cdn.discordapp.com/clan-badges/995024957828517921/4c6b987648217084cc4371c4f129b87b.png",
+        "icon": "https://cdn.discordapp.com/clan-badges/995024957828517921/1e686477a56034c12d28640a9abcdbfc.png",
         "invite": "https://discord.gg/JeybBvzTaY",
-        "name": ".gg/kpopmedia || #boost us",
+        "name": ".gg/kpopmedia || SKZ guild tag",
         "tag": "SKZ"
     },
     "995111025609298040": {

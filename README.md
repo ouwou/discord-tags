@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1349200415236821093/bbba913bfdc53aef3af68f612a75c9bf.png" width="24">BRAT | brat | [Brat](https://discord.gg/Brat) | 2025-05-10T07:35:55+00:00 | 1349200415236821093 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369625361490640916/e6b82d9fc4957498c27638f5fb209f0a.png" width="24">₊ ྀ | loathe | [3Ehm9DVHEY](https://discord.gg/3Ehm9DVHEY) | 2025-05-10T07:30:52+00:00 | 1369625361490640916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1168936936359067778/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">KⅲKⅲ | KiiiKiii | [kiiikiii](https://discord.gg/kiiikiii) | 2025-05-10T07:30:52+00:00 | 1168936936359067778 |
 | <img src="https://cdn.discordapp.com/clan-badges/1249171492030382171/1c8f8efb11de25463d853de6f864ffc6.png" width="24">Hive | The Hive | [hivee](https://discord.gg/hivee) | 2025-05-10T07:25:48+00:00 | 1249171492030382171 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1322683365534597162/1c8d422c5c8051d93fc0c549ea1f3675.png" width="24">ECHO | {18+} 🦋 End Of Wandering | [shorekeeper](https://discord.gg/shorekeeper) | 2025-05-10T04:03:25+00:00 | 1322683365534597162 |
 | <img src="https://cdn.discordapp.com/clan-badges/1357532302867173608/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">gm2l | gm2l tag | [UJ588b8R9z](https://discord.gg/UJ588b8R9z) | 2025-05-10T04:03:25+00:00 | 1357532302867173608 |
 | <img src="https://cdn.discordapp.com/clan-badges/969254826108141678/83bdd879e0f696069643beb82e02672f.png" width="24">豊川祥子 | 祥子的箱庭 | [qy7nKGJBJe](https://discord.gg/qy7nKGJBJe) | 2025-05-10T04:03:25+00:00 | 969254826108141678 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369443726983692409/ce1c41335a4912c38090c83d35139b7b.png" width="24">឵឵឵ | Lee&#x27;s other tag /VX4Hc... | [VX4HchrWQw](https://discord.gg/VX4HchrWQw) | 2025-05-10T03:53:19+00:00 | 1369443726983692409 |
 
 </details>
 
@@ -517,6 +517,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1331746892853547088/2fc9b7e638b9e75e6203c6f71f290537.png" width="24">BOSS | BOOSTS.TO ⚡ | [R4rUPB77am](https://discord.gg/R4rUPB77am) | 1331746892853547088 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369303809314259058/e84c2ac3de530f50220c77a5ab1242cb.png" width="24">BR | Comunidade Brasileira | [Z9V4Dz7KYc](https://discord.gg/Z9V4Dz7KYc) | 1369303809314259058 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369461818208293035/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BRAT | .gg/elo #BRAT | [fRSEEQPU57](https://discord.gg/fRSEEQPU57) | 1369461818208293035 |
+| <img src="https://cdn.discordapp.com/clan-badges/1349200415236821093/bbba913bfdc53aef3af68f612a75c9bf.png" width="24">BRAT | brat | [Brat](https://discord.gg/Brat) | 1349200415236821093 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369365679836496003/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">BRO | ⚡House of BRO⚡ | [YB7FeuVRMq](https://discord.gg/YB7FeuVRMq) | 1369365679836496003 |
 | <img src="https://cdn.discordapp.com/clan-badges/844285068275875890/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">BRUH | La cueva de Cosi | [la-cueva-de-cosi-844285068275875890](https://discord.gg/la-cueva-de-cosi-844285068275875890) | 844285068275875890 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369687947233984522/0dde9feca1e7ed7a89b27b1b5f9d3d87.png" width="24">BRUV | Oi Bruv | [oibruv](https://discord.gg/oibruv) | 1369687947233984522 |

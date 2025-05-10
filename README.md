@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/750365461945778209/364cc2917fe91d85b027939c3bbd7878.png" width="24">AGC | Anime &amp; Gaming Café [DE... | [animegamingcafe](https://discord.gg/animegamingcafe) | 2025-05-10T19:50:34+00:00 | 750365461945778209 |
+| <img src="https://cdn.discordapp.com/clan-badges/1175814404462354563/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">פרץ | Peretz Guild \| פרץ | [YrUNuNsk2v](https://discord.gg/YrUNuNsk2v) | 2025-05-10T19:50:34+00:00 | 1175814404462354563 |
 | <img src="https://cdn.discordapp.com/clan-badges/1217692523657691197/dea97e909a0211e2479d75cd11c2ec41.png" width="24">$oʟʀ | Solar | [rpNaRA4TQy](https://discord.gg/rpNaRA4TQy) | 2025-05-10T19:45:30+00:00 | 1217692523657691197 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369478334869672057/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">BRAT | BRAT guild  .𖥔 ݁ ˖ | [jVpAVDhUUz](https://discord.gg/jVpAVDhUUz) | 2025-05-10T19:45:30+00:00 | 1369478334869672057 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369763517590274209/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BABA | @babacik | [sahinler](https://discord.gg/sahinler) | 2025-05-10T19:40:26+00:00 | 1369763517590274209 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369758513236283417/79366e8660935912726217b413fcc19b.png" width="24">skel | /skel | [skel](https://discord.gg/skel) | 2025-05-10T18:39:40+00:00 | 1369758513236283417 |
 | <img src="https://cdn.discordapp.com/clan-badges/1347256039208390716/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">SZON | Fentanium Shop | [F2j3yH5UVv](https://discord.gg/F2j3yH5UVv) | 2025-05-10T18:39:40+00:00 | 1347256039208390716 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370002442305142814/f6d0b7cacf821c6e8b58fddd15d8ec1f.png" width="24">TITZ | Illumina | [uwnPzMpHfy](https://discord.gg/uwnPzMpHfy) | 2025-05-10T18:39:40+00:00 | 1370002442305142814 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370098512922022008/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">wuwa | Wuwa Core &gt;.&lt; | [sTpBhehDVd](https://discord.gg/sTpBhehDVd) | 2025-05-10T18:39:40+00:00 | 1370098512922022008 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369293856536924221/124ca7b01020626dc6baa3dc8eabc705.png" width="24">YURI | yuricord 2 | [k68NHSnARh](https://discord.gg/k68NHSnARh) | 2025-05-10T18:39:40+00:00 | 1369293856536924221 |
 
 </details>
 
@@ -434,6 +434,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1212499444080316476/56308c353f045e8a5cf12049912b4014.png" width="24">AET | Aeteris Fantasy+ | [aeteris](https://discord.gg/aeteris) | 1212499444080316476 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369195056082325554/39b2f39bec5d121b095b920f557b4c69.png" width="24">AFK | 熱風/Heat wind | [ZrjZfRzQsK](https://discord.gg/ZrjZfRzQsK) | 1369195056082325554 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369404360181944340/7b571a46a1266491cfabe2e362aad176.png" width="24">AFK | Tag: AFK | [T2ZGxhJHj7](https://discord.gg/T2ZGxhJHj7) | 1369404360181944340 |
+| <img src="https://cdn.discordapp.com/clan-badges/750365461945778209/364cc2917fe91d85b027939c3bbd7878.png" width="24">AGC | Anime &amp; Gaming Café [DE... | [animegamingcafe](https://discord.gg/animegamingcafe) | 750365461945778209 |
 | <img src="https://cdn.discordapp.com/clan-badges/781212328749301790/a706b26684db72a5d7e91ba17bb829b9.png" width="24">AI | Shapes.Inc | [shapes](https://discord.gg/shapes) | 781212328749301790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370019469241483414/e7c9a1c186c4b6e6ee99e2791e198d1e.png" width="24">AI | xliel development | [BuYDy6EqkE](https://discord.gg/BuYDy6EqkE) | 1370019469241483414 |
 | <img src="https://cdn.discordapp.com/clan-badges/1089675735788171287/a9dd253a3237515b30da0f5a0c82386f.png" width="24">AI | Ultimate AI /uai | [uai](https://discord.gg/uai) | 1089675735788171287 |
@@ -2966,6 +2967,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369635074395344998/e7d159ed722b033483c0153b5f3fc54f.png" width="24">֜猫 | [猫] Neko JP🇯🇵 \| dsc.gg/nek... | [cCKK3zZDzr](https://discord.gg/cCKK3zZDzr) | 1369635074395344998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1286763440291053568/ec20ca5dddf56fee2de29a88f17a885d.png" width="24">֪🫧 | f5ve | [FptRgdfeWq](https://discord.gg/FptRgdfeWq) | 1286763440291053568 |
 | <img src="https://cdn.discordapp.com/clan-badges/1299399491664744579/6473797948e6d36a991e425c8b7c353c.png" width="24">נודר | Israeli Friends | [Sj6kJAuAae](https://discord.gg/Sj6kJAuAae) | 1299399491664744579 |
+| <img src="https://cdn.discordapp.com/clan-badges/1175814404462354563/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">פרץ | Peretz Guild \| פרץ | [YrUNuNsk2v](https://discord.gg/YrUNuNsk2v) | 1175814404462354563 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369384153929482373/5f7162b1e1b367bc02d35da917d81f0f.png" width="24">؛ ଓ | 𝑓𝑎𝑙𝑙𝑒𝑛 𝑎𝑛𝑔elş ⟡ ࣪ ˖ | [HBgcyvHCzf](https://discord.gg/HBgcyvHCzf) | 1369384153929482373 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370017490788159499/3adf3f3b47fb8d2c8193d6344ce64d48.png" width="24">؛ ଓ | ଓ \| .gg/doyoung | [3ffukjPmu5](https://discord.gg/3ffukjPmu5) | 1370017490788159499 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369878272879624324/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">الله | الله \| Tag | [ncdvCBDqRJ](https://discord.gg/ncdvCBDqRJ) | 1369878272879624324 |

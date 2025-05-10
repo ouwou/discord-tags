@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369746395438911609/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">۫BSS | BISOUNOURS | [PJ8pFh4xuF](https://discord.gg/PJ8pFh4xuF) | 2025-05-10T00:51:43+00:00 | 1369746395438911609 |
+| <img src="https://cdn.discordapp.com/clan-badges/1205462766304108564/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">Lio | Liora | [lio](https://discord.gg/lio) | 2025-05-10T00:51:43+00:00 | 1205462766304108564 |
+| <img src="https://cdn.discordapp.com/clan-badges/1361754492684472400/411518c4bbb5d821fe85aae0acc553db.png" width="24">WEON | La Tierra Albana | [CxtumJabUW](https://discord.gg/CxtumJabUW) | 2025-05-10T00:51:43+00:00 | 1361754492684472400 |
+| <img src="https://cdn.discordapp.com/clan-badges/1227098137353785465/58577553e289fa56d6e29b2b89536fcd.png" width="24">WEST | West FFA | [m56h6FKhJA](https://discord.gg/m56h6FKhJA) | 2025-05-10T00:51:43+00:00 | 1227098137353785465 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778789474767008/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">˃ᆺ˂っ | indi&#x27;s Simps | [paZ29GzaEv](https://discord.gg/paZ29GzaEv) | 2025-05-10T00:46:39+00:00 | 1369778789474767008 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766682708414464/2e568133defeacdda313514ad69f30f1.png" width="24">HALO | HALO /deserved | [EX4z2FRHaY](https://discord.gg/EX4z2FRHaY) | 2025-05-10T00:46:39+00:00 | 1369766682708414464 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369427231532777543/4f8357c84f7d10d88e5b99bc0b989798.png" width="24">kira | #wife tag | [Y39xprtrzc](https://discord.gg/Y39xprtrzc) | 2025-05-10T00:46:39+00:00 | 1369427231532777543 |
@@ -101,10 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1350210004917162036/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">TOON | Toon&#x27;s Universe [IN-DEV] | [toonsuniverse](https://discord.gg/toonsuniverse) | 2025-05-09T22:55:21+00:00 | 1350210004917162036 |
 | <img src="https://cdn.discordapp.com/clan-badges/1253092552404631582/6082c2553b03b47ccaea5203567df3cf.png" width="24">ԁev | Lantern | [2qveccuq4c](https://discord.gg/2qveccuq4c) | 2025-05-09T22:50:18+00:00 | 1253092552404631582 |
 | <img src="https://cdn.discordapp.com/clan-badges/861445630698323998/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">MunA | Lado Oscuro de la Luna | [Bnbg4X4KqY](https://discord.gg/Bnbg4X4KqY) | 2025-05-09T22:45:14+00:00 | 861445630698323998 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369736581426184222/0454b7f9f28cf7f5dc5bbbdde005e3ba.png" width="24">OQTF | OQTF - /92ii | [KFYq9wku2z](https://discord.gg/KFYq9wku2z) | 2025-05-09T22:45:14+00:00 | 1369736581426184222 |
-| <img src="https://cdn.discordapp.com/clan-badges/1324219195990216809/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">UvU | UvU | [VKzzqdJemp](https://discord.gg/VKzzqdJemp) | 2025-05-09T22:45:14+00:00 | 1324219195990216809 |
-| <img src="https://cdn.discordapp.com/clan-badges/836674009260621884/aef7738ba114e121d617c8c20bf7f1d6.png" width="24">VAPE | ! VAPE | [vUajEJ8Npq](https://discord.gg/vUajEJ8Npq) | 2025-05-09T22:35:08+00:00 | 836674009260621884 |
-| <img src="https://cdn.discordapp.com/clan-badges/1295713501679190016/c58c5a1e1673b2bdf038763fb75ff8ac.png" width="24">₊🫧ɞ | 🌈  ttzewo﹕emotes hub ♪ ( ˶ᵔ... | [JQDpkzbN6g](https://discord.gg/JQDpkzbN6g) | 2025-05-09T22:30:05+00:00 | 1295713501679190016 |
 
 </details>
 
@@ -1090,6 +1090,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369119047735709787/23de16ac6769d50630cc8fb7e9993a76.png" width="24">Leaf | LeafLore | [CZcX8JwJM2](https://discord.gg/CZcX8JwJM2) | 1369119047735709787 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369729177481248958/15bbc0ff61141df6d3af31a798f01fda.png" width="24">Lhr | /tension #Lhr | [9uzKmGKmXR](https://discord.gg/9uzKmGKmXR) | 1369729177481248958 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726021791649914/bf46722e416c7607a3362934bbc42b2d.png" width="24">Lich | Phylactery Factory [Lich] | [YNN6ypRhVj](https://discord.gg/YNN6ypRhVj) | 1369726021791649914 |
+| <img src="https://cdn.discordapp.com/clan-badges/1205462766304108564/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">Lio | Liora | [lio](https://discord.gg/lio) | 1205462766304108564 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369551029296828446/78b1ebb6b97565376cb5345a0631e362.png" width="24">Lit | Lit | [83bAEfEK2r](https://discord.gg/83bAEfEK2r) | 1369551029296828446 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369469518379876352/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">Lord | the &quot;Lord&quot; guild. | [cBFmY4tkdZ](https://discord.gg/cBFmY4tkdZ) | 1369469518379876352 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369859367201017886/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">Love | Love Guild! Roblox and Soci... | [ZMHy99vtUS](https://discord.gg/ZMHy99vtUS) | 1369859367201017886 |
@@ -1684,6 +1685,8 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369655113551052872/c1e4439afa95753a4bab531e3c4c42d1.png" width="24">WEED | .gg/yea #WEED | [6c4XJvnaF8](https://discord.gg/6c4XJvnaF8) | 1369655113551052872 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369565242371342446/476dfc13edf9a9561a815e474ea05a3c.png" width="24">WEED | Geeked | [w9Z7UAtfxV](https://discord.gg/w9Z7UAtfxV) | 1369565242371342446 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369775394911162581/3da695a3845833b28878ed0d3d86dec6.png" width="24">WEED | WEED・.gg/guildpb | [95cYnV3Z3M](https://discord.gg/95cYnV3Z3M) | 1369775394911162581 |
+| <img src="https://cdn.discordapp.com/clan-badges/1361754492684472400/411518c4bbb5d821fe85aae0acc553db.png" width="24">WEON | La Tierra Albana | [CxtumJabUW](https://discord.gg/CxtumJabUW) | 1361754492684472400 |
+| <img src="https://cdn.discordapp.com/clan-badges/1227098137353785465/58577553e289fa56d6e29b2b89536fcd.png" width="24">WEST | West FFA | [m56h6FKhJA](https://discord.gg/m56h6FKhJA) | 1227098137353785465 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369888532247744604/79366e8660935912726217b413fcc19b.png" width="24">WGNR | PMC Wagner Group | [yhJvEgZE3b](https://discord.gg/yhJvEgZE3b) | 1369888532247744604 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369683549132816504/2c7aa014ee3599b6b7089ce933971852.png" width="24">WHY? | ＷＨＹ &amp;. | [whyguild](https://discord.gg/whyguild) | 1369683549132816504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369758876596961402/18a6033b09a10acad931e517ffe3e3d1.png" width="24">WISH | wish \| .gg/doyoung | [minjae](https://discord.gg/minjae) | 1369758876596961402 |
@@ -2399,6 +2402,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369582875539935233/70b4a0b96a668af3255865fe3ad2e151.png" width="24">۟۟メ | メ tag | [pjR2zV2kXV](https://discord.gg/pjR2zV2kXV) | 1369582875539935233 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369532221475520552/78613d6f33b84158b20123aa1a6ff4b2.png" width="24">۟۟感受 | 当我飞奔向你 ♡ 感受 | [EmM2m2Cuyz](https://discord.gg/EmM2m2Cuyz) | 1369532221475520552 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369362153538322483/0aa7b6e7cd6d867e4385e97cdfa85aed.png" width="24">۟我爱你 | /cinnabun guild ✿ 我爱你 | [GTSWfsAxdH](https://discord.gg/GTSWfsAxdH) | 1369362153538322483 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369746395438911609/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">۫BSS | BISOUNOURS | [PJ8pFh4xuF](https://discord.gg/PJ8pFh4xuF) | 1369746395438911609 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369284103047872583/a53dd00ecbce7968785fd128b0637ef2.png" width="24">۶ৎ | .gg/bowtag 🎀 GUILD GIVEAWAY! | [sZz6Xwuz7j](https://discord.gg/sZz6Xwuz7j) | 1369284103047872583 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369581088460242965/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">ܓܛܔܛ | ܓܛܔܛ | [FEjGPcsf6s](https://discord.gg/FEjGPcsf6s) | 1369581088460242965 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369481477221257327/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ܔܔܒܔ | .gg/yea #ܔܔܒܔ | [PC8fdrMDEt](https://discord.gg/PC8fdrMDEt) | 1369481477221257327 |

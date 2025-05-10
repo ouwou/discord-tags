@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1147934515482874036/9c7998338a95e2e7dea7b3d15b939252.png" width="24">PIWO | Trujki | [trujki](https://discord.gg/trujki) | 2025-05-10T21:21:41+00:00 | 1147934515482874036 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369783882563457034/75c9ec7cbcf9ce147ab04470a1b2882e.png" width="24">S4 | S4 - Guild | [qumP5NjRP5](https://discord.gg/qumP5NjRP5) | 2025-05-10T21:21:41+00:00 | 1369783882563457034 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369315968307695727/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">SLAY | #SLAY | [63eawB6NDq](https://discord.gg/63eawB6NDq) | 2025-05-10T21:21:41+00:00 | 1369315968307695727 |
 | <img src="https://cdn.discordapp.com/clan-badges/1366127495312834681/b6f6582eb0301ce069e00b2a99323975.png" width="24">702 | 702 | [vCcpJeJurc](https://discord.gg/vCcpJeJurc) | 2025-05-10T21:16:37+00:00 | 1366127495312834681 |
 | <img src="https://cdn.discordapp.com/clan-badges/1367555361191497749/643aa6e57aa06162bc2c1f86edd32bfe.png" width="24">୭ৎ | test server | [KhDkFzHgAe](https://discord.gg/KhDkFzHgAe) | 2025-05-10T21:16:37+00:00 | 1367555361191497749 |
 | <img src="https://cdn.discordapp.com/clan-badges/634814324405305392/3a2fa788212d163e9e789d7cfe40d0a8.png" width="24">BSWC | Beat Saber World Cup | [hTbQj4h](https://discord.gg/hTbQj4h) | 2025-05-10T21:16:37+00:00 | 634814324405305392 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1315643948089344041/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">555 | Community 465 | [465](https://discord.gg/465) | 2025-05-10T19:30:19+00:00 | 1315643948089344041 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369482432583172116/5607047f21b7e25a26c195cc49871278.png" width="24">DB | DB \| Guild Tag | [pxFjuj4z7y](https://discord.gg/pxFjuj4z7y) | 2025-05-10T19:30:19+00:00 | 1369482432583172116 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369552499622809660/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">ĐOΧ | ĐOΧ | [67kuvAnTnC](https://discord.gg/67kuvAnTnC) | 2025-05-10T19:30:19+00:00 | 1369552499622809660 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369688039437107260/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">HACK | HACK | [GW4brDbWTb](https://discord.gg/GW4brDbWTb) | 2025-05-10T19:30:19+00:00 | 1369688039437107260 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369491373316771981/7dff089fbee252a67e72a08ae58a0376.png" width="24">ROOT | R00T | [scampv](https://discord.gg/scampv) | 2025-05-10T19:30:19+00:00 | 1369491373316771981 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369800477998579712/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">kty | Guild Rotator | [RxMRCEvYAU](https://discord.gg/RxMRCEvYAU) | 2025-05-10T19:25:16+00:00 | 1369800477998579712 |
 
 </details>
 
@@ -1685,6 +1685,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369382008202985523/2f19ea247c104bbdb6409f4655a12eb0.png" width="24">PIV | TAG PiV | [P64bTNh2Bu](https://discord.gg/P64bTNh2Bu) | 1369382008202985523 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369562769896243273/c1e4439afa95753a4bab531e3c4c42d1.png" width="24">PIVO | Pivo Guild | [2pNJ45uDQ3](https://discord.gg/2pNJ45uDQ3) | 1369562769896243273 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369390216216838286/232d1d2a366ec512dde707821f672cce.png" width="24">PIWO | PIWO | [5hydBNQcYf](https://discord.gg/5hydBNQcYf) | 1369390216216838286 |
+| <img src="https://cdn.discordapp.com/clan-badges/1147934515482874036/9c7998338a95e2e7dea7b3d15b939252.png" width="24">PIWO | Trujki | [trujki](https://discord.gg/trujki) | 1147934515482874036 |
 | <img src="https://cdn.discordapp.com/clan-badges/1276260265570074624/e2b8a37aa14b4267fda7787367152db4.png" width="24">PIXY | Yaeland 𝟅𝟈 | [yaeland](https://discord.gg/yaeland) | 1276260265570074624 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755165678374947/eced65b15db98cbd32693d1c675d2550.png" width="24">PJSK | Resonance Sekai『PJSK』 | [AuJqS5qG7E](https://discord.gg/AuJqS5qG7E) | 1369755165678374947 |
 | <img src="https://cdn.discordapp.com/clan-badges/603592836046389259/ae2d30f3270a341b653356e855248624.png" width="24">PKMD | Pokemod | [pokemod](https://discord.gg/pokemod) | 603592836046389259 |
@@ -1848,6 +1849,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369586069397307503/90bc4c032bd1680b8bb6cd6439c82165.png" width="24">RѤKY | ricky﹐shen﹒guild ! | [M9CcA4bUex](https://discord.gg/M9CcA4bUex) | 1369586069397307503 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369758683298402414/74acbc35565322aa9552374da5648c70.png" width="24">S!TH | 𐌔𐌉𐌕H TAG + ORDER 66 | [GqPpxm5k7m](https://discord.gg/GqPpxm5k7m) | 1369758683298402414 |
 | <img src="https://cdn.discordapp.com/clan-badges/1339782011547684895/50d3f89dc91ffbec23c58a923957ce31.png" width="24">S2G | S2G Agency | [s2gagency](https://discord.gg/s2gagency) | 1339782011547684895 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369783882563457034/75c9ec7cbcf9ce147ab04470a1b2882e.png" width="24">S4 | S4 - Guild | [qumP5NjRP5](https://discord.gg/qumP5NjRP5) | 1369783882563457034 |
 | <img src="https://cdn.discordapp.com/clan-badges/1125484438151774238/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">S64 | 𝐒𝐈𝐓𝐄 - 64 \| Reclamated | [site64](https://discord.gg/site64) | 1125484438151774238 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369727130413568162/8d61abb8b5da075befaff858861dba54.png" width="24">SAB | Sabrina Guild | [sabguild](https://discord.gg/sabguild) | 1369727130413568162 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757340596961300/0fbc8c8317b2a2e5fb59a7d1ef5c2d27.png" width="24">SAFE | SAFE /pxguild | [hqucEtgrF4](https://discord.gg/hqucEtgrF4) | 1369757340596961300 |
@@ -1916,6 +1918,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369739100567109632/2aa3b8381586ace04e0cad3e289f710b.png" width="24">SLAV | SLAV Tag // SLAVIC NATSUKI ... | [C2gY7feZ8P](https://discord.gg/C2gY7feZ8P) | 1369739100567109632 |
 | <img src="https://cdn.discordapp.com/clan-badges/1075480726151110656/05cb08654576e2ecd44d2bbf399b8369.png" width="24">SLAY | The NXT ™ \|\| Chilling Ind... | [nxtontop](https://discord.gg/nxtontop) | 1075480726151110656 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370086057986625536/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">SLAY | 𝐁𝐞𝐜𝐤𝐲&#x27;𝐬 𝐡𝐞𝐚𝐯𝐞𝐧 𝜗𝜚˚⟡˖🍓 ... | [u2TfG9vFzW](https://discord.gg/u2TfG9vFzW) | 1370086057986625536 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369315968307695727/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">SLAY | #SLAY | [63eawB6NDq](https://discord.gg/63eawB6NDq) | 1369315968307695727 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369746580705382533/8d61abb8b5da075befaff858861dba54.png" width="24">SLKツ | SLK | [8fhm49YaFV](https://discord.gg/8fhm49YaFV) | 1369746580705382533 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369720756325580831/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">SLOP | SLOP Tag | [kuvbtFTqvy](https://discord.gg/kuvbtFTqvy) | 1369720756325580831 |
 | <img src="https://cdn.discordapp.com/clan-badges/1126961059450863686/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">SLOP | PTU Community Edition | [pizza-tower-united-community-edition-1126961059450863686](https://discord.gg/pizza-tower-united-community-edition-1126961059450863686) | 1126961059450863686 |

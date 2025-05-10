@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1365428253208088648/5772c9a719f7ef3cfc14740285ef63e0.png" width="24">DOG | DOG community | [qdmsrrnjfC](https://discord.gg/qdmsrrnjfC) | 2025-05-10T08:26:31+00:00 | 1365428253208088648 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369743867699662919/2c7aa014ee3599b6b7089ce933971852.png" width="24">luth | luth | [dDuNUFnTvt](https://discord.gg/dDuNUFnTvt) | 2025-05-10T08:26:31+00:00 | 1369743867699662919 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369927458542981130/fdbaebe7a1f45061dc927fd55ff2a4e4.png" width="24">２１０ | ２１０ | [210xd](https://discord.gg/210xd) | 2025-05-10T08:21:27+00:00 | 1369927458542981130 |
 | <img src="https://cdn.discordapp.com/clan-badges/1308388315686375505/59c0f381f2399f5317d14ebcda909857.png" width="24">CLIP | Clipster | [clipster](https://discord.gg/clipster) | 2025-05-10T08:21:27+00:00 | 1308388315686375505 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369329276704522384/1df194a28be91531690a9d563a4c11e4.png" width="24">ＰＩＶＯ | ＰＯＤＰＩＶＡＳＹ | [rb5M7XzZn2](https://discord.gg/rb5M7XzZn2) | 2025-05-10T08:21:27+00:00 | 1369329276704522384 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369749368013455510/70127f41d1ae1add6f99407705350527.png" width="24">ORIE | Wynnie Guild Tag | [kG8Bf7nsrt](https://discord.gg/kG8Bf7nsrt) | 2025-05-10T04:53:59+00:00 | 1369749368013455510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662024749158572/42e16d8eb4d30a9c10b1e01c1292fdc3.png" width="24">⸝⸝ | ឵឵❤ | [uDvvvhkbes](https://discord.gg/uDvvvhkbes) | 2025-05-10T04:48:56+00:00 | 1369662024749158572 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745178218336406/2bc22ec4ca99fe82c6ad5685f015eda1.png" width="24">NSFW | \~ gg/sanctuary18 | [ze4fvH5jVk](https://discord.gg/ze4fvH5jVk) | 2025-05-10T04:48:56+00:00 | 1369745178218336406 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369340344545579059/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">뽀삐야 | 뽀삐야 태그 | [vvQqJvSdka](https://discord.gg/vvQqJvSdka) | 2025-05-10T04:48:56+00:00 | 1369340344545579059 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369847294945394879/1b67d963490adf5e7b10527efebd4ebd.png" width="24">:̷̃͐ | :̷̃͐ | [DnB7nRKr9x](https://discord.gg/DnB7nRKr9x) | 2025-05-10T04:43:52+00:00 | 1369847294945394879 |
 
 </details>
 
@@ -675,6 +675,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1352629081350606929/86735389348f3eacfa519eb553df38fd.png" width="24">DMA | .gg/HeXCMF6kfX # DMA | [CxG3Kfx6H5](https://discord.gg/CxG3Kfx6H5) | 1352629081350606929 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369663823845265470/bf4e3803c3e26671c57da65208ec97b5.png" width="24">DND | DND \| .gg/plan | [ehKF5qtNMn](https://discord.gg/ehKF5qtNMn) | 1369663823845265470 |
 | <img src="https://cdn.discordapp.com/clan-badges/1118562379882577960/3135ff11e6e2f558840b4cab1df4c34e.png" width="24">DOG | # 🐶 DOGㅣfree tag server | [jCgSB6gh86](https://discord.gg/jCgSB6gh86) | 1118562379882577960 |
+| <img src="https://cdn.discordapp.com/clan-badges/1365428253208088648/5772c9a719f7ef3cfc14740285ef63e0.png" width="24">DOG | DOG community | [qdmsrrnjfC](https://discord.gg/qdmsrrnjfC) | 1365428253208088648 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369083185224482949/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">DOLL | .gg/yea #DOLL | [MfjECVUx5A](https://discord.gg/MfjECVUx5A) | 1369083185224482949 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369423161975767111/a787c205134a45b4cd6562ed660ae776.png" width="24">DOLL | ౨ৎ #DOLL .gg/bbly | [nkG5zBv5pS](https://discord.gg/nkG5zBv5pS) | 1369423161975767111 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369734682278625370/8388948b433aa0fa792a29b1f286df5c.png" width="24">DOLL | DOLL #Guild | [DJ9HtBYGuF](https://discord.gg/DJ9HtBYGuF) | 1369734682278625370 |
@@ -2175,6 +2176,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369752472087953418/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">lust | /yell #lust | [Z8pRJYYSvS](https://discord.gg/Z8pRJYYSvS) | 1369752472087953418 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369533575770148945/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">lust | .gg/yea #lust | [Esh5gAZ2cd](https://discord.gg/Esh5gAZ2cd) | 1369533575770148945 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369902506586669066/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">lust | lust /pxguild | [ZSHJHD82YY](https://discord.gg/ZSHJHD82YY) | 1369902506586669066 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369743867699662919/2c7aa014ee3599b6b7089ce933971852.png" width="24">luth | luth | [dDuNUFnTvt](https://discord.gg/dDuNUFnTvt) | 1369743867699662919 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369179186048008272/6ed48306563695cbd396eba421d99aaa.png" width="24">luv | Luvly・Chat・Community | [luvrr](https://discord.gg/luvrr) | 1369179186048008272 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369673550335574017/7dff089fbee252a67e72a08ae58a0376.png" width="24">luxe | Luxe - Guild | [luxeguild](https://discord.gg/luxeguild) | 1369673550335574017 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369692765109227733/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">lv | lv | [svDjzWp6DY](https://discord.gg/svDjzWp6DY) | 1369692765109227733 |

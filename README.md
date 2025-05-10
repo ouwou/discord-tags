@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/893784726656139344/21bf5dc5e9b4844f638c2f13221eff00.png" width="24">MW | Milky Way┋🚀 | [milkygw](https://discord.gg/milkygw) | 2025-05-10T07:56:10+00:00 | 893784726656139344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1360682084326183082/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">903 | 9 0 3 #Tag | [FXqNvmwqUD](https://discord.gg/FXqNvmwqUD) | 2025-05-10T07:51:06+00:00 | 1360682084326183082 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749178334449725/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">neko | kiffy ♡ | [F9vBS2d7](https://discord.gg/F9vBS2d7) | 2025-05-10T07:51:06+00:00 | 1369749178334449725 |
 | <img src="https://cdn.discordapp.com/clan-badges/1359324911629369477/d59219e207b2b31540814937861f57d1.png" width="24">rnoe | rnoeroid...♡ | [eq9dv3dhPu](https://discord.gg/eq9dv3dhPu) | 2025-05-10T07:51:06+00:00 | 1359324911629369477 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1339787909871439953/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">d4vd | 𝒹𝟦𝓋𝒹 𝑔𝓊𝒾𝓁𝒹 | [ZTZyR9peMa](https://discord.gg/ZTZyR9peMa) | 2025-05-10T04:23:39+00:00 | 1339787909871439953 |
 | <img src="https://cdn.discordapp.com/clan-badges/1025903728471052338/8d61abb8b5da075befaff858861dba54.png" width="24">백지헌 | zranger tips | [BHKXNcUK5c](https://discord.gg/BHKXNcUK5c) | 2025-05-10T04:23:39+00:00 | 1025903728471052338 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369875852887720107/cf4c1081a96c5297288a96ef4a76c36c.png" width="24">幹你娘 | 好有感覺 集會所 | [kumha2AnRu](https://discord.gg/kumha2AnRu) | 2025-05-10T04:23:39+00:00 | 1369875852887720107 |
-| <img src="https://cdn.discordapp.com/clan-badges/1134063169464193064/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">4 3 | 𝗦𝘁𝗮𝗿 | [st7](https://discord.gg/st7) | 2025-05-10T04:18:36+00:00 | 1134063169464193064 |
 
 </details>
 
@@ -1242,6 +1242,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369342035995267153/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">MVP | Chill Cord ✰ | [bdxPMw9GpX](https://discord.gg/bdxPMw9GpX) | 1369342035995267153 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369587693637337170/48d2557a1faf9a790dde3ad334e56efb.png" width="24">MVP | MVP  ♔  \| .gg/MVPHub | [QXfCz4JT6g](https://discord.gg/QXfCz4JT6g) | 1369587693637337170 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369783511682121869/d59d5b264376a7bf3a390c77607f3a81.png" width="24">MVP | Jokers | [QrXruxzwPf](https://discord.gg/QrXruxzwPf) | 1369783511682121869 |
+| <img src="https://cdn.discordapp.com/clan-badges/893784726656139344/21bf5dc5e9b4844f638c2f13221eff00.png" width="24">MW | Milky Way┋🚀 | [milkygw](https://discord.gg/milkygw) | 893784726656139344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369516711589711963/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">MX | Meow! - Reloaded | [zKzqHH9zTk](https://discord.gg/zKzqHH9zTk) | 1369516711589711963 |
 | <img src="https://cdn.discordapp.com/clan-badges/1223262384765014207/8ca47c20b06f2cf1b8231a873369c474.png" width="24">MZSR | Mazor Server 🎗 | [mazor](https://discord.gg/mazor) | 1223262384765014207 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369650822765478018/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">Mana | 𓆩💜𓆪ᗅ𝗻ΐₘ𝕖ϲ𝐚ϝ𝕖𓆩💜𓆪 | [RHjmYrB9](https://discord.gg/RHjmYrB9) | 1369650822765478018 |

@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1155963915767906334/9f80551ee49cb4464fd4df61ea77410c.png" width="24">goof | The Goofy Goobers! | [KazqEtKDH7](https://discord.gg/KazqEtKDH7) | 2025-05-10T22:27:11+00:00 | 1155963915767906334 |
+| <img src="https://cdn.discordapp.com/clan-badges/1238367840239878154/f739959091aae8bf7255af05352e0202.png" width="24">WUWA | Wuthering Waves Indonesia | [wutheringwavesid](https://discord.gg/wutheringwavesid) | 2025-05-10T22:27:11+00:00 | 1238367840239878154 |
 | <img src="https://cdn.discordapp.com/clan-badges/919294494845841449/af7973ab7be075e3318e6542344a701d.png" width="24">buni | 🐇 /frown 🩰 𓂃 ೀ social, vc, ... | [frown](https://discord.gg/frown) | 2025-05-10T22:22:07+00:00 | 919294494845841449 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369802770600955984/0c627b1ac3bb422301988ff0bef6b665.png" width="24">DOOM | Boost For #DOOM Tag | [P2rU6YAZD2](https://discord.gg/P2rU6YAZD2) | 2025-05-10T22:22:07+00:00 | 1369802770600955984 |
 | <img src="https://cdn.discordapp.com/clan-badges/1156641990734270547/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">ODE | 𝗢𝗗𝗘&#x27;𝘀 𝗗𝗮𝘆𝗰𝗮𝗿𝗲 | [P5NWynjuRw](https://discord.gg/P5NWynjuRw) | 2025-05-10T22:22:07+00:00 | 1156641990734270547 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/995024957828517921/1e686477a56034c12d28640a9abcdbfc.png" width="24">SKZ | .gg/kpopmedia \|\| SKZ guil... | [JeybBvzTaY](https://discord.gg/JeybBvzTaY) | 2025-05-10T20:20:56+00:00 | 995024957828517921 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698922641100934/878c62b6694a4f5931104f766191bec7.png" width="24">T1 | T1 태그서버 | [EfBG5MkG8X](https://discord.gg/EfBG5MkG8X) | 2025-05-10T20:20:56+00:00 | 1369698922641100934 |
 | <img src="https://cdn.discordapp.com/clan-badges/1183228541773557870/57105dd5d54ebb9faef5e1b90c3768e1.png" width="24">TOKO | El Iceberg insano👻 | [mamitasonfire](https://discord.gg/mamitasonfire) | 2025-05-10T20:20:56+00:00 | 1183228541773557870 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369861611732340859/22f8c38a62b66123c4242d0cbdd46282.png" width="24">17 | 17 | [46HnFaVUCE](https://discord.gg/46HnFaVUCE) | 2025-05-10T20:15:52+00:00 | 1369861611732340859 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369748692545830942/b2c0d59dd264670cfe5aff8b0cce091d.png" width="24">GOON | goon | [gYfCwUvX89](https://discord.gg/gYfCwUvX89) | 2025-05-10T20:15:52+00:00 | 1369748692545830942 |
 
 </details>
 
@@ -2257,6 +2257,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369486578522525736/6208cbcaa001a9991a33cb6c09a97685.png" width="24">WTF? | WTF #FREETAG | [wtftag](https://discord.gg/wtftag) | 1369486578522525736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370025482892083282/78b1ebb6b97565376cb5345a0631e362.png" width="24">WUWA | GTAG | [Bp5rSAyeHQ](https://discord.gg/Bp5rSAyeHQ) | 1370025482892083282 |
 | <img src="https://cdn.discordapp.com/clan-badges/1322450247783546952/e599a1c6bf8637c86f73ff286ad9ca7d.png" width="24">WUWA | Wuthering Waves ✦ Carnevale... | [wuwacommunity](https://discord.gg/wuwacommunity) | 1322450247783546952 |
+| <img src="https://cdn.discordapp.com/clan-badges/1238367840239878154/f739959091aae8bf7255af05352e0202.png" width="24">WUWA | Wuthering Waves Indonesia | [wutheringwavesid](https://discord.gg/wutheringwavesid) | 1238367840239878154 |
 | <img src="https://cdn.discordapp.com/clan-badges/1325697252655628429/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">WZ | Warzone | [kjjFNdVyEY](https://discord.gg/kjjFNdVyEY) | 1325697252655628429 |
 | <img src="https://cdn.discordapp.com/clan-badges/904375214404689980/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">WZRD | Wizardry Society \| WZRD Tag | [4mT8V6vpDe](https://discord.gg/4mT8V6vpDe) | 904375214404689980 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369376798210654229/856cecbf8055036b98cf05fd54cd8872.png" width="24">Wave | WAVE #TAG | [9Qc5s4JFRZ](https://discord.gg/9Qc5s4JFRZ) | 1369376798210654229 |
@@ -2555,6 +2556,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369335225653657680/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">gia | giacord | [Ygas2wUGVA](https://discord.gg/Ygas2wUGVA) | 1369335225653657680 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370095211845255208/de4366d80f2def3c462d8ec8d52c68d4.png" width="24">goat | /typing [goat] | [xPYjMkMgsq](https://discord.gg/xPYjMkMgsq) | 1370095211845255208 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369543269830234173/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">god | ឵឵ | [rgPw9x8nRS](https://discord.gg/rgPw9x8nRS) | 1369543269830234173 |
+| <img src="https://cdn.discordapp.com/clan-badges/1155963915767906334/9f80551ee49cb4464fd4df61ea77410c.png" width="24">goof | The Goofy Goobers! | [KazqEtKDH7](https://discord.gg/KazqEtKDH7) | 1155963915767906334 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369427749407817793/7b571a46a1266491cfabe2e362aad176.png" width="24">goon | goon /rupture | [eTsJ2MWedp](https://discord.gg/eTsJ2MWedp) | 1369427749407817793 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369242498664497223/b6f6582eb0301ce069e00b2a99323975.png" width="24">gore | .gg/glaze #gore tag | [gGAJW56yRv](https://discord.gg/gGAJW56yRv) | 1369242498664497223 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369720321019744356/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">gore | 🦴・gxr | [gxr](https://discord.gg/gxr) | 1369720321019744356 |

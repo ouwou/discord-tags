@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369748205990056058/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">我爱你 | 𝓜𝓪𝓵𝓵𝓮𝓾𝓼 𐙚⋆.˚   [我爱你] .gg/fu... | [pAxfuzSgdU](https://discord.gg/pAxfuzSgdU) | 2025-05-10T00:31:29+00:00 | 1369748205990056058 |
 | <img src="https://cdn.discordapp.com/clan-badges/416432187324497921/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DBOG | Dragon Ball Online Generations | [dbog](https://discord.gg/dbog) | 2025-05-10T00:21:21+00:00 | 416432187324497921 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369091014194630717/9173796b835771cf3f92e61ae082aefc.png" width="24">puff | 8. | [K4kmfxJrgt](https://discord.gg/K4kmfxJrgt) | 2025-05-10T00:21:21+00:00 | 1369091014194630717 |
 | <img src="https://cdn.discordapp.com/clan-badges/893029354068668476/d90c2fde02048ee9b99e86c49da61593.png" width="24">₊🫧⁺ | ⋆˚🫧࿔ Bubbles 𝜗𝜚˚⋆ | [GNtYM6dPFC](https://discord.gg/GNtYM6dPFC) | 2025-05-10T00:16:18+00:00 | 893029354068668476 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369709567604162565/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">djin | شيطان #pv | [paf](https://discord.gg/paf) | 2025-05-09T22:25:01+00:00 | 1369709567604162565 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764710152540210/bc4e025173c97f41a09ae15260f5a462.png" width="24">SEX | Xur | [xur](https://discord.gg/xur) | 2025-05-09T22:25:01+00:00 | 1369764710152540210 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756122109448192/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">리쿠 | ͜\| ͜͝ 𓏼   🍵  riku  ᣟ݂ ᥥ   ⑅ | [VsU49QeRXh](https://discord.gg/VsU49QeRXh) | 2025-05-09T22:25:01+00:00 | 1369756122109448192 |
-| <img src="https://cdn.discordapp.com/clan-badges/1356368418164572190/3784745dab5860220f2eb6f027c12f94.png" width="24">.mp3 | [.mp3] | [t26WbRvYfb](https://discord.gg/t26WbRvYfb) | 2025-05-09T22:14:51+00:00 | 1356368418164572190 |
 
 </details>
 
@@ -2637,6 +2637,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369627811224092712/b6f6582eb0301ce069e00b2a99323975.png" width="24">我幹你娘 | ! 想要 Tag / server | [cKqubxfzuS](https://discord.gg/cKqubxfzuS) | 1369627811224092712 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369543990730559508/730516b133e305fae57707c4eb1167f4.png" width="24">我爱你 | 我爱你 Fanclub | [AksCZakaBt](https://discord.gg/AksCZakaBt) | 1369543990730559508 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369220012656820224/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">我爱你 | 我爱你♡ | [23hxNVrTpz](https://discord.gg/23hxNVrTpz) | 1369220012656820224 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369748205990056058/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">我爱你 | 𝓜𝓪𝓵𝓵𝓮𝓾𝓼 𐙚⋆.˚   [我爱你] .gg/fu... | [pAxfuzSgdU](https://discord.gg/pAxfuzSgdU) | 1369748205990056058 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369538922765357158/e49cbe2d3c213af9f285d99ecdbb56cf.png" width="24">操你媽 | 無盡世界 | [ZDzEqDfV4d](https://discord.gg/ZDzEqDfV4d) | 1369538922765357158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716369624662138/10e006e6d37827cc162844ff18aff0dd.png" width="24">旋律 | ✿﹒My Melody (guild tag) | [Qf5YgHGy69](https://discord.gg/Qf5YgHGy69) | 1369716369624662138 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369345861846302800/6082c2553b03b47ccaea5203567df3cf.png" width="24">日本 | 日本 | [WQJNhm9n9U](https://discord.gg/WQJNhm9n9U) | 1369345861846302800 |

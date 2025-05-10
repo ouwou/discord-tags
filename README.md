@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1259191059229970513/3ed40e6b40258bda5c03664effaaeee3.png" width="24">Pro | Apples united | [WDwFRyqdYj](https://discord.gg/WDwFRyqdYj) | 2025-05-10T05:29:24+00:00 | 1259191059229970513 |
 | <img src="https://cdn.discordapp.com/clan-badges/1201798305655291916/506143d9db4d398c2c8ea73288290d98.png" width="24">chae | #gіrᥣᥴodᥱ  ࣪ ₍^. .^₎⟆ | [chae](https://discord.gg/chae) | 2025-05-10T05:24:21+00:00 | 1201798305655291916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219743967931793428/6ff898ac8a72487ed9f96e06fd5a8230.png" width="24">FLEX | Spiraling [ PGNI ] PAGANI | [fPqRnRtHgc](https://discord.gg/fPqRnRtHgc) | 2025-05-10T05:24:21+00:00 | 1219743967931793428 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369467615315099768/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">ASD | ASD | [e4REfSUjGP](https://discord.gg/e4REfSUjGP) | 2025-05-10T05:19:17+00:00 | 1369467615315099768 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1337638732865474624/b2d4e1b57dc96fd19f02d45082e61717.png" width="24">CPVP | CrackedPvP | [crackedpvp](https://discord.gg/crackedpvp) | 2025-05-10T02:32:20+00:00 | 1337638732865474624 |
 | <img src="https://cdn.discordapp.com/clan-badges/513064096921550878/60695e0f6c7a5b9eb60a5be14d471158.png" width="24">ꜰᴀꜰᴀ | Farfadox | [farfadox](https://discord.gg/farfadox) | 2025-05-10T02:32:20+00:00 | 513064096921550878 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219781309698801816/8d61abb8b5da075befaff858861dba54.png" width="24">smpv | shadowvanilla　　꣑ৎ　[smpv]　♡ | [hYgUrD8z84](https://discord.gg/hYgUrD8z84) | 2025-05-10T02:22:14+00:00 | 1219781309698801816 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369782142824874248/972dbc3aad960d46a78b974e66d985d7.png" width="24">xc | .gg/deadtag \| xc | [yrS9SEJUcg](https://discord.gg/yrS9SEJUcg) | 2025-05-10T02:22:14+00:00 | 1369782142824874248 |
 
 </details>
 
@@ -1401,6 +1401,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369440836319969500/ea08d1994f0747b4185f12b2327dc6c8.png" width="24">Pew | Pew Central | [UCpHQuV7jZ](https://discord.gg/UCpHQuV7jZ) | 1369440836319969500 |
 | <img src="https://cdn.discordapp.com/clan-badges/884145899507437639/d2b8a11f11730feee94ce3ade605905f.png" width="24">Phro | Phro Town✨ | [fK9qyywSmZ](https://discord.gg/fK9qyywSmZ) | 884145899507437639 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761573698273401/d330d1a1f57dcbd1ebe4f20f98c85add.png" width="24">Plug | #Plug | [UFkJp75gXZ](https://discord.gg/UFkJp75gXZ) | 1369761573698273401 |
+| <img src="https://cdn.discordapp.com/clan-badges/1259191059229970513/3ed40e6b40258bda5c03664effaaeee3.png" width="24">Pro | Apples united | [WDwFRyqdYj](https://discord.gg/WDwFRyqdYj) | 1259191059229970513 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369651939943645204/eda770f3d7806c5809adda0215c166b3.png" width="24">Pure | Pure \| Community, Giveaway... | [DtWH96jwYK](https://discord.gg/DtWH96jwYK) | 1369651939943645204 |
 | <img src="https://cdn.discordapp.com/clan-badges/1012753553418354748/6920c4e47bfc0fe55002a23b9949d5fd.png" width="24">QBOX | Qbox Project | [qbox](https://discord.gg/qbox) | 1012753553418354748 |
 | <img src="https://cdn.discordapp.com/clan-badges/1367486921336557628/21129b437afdc5d4c56b399d9d86e25d.png" width="24">QC | Social Québec | [socialqc](https://discord.gg/socialqc) | 1367486921336557628 |

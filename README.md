@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1338958956596301886/6082c2553b03b47ccaea5203567df3cf.png" width="24">ELF | Elven Grid | [QgFjcZXg9e](https://discord.gg/QgFjcZXg9e) | 2025-05-10T07:15:40+00:00 | 1338958956596301886 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754160026620115/2c7aa014ee3599b6b7089ce933971852.png" width="24">⸸OPM | 𐕣OPM | [YAbqZCR9pt](https://discord.gg/YAbqZCR9pt) | 2025-05-10T07:10:36+00:00 | 1369754160026620115 |
 | <img src="https://cdn.discordapp.com/clan-badges/803130916384800779/7f968d34689b032120d7a0f2a3d69b83.png" width="24">﷽﷽﷽﷽ | Diddy Clan | [2vSkf9jqzf](https://discord.gg/2vSkf9jqzf) | 2025-05-10T07:10:36+00:00 | 803130916384800779 |
 | <img src="https://cdn.discordapp.com/clan-badges/1182016075982970911/dc61eaed9e8b012148661df1ada874e6.png" width="24">&gt;\_&lt; | Server Tagg | [bnNUQcfPEz](https://discord.gg/bnNUQcfPEz) | 2025-05-10T07:10:36+00:00 | 1182016075982970911 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369225284741496842/f91e23073e5909310109fe1675450614.png" width="24">花が咲く | 花が咲く ✿ | [WtpjZ5Ugvc](https://discord.gg/WtpjZ5Ugvc) | 2025-05-10T03:53:19+00:00 | 1369225284741496842 |
 | <img src="https://cdn.discordapp.com/clan-badges/1333785291584180244/2be7587b5cc90052309e3af5ad478abe.png" width="24">:3 | sillyness 24/7 | [kjah8wFNbG](https://discord.gg/kjah8wFNbG) | 2025-05-10T03:48:15+00:00 | 1333785291584180244 |
 | <img src="https://cdn.discordapp.com/clan-badges/997860473116561549/d1bace6ba1c143f75fa92ae52736124c.png" width="24">#001 | LAMI &amp; EMILY | [eNzk2XbErr](https://discord.gg/eNzk2XbErr) | 2025-05-10T03:48:15+00:00 | 997860473116561549 |
-| <img src="https://cdn.discordapp.com/clan-badges/1358735869758144544/84412606536488d76915487613779361.png" width="24">ASKA | Asaka 🏯 | [asaka](https://discord.gg/asaka) | 2025-05-10T03:48:15+00:00 | 1358735869758144544 |
 
 </details>
 
@@ -715,6 +715,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369389385081946162/21129b437afdc5d4c56b399d9d86e25d.png" width="24">EKKO | jet&#x27;s server 2 | [GN6QUAkSGc](https://discord.gg/GN6QUAkSGc) | 1369389385081946162 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749615334789130/b6f6582eb0301ce069e00b2a99323975.png" width="24">EKİP | #EKİP | [bddjMtCbgp](https://discord.gg/bddjMtCbgp) | 1369749615334789130 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785511106842765/6e7640b924719ccd7bb17dda5415ac33.png" width="24">ELF | Elf Kingdom [ELF] | [rhVqgHRmv2](https://discord.gg/rhVqgHRmv2) | 1369785511106842765 |
+| <img src="https://cdn.discordapp.com/clan-badges/1338958956596301886/6082c2553b03b47ccaea5203567df3cf.png" width="24">ELF | Elven Grid | [QgFjcZXg9e](https://discord.gg/QgFjcZXg9e) | 1338958956596301886 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369713934059175986/5b27565a8dfa5bed9b6c3482a3077331.png" width="24">ELFI | Magolor&#x27;s Shoppe | [wdaBWParEg](https://discord.gg/wdaBWParEg) | 1369713934059175986 |
 | <img src="https://cdn.discordapp.com/clan-badges/1260343398041124924/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">ELVA | Elva Tag | [elva](https://discord.gg/elva) | 1260343398041124924 |
 | <img src="https://cdn.discordapp.com/clan-badges/1340406835269603459/9de9c07e4db72a341608a1c62fd365e8.png" width="24">ELY | Elysia Lounge | [cBuGU772ej](https://discord.gg/cBuGU772ej) | 1340406835269603459 |

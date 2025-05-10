@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1217712356847783966/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">JAWA | JAWA JAWA JAWA | [UeDcQSePga](https://discord.gg/UeDcQSePga) | 2025-05-10T23:28:04+00:00 | 1217712356847783966 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369698995840094269/b6f6582eb0301ce069e00b2a99323975.png" width="24">PM2 | PM2  \| .gg/soulbot | [wfaJS2aGZV](https://discord.gg/wfaJS2aGZV) | 2025-05-10T23:28:04+00:00 | 1369698995840094269 |
 | <img src="https://cdn.discordapp.com/clan-badges/933467611667238992/bc707a3929333093c4217316a6abca05.png" width="24">BLUE | 𝖡𝖫𝖴𝖤 ⋆˙⟡ 𝐁𝐈𝐋𝐋𝐈𝐄 𝐄𝐈𝐋𝐈𝐒𝐇 | [dKb7MuyHfm](https://discord.gg/dKb7MuyHfm) | 2025-05-10T23:23:01+00:00 | 933467611667238992 |
 | <img src="https://cdn.discordapp.com/clan-badges/1050807628244193372/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">COOL | cool people | [cool-people](https://discord.gg/cool-people) | 2025-05-10T23:23:01+00:00 | 1050807628244193372 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369782883862053024/232d1d2a366ec512dde707821f672cce.png" width="24">die | #die | [m9dAeGPuDe](https://discord.gg/m9dAeGPuDe) | 2025-05-10T23:23:01+00:00 | 1369782883862053024 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369315968307695727/40a7aa796426347d6b76d20dfed2c273.png" width="24">SLAY | #SLAY | [63eawB6NDq](https://discord.gg/63eawB6NDq) | 2025-05-10T21:21:41+00:00 | 1369315968307695727 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341963794387085/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">^\_^ | xd | [4sRrZqX8gZ](https://discord.gg/4sRrZqX8gZ) | 2025-05-10T21:16:37+00:00 | 1369341963794387085 |
 | <img src="https://cdn.discordapp.com/clan-badges/1366127495312834681/b6f6582eb0301ce069e00b2a99323975.png" width="24">702 | 702 | [vCcpJeJurc](https://discord.gg/vCcpJeJurc) | 2025-05-10T21:16:37+00:00 | 1366127495312834681 |
-| <img src="https://cdn.discordapp.com/clan-badges/1367555361191497749/643aa6e57aa06162bc2c1f86edd32bfe.png" width="24">୭ৎ | ୭ৎ #guild | [KhDkFzHgAe](https://discord.gg/KhDkFzHgAe) | 2025-05-10T21:16:37+00:00 | 1367555361191497749 |
-| <img src="https://cdn.discordapp.com/clan-badges/634814324405305392/3a2fa788212d163e9e789d7cfe40d0a8.png" width="24">BSWC | Beat Saber World Cup | [hTbQj4h](https://discord.gg/hTbQj4h) | 2025-05-10T21:16:37+00:00 | 634814324405305392 |
 
 </details>
 
@@ -1246,6 +1246,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369566001125003334/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">JAWA | JAWA \|  .gg/Bcd3ts28RP | [Bcd3ts28RP](https://discord.gg/Bcd3ts28RP) | 1369566001125003334 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369533768653737984/22f8c38a62b66123c4242d0cbdd46282.png" width="24">JAWA | JAWA Empire \| .gg/PKnTebmzKe | [WS9NF7yxmz](https://discord.gg/WS9NF7yxmz) | 1369533768653737984 |
 | <img src="https://cdn.discordapp.com/clan-badges/1223544746648272918/6082c2553b03b47ccaea5203567df3cf.png" width="24">JAWA | Oceans Labs | [oceans](https://discord.gg/oceans) | 1223544746648272918 |
+| <img src="https://cdn.discordapp.com/clan-badges/1217712356847783966/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">JAWA | JAWA JAWA JAWA | [UeDcQSePga](https://discord.gg/UeDcQSePga) | 1217712356847783966 |
 | <img src="https://cdn.discordapp.com/clan-badges/788009146716389426/274b5e0d72cdb3099488043d66c7b02e.png" width="24">JB | Justin Bieber | [justinbieber](https://discord.gg/justinbieber) | 788009146716389426 |
 | <img src="https://cdn.discordapp.com/clan-badges/753262512618602498/fa3033cd0045a5cd34578fa4b9c69d8b.png" width="24">JDM | NIGHTRIDE | [nightride](https://discord.gg/nightride) | 753262512618602498 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369278087308644483/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">JEDI | JEDI - Council | [K3FfrGcz43](https://discord.gg/K3FfrGcz43) | 1369278087308644483 |
@@ -1719,6 +1720,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370018598503977081/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">PLAT | Legends Lounge | [Ya4RZPNUB5](https://discord.gg/Ya4RZPNUB5) | 1370018598503977081 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370021911941087293/f10ab5a3d6f8bb6069250e08779da0af.png" width="24">PLLI | plli | [KPkuakPzaa](https://discord.gg/KPkuakPzaa) | 1370021911941087293 |
 | <img src="https://cdn.discordapp.com/clan-badges/1017870413545607209/a96b3a90494e612839c6ab1a376f1c1b.png" width="24">PL🪷 | Project: Lotus | [projectlotus](https://discord.gg/projectlotus) | 1017870413545607209 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369698995840094269/b6f6582eb0301ce069e00b2a99323975.png" width="24">PM2 | PM2  \| .gg/soulbot | [wfaJS2aGZV](https://discord.gg/wfaJS2aGZV) | 1369698995840094269 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369877434110840942/e9b9d199b9d685b788de8c22367f6009.png" width="24">PMBZ | 𝚙𝚖 𝚋𝚘𝚢𝚣𝚣💤 | [tgMbyaW4hD](https://discord.gg/tgMbyaW4hD) | 1369877434110840942 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369379823033520269/1521fa319f0159fa3d17b1c6cd902f1a.png" width="24">PNL | PNL - /92ii | [WuUKe3NY](https://discord.gg/WuUKe3NY) | 1369379823033520269 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369729602850914396/b6f6582eb0301ce069e00b2a99323975.png" width="24">PNL | PNL #GUILD | [fjKS2wFJD4](https://discord.gg/fjKS2wFJD4) | 1369729602850914396 |

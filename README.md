@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/960493365911248916/c0f063112cf7cddc050b1ffdd5c19ddf.png" width="24">魔法兔兔 | 魔法兔兔 | [FKVvSSPs9t](https://discord.gg/FKVvSSPs9t) | 2025-05-10T04:13:32+00:00 | 960493365911248916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1295669921803538462/0625caabbdb25cb8406ebdd64b90a445.png" width="24">Omen | Fiend | [fiend](https://discord.gg/fiend) | 2025-05-10T04:08:28+00:00 | 1295669921803538462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1133012712021033010/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">&gt;\_# | &gt;\_# | [VSHhTnynzz](https://discord.gg/VSHhTnynzz) | 2025-05-10T04:03:25+00:00 | 1133012712021033010 |
 | <img src="https://cdn.discordapp.com/clan-badges/1089675735788171287/a9dd253a3237515b30da0f5a0c82386f.png" width="24">AI | Ultimate AI /uai | [uai](https://discord.gg/uai) | 2025-05-10T04:03:25+00:00 | 1089675735788171287 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1337953068901335193/c12795ef98ba20ff581eaea53e51a9c7.png" width="24">NICE | Bilhar Lab™ | [Xzy8TKSBDQ](https://discord.gg/Xzy8TKSBDQ) | 2025-05-10T01:22:05+00:00 | 1337953068901335193 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358201502874865724/d7a05a4bffd99be4c316d2098805cc50.png" width="24">NOLI | Hello John Doe Baby Playground | [VGpmxganQv](https://discord.gg/VGpmxganQv) | 2025-05-10T01:22:05+00:00 | 1358201502874865724 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369968425325035600/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">Mia | .gg/miabot | [dDevNbjeUb](https://discord.gg/dDevNbjeUb) | 2025-05-10T01:17:01+00:00 | 1369968425325035600 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369673322958422076/df618e52daa1e175755f1d5902d2243f.png" width="24">도토리 | 도토리 (acorn) | [AAbhepsggT](https://discord.gg/AAbhepsggT) | 2025-05-10T01:17:01+00:00 | 1369673322958422076 |
 
 </details>
 
@@ -2779,6 +2779,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369727806615064716/6473797948e6d36a991e425c8b7c353c.png" width="24">雲仙夢境 | 雲仙夢境 Tag | [Xhtj56aard](https://discord.gg/Xhtj56aard) | 1369727806615064716 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370046153063796737/8d61abb8b5da075befaff858861dba54.png" width="24">高尾奏音 | 高尾奏音的鋼琴鍵 | [BA6Ah9xf5e](https://discord.gg/BA6Ah9xf5e) | 1370046153063796737 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369645574374293504/86735389348f3eacfa519eb553df38fd.png" width="24">魂&#x27; | 魂’ (join /resolve) | [uUjvcCU5mY](https://discord.gg/uUjvcCU5mY) | 1369645574374293504 |
+| <img src="https://cdn.discordapp.com/clan-badges/960493365911248916/c0f063112cf7cddc050b1ffdd5c19ddf.png" width="24">魔法兔兔 | 魔法兔兔 | [FKVvSSPs9t](https://discord.gg/FKVvSSPs9t) | 960493365911248916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369653258557198469/1cf82de3c2597674b7bbae162016bfc7.png" width="24">魔法少女 | 𝓜𝓪𝓰𝓲𝓬 𝓖𝓲𝓻𝓵☆彡 | [NJmVuY7Aqr](https://discord.gg/NJmVuY7Aqr) | 1369653258557198469 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369828050786844702/a3290d71cdc373a5f63598746c8f1476.png" width="24">鹹濕佬 | 鹹濕佬 | [RmhM8V62hB](https://discord.gg/RmhM8V62hB) | 1369828050786844702 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369295566596472894/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">黒人奴隷 | 黒人奴隷ファンサーバー | [SPYdXbPNWE](https://discord.gg/SPYdXbPNWE) | 1369295566596472894 |

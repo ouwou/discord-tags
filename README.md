@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1212781677063962764/b229818496cf1ce160289286a4f397a6.png" width="24">FROG | 🐸 PepperFrog | [j7sAW8xbDM](https://discord.gg/j7sAW8xbDM) | 2025-05-10T20:31:03+00:00 | 1212781677063962764 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369778873885130802/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">OG | Cathedral | [cathedral](https://discord.gg/cathedral) | 2025-05-10T20:31:03+00:00 | 1369778873885130802 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369682678777118932/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">SNCF | Tag SNCF / 3xrazer | [arAE5fu4dV](https://discord.gg/arAE5fu4dV) | 2025-05-10T20:31:03+00:00 | 1369682678777118932 |
 | <img src="https://cdn.discordapp.com/clan-badges/649224774337429504/4b4669c9a863e95a08277b2c4260e48a.png" width="24">666 | 𝖑𝖒𝖊𝖔𝖜 | [QNgeMWM4qJ](https://discord.gg/QNgeMWM4qJ) | 2025-05-10T20:25:59+00:00 | 649224774337429504 |
 | <img src="https://cdn.discordapp.com/clan-badges/895776652032901200/2d8bea68b3152b52858942d2bc854cc7.png" width="24">BEE | honey&amp;tea | [honeytea](https://discord.gg/honeytea) | 2025-05-10T20:25:59+00:00 | 895776652032901200 |
 | <img src="https://cdn.discordapp.com/clan-badges/753281690381582356/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">KC | 𝐊𝐇𝐈𝐑𝐀𝐍𝐂𝐈𝐓𝐘  \| خـيران سـيتي | [KC](https://discord.gg/KC) | 2025-05-10T20:25:59+00:00 | 753281690381582356 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369641810275864586/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">:( | \*\* | [nic](https://discord.gg/nic) | 2025-05-10T18:39:40+00:00 | 1369641810275864586 |
 | <img src="https://cdn.discordapp.com/clan-badges/1090289654672130090/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">#187 | Sun Avatar. | [yw](https://discord.gg/yw) | 2025-05-10T18:39:40+00:00 | 1090289654672130090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1134993311560646767/8d61abb8b5da075befaff858861dba54.png" width="24">˳欲求 | ̮    𓈒ֺּׅ𓏽 🎐 /m𖹭mong &amp; ... | [246x97Ufv8](https://discord.gg/246x97Ufv8) | 2025-05-10T18:39:40+00:00 | 1134993311560646767 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369520715673632888/871476efb86d3617b2f0558a6016edaa.png" width="24">Adm㏌ | ɪɴᴛᴇʀᴘᴇᴛʀᴀᴄɪᴏɴ 100% 😈 | [davisico](https://discord.gg/davisico) | 2025-05-10T18:39:40+00:00 | 1369520715673632888 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369606743264329758/dc61eaed9e8b012148661df1ada874e6.png" width="24">amg | .gg/elo #amg | [98WHWUC7fZ](https://discord.gg/98WHWUC7fZ) | 2025-05-10T18:39:40+00:00 | 1369606743264329758 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369370896963469393/b94ec0b49b520eb56da5f0d1ee8b36c2.png" width="24">an | [ @ an ] — TAG 🎧 | [fjZFy9Mcyp](https://discord.gg/fjZFy9Mcyp) | 2025-05-10T18:39:40+00:00 | 1369370896963469393 |
 
 </details>
 
@@ -953,6 +953,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369467720608776243/9980095f5920b926d77adc10601b7e4b.png" width="24">FROG | Frog | [D6cffeqkgF](https://discord.gg/D6cffeqkgF) | 1369467720608776243 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785973340110898/429d0552c7f84d87c0c3667f07211ce5.png" width="24">FROG | XP+ : FROG | [p9hAMvAPmE](https://discord.gg/p9hAMvAPmE) | 1369785973340110898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369124372828131468/105dc87e4aac29e95ffa7cffbb361d88.png" width="24">FROG | 🐸Frog Tag Club🍃 | [hqESpFrzHh](https://discord.gg/hqESpFrzHh) | 1369124372828131468 |
+| <img src="https://cdn.discordapp.com/clan-badges/1212781677063962764/b229818496cf1ce160289286a4f397a6.png" width="24">FROG | 🐸 PepperFrog | [j7sAW8xbDM](https://discord.gg/j7sAW8xbDM) | 1212781677063962764 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369783413942390835/8391729a5b88cc585b1cef03a1f8021d.png" width="24">FRYA | FRYA | [7Qq34CvHPv](https://discord.gg/7Qq34CvHPv) | 1369783413942390835 |
 | <img src="https://cdn.discordapp.com/clan-badges/1223592273648816158/b146534aabd6e6576acac06dd14937cf.png" width="24">FS | France Student | [francestudent](https://discord.gg/francestudent) | 1223592273648816158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1137086559947079692/b6f6582eb0301ce069e00b2a99323975.png" width="24">FS | Fusion RPG [PC/Android] | [fusionrpg](https://discord.gg/fusionrpg) | 1137086559947079692 |
@@ -1591,6 +1592,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1112383163474382859/dea97e909a0211e2479d75cd11c2ec41.png" width="24">OG | OG | [ogworld](https://discord.gg/ogworld) | 1112383163474382859 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369454236991225896/6473797948e6d36a991e425c8b7c353c.png" width="24">OG | OG | [aFHQHB5zT3](https://discord.gg/aFHQHB5zT3) | 1369454236991225896 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369244577680199800/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">OG | OG Guild | [2RHWg9CJXd](https://discord.gg/2RHWg9CJXd) | 1369244577680199800 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369778873885130802/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">OG | Cathedral | [cathedral](https://discord.gg/cathedral) | 1369778873885130802 |
 | <img src="https://cdn.discordapp.com/clan-badges/1157023998908047410/7f968d34689b032120d7a0f2a3d69b83.png" width="24">OG&#x27;s | Gamer&#x27;s Hub/GH | [gamers-hub](https://discord.gg/gamers-hub) | 1157023998908047410 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369435237704269854/85461a0ccb874e754bc2b96603958319.png" width="24">OGER | Dempel zum Ogerschildne | [NgRsqQ9vNv](https://discord.gg/NgRsqQ9vNv) | 1369435237704269854 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370024836658630741/78b1ebb6b97565376cb5345a0631e362.png" width="24">OGFN | ogfn tag [.gg/junglefn] | [dnhhz2PXSG](https://discord.gg/dnhhz2PXSG) | 1370024836658630741 |
@@ -1902,6 +1904,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1137374312928661555/71c146111893bd624bc87bafcba1c900.png" width="24">SMS | Jhrox Oyun Turnuvası | [smsbomb](https://discord.gg/smsbomb) | 1137374312928661555 |
 | <img src="https://cdn.discordapp.com/clan-badges/562969989481496586/d8028e3189542f9cd218c28373bc178a.png" width="24">SMUT | Project Shokushu HQ | [yrFGknwjbs](https://discord.gg/yrFGknwjbs) | 562969989481496586 |
 | <img src="https://cdn.discordapp.com/clan-badges/978545345715908668/5607047f21b7e25a26c195cc49871278.png" width="24">SNAP | MARVEL SNAP | [KzEzg273Az](https://discord.gg/KzEzg273Az) | 978545345715908668 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369682678777118932/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">SNCF | Tag SNCF / 3xrazer | [arAE5fu4dV](https://discord.gg/arAE5fu4dV) | 1369682678777118932 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369174127801405492/8d61abb8b5da075befaff858861dba54.png" width="24">SNOW | This is SNOW joke! | [ZJkbJC42WM](https://discord.gg/ZJkbJC42WM) | 1369174127801405492 |
 | <img src="https://cdn.discordapp.com/clan-badges/1255858644965396550/41ac480df4be92cbcbfb08eb88abd302.png" width="24">SNOW | Snoway Bots 🪐 | [PUcFu345fs](https://discord.gg/PUcFu345fs) | 1255858644965396550 |
 | <img src="https://cdn.discordapp.com/clan-badges/1360607074421051392/0a9d4936bd099b42e280d3ec6ba8e3c9.png" width="24">SNOW | Snowi Trading [SNOW TAG] | [ZufGVDqDt6](https://discord.gg/ZufGVDqDt6) | 1360607074421051392 |

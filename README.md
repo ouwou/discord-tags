@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/919294494845841449/af7973ab7be075e3318e6542344a701d.png" width="24">buni | 🐇 /frown 🩰 𓂃 ೀ social, vc, ... | [frown](https://discord.gg/frown) | 2025-05-10T22:22:07+00:00 | 919294494845841449 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369802770600955984/0c627b1ac3bb422301988ff0bef6b665.png" width="24">DOOM | Boost For #DOOM Tag | [P2rU6YAZD2](https://discord.gg/P2rU6YAZD2) | 2025-05-10T22:22:07+00:00 | 1369802770600955984 |
+| <img src="https://cdn.discordapp.com/clan-badges/1156641990734270547/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">ODE | 𝗢𝗗𝗘&#x27;𝘀 𝗗𝗮𝘆𝗰𝗮𝗿𝗲 | [P5NWynjuRw](https://discord.gg/P5NWynjuRw) | 2025-05-10T22:22:07+00:00 | 1156641990734270547 |
 | <img src="https://cdn.discordapp.com/clan-badges/1333543136085016656/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">404 | /404w | [zHz6377sP4](https://discord.gg/zHz6377sP4) | 2025-05-10T22:12:03+00:00 | 1333543136085016656 |
 | <img src="https://cdn.discordapp.com/clan-badges/1360241479129501808/f870f579ce5aa048b81b7ca561d5243a.png" width="24">FL | fl reaction role | [XhEE4XS3QQ](https://discord.gg/XhEE4XS3QQ) | 2025-05-10T22:12:03+00:00 | 1360241479129501808 |
 | <img src="https://cdn.discordapp.com/clan-badges/1355330974509957211/2cd22da80c7ad17728c23b66a2d983a5.png" width="24">FTO | FTO | [fto](https://discord.gg/fto) | 2025-05-10T22:12:03+00:00 | 1355330974509957211 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1183228541773557870/57105dd5d54ebb9faef5e1b90c3768e1.png" width="24">TOKO | El Iceberg insano👻 | [mamitasonfire](https://discord.gg/mamitasonfire) | 2025-05-10T20:20:56+00:00 | 1183228541773557870 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369861611732340859/22f8c38a62b66123c4242d0cbdd46282.png" width="24">17 | 17 | [46HnFaVUCE](https://discord.gg/46HnFaVUCE) | 2025-05-10T20:15:52+00:00 | 1369861611732340859 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369748692545830942/b2c0d59dd264670cfe5aff8b0cce091d.png" width="24">GOON | goon | [gYfCwUvX89](https://discord.gg/gYfCwUvX89) | 2025-05-10T20:15:52+00:00 | 1369748692545830942 |
-| <img src="https://cdn.discordapp.com/clan-badges/1246529229949239398/20af761d8402d70aa4ef07fc93da53d4.png" width="24">SOS | Jenna Ortega Fan Club | [Tv7rtdqevW](https://discord.gg/Tv7rtdqevW) | 2025-05-10T20:15:52+00:00 | 1246529229949239398 |
-| <img src="https://cdn.discordapp.com/clan-badges/1306818419395657819/4c6b987648217084cc4371c4f129b87b.png" width="24">みずえな | OuR(K) Resting Place | [dBJgJHARMW](https://discord.gg/dBJgJHARMW) | 2025-05-10T20:15:52+00:00 | 1306818419395657819 |
-| <img src="https://cdn.discordapp.com/clan-badges/1087006772071510138/dc61eaed9e8b012148661df1ada874e6.png" width="24">۟۟ | NXS | [dmKtgBMTh9](https://discord.gg/dmKtgBMTh9) | 2025-05-10T20:10:49+00:00 | 1087006772071510138 |
 
 </details>
 
@@ -792,6 +792,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369423161975767111/a787c205134a45b4cd6562ed660ae776.png" width="24">DOLL | ౨ৎ #DOLL .gg/bbly | [nkG5zBv5pS](https://discord.gg/nkG5zBv5pS) | 1369423161975767111 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369734682278625370/8388948b433aa0fa792a29b1f286df5c.png" width="24">DOLL | DOLL #Guild | [DJ9HtBYGuF](https://discord.gg/DJ9HtBYGuF) | 1369734682278625370 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369393106608459776/098b8746b2505fbd5f4bba77b81b744e.png" width="24">DOLL | DOLL - /rupture | [cftj4PMe38](https://discord.gg/cftj4PMe38) | 1369393106608459776 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369802770600955984/0c627b1ac3bb422301988ff0bef6b665.png" width="24">DOOM | Boost For #DOOM Tag | [P2rU6YAZD2](https://discord.gg/P2rU6YAZD2) | 1369802770600955984 |
 | <img src="https://cdn.discordapp.com/clan-badges/1185501497249759263/6203ac2303f5ec749ec499b878160329.png" width="24">DORO | 羊羊的小天地 | [CumXRbrqH7](https://discord.gg/CumXRbrqH7) | 1185501497249759263 |
 | <img src="https://cdn.discordapp.com/clan-badges/74287487459004416/2abd166afb302f1736cafdf970a5d18d.png" width="24">DOTA | /r/Dota2 | [rdota2](https://discord.gg/rdota2) | 74287487459004416 |
 | <img src="https://cdn.discordapp.com/clan-badges/1359041869476135003/9f4b3c5a03c9bcbc026f5ce44aa3c588.png" width="24">DOVE | Dove ! | [FVTcfNxZT3](https://discord.gg/FVTcfNxZT3) | 1359041869476135003 |
@@ -1609,6 +1610,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369534275095105586/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">NІGА | BYPASSED \| .gg/diddled | [ASETsJnasV](https://discord.gg/ASETsJnasV) | 1369534275095105586 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369736282619515020/176416ced6db0ec5ff8014ce2be3297f.png" width="24">N㏌ho | guild Ninho | [GRPTrN6AjG](https://discord.gg/GRPTrN6AjG) | 1369736282619515020 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369788418946629645/d76eb867da2ea5e6cf81490c89f3c9cf.png" width="24">ODCS | ODCS Tag | [MyFvDKgtAG](https://discord.gg/MyFvDKgtAG) | 1369788418946629645 |
+| <img src="https://cdn.discordapp.com/clan-badges/1156641990734270547/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">ODE | 𝗢𝗗𝗘&#x27;𝘀 𝗗𝗮𝘆𝗰𝗮𝗿𝗲 | [P5NWynjuRw](https://discord.gg/P5NWynjuRw) | 1156641990734270547 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745120009650356/fa3033cd0045a5cd34578fa4b9c69d8b.png" width="24">ODIN | Magnus&#x27;s &quot;ODIN&qu... | [DPBxtNvG7Q](https://discord.gg/DPBxtNvG7Q) | 1369745120009650356 |
 | <img src="https://cdn.discordapp.com/clan-badges/1362289190284296274/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">OEXA | oexalith | [E9dVp54cBZ](https://discord.gg/E9dVp54cBZ) | 1362289190284296274 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369444271727313026/d84985dab45c3cdcf569e45b89851750.png" width="24">OF | OF - Onlyfans TAG | [e33MATAYX2](https://discord.gg/e33MATAYX2) | 1369444271727313026 |
@@ -2411,6 +2413,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369409454562611280/ba4666ec684b28253c036851b97de8a9.png" width="24">bun | bun tag \| will set up soon... | [2fEE8qhfQ8](https://discord.gg/2fEE8qhfQ8) | 1369409454562611280 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369751578294353920/53e8bf7b21f811968c37a5b1a3e5245d.png" width="24">buni | @bunny | [b4E5Kzgvbx](https://discord.gg/b4E5Kzgvbx) | 1369751578294353920 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369702502165119057/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">buni | .gg/cutietags [buni] ♡ | [UTvEN6UswD](https://discord.gg/UTvEN6UswD) | 1369702502165119057 |
+| <img src="https://cdn.discordapp.com/clan-badges/919294494845841449/af7973ab7be075e3318e6542344a701d.png" width="24">buni | 🐇 /frown 🩰 𓂃 ೀ social, vc, ... | [frown](https://discord.gg/frown) | 919294494845841449 |
 | <img src="https://cdn.discordapp.com/clan-badges/1176012060711198820/27d65bb881ba4737f19e19cb3d26e8a4.png" width="24">bυn | 🌸    lamb garden &amp; guil... | [qheV7H6DD4](https://discord.gg/qheV7H6DD4) | 1176012060711198820 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370022187444080652/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">b૦૦! | BOO! | [hDFMmGz3tJ](https://discord.gg/hDFMmGz3tJ) | 1370022187444080652 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369322687947866236/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">bꚙbs | ۟۟ | [boobstag](https://discord.gg/boobstag) | 1369322687947866236 |

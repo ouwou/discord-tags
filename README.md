@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1219781309698801816/8d61abb8b5da075befaff858861dba54.png" width="24">smpv | shadowvanilla　　꣑ৎ　[smpv]　♡ | [hYgUrD8z84](https://discord.gg/hYgUrD8z84) | 2025-05-10T02:22:14+00:00 | 1219781309698801816 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369782142824874248/972dbc3aad960d46a78b974e66d985d7.png" width="24">xc | .gg/deadtag \| xc | [yrS9SEJUcg](https://discord.gg/yrS9SEJUcg) | 2025-05-10T02:22:14+00:00 | 1369782142824874248 |
 | <img src="https://cdn.discordapp.com/clan-badges/826079648005619752/7b571a46a1266491cfabe2e362aad176.png" width="24">AWA | 🐬 Praia do iStevve 🌊 | [ccQXgnpvMg](https://discord.gg/ccQXgnpvMg) | 2025-05-10T02:17:09+00:00 | 826079648005619752 |
 | <img src="https://cdn.discordapp.com/clan-badges/825451541220818969/dea4f5f8e9aaa736c9b599506226508e.png" width="24">ER | Elden Ring PvP | [erpvp](https://discord.gg/erpvp) | 2025-05-10T02:17:09+00:00 | 825451541220818969 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370021435887845376/232d1d2a366ec512dde707821f672cce.png" width="24">ᶰᵉʳᵛ | ᶰᵉʳᵛ | [dztmjJkDXf](https://discord.gg/dztmjJkDXf) | 2025-05-10T02:17:09+00:00 | 1370021435887845376 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/984853742904029255/968545a2419ed541b78b3ec7500aaed0.png" width="24">CAP | Capitano Mains \| The Captain | [capitano](https://discord.gg/capitano) | 2025-05-09T23:45:55+00:00 | 984853742904029255 |
 | <img src="https://cdn.discordapp.com/clan-badges/1027413828331388968/878c62b6694a4f5931104f766191bec7.png" width="24">DEER | My Deer Friend Nokotan | [nokotan](https://discord.gg/nokotan) | 2025-05-09T23:45:55+00:00 | 1027413828331388968 |
 | <img src="https://cdn.discordapp.com/clan-badges/1202656310433292298/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">GYAT | 𝟹𝙾𝚃𝙰𝙺𝙾𝚄&#x27;𝚂 ❀ | [bKBVAKfhzz](https://discord.gg/bKBVAKfhzz) | 2025-05-09T23:45:55+00:00 | 1202656310433292298 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369781352634781809/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">Ka7 | tag | [EeUzFxHJdZ](https://discord.gg/EeUzFxHJdZ) | 2025-05-09T23:45:55+00:00 | 1369781352634781809 |
-| <img src="https://cdn.discordapp.com/clan-badges/840432138298195968/c0ad0fe5b8eed9fb52c213dcae515699.png" width="24">Mo㎜y | La Signora \| The Fair Lady | [signora](https://discord.gg/signora) | 2025-05-09T23:45:55+00:00 | 840432138298195968 |
 
 </details>
 
@@ -2214,6 +2214,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369736138285121647/5cb3c750c71ca9c3a949ecc862e23947.png" width="24">slay | .gg/poland ( #slay ) 𝘣𝘶𝘺 𝘵𝘢𝘨 | [SJmF4ZDUFU](https://discord.gg/SJmF4ZDUFU) | 1369736138285121647 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369707013524951211/8d61abb8b5da075befaff858861dba54.png" width="24">slug | Slug town | [slugs](https://discord.gg/slugs) | 1369707013524951211 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369717407404392560/354ca0ff90d810dcc8a02be476a18921.png" width="24">smd | /trollz (smd) | [PT28UvXP8H](https://discord.gg/PT28UvXP8H) | 1369717407404392560 |
+| <img src="https://cdn.discordapp.com/clan-badges/1219781309698801816/8d61abb8b5da075befaff858861dba54.png" width="24">smpv | shadowvanilla　　꣑ৎ　[smpv]　♡ | [hYgUrD8z84](https://discord.gg/hYgUrD8z84) | 1219781309698801816 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369731883151134893/232d1d2a366ec512dde707821f672cce.png" width="24">snus | snus | [5s2q2zYbbr](https://discord.gg/5s2q2zYbbr) | 1369731883151134893 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369135096120213504/fc1b9432a2dc86e9f4116a92027b0032.png" width="24">snuﬀ | snuffs | [snuffs](https://discord.gg/snuffs) | 1369135096120213504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369948233031483413/0e4725cb6b109e254fffb697364845b6.png" width="24">soob | soob 🐰ྀི @guild | [tzeyqTy9jj](https://discord.gg/tzeyqTy9jj) | 1369948233031483413 |
@@ -2277,6 +2278,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369405156151791649/950aeaf6df9f76c04fc86d1f7ab8f8aa.png" width="24">x\_x | x\_x \| .gg/fg  for 30+ fre... | [h6j9gKzhXu](https://discord.gg/h6j9gKzhXu) | 1369405156151791649 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369862125669060678/310d9b669d687de773b5f3b5310ca1f3.png" width="24">x\_x | 1989 | [zMamtJPP6D](https://discord.gg/zMamtJPP6D) | 1369862125669060678 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369382775400042526/1897636167e0b09146fb12ce58e63294.png" width="24">xadv | xxx | [SRKGpFhKDP](https://discord.gg/SRKGpFhKDP) | 1369382775400042526 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369782142824874248/972dbc3aad960d46a78b974e66d985d7.png" width="24">xc | .gg/deadtag \| xc | [yrS9SEJUcg](https://discord.gg/yrS9SEJUcg) | 1369782142824874248 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369728469021364314/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">xcx | xcx #charlixcx | [8mByzuQmB4](https://discord.gg/8mByzuQmB4) | 1369728469021364314 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761282387087440/0c24159ae3480f37617c8df43c29c5b1.png" width="24">xd | xd : /bmx | [Wp4Gf8FE9c](https://discord.gg/Wp4Gf8FE9c) | 1369761282387087440 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369420223404441711/b6f6582eb0301ce069e00b2a99323975.png" width="24">xo | xo \| .gg/fg  for 30+ free ... | [KnKBFueRfU](https://discord.gg/KnKBFueRfU) | 1369420223404441711 |

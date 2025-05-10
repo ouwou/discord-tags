@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369467615315099768/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">ASD | ASD | [e4REfSUjGP](https://discord.gg/e4REfSUjGP) | 2025-05-10T05:19:17+00:00 | 1369467615315099768 |
+| <img src="https://cdn.discordapp.com/clan-badges/1268034893946949734/1c8f8efb11de25463d853de6f864ffc6.png" width="24">亞北ネル | Neruvian Nation | [akitaneru](https://discord.gg/akitaneru) | 2025-05-10T05:19:17+00:00 | 1268034893946949734 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369445406202794087/ea37c0bb5898f6df94100cd873102f2c.png" width="24">୨୧ | 𓈒˳ꭶᧉⱺ⍺ꚕ ˚♡˖ᣟ | [UPpMxgmhNQ](https://discord.gg/UPpMxgmhNQ) | 2025-05-10T05:14:14+00:00 | 1369445406202794087 |
 | <img src="https://cdn.discordapp.com/clan-badges/1359041869476135003/5167acd28143ee835a729c2bf61fd975.png" width="24">DOVE | CHILLSPACE | [FVTcfNxZT3](https://discord.gg/FVTcfNxZT3) | 2025-05-10T05:14:14+00:00 | 1359041869476135003 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369793100679221259/58aba4c7624679a4e7f8e10b05cb4f61.png" width="24">투바투 | soobie&#x27;s guild ❦   𓂃  ... | [SNnmceqbN5](https://discord.gg/SNnmceqbN5) | 2025-05-10T05:14:14+00:00 | 1369793100679221259 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369782142824874248/972dbc3aad960d46a78b974e66d985d7.png" width="24">xc | .gg/deadtag \| xc | [yrS9SEJUcg](https://discord.gg/yrS9SEJUcg) | 2025-05-10T02:22:14+00:00 | 1369782142824874248 |
 | <img src="https://cdn.discordapp.com/clan-badges/826079648005619752/7b571a46a1266491cfabe2e362aad176.png" width="24">AWA | 🐬 Praia do iStevve 🌊 | [ccQXgnpvMg](https://discord.gg/ccQXgnpvMg) | 2025-05-10T02:17:09+00:00 | 826079648005619752 |
 | <img src="https://cdn.discordapp.com/clan-badges/825451541220818969/dea4f5f8e9aaa736c9b599506226508e.png" width="24">ER | Elden Ring PvP | [erpvp](https://discord.gg/erpvp) | 2025-05-10T02:17:09+00:00 | 825451541220818969 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370021435887845376/232d1d2a366ec512dde707821f672cce.png" width="24">ᶰᵉʳᵛ | ᶰᵉʳᵛ | [dztmjJkDXf](https://discord.gg/dztmjJkDXf) | 2025-05-10T02:17:09+00:00 | 1370021435887845376 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369905010053349407/b6f6582eb0301ce069e00b2a99323975.png" width="24">김독자 | 49/51　⌣　 [ KDJ ] : tag . gw... | [9mG5UzETbE](https://discord.gg/9mG5UzETbE) | 2025-05-10T02:17:09+00:00 | 1369905010053349407 |
 
 </details>
 
@@ -417,6 +417,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1219465898985918504/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">ART | Art Supporters \| Tag Server | [zuudTkaQrE](https://discord.gg/zuudTkaQrE) | 1219465898985918504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369446582088503316/a298c1124b18c32e0823e81c65ffd42c.png" width="24">ART | ˗ˏˋ  hxrte ♡ ˎˊ˗  ART tag | [gTBpzsZpRZ](https://discord.gg/gTBpzsZpRZ) | 1369446582088503316 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766133456179371/f014231839285ba5158fda66073994b2.png" width="24">ARX | TUF Game | [ecR3NsTzbK](https://discord.gg/ecR3NsTzbK) | 1369766133456179371 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369467615315099768/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">ASD | ASD | [e4REfSUjGP](https://discord.gg/e4REfSUjGP) | 1369467615315099768 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369297906905124914/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">ASIA | Asia | [hxBad2n6X6](https://discord.gg/hxBad2n6X6) | 1369297906905124914 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358735869758144544/84412606536488d76915487613779361.png" width="24">ASKA | Asaka 🏯 | [asaka](https://discord.gg/asaka) | 1358735869758144544 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369712433232609420/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">ASS | #ASS | [aKtDdEvRUS](https://discord.gg/aKtDdEvRUS) | 1369712433232609420 |
@@ -2710,6 +2711,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369406129016406096/c5d756114323b10fc023b4091f9d7c5a.png" width="24">万葉散兵 | ᨓ 。╱𝙠𝙖𝙯𝙪𝙝𝙖  【万葉散兵】︵  !!? | [9zRsPsw5Zz](https://discord.gg/9zRsPsw5Zz) | 1369406129016406096 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686600140984392/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">不是哥們 | 『不是哥們』DGS弦樂式 | [m8chpB4BsH](https://discord.gg/m8chpB4BsH) | 1369686600140984392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614911738744883/232d1d2a366ec512dde707821f672cce.png" width="24">乀乀乀 | Celest ᴾⱽ | [EMxk3CSaqK](https://discord.gg/EMxk3CSaqK) | 1369614911738744883 |
+| <img src="https://cdn.discordapp.com/clan-badges/1268034893946949734/1c8f8efb11de25463d853de6f864ffc6.png" width="24">亞北ネル | Neruvian Nation | [akitaneru](https://discord.gg/akitaneru) | 1268034893946949734 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369388579767320797/4bca913c9b2106ed777541ec65def38c.png" width="24">你好 | # pfp vault | [T2fCxh24Tb](https://discord.gg/T2fCxh24Tb) | 1369388579767320797 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369668188526088253/dea97e909a0211e2479d75cd11c2ec41.png" width="24">你好噁心 | 想要什麼tag進來講 | [GPcQbxHrxR](https://discord.gg/GPcQbxHrxR) | 1369668188526088253 |
 | <img src="https://cdn.discordapp.com/clan-badges/866541511344652288/48d2557a1faf9a790dde3ad334e56efb.png" width="24">你媽死了 | Jiafei Taiwan Group(JF) | [PmUYtPW4CM](https://discord.gg/PmUYtPW4CM) | 866541511344652288 |

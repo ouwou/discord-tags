@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1217692523657691197/dea97e909a0211e2479d75cd11c2ec41.png" width="24">$oʟʀ | Solar | [rpNaRA4TQy](https://discord.gg/rpNaRA4TQy) | 2025-05-10T19:45:30+00:00 | 1217692523657691197 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369478334869672057/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">BRAT | BRAT guild  .𖥔 ݁ ˖ | [jVpAVDhUUz](https://discord.gg/jVpAVDhUUz) | 2025-05-10T19:45:30+00:00 | 1369478334869672057 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369763517590274209/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BABA | @babacik | [sahinler](https://discord.gg/sahinler) | 2025-05-10T19:40:26+00:00 | 1369763517590274209 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369633340692365373/685435dd74c740602cc36b46d3cd3f85.png" width="24">DDoS | DDoS /aether | [gjZfCwdjeD](https://discord.gg/gjZfCwdjeD) | 2025-05-10T19:40:26+00:00 | 1369633340692365373 |
 | <img src="https://cdn.discordapp.com/clan-badges/423803939582902277/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">PoGO | Pokémon GO Raids | [remoteraids](https://discord.gg/remoteraids) | 2025-05-10T19:40:26+00:00 | 423803939582902277 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370002442305142814/f6d0b7cacf821c6e8b58fddd15d8ec1f.png" width="24">TITZ | Illumina | [uwnPzMpHfy](https://discord.gg/uwnPzMpHfy) | 2025-05-10T18:39:40+00:00 | 1370002442305142814 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370098512922022008/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">wuwa | Wuwa Core &gt;.&lt; | [sTpBhehDVd](https://discord.gg/sTpBhehDVd) | 2025-05-10T18:39:40+00:00 | 1370098512922022008 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369293856536924221/124ca7b01020626dc6baa3dc8eabc705.png" width="24">YURI | yuricord 2 | [k68NHSnARh](https://discord.gg/k68NHSnARh) | 2025-05-10T18:39:40+00:00 | 1369293856536924221 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369777353517170698/86735389348f3eacfa519eb553df38fd.png" width="24">yvl | .gg/elo #yvl | [yH5AgWBtUy](https://discord.gg/yH5AgWBtUy) | 2025-05-10T18:39:40+00:00 | 1369777353517170698 |
-| <img src="https://cdn.discordapp.com/clan-badges/1362725530968916188/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ᶻz𐰁 | .gg/bestguilds | [bestguilds](https://discord.gg/bestguilds) | 2025-05-10T18:39:40+00:00 | 1362725530968916188 |
 
 </details>
 
@@ -147,6 +147,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369586314269425750/718e674f17591113ca9d4089fa48e7cd.png" width="24">$NQ | [$NQ] GUILD TAG .gg/nqq | [wyV7BG8aNu](https://discord.gg/wyV7BG8aNu) | 1369586314269425750 |
 | <img src="https://cdn.discordapp.com/clan-badges/1227687289405308968/a5e1ba58fa5d08dc8f99d193ab33b271.png" width="24">$NQ | $NQ NASDAQ | [HyrhRUbhU7](https://discord.gg/HyrhRUbhU7) | 1227687289405308968 |
 | <img src="https://cdn.discordapp.com/clan-badges/1326126957330694186/dc61eaed9e8b012148661df1ada874e6.png" width="24">$b | xᴇʀᴏɴɪx | [XZ2B4rTfGn](https://discord.gg/XZ2B4rTfGn) | 1326126957330694186 |
+| <img src="https://cdn.discordapp.com/clan-badges/1217692523657691197/dea97e909a0211e2479d75cd11c2ec41.png" width="24">$oʟʀ | Solar | [rpNaRA4TQy](https://discord.gg/rpNaRA4TQy) | 1217692523657691197 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370089198660616232/0625caabbdb25cb8406ebdd64b90a445.png" width="24">&#x27;-&#x27; | &#x27;-&#x27; | [pmJuZaKuHN](https://discord.gg/pmJuZaKuHN) | 1370089198660616232 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764290101383268/60822eb8c504c45cee27680dbccf599b.png" width="24">(º)&gt; | penguin | [HJPtZYg267](https://discord.gg/HJPtZYg267) | 1369764290101383268 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369508690767511643/1897636167e0b09146fb12ce58e63294.png" width="24">\*67 | .gg/moneyy # \*67 | [Jng58XtW](https://discord.gg/Jng58XtW) | 1369508690767511643 |
@@ -594,6 +595,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369303809314259058/e84c2ac3de530f50220c77a5ab1242cb.png" width="24">BR | Comunidade Brasileira | [Z9V4Dz7KYc](https://discord.gg/Z9V4Dz7KYc) | 1369303809314259058 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369461818208293035/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BRAT | .gg/elo #BRAT | [fRSEEQPU57](https://discord.gg/fRSEEQPU57) | 1369461818208293035 |
 | <img src="https://cdn.discordapp.com/clan-badges/1349200415236821093/bbba913bfdc53aef3af68f612a75c9bf.png" width="24">BRAT | brat | [Brat](https://discord.gg/Brat) | 1349200415236821093 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369478334869672057/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">BRAT | BRAT guild  .𖥔 ݁ ˖ | [jVpAVDhUUz](https://discord.gg/jVpAVDhUUz) | 1369478334869672057 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369365679836496003/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">BRO | ⚡House of BRO⚡ | [YB7FeuVRMq](https://discord.gg/YB7FeuVRMq) | 1369365679836496003 |
 | <img src="https://cdn.discordapp.com/clan-badges/1333062877732536371/c547ef228f7ec1194247b4befbc655d4.png" width="24">BRSL | pv bresil | [bresil](https://discord.gg/bresil) | 1333062877732536371 |
 | <img src="https://cdn.discordapp.com/clan-badges/844285068275875890/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">BRUH | La cueva de Cosi | [la-cueva-de-cosi-844285068275875890](https://discord.gg/la-cueva-de-cosi-844285068275875890) | 844285068275875890 |

@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1318317964122132570/ef3effb124da17fdb40dc580ca4551f5.png" width="24">God† | Christianity #GUILD \| ♰ | [cbqBhMxmQr](https://discord.gg/cbqBhMxmQr) | 2025-05-10T08:56:53+00:00 | 1318317964122132570 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369689553434316810/1c8f8efb11de25463d853de6f864ffc6.png" width="24">OSOS | Ososbanana | [qM5EuD9Gn4](https://discord.gg/qM5EuD9Gn4) | 2025-05-10T08:56:53+00:00 | 1369689553434316810 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662092126326856/7dff089fbee252a67e72a08ae58a0376.png" width="24">#001 | hikqri&#x27;s private tag | [9PfcrUveMg](https://discord.gg/9PfcrUveMg) | 2025-05-10T08:51:49+00:00 | 1369662092126326856 |
 | <img src="https://cdn.discordapp.com/clan-badges/1340312671651762250/1497838e612bae805c962a2b6a899385.png" width="24">1940 | KİREMİTHANE #SonKale | [kiremithane](https://discord.gg/kiremithane) | 2025-05-10T08:51:49+00:00 | 1340312671651762250 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363861302996369478/d116faf2c7cc466a2e24b9ad2565a83b.png" width="24">HRZN | ✦━ Horizon ━ツ [TAG: HRZN] | [PNCyNqvxCB](https://discord.gg/PNCyNqvxCB) | 2025-05-10T08:51:49+00:00 | 1363861302996369478 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1209146998406783016/ad842b5ea717cde056d0093cb9e90d1d.png" width="24">몬난이 | 몬난이들의 소굴 | [BGUTtr9Rsf](https://discord.gg/BGUTtr9Rsf) | 2025-05-10T05:44:34+00:00 | 1209146998406783016 |
 | <img src="https://cdn.discordapp.com/clan-badges/457902248660434944/6476bc22b9c85f619dc5326920f00b74.png" width="24">TENx | TENDERLY | [tenderly](https://discord.gg/tenderly) | 2025-05-10T05:39:31+00:00 | 457902248660434944 |
 | <img src="https://cdn.discordapp.com/clan-badges/259124796971941890/6de0dac4c0d767ef77ae9204a0148c20.png" width="24">89iq | 89-SQUAD | [89squad](https://discord.gg/89squad) | 2025-05-10T05:39:31+00:00 | 259124796971941890 |
-| <img src="https://cdn.discordapp.com/clan-badges/713984250063355955/d8b1cf8aa615f83c8b37a7a101202966.png" width="24">EPIC | EPIC RPG Grinders Squad | [Znuwrknu9H](https://discord.gg/Znuwrknu9H) | 2025-05-10T05:39:31+00:00 | 713984250063355955 |
-| <img src="https://cdn.discordapp.com/clan-badges/1259191059229970513/3ed40e6b40258bda5c03664effaaeee3.png" width="24">Pro | Apples united | [WDwFRyqdYj](https://discord.gg/WDwFRyqdYj) | 2025-05-10T05:29:24+00:00 | 1259191059229970513 |
 
 </details>
 
@@ -945,6 +945,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369284026136924190/822a7fe50603c9529cf07bb147b63d22.png" width="24">God | GOD Tag | [JHkWuTnSya](https://discord.gg/JHkWuTnSya) | 1369284026136924190 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369569648894545983/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">God | ⚡┃God | [qWwmqC2F9U](https://discord.gg/qWwmqC2F9U) | 1369569648894545983 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369791862571012267/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">Gods | Gods | [aC9Pgd8h](https://discord.gg/aC9Pgd8h) | 1369791862571012267 |
+| <img src="https://cdn.discordapp.com/clan-badges/1318317964122132570/ef3effb124da17fdb40dc580ca4551f5.png" width="24">God† | Christianity #GUILD \| ♰ | [cbqBhMxmQr](https://discord.gg/cbqBhMxmQr) | 1318317964122132570 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369146957259608134/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">Goku | goku /backup | [sangoku](https://discord.gg/sangoku) | 1369146957259608134 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369724682974003331/7f968d34689b032120d7a0f2a3d69b83.png" width="24">Goku | Transcedental | [Ks8z7w5Vvt](https://discord.gg/Ks8z7w5Vvt) | 1369724682974003331 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369464843475750972/563254c35aa937ef5de42b75558697cb.png" width="24">Goon | Visionary [Goon] | [m3YypkCTMT](https://discord.gg/m3YypkCTMT) | 1369464843475750972 |
@@ -1360,6 +1361,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369729628444426300/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">ORV | ̣  ५　　 \| ͜͝ \| ͜͝　　.　　/joo... | [8c2urWDmT8](https://discord.gg/8c2urWDmT8) | 1369729628444426300 |
 | <img src="https://cdn.discordapp.com/clan-badges/747807131536982068/b6f6582eb0301ce069e00b2a99323975.png" width="24">ORV | Omniscient Reader&#x27;s Vi... | [ORV](https://discord.gg/ORV) | 747807131536982068 |
 | <img src="https://cdn.discordapp.com/clan-badges/753930509721141259/8d61abb8b5da075befaff858861dba54.png" width="24">OSLO | Oslo Roleplay \| WL:OFF | [oslorp](https://discord.gg/oslorp) | 753930509721141259 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369689553434316810/1c8f8efb11de25463d853de6f864ffc6.png" width="24">OSOS | Ososbanana | [qM5EuD9Gn4](https://discord.gg/qM5EuD9Gn4) | 1369689553434316810 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780352062586951/0625caabbdb25cb8406ebdd64b90a445.png" width="24">OS㏌T | OSINT | [tje54ntzU6](https://discord.gg/tje54ntzU6) | 1369780352062586951 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431293431123978/84412606536488d76915487613779361.png" width="24">OTF | OTF /rupture | [tNNCkxzSCN](https://discord.gg/tNNCkxzSCN) | 1369431293431123978 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370083468440240138/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">OWL | OWL - .gg/owl | [eSHDPwz85g](https://discord.gg/eSHDPwz85g) | 1370083468440240138 |

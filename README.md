@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1359576264914108436/6d3b87c33c8c557bf8d497d64b1642ff.png" width="24">SRC | Enhanced-Loop.com | [ZYTkzqUrnb](https://discord.gg/ZYTkzqUrnb) | 2025-05-10T06:25:04+00:00 | 1359576264914108436 |
+| <img src="https://cdn.discordapp.com/clan-badges/1349316031222517810/b6f6582eb0301ce069e00b2a99323975.png" width="24">東步冰 | 樂      𓂃     de3thnote   . ... | [VFBeyXWwMn](https://discord.gg/VFBeyXWwMn) | 2025-05-10T06:25:04+00:00 | 1349316031222517810 |
 | <img src="https://cdn.discordapp.com/clan-badges/1185501497249759263/6203ac2303f5ec749ec499b878160329.png" width="24">DORO | 羊羊的小天地 | [CumXRbrqH7](https://discord.gg/CumXRbrqH7) | 2025-05-10T06:20:00+00:00 | 1185501497249759263 |
 | <img src="https://cdn.discordapp.com/clan-badges/747807131536982068/b6f6582eb0301ce069e00b2a99323975.png" width="24">ORV | Omniscient Reader&#x27;s Vi... | [ORV](https://discord.gg/ORV) | 2025-05-10T06:20:00+00:00 | 747807131536982068 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369383992570413107/8388948b433aa0fa792a29b1f286df5c.png" width="24">PU§Y | PU§Y       •PFP   •TAGS   •... | [83FAsWEk8E](https://discord.gg/83FAsWEk8E) | 2025-05-10T06:20:00+00:00 | 1369383992570413107 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369736213522681978/6caaecac981c766eba089004a7d06089.png" width="24">MLM | 🤍MLM TAG・SOCIAL🤍 | [9NaJWaSQPW](https://discord.gg/9NaJWaSQPW) | 2025-05-10T03:43:12+00:00 | 1369736213522681978 |
 | <img src="https://cdn.discordapp.com/clan-badges/823743048525676597/7cb6ae5d2dd2199a65132d51207f640b.png" width="24">女神マー | Cantinho da Maah ♥ | [4TDtyT7w7F](https://discord.gg/4TDtyT7w7F) | 2025-05-10T03:43:12+00:00 | 823743048525676597 |
 | <img src="https://cdn.discordapp.com/clan-badges/1294028715742990367/c1fc87918ae8cf5a0ba32a2ecd486914.png" width="24">awh | be in .gg/dolly 2 enter ! | [ud94uJhBtK](https://discord.gg/ud94uJhBtK) | 2025-05-10T03:38:07+00:00 | 1294028715742990367 |
-| <img src="https://cdn.discordapp.com/clan-badges/392421393800888321/8326ee295e3ed723be4d3860a7cfc791.png" width="24">PH | Pornhub | [pornhub](https://discord.gg/pornhub) | 2025-05-10T03:38:07+00:00 | 392421393800888321 |
-| <img src="https://cdn.discordapp.com/clan-badges/1227468427132928110/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">MODЅ | Mods Café | [uDRaNE7M2b](https://discord.gg/uDRaNE7M2b) | 2025-05-10T03:33:04+00:00 | 1227468427132928110 |
 
 </details>
 
@@ -1574,6 +1574,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369724789161459732/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">SPRK | SPARKverse | [2MUg4JWavx](https://discord.gg/2MUg4JWavx) | 1369724789161459732 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369805534894624828/6a829634910fca34b3d90e74dc3a3fc8.png" width="24">SQCL | Square Cloud Tag | [xbJjWAzTBZ](https://discord.gg/xbJjWAzTBZ) | 1369805534894624828 |
 | <img src="https://cdn.discordapp.com/clan-badges/912360053078634506/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">SR | Hunter&#x27;s Association | [Mt3x2P46DB](https://discord.gg/Mt3x2P46DB) | 912360053078634506 |
+| <img src="https://cdn.discordapp.com/clan-badges/1359576264914108436/6d3b87c33c8c557bf8d497d64b1642ff.png" width="24">SRC | Enhanced-Loop.com | [ZYTkzqUrnb](https://discord.gg/ZYTkzqUrnb) | 1359576264914108436 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641649453400135/64eefbac7d70dd5fb09496de47edf8b1.png" width="24">SROV | SROV | [WgxfgRSA5u](https://discord.gg/WgxfgRSA5u) | 1369641649453400135 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369703758824738937/af8bb7cbe96e5216c4726bec6e84cd4e.png" width="24">SRT | [SRT] | [mgdWdZN6nt](https://discord.gg/mgdWdZN6nt) | 1369703758824738937 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369806537480208596/d2ea3dc1b56363126c725b4e54b9bade.png" width="24">SRT | .gg/ski for access [SRT] | [V9sbgDAPh9](https://discord.gg/V9sbgDAPh9) | 1369806537480208596 |
@@ -2786,6 +2787,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369529644893868104/1f2327f3fe1530342cfc88fc9b3c8827.png" width="24">星空 | 星空 Starry Sky | [cAk5CpGVth](https://discord.gg/cAk5CpGVth) | 1369529644893868104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369832827515830332/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">月光 | 月光 | [cwmuaFJZPe](https://discord.gg/cwmuaFJZPe) | 1369832827515830332 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369307026391302184/772743c05cbbbdd14e6db7de20019004.png" width="24">東方 | [東方] Touhou \| dsc.gg/guild... | [H3NYHsDqZS](https://discord.gg/H3NYHsDqZS) | 1369307026391302184 |
+| <img src="https://cdn.discordapp.com/clan-badges/1349316031222517810/b6f6582eb0301ce069e00b2a99323975.png" width="24">東步冰 | 樂      𓂃     de3thnote   . ... | [VFBeyXWwMn](https://discord.gg/VFBeyXWwMn) | 1349316031222517810 |
 | <img src="https://cdn.discordapp.com/clan-badges/1368780290482503710/231ca267ef79080300a4fea393a1532b.png" width="24">校際男娘 | 校際交流群很多男娘 .gg/schoolworldtw | [NvbdvYuSdp](https://discord.gg/NvbdvYuSdp) | 1368780290482503710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1080530564676845630/1c8f8efb11de25463d853de6f864ffc6.png" width="24">歐皇 | 姜棠の反熬夜教室 | [jiangtarng](https://discord.gg/jiangtarng) | 1080530564676845630 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615399435370547/f4fc4f765584f1c5fa7a467c97703e0e.png" width="24">氷結傀儡 | 氷結傀儡 (ザドキエル) | [8ASqTy4Hdd](https://discord.gg/8ASqTy4Hdd) | 1369615399435370547 |

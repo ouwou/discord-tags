@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369927458542981130/fdbaebe7a1f45061dc927fd55ff2a4e4.png" width="24">２１０ | ２１０ | [210xd](https://discord.gg/210xd) | 2025-05-10T08:21:27+00:00 | 1369927458542981130 |
+| <img src="https://cdn.discordapp.com/clan-badges/1308388315686375505/59c0f381f2399f5317d14ebcda909857.png" width="24">CLIP | Clipster | [clipster](https://discord.gg/clipster) | 2025-05-10T08:21:27+00:00 | 1308388315686375505 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369329276704522384/1df194a28be91531690a9d563a4c11e4.png" width="24">ＰＩＶＯ | ＰＯＤＰＩＶＡＳＹ | [rb5M7XzZn2](https://discord.gg/rb5M7XzZn2) | 2025-05-10T08:21:27+00:00 | 1369329276704522384 |
+| <img src="https://cdn.discordapp.com/clan-badges/463136393447604224/5410c0c04f21555354039fd700661550.png" width="24">PWUC | 🔱𝐏𝐖𝐔𝐂 𝐂𝐈𝐓𝐘🔱 | [pwuc](https://discord.gg/pwuc) | 2025-05-10T08:21:27+00:00 | 463136393447604224 |
 | <img src="https://cdn.discordapp.com/clan-badges/1126571217831338115/cb4eef5b36d6ea9a2ff2f3dbc82ee2a6.png" width="24">BO T | Evertime BOTS | [ewARU83Nbt](https://discord.gg/ewARU83Nbt) | 2025-05-10T08:16:23+00:00 | 1126571217831338115 |
 | <img src="https://cdn.discordapp.com/clan-badges/1341540133685559411/5e97d6115f591fcb90d83b9852beb92b.png" width="24">FΛSH | FlashSystem Support | [yUQrtmmF5g](https://discord.gg/yUQrtmmF5g) | 2025-05-10T08:16:23+00:00 | 1341540133685559411 |
 | <img src="https://cdn.discordapp.com/clan-badges/1265131994585632778/ba4666ec684b28253c036851b97de8a9.png" width="24">sio | /sio | [NnJry72hd2](https://discord.gg/NnJry72hd2) | 2025-05-10T08:16:23+00:00 | 1265131994585632778 |
@@ -101,10 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369745178218336406/2bc22ec4ca99fe82c6ad5685f015eda1.png" width="24">NSFW | \~ gg/sanctuary18 | [ze4fvH5jVk](https://discord.gg/ze4fvH5jVk) | 2025-05-10T04:48:56+00:00 | 1369745178218336406 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369340344545579059/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">뽀삐야 | 뽀삐야 태그 | [vvQqJvSdka](https://discord.gg/vvQqJvSdka) | 2025-05-10T04:48:56+00:00 | 1369340344545579059 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369847294945394879/1b67d963490adf5e7b10527efebd4ebd.png" width="24">:̷̃͐ | :̷̃͐ | [DnB7nRKr9x](https://discord.gg/DnB7nRKr9x) | 2025-05-10T04:43:52+00:00 | 1369847294945394879 |
-| <img src="https://cdn.discordapp.com/clan-badges/1062082948830081034/86735389348f3eacfa519eb553df38fd.png" width="24">06 ぅ | ZeroSix ༒ | [06](https://discord.gg/06) | 2025-05-10T04:43:52+00:00 | 1062082948830081034 |
-| <img src="https://cdn.discordapp.com/clan-badges/1017730386605920327/04cee49fbcaa69a71206ccb637470e72.png" width="24">懶洋洋 | 神懶洋洋小屋 | [uZehjYMPNj](https://discord.gg/uZehjYMPNj) | 2025-05-10T04:43:52+00:00 | 1017730386605920327 |
-| <img src="https://cdn.discordapp.com/clan-badges/830317655545217024/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">紳士 | 大型紳士遊覽車二世 | [bhb2](https://discord.gg/bhb2) | 2025-05-10T04:43:52+00:00 | 830317655545217024 |
-| <img src="https://cdn.discordapp.com/clan-badges/1184486680170868786/2c7aa014ee3599b6b7089ce933971852.png" width="24">&lt;/3² | our hearts. | [aintcry](https://discord.gg/aintcry) | 2025-05-10T04:33:46+00:00 | 1184486680170868786 |
 
 </details>
 
@@ -583,6 +583,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369782799971647598/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">CINA | CINA Tag | [vwEY642GuG](https://discord.gg/vwEY642GuG) | 1369782799971647598 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615636510146652/d2b8a11f11730feee94ce3ade605905f.png" width="24">CIPA | IMPERIUM SENYSZYN | [nWPfa46xtr](https://discord.gg/nWPfa46xtr) | 1369615636510146652 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369573718615003178/856cecbf8055036b98cf05fd54cd8872.png" width="24">CL | Manchoso | [TRv6xU8f6Z](https://discord.gg/TRv6xU8f6Z) | 1369573718615003178 |
+| <img src="https://cdn.discordapp.com/clan-badges/1308388315686375505/59c0f381f2399f5317d14ebcda909857.png" width="24">CLIP | Clipster | [clipster](https://discord.gg/clipster) | 1308388315686375505 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369635050068377610/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">CLRT | ClarityTag /sunytag | [zmhZ4vqj2a](https://discord.gg/zmhZ4vqj2a) | 1369635050068377610 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358881053661593680/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">CMH | Sot Solution | [sotsolution](https://discord.gg/sotsolution) | 1358881053661593680 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369792889521176657/4507c292a7c649b9e6e357ac11c5492c.png" width="24">CNC | CNC | [m5equGCugr](https://discord.gg/m5equGCugr) | 1369792889521176657 |
@@ -1434,6 +1435,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369739122905972836/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">PUТA | 😈CALMA PROSTITUTO🥵 | [JXHexK2Baw](https://discord.gg/JXHexK2Baw) | 1369739122905972836 |
 | <img src="https://cdn.discordapp.com/clan-badges/1190010209372995756/6473797948e6d36a991e425c8b7c353c.png" width="24">PVP | Brawlers SMP (.gg/fvME28pHpK) | [fvME28pHpK](https://discord.gg/fvME28pHpK) | 1190010209372995756 |
 | <img src="https://cdn.discordapp.com/clan-badges/879720242920697918/5ac21dc216c0da589746cb752405ab1e.png" width="24">PWF | POOP WITH FRIENDS | [Mn9zAy3cSY](https://discord.gg/Mn9zAy3cSY) | 879720242920697918 |
+| <img src="https://cdn.discordapp.com/clan-badges/463136393447604224/5410c0c04f21555354039fd700661550.png" width="24">PWUC | 🔱𝐏𝐖𝐔𝐂 𝐂𝐈𝐓𝐘🔱 | [pwuc](https://discord.gg/pwuc) | 463136393447604224 |
 | <img src="https://cdn.discordapp.com/clan-badges/1113435177125941320/224fad646627fdbb847798ae428b1479.png" width="24">PXL | PixelVault | [pxlvltco](https://discord.gg/pxlvltco) | 1113435177125941320 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369440836319969500/ea08d1994f0747b4185f12b2327dc6c8.png" width="24">Pew | Pew Central | [UCpHQuV7jZ](https://discord.gg/UCpHQuV7jZ) | 1369440836319969500 |
 | <img src="https://cdn.discordapp.com/clan-badges/884145899507437639/d2b8a11f11730feee94ce3ade605905f.png" width="24">Phro | Phro Town✨ | [fK9qyywSmZ](https://discord.gg/fK9qyywSmZ) | 884145899507437639 |
@@ -3009,6 +3011,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369816934329356349/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">！ＸＸＸ | ┆  ⟡  ┆ | [uBG9Bdpztb](https://discord.gg/uBG9Bdpztb) | 1369816934329356349 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369503138398212106/f1f151b677eeb0a383f5ef49bf477759.png" width="24">１OF１ | ONE OF ONE #XENIAL | [gkHHZczg](https://discord.gg/gkHHZczg) | 1369503138398212106 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369791344368816128/1897636167e0b09146fb12ce58e63294.png" width="24">１８８１ | １８８１ | [7vW5ApeSPe](https://discord.gg/7vW5ApeSPe) | 1369791344368816128 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369927458542981130/fdbaebe7a1f45061dc927fd55ff2a4e4.png" width="24">２１０ | ２１０ | [210xd](https://discord.gg/210xd) | 1369927458542981130 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369683481856315463/57105dd5d54ebb9faef5e1b90c3768e1.png" width="24">２１３７ | .gg/papaj | [papaj](https://discord.gg/papaj) | 1369683481856315463 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741486954123305/47fb9f8b8f9b6b7d412b83dfd5363e50.png" width="24">７７７ | POPOFF — Community | [popoff](https://discord.gg/popoff) | 1369741486954123305 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369605648332881961/55a191ba43b5e57cbfcbaf173ecccec9.png" width="24">ＡＣＥ | [ＡＣＥ] /optags | [ZSjrB7kaTC](https://discord.gg/ZSjrB7kaTC) | 1369605648332881961 |
@@ -3036,6 +3039,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369675743562301641/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">ＮＩＫＡ | [ＮＩＫＡ] /optags | [KwjcCJqeWR](https://discord.gg/KwjcCJqeWR) | 1369675743562301641 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370111794307399790/0bc4a6857f4bd8716268acf5dfcb8834.png" width="24">ＮＪＺ | NewJeans - ＮＪＺ | [PG6VEJmyDz](https://discord.gg/PG6VEJmyDz) | 1370111794307399790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369817091175219322/80e49bbcd08c608a6f49671e2d0828da.png" width="24">ＰＨＲꪜ | 𝙋𝙃𝙍-𝙍𝙋 𝙂𝙪𝙞𝙡𝙙 𝙏𝙖𝙜 𝙎𝙚𝙧𝙫𝙚𝙧 | [d4DEvSrrBH](https://discord.gg/d4DEvSrrBH) | 1369817091175219322 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369329276704522384/1df194a28be91531690a9d563a4c11e4.png" width="24">ＰＩＶＯ | ＰＯＤＰＩＶＡＳＹ | [rb5M7XzZn2](https://discord.gg/rb5M7XzZn2) | 1369329276704522384 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369483715419439286/d69e0372252566a283575a54c9036b40.png" width="24">ＰＵＢＧ | pubg tag | [uQgjn24xtD](https://discord.gg/uQgjn24xtD) | 1369483715419439286 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369661248710512682/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">ＲＡＧＥ | ＲＡＧＥ | [YyqZ2gttZn](https://discord.gg/YyqZ2gttZn) | 1369661248710512682 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369577479110656061/c929e8c495d3f20fd9abbdbb67f55b99.png" width="24">ＲＡＩＮ | ＲＡＩＮ | [dXsAM5z33Y](https://discord.gg/dXsAM5z33Y) | 1369577479110656061 |

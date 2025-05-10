@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369337851572912229/573e1723469ff275ff5a3fd823ce291f.png" width="24">도라에몽 | Doraemon TAG | [a9ZstsX85k](https://discord.gg/a9ZstsX85k) | 2025-05-10T05:04:07+00:00 | 1369337851572912229 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369540136911507557/09d92e91e9d29e0c92b0cf870948dea8.png" width="24">휴닝카이 | hyukα&#x27;s guild ❦   𓂃   ... | [vGnprd2VdT](https://discord.gg/vGnprd2VdT) | 2025-05-10T05:04:07+00:00 | 1369540136911507557 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369452256348602378/3455b2a9101d1e373e96973f22e149b0.png" width="24">NUV | Summer Camp | [cQhzSmE6bM](https://discord.gg/cQhzSmE6bM) | 2025-05-10T04:59:03+00:00 | 1369452256348602378 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749368013455510/6a0e37800692e0e4650c1b7062aa5c5e.png" width="24">NEON | Wynnie Guild Tag | [kG8Bf7nsrt](https://discord.gg/kG8Bf7nsrt) | 2025-05-10T04:53:59+00:00 | 1369749368013455510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662024749158572/42e16d8eb4d30a9c10b1e01c1292fdc3.png" width="24">⸝⸝ | ឵឵❤ | [uDvvvhkbes](https://discord.gg/uDvvvhkbes) | 2025-05-10T04:48:56+00:00 | 1369662024749158572 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1363099918436405430/0e3f40289a98c41b58e0bb10970c4749.png" width="24">ﾒ𝘰 | ﾒ𝘰 | [qR3pyghyaK](https://discord.gg/qR3pyghyaK) | 2025-05-10T02:12:05+00:00 | 1363099918436405430 |
 | <img src="https://cdn.discordapp.com/clan-badges/105041697003540480/b190a9d50dae864ce6404d00a7f9a3a1.png" width="24">⏾·₊° | reap | [AD7PFCatEG](https://discord.gg/AD7PFCatEG) | 2025-05-10T02:12:05+00:00 | 105041697003540480 |
 | <img src="https://cdn.discordapp.com/clan-badges/802637374919147540/97aaf38193a632b6971deb94c3b62717.png" width="24">DAMN | DAMN \| discord.gg/memex | [CaqmRBztP6](https://discord.gg/CaqmRBztP6) | 2025-05-10T02:07:02+00:00 | 802637374919147540 |
-| <img src="https://cdn.discordapp.com/clan-badges/1359444818270490704/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ACTD | Anime Conquest | [animeconquest](https://discord.gg/animeconquest) | 2025-05-10T02:01:58+00:00 | 1359444818270490704 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370017424124153866/385c13fa02a9552e9a790b29e7b319df.png" width="24">𓏲𝄢 | 𓏲𝄢 \| .gg/doyoung | [du2WNCb7SG](https://discord.gg/du2WNCb7SG) | 2025-05-10T01:56:55+00:00 | 1370017424124153866 |
 
 </details>
 
@@ -2839,6 +2839,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369275052146692136/d82992716e6a3a87b5de9af4368a6308.png" width="24">노무현 | Hyerin’s Guild Tag | [ilbe](https://discord.gg/ilbe) | 1369275052146692136 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369647496556711959/0bc4a6857f4bd8716268acf5dfcb8834.png" width="24">뉴진스 | NewJeans - 뉴진스 | [5wVCH7EsCd](https://discord.gg/5wVCH7EsCd) | 1369647496556711959 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369251625851420673/bcac8aacf94b9885757389051552ed33.png" width="24">댕댕이 | discord.gg/arki [🍃댕댕이] | [kMfPHrYkCs](https://discord.gg/kMfPHrYkCs) | 1369251625851420673 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369337851572912229/573e1723469ff275ff5a3fd823ce291f.png" width="24">도라에몽 | Doraemon TAG | [a9ZstsX85k](https://discord.gg/a9ZstsX85k) | 1369337851572912229 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369673322958422076/df618e52daa1e175755f1d5902d2243f.png" width="24">도토리 | 도토리 (acorn) | [AAbhepsggT](https://discord.gg/AAbhepsggT) | 1369673322958422076 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753291755360336/70d9ced47695a61129b27abd45a5b44b.png" width="24">돌고래 | 돌고래 태그 | [E2Y5BueQSj](https://discord.gg/E2Y5BueQSj) | 1369753291755360336 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369622709293547600/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">두근두근 | 두근두근 | [BBWXkY99Yk](https://discord.gg/BBWXkY99Yk) | 1369622709293547600 |
@@ -2894,6 +2895,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369688202025369710/dea4f5f8e9aaa736c9b599506226508e.png" width="24">헤으응 | .gg/subcommunity 헤으응 | [2yqkP9H5We](https://discord.gg/2yqkP9H5We) | 1369688202025369710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369479381965078528/f41a12010ec3a7623a8ed9dea2c888e3.png" width="24">현아 | @ [hyuna] all in | [g5crkh3ecC](https://discord.gg/g5crkh3ecC) | 1369479381965078528 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369523064068509736/878c62b6694a4f5931104f766191bec7.png" width="24">호요버스 | .gg/subcommunity 호요버스 | [KZnGn6PJWw](https://discord.gg/KZnGn6PJWw) | 1369523064068509736 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369540136911507557/09d92e91e9d29e0c92b0cf870948dea8.png" width="24">휴닝카이 | hyukα&#x27;s guild ❦   𓂃   ... | [vGnprd2VdT](https://discord.gg/vGnprd2VdT) | 1369540136911507557 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369525854941614133/b6f6582eb0301ce069e00b2a99323975.png" width="24">ﬁght | fight | [N2gEdCjnUE](https://discord.gg/N2gEdCjnUE) | 1369525854941614133 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369376752488677537/873d5b72afaf25f9540db843094560cc.png" width="24">ﬁgma | Figma Tag | [XdJpUAsgWv](https://discord.gg/XdJpUAsgWv) | 1369376752488677537 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369355939333013546/d5f1d03a2e4d13d568a35169eca064e3.png" width="24">ﬁona | /lovespell [fiona] | [wmEdrTQgem](https://discord.gg/wmEdrTQgem) | 1369355939333013546 |

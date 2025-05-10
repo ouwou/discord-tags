@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/549360766600347658/a0b4aabd2dd87bf79bfbeb89a0eb6740.png" width="24">LꚘMI | Loomian Legacy | [loomian-legacy](https://discord.gg/loomian-legacy) | 2025-05-10T03:12:49+00:00 | 549360766600347658 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369587129579077683/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">राम | ( राम ) TAG | [SBYC9dyqZC](https://discord.gg/SBYC9dyqZC) | 2025-05-10T03:12:49+00:00 | 1369587129579077683 |
 | <img src="https://cdn.discordapp.com/clan-badges/1365717794137833513/0625caabbdb25cb8406ebdd64b90a445.png" width="24">еgо | /reason | [reason](https://discord.gg/reason) | 2025-05-10T03:07:45+00:00 | 1365717794137833513 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369555761226715358/86735389348f3eacfa519eb553df38fd.png" width="24">edr | SEing | [akFgBUgYGz](https://discord.gg/akFgBUgYGz) | 2025-05-10T03:02:41+00:00 | 1369555761226715358 |
 | <img src="https://cdn.discordapp.com/clan-badges/280136391327744001/59c0f381f2399f5317d14ebcda909857.png" width="24">GER | .gg/ger | [ger](https://discord.gg/ger) | 2025-05-10T03:02:41+00:00 | 280136391327744001 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370080146903793805/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">BRI | 764 | [wgfsAwNMHf](https://discord.gg/wgfsAwNMHf) | 2025-05-10T00:16:18+00:00 | 1370080146903793805 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369457203135778946/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">TCK | TCK 102 | [X88nCHHTtc](https://discord.gg/X88nCHHTtc) | 2025-05-10T00:16:18+00:00 | 1369457203135778946 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369748585721233408/22f8c38a62b66123c4242d0cbdd46282.png" width="24">TXT | TOMORROW X TOGETHER - TAG | [Fwd7MywrVr](https://discord.gg/Fwd7MywrVr) | 2025-05-10T00:16:18+00:00 | 1369748585721233408 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369773764019224788/43c41cf65daed002eebbeb30059a2497.png" width="24">won | /won guild | [UuGT6PGVve](https://discord.gg/UuGT6PGVve) | 2025-05-10T00:16:18+00:00 | 1369773764019224788 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369780403497603242/b1de9f49a27e16f42a74685bf374f34b.png" width="24">𑁯੭ | kuo #𑁯੭ | [RzbzVK7wMm](https://discord.gg/RzbzVK7wMm) | 2025-05-10T00:11:14+00:00 | 1369780403497603242 |
 
 </details>
 
@@ -1120,6 +1120,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369477797327671436/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">Luxe | Luxe #Guild | [6fNJmgYjuY](https://discord.gg/6fNJmgYjuY) | 1369477797327671436 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369392670258102372/79366e8660935912726217b413fcc19b.png" width="24">Luﬀy | [Luffy] /optags - OPTH | [MhGJ4y3FT2](https://discord.gg/MhGJ4y3FT2) | 1369392670258102372 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369842269661954159/250daa47c136bfb02d29cd0b4846882e.png" width="24">LᗢVE | heartfuls ۶ৎ girly girls ⸝⸝... | [hm6neNQCwS](https://discord.gg/hm6neNQCwS) | 1369842269661954159 |
+| <img src="https://cdn.discordapp.com/clan-badges/549360766600347658/a0b4aabd2dd87bf79bfbeb89a0eb6740.png" width="24">LꚘMI | Loomian Legacy | [loomian-legacy](https://discord.gg/loomian-legacy) | 549360766600347658 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761282697461800/b3938209771bae7cf5337891200cd526.png" width="24">LꚘΠΔ | LꚘΠΔ | [ZXaAs8eDwH](https://discord.gg/ZXaAs8eDwH) | 1369761282697461800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370069940450758826/2e76eb3705df2ec14a9ecd8d6d41bce6.png" width="24">M5 | #M5 \| .gg/frauds | [c5VAbUNDxZ](https://discord.gg/c5VAbUNDxZ) | 1370069940450758826 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369722384130510898/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">M8 | Gentle Mate [GUILD] | [urvXnCk7tK](https://discord.gg/urvXnCk7tK) | 1369722384130510898 |
@@ -2487,6 +2488,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369983933953085504/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">࣪ ꣑ৎ | ᣟ݂  𓏼✿      sohee   🍵  𓎐 | [ZDdWhcaEU7](https://discord.gg/ZDdWhcaEU7) | 1369983933953085504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369305531612790916/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">भारत | भारत  tag - gg/india | [indiaa](https://discord.gg/indiaa) | 1369305531612790916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370067517145481347/9d904d180e9e9b6dba066eb438945171.png" width="24">राम | ।। अयोध्या 🚩।। | [sXAQxW8ts8](https://discord.gg/sXAQxW8ts8) | 1370067517145481347 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369587129579077683/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">राम | ( राम ) TAG | [SBYC9dyqZC](https://discord.gg/SBYC9dyqZC) | 1369587129579077683 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754311361302589/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ৎ? | # ৎ? \| .gg/slave | [sSskU2suu3](https://discord.gg/sSskU2suu3) | 1369754311361302589 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369424772848685056/0c038eee220510ce1eda9f3a6d219d43.png" width="24">ਏਓ | ਏਓ \| .gg/fg  for 30+ free ... | [F9M2urnuvf](https://discord.gg/F9M2urnuvf) | 1369424772848685056 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369762690268004442/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">૮ꔫ৴ა | 爱 ૮ꔫ৴ა | [bT64QB9buk](https://discord.gg/bT64QB9buk) | 1369762690268004442 |

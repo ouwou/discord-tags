@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1296983043998879804/878c62b6694a4f5931104f766191bec7.png" width="24">만화 | Tyson | [8gnKgQa9A3](https://discord.gg/8gnKgQa9A3) | 2025-05-10T06:45:18+00:00 | 1296983043998879804 |
 | <img src="https://cdn.discordapp.com/clan-badges/1298187007012507721/8a36cb214b89bdf18e156ffb44eec982.png" width="24">CVNT | Gamer&#x27;s Haven  \| Soci... | [P9ApPbxVpa](https://discord.gg/P9ApPbxVpa) | 2025-05-10T06:40:15+00:00 | 1298187007012507721 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761750374813820/6ed907032e3a22a1cd30d3f61a5cd96e.png" width="24">﷽﷽﷽﷽ | Beast&#x27;s Tag server | [gbPUT69wYr](https://discord.gg/gbPUT69wYr) | 2025-05-10T06:35:11+00:00 | 1369761750374813820 |
 | <img src="https://cdn.discordapp.com/clan-badges/1356934353959129098/86735389348f3eacfa519eb553df38fd.png" width="24">GODS | 59 | [59](https://discord.gg/59) | 2025-05-10T06:35:11+00:00 | 1356934353959129098 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369596682437918814/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">XwX | samis \| XwX | [FvDsxsNwPr](https://discord.gg/FvDsxsNwPr) | 2025-05-10T03:48:15+00:00 | 1369596682437918814 |
 | <img src="https://cdn.discordapp.com/clan-badges/935374103794294844/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">ܔܛܮܨ | Banished | [w9jHyDD6c2](https://discord.gg/w9jHyDD6c2) | 2025-05-10T03:48:15+00:00 | 935374103794294844 |
 | <img src="https://cdn.discordapp.com/clan-badges/1293596673691353189/6b142c61e49c44f889ab6c4ae71a4efd.png" width="24">初音ミク | Miku&#x27;s Café | [mikuscafe](https://discord.gg/mikuscafe) | 2025-05-10T03:48:15+00:00 | 1293596673691353189 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369409454562611280/ba4666ec684b28253c036851b97de8a9.png" width="24">bun | meow | [2fEE8qhfQ8](https://discord.gg/2fEE8qhfQ8) | 2025-05-10T03:43:12+00:00 | 1369409454562611280 |
 
 </details>
 
@@ -2884,6 +2884,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369622709293547600/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">두근두근 | 두근두근 | [BBWXkY99Yk](https://discord.gg/BBWXkY99Yk) | 1369622709293547600 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369893744635150386/b70926c4409284ee5f7ecae334eed9fe.png" width="24">레드벨벳 | Red Velvet 레드벨벳 | [RCv5JB7ZJG](https://discord.gg/RCv5JB7ZJG) | 1369893744635150386 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756122109448192/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">리쿠 | ͜\| ͜͝ 𓏼   🍵  riku  ᣟ݂ ᥥ   ⑅ | [VsU49QeRXh](https://discord.gg/VsU49QeRXh) | 1369756122109448192 |
+| <img src="https://cdn.discordapp.com/clan-badges/1296983043998879804/878c62b6694a4f5931104f766191bec7.png" width="24">만화 | Tyson | [8gnKgQa9A3](https://discord.gg/8gnKgQa9A3) | 1296983043998879804 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369660914433003530/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">말랑콩떡 | .gg/ZpEhh4tjHv [말랑콩떡] | [ZpEhh4tjHv](https://discord.gg/ZpEhh4tjHv) | 1369660914433003530 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369327652648784054/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">멘헤라 | ✞멘헤라 공원✞ [🎁이벤트] | [ugmKMTKbQA](https://discord.gg/ugmKMTKbQA) | 1369327652648784054 |
 | <img src="https://cdn.discordapp.com/clan-badges/1209146998406783016/ad842b5ea717cde056d0093cb9e90d1d.png" width="24">몬난이 | 몬난이들의 소굴 | [BGUTtr9Rsf](https://discord.gg/BGUTtr9Rsf) | 1209146998406783016 |

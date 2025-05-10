@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369753273170399354/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">9LWA | Tag [9LWA] | [U5KnVxVjs8](https://discord.gg/U5KnVxVjs8) | 2025-05-10T18:44:47+00:00 | 1369753273170399354 |
+| <img src="https://cdn.discordapp.com/clan-badges/1144838464035094529/6406fe443898047cddec6b0b66b59654.png" width="24">fart | miau | [6kECefP2W9](https://discord.gg/6kECefP2W9) | 2025-05-10T18:44:47+00:00 | 1144838464035094529 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641810275864586/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">:( | \*\* | [nic](https://discord.gg/nic) | 2025-05-10T18:39:40+00:00 | 1369641810275864586 |
 | <img src="https://cdn.discordapp.com/clan-badges/1327806975270060075/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">/pmo | /pmo | [Pmo](https://discord.gg/Pmo) | 2025-05-10T18:39:40+00:00 | 1327806975270060075 |
 | <img src="https://cdn.discordapp.com/clan-badges/1090289654672130090/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">#187 | Sun Avatar. | [yw](https://discord.gg/yw) | 2025-05-10T18:39:40+00:00 | 1090289654672130090 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/991008402908016700/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">69 | { 𝐌𝐈𝐃𝐍𝐈𝐆𝐇𝐓 } | [fk](https://discord.gg/fk) | 2025-05-10T17:39:48+00:00 | 991008402908016700 |
 | <img src="https://cdn.discordapp.com/clan-badges/1270765263788310641/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">69 | paranoid | [27](https://discord.gg/27) | 2025-05-10T17:39:48+00:00 | 1270765263788310641 |
 | <img src="https://cdn.discordapp.com/clan-badges/1234510325475180614/0a61d2141c57b722c69a4296ec47094d.png" width="24">727 | catt&#x27;s clan testing se... | [3N7SDGu7eR](https://discord.gg/3N7SDGu7eR) | 2025-05-10T17:39:48+00:00 | 1234510325475180614 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369425018425180261/3109dd292bbd2cb6a18f6cd7148ad85a.png" width="24">777 | 777 | [q7EndTj7fK](https://discord.gg/q7EndTj7fK) | 2025-05-10T17:39:48+00:00 | 1369425018425180261 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369805125463572540/7dff089fbee252a67e72a08ae58a0376.png" width="24">777 | 7 7 7 #WE ARE ON TOP! | [7x77](https://discord.gg/7x77) | 2025-05-10T17:39:48+00:00 | 1369805125463572540 |
 
 </details>
 
@@ -324,6 +324,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369730373541691583/dceeb0c3654fc502f15590667adb844b.png" width="24">999 | 999 Clan | [VxprHNhKGU](https://discord.gg/VxprHNhKGU) | 1369730373541691583 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369470070119465101/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">999 | 999 Tag | [CUpMteuYrd](https://discord.gg/CUpMteuYrd) | 1369470070119465101 |
 | <img src="https://cdn.discordapp.com/clan-badges/1313760643471511593/478b10f080c53bc32bb593cde12f87ca.png" width="24">999 | 999 | [kaCt2cyPXF](https://discord.gg/kaCt2cyPXF) | 1313760643471511593 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369753273170399354/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">9LWA | Tag [9LWA] | [U5KnVxVjs8](https://discord.gg/U5KnVxVjs8) | 1369753273170399354 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369390512523575446/dfcdf28a216e5a9d11663259aa9fa053.png" width="24">9mm | .gg/ski for access [9mm] | [Dw9RdaJg3z](https://discord.gg/Dw9RdaJg3z) | 1369390512523575446 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369385261544509515/2c7aa014ee3599b6b7089ce933971852.png" width="24">:( | [:(] .gg/decomposed for tags | [j7EJdvmVy9](https://discord.gg/j7EJdvmVy9) | 1369385261544509515 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369295603158220872/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">:( | :( : /bmx | [hm7RTcNJZn](https://discord.gg/hm7RTcNJZn) | 1369295603158220872 |
@@ -2420,6 +2421,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369230081158938695/2c7aa014ee3599b6b7089ce933971852.png" width="24">fame | skyl #fame | [rcBRPmRPHN](https://discord.gg/rcBRPmRPHN) | 1369230081158938695 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369720991990943796/232d1d2a366ec512dde707821f672cce.png" width="24">fame | dwd private club | [RAq8G4qU4E](https://discord.gg/RAq8G4qU4E) | 1369720991990943796 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745124669653083/d7d9e4ef25374812a6e154165ac3cc3d.png" width="24">fart | fart tag \| #roadto500 | [tFmMhx2sCg](https://discord.gg/tFmMhx2sCg) | 1369745124669653083 |
+| <img src="https://cdn.discordapp.com/clan-badges/1144838464035094529/6406fe443898047cddec6b0b66b59654.png" width="24">fart | miau | [6kECefP2W9](https://discord.gg/6kECefP2W9) | 1144838464035094529 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369565464686104637/fcaac0adfc7f70557e8ddde391952b7c.png" width="24">fate | fate guild (.gg/rosie) | [vWpfcvzhMD](https://discord.gg/vWpfcvzhMD) | 1369565464686104637 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726751810523146/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">fate | ᶻ 𝗓 𐰁 .ᐟ [ fate ] | [jbSEhkuesw](https://discord.gg/jbSEhkuesw) | 1369726751810523146 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370082495265116342/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">fawn | .gg/cutietags [fawn] ♡ | [PKDj3ePBmv](https://discord.gg/PKDj3ePBmv) | 1370082495265116342 |

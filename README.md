@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369542748771713095/3d3c7f197175e54d6a52ef663a0c14c1.png" width="24">COLD | COLD \| discord.gg/XWJGPynpM6 | [ZeuedtBFGw](https://discord.gg/ZeuedtBFGw) | 2025-05-10T03:17:53+00:00 | 1369542748771713095 |
+| <img src="https://cdn.discordapp.com/clan-badges/1266225829227003937/58271fb362c4464a4ebead69a2ec0f72.png" width="24">RSM | Day Trade Demons | [muCNY9tujh](https://discord.gg/muCNY9tujh) | 2025-05-10T03:17:53+00:00 | 1266225829227003937 |
 | <img src="https://cdn.discordapp.com/clan-badges/549360766600347658/a0b4aabd2dd87bf79bfbeb89a0eb6740.png" width="24">LꚘMI | Loomian Legacy | [loomian-legacy](https://discord.gg/loomian-legacy) | 2025-05-10T03:12:49+00:00 | 549360766600347658 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369587129579077683/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">राम | ( राम ) TAG | [SBYC9dyqZC](https://discord.gg/SBYC9dyqZC) | 2025-05-10T03:12:49+00:00 | 1369587129579077683 |
 | <img src="https://cdn.discordapp.com/clan-badges/1365717794137833513/0625caabbdb25cb8406ebdd64b90a445.png" width="24">еgо | /reason | [reason](https://discord.gg/reason) | 2025-05-10T03:07:45+00:00 | 1365717794137833513 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369091014194630717/9173796b835771cf3f92e61ae082aefc.png" width="24">puff | 8. | [K4kmfxJrgt](https://discord.gg/K4kmfxJrgt) | 2025-05-10T00:21:21+00:00 | 1369091014194630717 |
 | <img src="https://cdn.discordapp.com/clan-badges/893029354068668476/d90c2fde02048ee9b99e86c49da61593.png" width="24">₊🫧⁺ | ⋆˚🫧࿔ Bubbles 𝜗𝜚˚⋆ | [GNtYM6dPFC](https://discord.gg/GNtYM6dPFC) | 2025-05-10T00:16:18+00:00 | 893029354068668476 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370080146903793805/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">BRI | 764 | [wgfsAwNMHf](https://discord.gg/wgfsAwNMHf) | 2025-05-10T00:16:18+00:00 | 1370080146903793805 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369457203135778946/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">TCK | TCK 102 | [X88nCHHTtc](https://discord.gg/X88nCHHTtc) | 2025-05-10T00:16:18+00:00 | 1369457203135778946 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369748585721233408/22f8c38a62b66123c4242d0cbdd46282.png" width="24">TXT | TOMORROW X TOGETHER - TAG | [Fwd7MywrVr](https://discord.gg/Fwd7MywrVr) | 2025-05-10T00:16:18+00:00 | 1369748585721233408 |
 
 </details>
 
@@ -575,6 +575,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1352409451688103997/86735389348f3eacfa519eb553df38fd.png" width="24">CODE | SaltyPro | [fGNNasAFCm](https://discord.gg/fGNNasAFCm) | 1352409451688103997 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662031757705226/461fdeda71147d4354c538e2915d29b8.png" width="24">COIN | C.O.I.N | [6pm7zvkhAw](https://discord.gg/6pm7zvkhAw) | 1369662031757705226 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369346270057201704/b2c0d59dd264670cfe5aff8b0cce091d.png" width="24">COKE | COKE \| .gg/plan | [NePfB2VQgY](https://discord.gg/NePfB2VQgY) | 1369346270057201704 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369542748771713095/3d3c7f197175e54d6a52ef663a0c14c1.png" width="24">COLD | COLD \| discord.gg/XWJGPynpM6 | [ZeuedtBFGw](https://discord.gg/ZeuedtBFGw) | 1369542748771713095 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369298648269062164/1e94e7a4d9c4112e9d891fcbbe122ffc.png" width="24">COOL | Only for cool \| Games with... | [Pv5rMkbcQv](https://discord.gg/Pv5rMkbcQv) | 1369298648269062164 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369441736149041203/46f8bd0276aec1e4da7c6b3d84d273d4.png" width="24">COOL | Cool Kids Club | [4TFDAJdDMj](https://discord.gg/4TFDAJdDMj) | 1369441736149041203 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369782256104640512/b7dfa1f2bd021d855682ea83bde4d540.png" width="24">COPS | cops | [qUkBJQQFE5](https://discord.gg/qUkBJQQFE5) | 1369782256104640512 |
@@ -1440,6 +1441,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369926877187276810/bc3570f0467b12f13d180cbe04a6f4f4.png" width="24">RQ | RQ \| Rage Quit Guild | [zMTZT8m44n](https://discord.gg/zMTZT8m44n) | 1369926877187276810 |
 | <img src="https://cdn.discordapp.com/clan-badges/794613512495300640/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">RR | Restaurant Roleplay | [fries](https://discord.gg/fries) | 794613512495300640 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363531243001741576/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">RSL | RSL \| TAG | [kXEU493xWV](https://discord.gg/kXEU493xWV) | 1363531243001741576 |
+| <img src="https://cdn.discordapp.com/clan-badges/1266225829227003937/58271fb362c4464a4ebead69a2ec0f72.png" width="24">RSM | Day Trade Demons | [muCNY9tujh](https://discord.gg/muCNY9tujh) | 1266225829227003937 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369433416428294275/604aac7fa9d15833648128ef762bb2e9.png" width="24">RTRC | Retrac Guild | [NJRumWwddX](https://discord.gg/NJRumWwddX) | 1369433416428294275 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369315940352921672/54d05843d1be923b53482c8ecfa01b3a.png" width="24">RTX | ✨ Official Tag RTX | [mYduhTmRhs](https://discord.gg/mYduhTmRhs) | 1369315940352921672 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637353932587108/878c62b6694a4f5931104f766191bec7.png" width="24">RUBY | Robin&#x27;s \| Tag Server | [f62g3ph7Hy](https://discord.gg/f62g3ph7Hy) | 1369637353932587108 |

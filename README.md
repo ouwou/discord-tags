@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1249171492030382171/1c8f8efb11de25463d853de6f864ffc6.png" width="24">Hive | The Hive | [hivee](https://discord.gg/hivee) | 2025-05-10T07:25:48+00:00 | 1249171492030382171 |
+| <img src="https://cdn.discordapp.com/clan-badges/641369638193594369/245c627c67e6ab233180499c0264d521.png" width="24">RIZZ | Keama&#x27;s Sex Dungeon | [rUChFrA9Xg](https://discord.gg/rUChFrA9Xg) | 2025-05-10T07:25:48+00:00 | 641369638193594369 |
 | <img src="https://cdn.discordapp.com/clan-badges/1092997418561306664/7f968d34689b032120d7a0f2a3d69b83.png" width="24">BNJR | Perserikatan Papan Rupawan | [856u5jjK7g](https://discord.gg/856u5jjK7g) | 2025-05-10T07:20:44+00:00 | 1092997418561306664 |
 | <img src="https://cdn.discordapp.com/clan-badges/1132000859627212820/b6f6582eb0301ce069e00b2a99323975.png" width="24">GAME | Anwime&#x27;s Club | [ny2djrmwrd](https://discord.gg/ny2djrmwrd) | 2025-05-10T07:20:44+00:00 | 1132000859627212820 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363278558918873312/7b571a46a1266491cfabe2e362aad176.png" width="24">ICE | IceCord | [icecord](https://discord.gg/icecord) | 2025-05-10T07:20:44+00:00 | 1363278558918873312 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369443726983692409/ce1c41335a4912c38090c83d35139b7b.png" width="24">឵឵឵ | Lee&#x27;s other tag /VX4Hc... | [VX4HchrWQw](https://discord.gg/VX4HchrWQw) | 2025-05-10T03:53:19+00:00 | 1369443726983692409 |
 | <img src="https://cdn.discordapp.com/clan-badges/1112799297386332311/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">CAML | Camel Store | [CSD](https://discord.gg/CSD) | 2025-05-10T03:53:19+00:00 | 1112799297386332311 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369733949261352961/b1ba699fa83575adaf4ce572612501ef.png" width="24">chic | 𓏲　　𓈒　　/chic | [26VvxhfKfx](https://discord.gg/26VvxhfKfx) | 2025-05-10T03:53:19+00:00 | 1369733949261352961 |
-| <img src="https://cdn.discordapp.com/clan-badges/1326980606302748843/5f0404ec39b6724bf523b9ece78ccbd6.png" width="24">LYNX | Lynx Bot \| .gg/lynxbot | [lynxbot](https://discord.gg/lynxbot) | 2025-05-10T03:53:19+00:00 | 1326980606302748843 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369723822932103209/dea4f5f8e9aaa736c9b599506226508e.png" width="24">あんスタ | Enstars!! Tag • あんスター！！ | [UkmER9whxs](https://discord.gg/UkmER9whxs) | 2025-05-10T03:53:19+00:00 | 1369723822932103209 |
 
 </details>
 
@@ -985,6 +985,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369686966186279002/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">Hell | Hell \| .gg/tag-hell | [tag-hell](https://discord.gg/tag-hell) | 1369686966186279002 |
 | <img src="https://cdn.discordapp.com/clan-badges/1291751516704735263/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">Hide | Sala dei veri paguri | [JHQCDeEjQb](https://discord.gg/JHQCDeEjQb) | 1291751516704735263 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778758625787934/40a7aa796426347d6b76d20dfed2c273.png" width="24">Hina | Hinacord | [PHjeZEN49U](https://discord.gg/PHjeZEN49U) | 1369778758625787934 |
+| <img src="https://cdn.discordapp.com/clan-badges/1249171492030382171/1c8f8efb11de25463d853de6f864ffc6.png" width="24">Hive | The Hive | [hivee](https://discord.gg/hivee) | 1249171492030382171 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369266082522861588/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">HvH | HvH gaming CS2 / 2B2T | [eXPfRM65x5](https://discord.gg/eXPfRM65x5) | 1369266082522861588 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369751269178085478/ae06a22d25f68883ac93c36c6e4e057a.png" width="24">HvH | HvH Tag \| discord.gg/vac | [Wrf5tWkvgd](https://discord.gg/Wrf5tWkvgd) | 1369751269178085478 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369416839305887855/887e7eaef70e08e5afe0e88a9ececece.png" width="24">ICE | 🧊 Ice Boost = Tag | [2p9ksqQpwq](https://discord.gg/2p9ksqQpwq) | 1369416839305887855 |
@@ -1470,6 +1471,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/748637028761075732/4dc2a486e1f61230e4af1d448f6b02c1.png" width="24">RISE | RISE  Server 🌟 | [mrGnccXhw5](https://discord.gg/mrGnccXhw5) | 748637028761075732 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369109391214641183/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">RIZZ | Discord 2^2 | [dfruaHQtCv](https://discord.gg/dfruaHQtCv) | 1369109391214641183 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369283879273365535/1c5794cfce517f7d2b13e64cee5289ad.png" width="24">RIZZ | Comet #RIZZ (.gg/rizzed) | [kpuM39ukrA](https://discord.gg/kpuM39ukrA) | 1369283879273365535 |
+| <img src="https://cdn.discordapp.com/clan-badges/641369638193594369/245c627c67e6ab233180499c0264d521.png" width="24">RIZZ | Keama&#x27;s Sex Dungeon | [rUChFrA9Xg](https://discord.gg/rUChFrA9Xg) | 641369638193594369 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369312750789984449/bc2f7685eed9d27522595f510bb2da48.png" width="24">RLK | /rlkTAG | [2ucVMFr2ew](https://discord.gg/2ucVMFr2ew) | 1369312750789984449 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370038563151810560/7dab94a4e61ea6cba013e279fa96a5dd.png" width="24">RNDY | Randy | [Aw4JzPSutf](https://discord.gg/Aw4JzPSutf) | 1370038563151810560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369491513951653928/79366e8660935912726217b413fcc19b.png" width="24">ROCK | 🎸Rock Tag Club💀 | [wm4dZcBnWw](https://discord.gg/wm4dZcBnWw) | 1369491513951653928 |

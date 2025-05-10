@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369774312898297953/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">HELL | HELL | [WQZFdneCsf](https://discord.gg/WQZFdneCsf) | 2025-05-10T09:07:00+00:00 | 1369774312898297953 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369760116693274705/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">۟₊ ྀ | ̣　　    　    　瀏༅ 𓏼  cb97 ๑🕸𑜝◝ | [XEBgFEeANM](https://discord.gg/XEBgFEeANM) | 2025-05-10T09:01:56+00:00 | 1369760116693274705 |
 | <img src="https://cdn.discordapp.com/clan-badges/1127436882800816149/b2c0d59dd264670cfe5aff8b0cce091d.png" width="24">LUBE | ! Odyssey | [odyssey](https://discord.gg/odyssey) | 2025-05-10T09:01:56+00:00 | 1127436882800816149 |
 | <img src="https://cdn.discordapp.com/clan-badges/1086123824170410064/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">NYSE | Azur | [xUjbfjayz9](https://discord.gg/xUjbfjayz9) | 2025-05-10T09:01:56+00:00 | 1086123824170410064 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/877609150799028244/66e6116fb71622d52bed149a17914270.png" width="24">SKYS | Skays Gaming | [skaysgaming](https://discord.gg/skaysgaming) | 2025-05-10T05:49:38+00:00 | 877609150799028244 |
 | <img src="https://cdn.discordapp.com/clan-badges/853029270107979796/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">CURE | PreCord | [precord](https://discord.gg/precord) | 2025-05-10T05:44:34+00:00 | 853029270107979796 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369596733922869250/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">PUNI | Punisher | [punisher](https://discord.gg/punisher) | 2025-05-10T05:44:34+00:00 | 1369596733922869250 |
-| <img src="https://cdn.discordapp.com/clan-badges/622484432644734979/66e6116fb71622d52bed149a17914270.png" width="24">SUKI | SENDURITA ⚒ | [CvF9HuB6Zd](https://discord.gg/CvF9HuB6Zd) | 2025-05-10T05:44:34+00:00 | 622484432644734979 |
 
 </details>
 
@@ -965,6 +965,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369503372532518993/46ac170b0f98f88adf40a2b469c49822.png" width="24">HEDA | HedaTAG | [VspyKCjeE3](https://discord.gg/VspyKCjeE3) | 1369503372532518993 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369599057965748342/1e94e7a4d9c4112e9d891fcbbe122ffc.png" width="24">HELL | Hellfire | [kw6ukBKhhT](https://discord.gg/kw6ukBKhhT) | 1369599057965748342 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369728408229249044/939b33d879dbe878e8c79f8f181d7a8f.png" width="24">HELL | hello | [ZHHw5Aem2V](https://discord.gg/ZHHw5Aem2V) | 1369728408229249044 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369774312898297953/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">HELL | HELL | [WQZFdneCsf](https://discord.gg/WQZFdneCsf) | 1369774312898297953 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755893461286942/60695e0f6c7a5b9eb60a5be14d471158.png" width="24">HELP | HELP - TAG  (discord.gg/Szw... | [SzwcVDudXv](https://discord.gg/SzwcVDudXv) | 1369755893461286942 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369511062306558013/abd13f9138b11598e3d27486c6d3c2ad.png" width="24">HERB | HH | [EWGhdcfKTe](https://discord.gg/EWGhdcfKTe) | 1369511062306558013 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761689544953978/d0cffee51f8ceab3a6b85fe6b49949a0.png" width="24">HERO | Fitness Hero | [uSZ9sTjKHz](https://discord.gg/uSZ9sTjKHz) | 1369761689544953978 |

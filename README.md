@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1211525432181002270/40a7aa796426347d6b76d20dfed2c273.png" width="24">MEOW | MeowBox | [gdMQtkD5sr](https://discord.gg/gdMQtkD5sr) | 2025-05-10T02:42:28+00:00 | 1211525432181002270 |
+| <img src="https://cdn.discordapp.com/clan-badges/650745730591621170/dc4e546c3277e3e7b85f013bbeb16c9f.png" width="24">WS | ⚡ Wizards Story - RP | [uNapmQ46FA](https://discord.gg/uNapmQ46FA) | 2025-05-10T02:42:28+00:00 | 650745730591621170 |
 | <img src="https://cdn.discordapp.com/clan-badges/816561229601964032/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">OGN | OG-Network | [rTbsQujd6W](https://discord.gg/rTbsQujd6W) | 2025-05-10T02:37:24+00:00 | 816561229601964032 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363383790642135271/59c0f381f2399f5317d14ebcda909857.png" width="24">RICH | 7Sins RP \| New Era | [7sinsrp](https://discord.gg/7sinsrp) | 2025-05-10T02:37:24+00:00 | 1363383790642135271 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369374738337759333/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">WEAO | .gg/weaotag | [weaotag](https://discord.gg/weaotag) | 2025-05-10T02:37:24+00:00 | 1369374738337759333 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/655121499820261407/500310efcb666c62d5bc28ed19e9c1d1.png" width="24">ATG | MTA:SA Ankaram Tofas Gaming... | [ATG](https://discord.gg/ATG) | 2025-05-09T23:56:02+00:00 | 655121499820261407 |
 | <img src="https://cdn.discordapp.com/clan-badges/1092435632124604566/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BABY | School - An OwO Hub \| .gg/... | [school-an-owo-hub-gg-owohub-1092435632124604566](https://discord.gg/school-an-owo-hub-gg-owohub-1092435632124604566) | 2025-05-09T23:56:02+00:00 | 1092435632124604566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369283973892542584/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">한국인 | [한국인] | [69kuc2TyEm](https://discord.gg/69kuc2TyEm) | 2025-05-09T23:56:02+00:00 | 1369283973892542584 |
-| <img src="https://cdn.discordapp.com/clan-badges/1136363057740779573/8d61abb8b5da075befaff858861dba54.png" width="24">𑁯ᰍ | fontaine ⛲  genshin impact ... | [furina](https://discord.gg/furina) | 2025-05-09T23:50:59+00:00 | 1136363057740779573 |
-| <img src="https://cdn.discordapp.com/clan-badges/752404225379795045/89339f01c078bf79aaf91a86d2741956.png" width="24">GOTH | Hailey’s Hangout | [HSEQgtcNPY](https://discord.gg/HSEQgtcNPY) | 2025-05-09T23:50:59+00:00 | 752404225379795045 |
 
 </details>
 
@@ -1146,6 +1146,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369701556307496960/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">MEOW | @meow tag \| .gg/huzz | [4WNUrpGPjU](https://discord.gg/4WNUrpGPjU) | 1369701556307496960 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369770752978714634/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">MEOW | # MEOW \| .gg/slave | [u2HYsEuAw6](https://discord.gg/u2HYsEuAw6) | 1369770752978714634 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615684689989632/2ac3613ced92d46f5c8e059a3570747e.png" width="24">MEOW | La Citadelle | [9yRzMJVfM7](https://discord.gg/9yRzMJVfM7) | 1369615684689989632 |
+| <img src="https://cdn.discordapp.com/clan-badges/1211525432181002270/40a7aa796426347d6b76d20dfed2c273.png" width="24">MEOW | MeowBox | [gdMQtkD5sr](https://discord.gg/gdMQtkD5sr) | 1211525432181002270 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369445819941519461/eb7f1b5a28facf444a9c20b7497d4535.png" width="24">META | META | [yUUsTMzNnJ](https://discord.gg/yUUsTMzNnJ) | 1369445819941519461 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369621246655856750/8d61abb8b5da075befaff858861dba54.png" width="24">META | Meta Guild | [bZ8H2ra9Yj](https://discord.gg/bZ8H2ra9Yj) | 1369621246655856750 |
 | <img src="https://cdn.discordapp.com/clan-badges/865208936558886953/8d61abb8b5da075befaff858861dba54.png" width="24">MEW | ◟🎀𖨂　mew　⏖　icons﹒decor | [Mew](https://discord.gg/Mew) | 865208936558886953 |
@@ -1739,6 +1740,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370015763829887006/89a82c5a7fc5035609bb41644c120e96.png" width="24">WRLD | WRLD | [bUCXzsJVKQ](https://discord.gg/bUCXzsJVKQ) | 1370015763829887006 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369677237665796136/2c7aa014ee3599b6b7089ce933971852.png" width="24">WRLD | #WRLD \| Tag Server | [vwVvxJdpNr](https://discord.gg/vwVvxJdpNr) | 1369677237665796136 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369639152752267274/451da3f34de4c4d5e3b628d4630f5071.png" width="24">WRLT | ᨓ 。╱𝙬𝙧𝙞𝙤𝙡𝙚𝙩𝙩𝙚 ︵  !!? | [FXW5xWvq3r](https://discord.gg/FXW5xWvq3r) | 1369639152752267274 |
+| <img src="https://cdn.discordapp.com/clan-badges/650745730591621170/dc4e546c3277e3e7b85f013bbeb16c9f.png" width="24">WS | ⚡ Wizards Story - RP | [uNapmQ46FA](https://discord.gg/uNapmQ46FA) | 650745730591621170 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369089143921180702/597942018a8b62c9461530905caa76cb.png" width="24">WSUP | Wassup Ma Boy ? | [t9564aB5U8](https://discord.gg/t9564aB5U8) | 1369089143921180702 |
 | <img src="https://cdn.discordapp.com/clan-badges/1029441010222248106/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">WTCS | War Thunder Esports Officia... | [wt-esport](https://discord.gg/wt-esport) | 1029441010222248106 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369600737528778844/5607047f21b7e25a26c195cc49871278.png" width="24">WTF | Just... WTF | [3Q8RFgq7zb](https://discord.gg/3Q8RFgq7zb) | 1369600737528778844 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369452256348602378/3455b2a9101d1e373e96973f22e149b0.png" width="24">NUV | Summer Camp | [cQhzSmE6bM](https://discord.gg/cQhzSmE6bM) | 2025-05-10T04:59:03+00:00 | 1369452256348602378 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749368013455510/6a0e37800692e0e4650c1b7062aa5c5e.png" width="24">NEON | Wynnie Guild Tag | [kG8Bf7nsrt](https://discord.gg/kG8Bf7nsrt) | 2025-05-10T04:53:59+00:00 | 1369749368013455510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662024749158572/42e16d8eb4d30a9c10b1e01c1292fdc3.png" width="24">⸝⸝ | ឵឵❤ | [uDvvvhkbes](https://discord.gg/uDvvvhkbes) | 2025-05-10T04:48:56+00:00 | 1369662024749158572 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745178218336406/2bc22ec4ca99fe82c6ad5685f015eda1.png" width="24">NSFW | \~ gg/sanctuary18 | [ze4fvH5jVk](https://discord.gg/ze4fvH5jVk) | 2025-05-10T04:48:56+00:00 | 1369745178218336406 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/802637374919147540/97aaf38193a632b6971deb94c3b62717.png" width="24">DAMN | DAMN \| discord.gg/memex | [CaqmRBztP6](https://discord.gg/CaqmRBztP6) | 2025-05-10T02:07:02+00:00 | 802637374919147540 |
 | <img src="https://cdn.discordapp.com/clan-badges/1359444818270490704/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ACTD | Anime Conquest | [animeconquest](https://discord.gg/animeconquest) | 2025-05-10T02:01:58+00:00 | 1359444818270490704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370017424124153866/385c13fa02a9552e9a790b29e7b319df.png" width="24">𓏲𝄢 | 𓏲𝄢 \| .gg/doyoung | [du2WNCb7SG](https://discord.gg/du2WNCb7SG) | 2025-05-10T01:56:55+00:00 | 1370017424124153866 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369804223377703043/c7de302f15d896040a41df1c9c6b34c2.png" width="24">$$ | aure world ✮⋆˙ | [yN4DstM4CU](https://discord.gg/yN4DstM4CU) | 2025-05-10T01:51:51+00:00 | 1369804223377703043 |
 
 </details>
 
@@ -1283,6 +1283,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369745178218336406/2bc22ec4ca99fe82c6ad5685f015eda1.png" width="24">NSFW | \~ gg/sanctuary18 | [ze4fvH5jVk](https://discord.gg/ze4fvH5jVk) | 1369745178218336406 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369707819196219484/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">NULL | [NULL] | [bumuUNM9ug](https://discord.gg/bumuUNM9ug) | 1369707819196219484 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370029745361649674/22f8c38a62b66123c4242d0cbdd46282.png" width="24">NULL | The Void | [7ZAFA4ZMHb](https://discord.gg/7ZAFA4ZMHb) | 1370029745361649674 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369452256348602378/3455b2a9101d1e373e96973f22e149b0.png" width="24">NUV | Summer Camp | [cQhzSmE6bM](https://discord.gg/cQhzSmE6bM) | 1369452256348602378 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766893757534320/71ad19a2603191a0dc56568625dabb50.png" width="24">NWA | N.W.A SQUAD | [f8NBB2zTAe](https://discord.gg/f8NBB2zTAe) | 1369766893757534320 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369637331514036235/4e9fe893c641d1c9447e4113e40503bf.png" width="24">NYA | Meow &lt;3 | [Z3wuGJYZCY](https://discord.gg/Z3wuGJYZCY) | 1369637331514036235 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369043926895296542/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">NYA | Nyanners :3 | [MFmteWc9wV](https://discord.gg/MFmteWc9wV) | 1369043926895296542 |

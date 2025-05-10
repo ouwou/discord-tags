@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370017424124153866/385c13fa02a9552e9a790b29e7b319df.png" width="24">𓏲𝄢 | 𓏲𝄢 \| .gg/doyoung | [du2WNCb7SG](https://discord.gg/du2WNCb7SG) | 2025-05-10T01:56:55+00:00 | 1370017424124153866 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369804223377703043/c7de302f15d896040a41df1c9c6b34c2.png" width="24">$$ | aure world ✮⋆˙ | [yN4DstM4CU](https://discord.gg/yN4DstM4CU) | 2025-05-10T01:51:51+00:00 | 1369804223377703043 |
 | <img src="https://cdn.discordapp.com/clan-badges/772174542235238410/411da0f939dd7cb8d5dd76ba410ea659.png" width="24">tttt | Blue House | [tttt](https://discord.gg/tttt) | 2025-05-10T01:51:51+00:00 | 772174542235238410 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370074312245248000/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">404 | Realshi Guild Server | [UdPxmyp2ag](https://discord.gg/UdPxmyp2ag) | 2025-05-10T01:46:47+00:00 | 1370074312245248000 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369739079289143428/6082c2553b03b47ccaea5203567df3cf.png" width="24">DRUG | DRUG FXCK・TAG | [AFNevTMAGT](https://discord.gg/AFNevTMAGT) | 2025-05-09T23:35:49+00:00 | 1369739079289143428 |
 | <img src="https://cdn.discordapp.com/clan-badges/1343245101132152842/1c8f8efb11de25463d853de6f864ffc6.png" width="24">FREE | FREE2RP | [ttth23APhM](https://discord.gg/ttth23APhM) | 2025-05-09T23:35:49+00:00 | 1343245101132152842 |
 | <img src="https://cdn.discordapp.com/clan-badges/1338940419114799134/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MxL | .gg/01 | [01](https://discord.gg/01) | 2025-05-09T23:35:49+00:00 | 1338940419114799134 |
-| <img src="https://cdn.discordapp.com/clan-badges/1271667812213063730/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">njz | diaspro guild tag | [y3G3AYyCYf](https://discord.gg/y3G3AYyCYf) | 2025-05-09T23:35:49+00:00 | 1271667812213063730 |
 
 </details>
 
@@ -2937,6 +2937,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369774672849141760/dc61eaed9e8b012148661df1ada874e6.png" width="24">𓂀𓂀 | Provenance | [d6ukhqzk3q](https://discord.gg/d6ukhqzk3q) | 1369774672849141760 |
 | <img src="https://cdn.discordapp.com/clan-badges/1298809915430797343/0c6061875bfc843f70585591d2f66fab.png" width="24">𓎟𓎟 | 𖧁　/tikki　﹕　guild﹒social | [teQ86hhJtu](https://discord.gg/teQ86hhJtu) | 1298809915430797343 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369717422977847426/75a82fdb9b8b5d8f4c0d367fd8870a91.png" width="24">𓏲𝄢 | 𓏲𝄢 | [c6ATwCMTR8](https://discord.gg/c6ATwCMTR8) | 1369717422977847426 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370017424124153866/385c13fa02a9552e9a790b29e7b319df.png" width="24">𓏲𝄢 | 𓏲𝄢 \| .gg/doyoung | [du2WNCb7SG](https://discord.gg/du2WNCb7SG) | 1370017424124153866 |
 | <img src="https://cdn.discordapp.com/clan-badges/1103248956999352381/36e09b9c0a0ae281bf63616b0729be16.png" width="24">𖤐ِِ | 𖤐ِِ | [wRvKvARDcC](https://discord.gg/wRvKvARDcC) | 1103248956999352381 |
 | <img src="https://cdn.discordapp.com/clan-badges/1367231264246993058/c8d016eed5c8752316ca38fdd54380c6.png" width="24">𖤐戦争 | /𝔞𝔳𝔬𝔦𝔡 | [Qzydf9eyj8](https://discord.gg/Qzydf9eyj8) | 1367231264246993058 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369505122824224850/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">𝄞ˑ | /snore guild | [39tpAUkdjg](https://discord.gg/39tpAUkdjg) | 1369505122824224850 |

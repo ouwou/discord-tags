@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1269393236879741001/a19e07780bd5543f6e3f569e1ae4c8b8.png" width="24">308 | /308 | [308](https://discord.gg/308) | 2025-05-10T23:58:26+00:00 | 1269393236879741001 |
 | <img src="https://cdn.discordapp.com/clan-badges/1287420918376960072/7f968d34689b032120d7a0f2a3d69b83.png" width="24">YT | Creators | [MWxKZVEMFk](https://discord.gg/MWxKZVEMFk) | 2025-05-10T23:53:23+00:00 | 1287420918376960072 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370074282369089618/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ZØNE | ZØNE Guild Tag | [NsheMhF5vj](https://discord.gg/NsheMhF5vj) | 2025-05-10T23:53:23+00:00 | 1370074282369089618 |
 | <img src="https://cdn.discordapp.com/clan-badges/318812687490482176/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">M1LF | NOODLE NATION | [ewqTbW862Z](https://discord.gg/ewqTbW862Z) | 2025-05-10T23:48:19+00:00 | 318812687490482176 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1363961197170528276/310d9b669d687de773b5f3b5310ca1f3.png" width="24">x\_x | x\_x | [sz2ZQ5kFzW](https://discord.gg/sz2ZQ5kFzW) | 2025-05-10T22:07:00+00:00 | 1363961197170528276 |
 | <img src="https://cdn.discordapp.com/clan-badges/1287481774343061606/dc61eaed9e8b012148661df1ada874e6.png" width="24">Zuni | zuni | [6YEUxq4WUf](https://discord.gg/6YEUxq4WUf) | 2025-05-10T22:07:00+00:00 | 1287481774343061606 |
 | <img src="https://cdn.discordapp.com/clan-badges/986663574304882738/1e6dec86bae5252dc83d8bec752cd688.png" width="24">زبي | Unit X #زبي | [VhEkvxaQsS](https://discord.gg/VhEkvxaQsS) | 2025-05-10T22:07:00+00:00 | 986663574304882738 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369683452412039292/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">عنزي | JULY &lt;mAKE YOUR TAG&gt; | [8uGQexyv](https://discord.gg/8uGQexyv) | 2025-05-10T22:07:00+00:00 | 1369683452412039292 |
 
 </details>
 
@@ -235,6 +235,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369342948616962048/e972608432f3e2f47cdaefafe304b805.png" width="24">2b2t | 2B2T OG Guild | [fysEA4mYMm](https://discord.gg/fysEA4mYMm) | 1369342948616962048 |
 | <img src="https://cdn.discordapp.com/clan-badges/898924023231168572/6a3ca2eb7a2db8dcb3f8b531c66118af.png" width="24">3000 | Any Free Tag [3000] | [anyclan](https://discord.gg/anyclan) | 898924023231168572 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370000729212981268/cf014cb6402922ebc9074537ca56845d.png" width="24">305 | مطير [gg/NAGFHznJVb] | [abgBfxnem3](https://discord.gg/abgBfxnem3) | 1370000729212981268 |
+| <img src="https://cdn.discordapp.com/clan-badges/1269393236879741001/a19e07780bd5543f6e3f569e1ae4c8b8.png" width="24">308 | /308 | [308](https://discord.gg/308) | 1269393236879741001 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369718279932874855/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">333 | G U I D #1 | [uYY8PnHTSA](https://discord.gg/uYY8PnHTSA) | 1369718279932874855 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369582460970729472/8d61abb8b5da075befaff858861dba54.png" width="24">346 | 346 タグサーバー | [gCVXJ65zpv](https://discord.gg/gCVXJ65zpv) | 1369582460970729472 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369570564531818536/6082c2553b03b47ccaea5203567df3cf.png" width="24">36 | 36 | [FDzHJphg3Y](https://discord.gg/FDzHJphg3Y) | 1369570564531818536 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1199007038982864946/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">ᵇᵉˢᵗ | Best - Follow me on X: Th190\_ | [JM8mzahQvK](https://discord.gg/JM8mzahQvK) | 2025-05-10T22:52:36+00:00 | 1199007038982864946 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370098412153995356/8084d59ab2c97476363c0eb9c88c8486.png" width="24">café | Café Guild \| dc.gg/kahve | [85BYcnfU](https://discord.gg/85BYcnfU) | 2025-05-10T22:47:32+00:00 | 1370098412153995356 |
 | <img src="https://cdn.discordapp.com/clan-badges/1361037529356439592/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">dead | ran #guild | [ran](https://discord.gg/ran) | 2025-05-10T22:47:32+00:00 | 1361037529356439592 |
 | <img src="https://cdn.discordapp.com/clan-badges/1140884517566025859/f4451d462d1c3b8aa7cae44de4f0533c.png" width="24">fawn | @fawn join/softly for access | [SHEKgC936D](https://discord.gg/SHEKgC936D) | 2025-05-10T22:47:32+00:00 | 1140884517566025859 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/524500229249302528/8822f0c7c948f2765fb8c7e2558644bc.png" width="24">UEFN | FCHQ Creative Community | [fchq](https://discord.gg/fchq) | 2025-05-10T20:46:15+00:00 | 524500229249302528 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369659025586917597/0625caabbdb25cb8406ebdd64b90a445.png" width="24">667 | #667 .gg/tag667 | [udQNJet67Q](https://discord.gg/udQNJet67Q) | 2025-05-10T20:41:10+00:00 | 1369659025586917597 |
 | <img src="https://cdn.discordapp.com/clan-badges/1253922002553536636/d22ef2475283f52dfe80e34fe99442dd.png" width="24">bae | bae guild (.gg/rosie) | [2mmwsSVTWk](https://discord.gg/2mmwsSVTWk) | 2025-05-10T20:41:10+00:00 | 1253922002553536636 |
-| <img src="https://cdn.discordapp.com/clan-badges/1283056755336806463/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">BJK | w47 #fam | [GkJGNhSjWM](https://discord.gg/GkJGNhSjWM) | 2025-05-10T20:41:10+00:00 | 1283056755336806463 |
 
 </details>
 
@@ -3276,6 +3276,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370063277778014330/07a8b409330ff74f278409e8d031aaf8.png" width="24">ᴡʀʟᴅ | \| WRLD  \| | [Uy4P7WdPff](https://discord.gg/Uy4P7WdPff) | 1370063277778014330 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369626726300389497/9c169ceafc42751b2954b040920e27d6.png" width="24">ᴮᴵᵀᴱ | BITE \| .gg/plan | [gZFksbn3uz](https://discord.gg/gZFksbn3uz) | 1369626726300389497 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370080842776576041/bd82a508b43d7affd4d6585f98b7fcbf.png" width="24">ᴸᴿᴸⱽ | #LRLV Guild | [n7aNafWTyc](https://discord.gg/n7aNafWTyc) | 1370080842776576041 |
+| <img src="https://cdn.discordapp.com/clan-badges/1199007038982864946/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">ᵇᵉˢᵗ | Best - Follow me on X: Th190\_ | [JM8mzahQvK](https://discord.gg/JM8mzahQvK) | 1199007038982864946 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369632597830795284/650e4a6fead0346eec1562905c55419a.png" width="24">ᵔᴗᵔ | ./ᵔᴗᵔ | [yVGAZ3VkYT](https://discord.gg/yVGAZ3VkYT) | 1369632597830795284 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369102376010518599/c2a70870e9e082bf59018f78d0184f02.png" width="24">ᵔᴥᵔ | ᵔᴥᵔ /backup | [NcvUtGErt7](https://discord.gg/NcvUtGErt7) | 1369102376010518599 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369444671889342474/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ᶠᶸᶜᵏ | fuck \| .gg/plan | [Z3GVMavuPV](https://discord.gg/Z3GVMavuPV) | 1369444671889342474 |

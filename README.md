@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1298187007012507721/8a36cb214b89bdf18e156ffb44eec982.png" width="24">CVNT | Gamer&#x27;s Haven  \| Soci... | [P9ApPbxVpa](https://discord.gg/P9ApPbxVpa) | 2025-05-10T06:40:15+00:00 | 1298187007012507721 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761750374813820/6ed907032e3a22a1cd30d3f61a5cd96e.png" width="24">﷽﷽﷽﷽ | Beast&#x27;s Tag server | [gbPUT69wYr](https://discord.gg/gbPUT69wYr) | 2025-05-10T06:35:11+00:00 | 1369761750374813820 |
 | <img src="https://cdn.discordapp.com/clan-badges/1356934353959129098/86735389348f3eacfa519eb553df38fd.png" width="24">GODS | 59 | [59](https://discord.gg/59) | 2025-05-10T06:35:11+00:00 | 1356934353959129098 |
 | <img src="https://cdn.discordapp.com/clan-badges/508469597209362433/6082c2553b03b47ccaea5203567df3cf.png" width="24">MOPE | Mopecord | [mope](https://discord.gg/mope) | 2025-05-10T06:35:11+00:00 | 508469597209362433 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/935374103794294844/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">ܔܛܮܨ | Banished | [w9jHyDD6c2](https://discord.gg/w9jHyDD6c2) | 2025-05-10T03:48:15+00:00 | 935374103794294844 |
 | <img src="https://cdn.discordapp.com/clan-badges/1293596673691353189/6b142c61e49c44f889ab6c4ae71a4efd.png" width="24">初音ミク | Miku&#x27;s Café | [mikuscafe](https://discord.gg/mikuscafe) | 2025-05-10T03:48:15+00:00 | 1293596673691353189 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369409454562611280/ba4666ec684b28253c036851b97de8a9.png" width="24">bun | meow | [2fEE8qhfQ8](https://discord.gg/2fEE8qhfQ8) | 2025-05-10T03:43:12+00:00 | 1369409454562611280 |
-| <img src="https://cdn.discordapp.com/clan-badges/1318561028035838002/e6a98f45c4a16534a3668d17754253fc.png" width="24">JMJ | 지민정 | [cPJ7vJpKtg](https://discord.gg/cPJ7vJpKtg) | 2025-05-10T03:43:12+00:00 | 1318561028035838002 |
 
 </details>
 
@@ -607,6 +607,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369726151173607515/878c62b6694a4f5931104f766191bec7.png" width="24">CUTE | /ichigo \| CUTE | [award](https://discord.gg/award) | 1369726151173607515 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614764027805751/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">CUᎷ | cool tag \| .gg/diddled | [UkvmK8zhYE](https://discord.gg/UkvmK8zhYE) | 1369614764027805751 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769906110992444/878c62b6694a4f5931104f766191bec7.png" width="24">CVNT | WEEKLY CHANGING TAGS! | [xWfTd9eERf](https://discord.gg/xWfTd9eERf) | 1369769906110992444 |
+| <img src="https://cdn.discordapp.com/clan-badges/1298187007012507721/8a36cb214b89bdf18e156ffb44eec982.png" width="24">CVNT | Gamer&#x27;s Haven  \| Soci... | [P9ApPbxVpa](https://discord.gg/P9ApPbxVpa) | 1298187007012507721 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369290223124480092/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">CWEL | 🔥CWEL community🔥 | [v8aKGy4Pkz](https://discord.gg/v8aKGy4Pkz) | 1369290223124480092 |
 | <img src="https://cdn.discordapp.com/clan-badges/543652415870730240/4b70e09b6b8ddf55b5f9dc6816636760.png" width="24">CYBR | Cyber Info | [cyberinfo](https://discord.gg/cyberinfo) | 543652415870730240 |
 | <img src="https://cdn.discordapp.com/clan-badges/1354452177426321509/41af2db8ad9418588430040fa06e43fb.png" width="24">CYE | cye guild tag | [prqTHFtpEY](https://discord.gg/prqTHFtpEY) | 1354452177426321509 |

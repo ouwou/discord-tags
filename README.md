@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/566658060781748260/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">esex | .gg/lure (esex) | [break](https://discord.gg/break) | 2025-05-10T08:31:35+00:00 | 566658060781748260 |
 | <img src="https://cdn.discordapp.com/clan-badges/1365428253208088648/5772c9a719f7ef3cfc14740285ef63e0.png" width="24">DOG | DOG community | [qdmsrrnjfC](https://discord.gg/qdmsrrnjfC) | 2025-05-10T08:26:31+00:00 | 1365428253208088648 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369743867699662919/2c7aa014ee3599b6b7089ce933971852.png" width="24">luth | luth | [dDuNUFnTvt](https://discord.gg/dDuNUFnTvt) | 2025-05-10T08:26:31+00:00 | 1369743867699662919 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369927458542981130/fdbaebe7a1f45061dc927fd55ff2a4e4.png" width="24">２１０ | ２１０ | [210xd](https://discord.gg/210xd) | 2025-05-10T08:21:27+00:00 | 1369927458542981130 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369452256348602378/84412606536488d76915487613779361.png" width="24">Doom | Rip &amp; Chat | [cQhzSmE6bM](https://discord.gg/cQhzSmE6bM) | 2025-05-10T04:59:03+00:00 | 1369452256348602378 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749368013455510/70127f41d1ae1add6f99407705350527.png" width="24">ORIE | Wynnie Guild Tag | [kG8Bf7nsrt](https://discord.gg/kG8Bf7nsrt) | 2025-05-10T04:53:59+00:00 | 1369749368013455510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662024749158572/42e16d8eb4d30a9c10b1e01c1292fdc3.png" width="24">⸝⸝ | ឵឵❤ | [uDvvvhkbes](https://discord.gg/uDvvvhkbes) | 2025-05-10T04:48:56+00:00 | 1369662024749158572 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369745178218336406/2bc22ec4ca99fe82c6ad5685f015eda1.png" width="24">NSFW | \~ gg/sanctuary18 | [ze4fvH5jVk](https://discord.gg/ze4fvH5jVk) | 2025-05-10T04:48:56+00:00 | 1369745178218336406 |
 
 </details>
 
@@ -2037,6 +2037,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369896597667971133/ce18a5416c80332880f15f663964efe9.png" width="24">esex | esex /pxguild | [BeFxWgT5fh](https://discord.gg/BeFxWgT5fh) | 1369896597667971133 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369900899710799973/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">esex | esex /rupture | [hlel](https://discord.gg/hlel) | 1369900899710799973 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369855815502139553/cd11435f737f9140e61dc9f97d9697ce.png" width="24">esex | esex \| Tag | [hsNbJ7a49N](https://discord.gg/hsNbJ7a49N) | 1369855815502139553 |
+| <img src="https://cdn.discordapp.com/clan-badges/566658060781748260/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">esex | .gg/lure (esex) | [break](https://discord.gg/break) | 566658060781748260 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369759334275350699/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">evil | Tag &gt; evil | [tke6meZtD4](https://discord.gg/tke6meZtD4) | 1369759334275350699 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369846509486608415/b6f6582eb0301ce069e00b2a99323975.png" width="24">ex | jail and zoxi fun server! | [v3a7dJyBpe](https://discord.gg/v3a7dJyBpe) | 1369846509486608415 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740009384579147/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">ext | #fg - private | [bjypshW3T4](https://discord.gg/bjypshW3T4) | 1369740009384579147 |

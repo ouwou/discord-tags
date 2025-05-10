@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/384811165949231104/8d61abb8b5da075befaff858861dba54.png" width="24">FISH | Bikini Bottom | [spongebob](https://discord.gg/spongebob) | 2025-05-10T08:46:46+00:00 | 384811165949231104 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369715173098520678/53e74209b0cce4f62a2ab50f4b80f657.png" width="24">ᓚᘏᗢ | ᓚᘏᗢ | [UKm8dUBJYK](https://discord.gg/UKm8dUBJYK) | 2025-05-10T08:46:46+00:00 | 1369715173098520678 |
 | <img src="https://cdn.discordapp.com/clan-badges/1167910823637819504/232d1d2a366ec512dde707821f672cce.png" width="24">ቻ ˚. | N O P | [3CXddecUFA](https://discord.gg/3CXddecUFA) | 2025-05-10T08:41:42+00:00 | 1167910823637819504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1350917300697563289/7f8f9af96f2a1549f4d7ba59fe43f44a.png" width="24">FAME | [ARISE CROSSOVER] Draw Sword | [XsJf6KAuxS](https://discord.gg/XsJf6KAuxS) | 2025-05-10T08:36:38+00:00 | 1350917300697563289 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369687300656599194/57105dd5d54ebb9faef5e1b90c3768e1.png" width="24">LAW | [LAW] /optags | [rEYn7VrxtE](https://discord.gg/rEYn7VrxtE) | 2025-05-10T08:36:38+00:00 | 1369687300656599194 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369467615315099768/7b571a46a1266491cfabe2e362aad176.png" width="24">VISA | VISA | [YV3BxwZ9](https://discord.gg/YV3BxwZ9) | 2025-05-10T05:19:17+00:00 | 1369467615315099768 |
 | <img src="https://cdn.discordapp.com/clan-badges/1268034893946949734/1c8f8efb11de25463d853de6f864ffc6.png" width="24">亞北ネル | Neruvian Nation | [akitaneru](https://discord.gg/akitaneru) | 2025-05-10T05:19:17+00:00 | 1268034893946949734 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369445406202794087/ea37c0bb5898f6df94100cd873102f2c.png" width="24">୨୧ | 𓈒˳ꭶᧉⱺ⍺ꚕ ˚♡˖ᣟ | [UPpMxgmhNQ](https://discord.gg/UPpMxgmhNQ) | 2025-05-10T05:14:14+00:00 | 1369445406202794087 |
-| <img src="https://cdn.discordapp.com/clan-badges/1359041869476135003/9f4b3c5a03c9bcbc026f5ce44aa3c588.png" width="24">DOVE | ! Wolfshade ⚡&#x27;s server | [FVTcfNxZT3](https://discord.gg/FVTcfNxZT3) | 2025-05-10T05:14:14+00:00 | 1359041869476135003 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369793100679221259/58aba4c7624679a4e7f8e10b05cb4f61.png" width="24">투바투 | soobie&#x27;s guild ❦   𓂃  ... | [SNnmceqbN5](https://discord.gg/SNnmceqbN5) | 2025-05-10T05:14:14+00:00 | 1369793100679221259 |
 
 </details>
 
@@ -794,6 +794,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/564052798044504084/7b68169f38dd3e51d8f7537c87f4431f.png" width="24">FIRE | Fire | [firebot](https://discord.gg/firebot) | 564052798044504084 |
 | <img src="https://cdn.discordapp.com/clan-badges/1338697815496458270/20a73a4a5a79d9bbe9f6c9c774e45685.png" width="24">FIRE | thePlace™ #tobetter. | [3vF5hCd74p](https://discord.gg/3vF5hCd74p) | 1338697815496458270 |
 | <img src="https://cdn.discordapp.com/clan-badges/1302441943963537428/7f8f9af96f2a1549f4d7ba59fe43f44a.png" width="24">FISH | 『𝚂𝚎𝚋𝚊𝚜𝚝𝚒𝚊𝚗&#x27;𝚜 𝚆𝚊𝚛𝚎𝚜』 | [5AexjHph5q](https://discord.gg/5AexjHph5q) | 1302441943963537428 |
+| <img src="https://cdn.discordapp.com/clan-badges/384811165949231104/8d61abb8b5da075befaff858861dba54.png" width="24">FISH | Bikini Bottom | [spongebob](https://discord.gg/spongebob) | 384811165949231104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369577103913127961/b0248f604e38204bde5413cf47ab7a13.png" width="24">FK | fakecrime Guild | [fakecrime-guild](https://discord.gg/fakecrime-guild) | 1369577103913127961 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780011266998383/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">FLAV | FlaviBot&#x27;s Testers | [uq2G4Rz64t](https://discord.gg/uq2G4Rz64t) | 1369780011266998383 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369455898392662159/79366e8660935912726217b413fcc19b.png" width="24">FLEX | FLEX Tag (discord.gg/osamahub) | [AxgpRzZUUJ](https://discord.gg/AxgpRzZUUJ) | 1369455898392662159 |
@@ -2630,6 +2631,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1315863401934618747/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">ᓚᘏᗢ | KITTEN ᓚᘏᗢ | [cSkg7jcXfJ](https://discord.gg/cSkg7jcXfJ) | 1315863401934618747 |
 | <img src="https://cdn.discordapp.com/clan-badges/953102536880033852/a666c14ba3f1121af1477b0cc5afc9e3.png" width="24">ᓚᘏᗢ | Mongocord | [Mongocat](https://discord.gg/Mongocat) | 953102536880033852 |
 | <img src="https://cdn.discordapp.com/clan-badges/1184379679621255168/ad171795fb0d424391a2a17d6f144b6c.png" width="24">ᓚᘏᗢ | cooler cats | [nSPt5mc5b5](https://discord.gg/nSPt5mc5b5) | 1184379679621255168 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369715173098520678/53e74209b0cce4f62a2ab50f4b80f657.png" width="24">ᓚᘏᗢ | ᓚᘏᗢ | [UKm8dUBJYK](https://discord.gg/UKm8dUBJYK) | 1369715173098520678 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369347270146785353/0d716df2b0dc49fd1946ba710ac8f198.png" width="24">ᔰᒿᦲ | The GANG \| ᔰᒿᦲ | [CdmTBe32Qs](https://discord.gg/CdmTBe32Qs) | 1369347270146785353 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369624259738996756/0397fae2dec63b5f0ace7b694f5e4d34.png" width="24">ᕱ.ᕱ | 𝓫𝓾𝓷𝓷𝔂 𝓬𝓸𝓻𝓮 ᕱ.ᕱ | [yQCXWQhhum](https://discord.gg/yQCXWQhhum) | 1369624259738996756 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369187553961312396/7728f745b575a531e1d81ddfcbc5914b.png" width="24">ᗜ\_ᗜ | ᗜ\_ᗜ | [24msrBfVYW](https://discord.gg/24msrBfVYW) | 1369187553961312396 |

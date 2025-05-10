@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369781575084146838/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">みのり | みのり - Minori Project Sekai | [VzfC4kCCZn](https://discord.gg/VzfC4kCCZn) | 2025-05-10T05:09:10+00:00 | 1369781575084146838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369337851572912229/573e1723469ff275ff5a3fd823ce291f.png" width="24">도라에몽 | Doraemon TAG | [a9ZstsX85k](https://discord.gg/a9ZstsX85k) | 2025-05-10T05:04:07+00:00 | 1369337851572912229 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369540136911507557/09d92e91e9d29e0c92b0cf870948dea8.png" width="24">휴닝카이 | hyukα&#x27;s guild ❦   𓂃   ... | [vGnprd2VdT](https://discord.gg/vGnprd2VdT) | 2025-05-10T05:04:07+00:00 | 1369540136911507557 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369452256348602378/3455b2a9101d1e373e96973f22e149b0.png" width="24">NUV | Summer Camp | [cQhzSmE6bM](https://discord.gg/cQhzSmE6bM) | 2025-05-10T04:59:03+00:00 | 1369452256348602378 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369837463497085088/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">BOOL | /BOOL #BOOL | [f4cNrKtBNC](https://discord.gg/f4cNrKtBNC) | 2025-05-10T02:12:05+00:00 | 1369837463497085088 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363099918436405430/0e3f40289a98c41b58e0bb10970c4749.png" width="24">ﾒ𝘰 | ﾒ𝘰 | [qR3pyghyaK](https://discord.gg/qR3pyghyaK) | 2025-05-10T02:12:05+00:00 | 1363099918436405430 |
 | <img src="https://cdn.discordapp.com/clan-badges/105041697003540480/b190a9d50dae864ce6404d00a7f9a3a1.png" width="24">⏾·₊° | reap | [AD7PFCatEG](https://discord.gg/AD7PFCatEG) | 2025-05-10T02:12:05+00:00 | 105041697003540480 |
-| <img src="https://cdn.discordapp.com/clan-badges/802637374919147540/97aaf38193a632b6971deb94c3b62717.png" width="24">DAMN | DAMN \| discord.gg/memex | [CaqmRBztP6](https://discord.gg/CaqmRBztP6) | 2025-05-10T02:07:02+00:00 | 802637374919147540 |
 
 </details>
 
@@ -2674,6 +2674,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370098883232792687/606df03bd49b8e2f90f6eee55bccac46.png" width="24">ぼっち | ぼっち tag | [29677wymVg](https://discord.gg/29677wymVg) | 1370098883232792687 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369170445273665647/56a4cc8b185905fe36f2ba40e847abcb.png" width="24">まふまふ | mafuteru tag inc | [9uJQhKRbxT](https://discord.gg/9uJQhKRbxT) | 1369170445273665647 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369648783104933938/333358ec7f01435a2155e0d00ad228b9.png" width="24">みな | Luxe 💎 #Guild みな | [LUXE](https://discord.gg/LUXE) | 1369648783104933938 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369781575084146838/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">みのり | みのり - Minori Project Sekai | [VzfC4kCCZn](https://discord.gg/VzfC4kCCZn) | 1369781575084146838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369747408614985849/b2c66a16d275bd33f8bd7a27f79741e5.png" width="24">やり | .gg/spear | [nPRZkM9mWg](https://discord.gg/nPRZkM9mWg) | 1369747408614985849 |
 | <img src="https://cdn.discordapp.com/clan-badges/1028617711221223466/8d61abb8b5da075befaff858861dba54.png" width="24">ゆき | Yuki | [YxSFBrdTct](https://discord.gg/YxSFBrdTct) | 1028617711221223466 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369263378727702600/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ゆるふわ | ゆるふわさーばー | [cavTAm7JEZ](https://discord.gg/cavTAm7JEZ) | 1369263378727702600 |

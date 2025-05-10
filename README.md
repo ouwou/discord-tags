@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369749368013455510/6a0e37800692e0e4650c1b7062aa5c5e.png" width="24">NEON | Wynnie Guild Tag | [kG8Bf7nsrt](https://discord.gg/kG8Bf7nsrt) | 2025-05-10T04:53:59+00:00 | 1369749368013455510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662024749158572/42e16d8eb4d30a9c10b1e01c1292fdc3.png" width="24">⸝⸝ | ឵឵❤ | [uDvvvhkbes](https://discord.gg/uDvvvhkbes) | 2025-05-10T04:48:56+00:00 | 1369662024749158572 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369745178218336406/2bc22ec4ca99fe82c6ad5685f015eda1.png" width="24">NSFW | \~ gg/sanctuary18 | [ze4fvH5jVk](https://discord.gg/ze4fvH5jVk) | 2025-05-10T04:48:56+00:00 | 1369745178218336406 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369340344545579059/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">뽀삐야 | 뽀삐야 태그 | [vvQqJvSdka](https://discord.gg/vvQqJvSdka) | 2025-05-10T04:48:56+00:00 | 1369340344545579059 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1359444818270490704/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ACTD | Anime Conquest | [animeconquest](https://discord.gg/animeconquest) | 2025-05-10T02:01:58+00:00 | 1359444818270490704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370017424124153866/385c13fa02a9552e9a790b29e7b319df.png" width="24">𓏲𝄢 | 𓏲𝄢 \| .gg/doyoung | [du2WNCb7SG](https://discord.gg/du2WNCb7SG) | 2025-05-10T01:56:55+00:00 | 1370017424124153866 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369804223377703043/c7de302f15d896040a41df1c9c6b34c2.png" width="24">$$ | aure world ✮⋆˙ | [yN4DstM4CU](https://discord.gg/yN4DstM4CU) | 2025-05-10T01:51:51+00:00 | 1369804223377703043 |
-| <img src="https://cdn.discordapp.com/clan-badges/772174542235238410/411da0f939dd7cb8d5dd76ba410ea659.png" width="24">tttt | Blue House | [tttt](https://discord.gg/tttt) | 2025-05-10T01:51:51+00:00 | 772174542235238410 |
 
 </details>
 
@@ -1252,6 +1252,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369686458834747432/bdf785dc70cd3768b5694a3503f40363.png" width="24">NEL | PROJECT: NEL [NEL TAG] | [VdEkrkG8EX](https://discord.gg/VdEkrkG8EX) | 1369686458834747432 |
 | <img src="https://cdn.discordapp.com/clan-badges/818158519165255700/b20f92c9acde0921c190eba55e56b94f.png" width="24">NEMO | Party Animal | [M9UbrBcVA7](https://discord.gg/M9UbrBcVA7) | 818158519165255700 |
 | <img src="https://cdn.discordapp.com/clan-badges/591004895839256595/4ee87a7b93ec4dce0a2e4f56f7ba6de2.png" width="24">NEO | Neo Nation | [NeoNation](https://discord.gg/NeoNation) | 591004895839256595 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369749368013455510/6a0e37800692e0e4650c1b7062aa5c5e.png" width="24">NEON | Wynnie Guild Tag | [kG8Bf7nsrt](https://discord.gg/kG8Bf7nsrt) | 1369749368013455510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369248156151316563/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">NERD | Nerd | [Cd78jGqA5a](https://discord.gg/Cd78jGqA5a) | 1369248156151316563 |
 | <img src="https://cdn.discordapp.com/clan-badges/1160906123499552818/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">NERD | Kaizora Labs 🧪 | [NvW7JTmVD9](https://discord.gg/NvW7JTmVD9) | 1160906123499552818 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369247242724179998/1c8f8efb11de25463d853de6f864ffc6.png" width="24">NERU | baka baka baka | [kZjPFV4FYs](https://discord.gg/kZjPFV4FYs) | 1369247242724179998 |

@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/457902248660434944/6476bc22b9c85f619dc5326920f00b74.png" width="24">TENx | TENDERLY | [tenderly](https://discord.gg/tenderly) | 2025-05-10T05:39:31+00:00 | 457902248660434944 |
+| <img src="https://cdn.discordapp.com/clan-badges/259124796971941890/6de0dac4c0d767ef77ae9204a0148c20.png" width="24">89iq | 89-SQUAD | [89squad](https://discord.gg/89squad) | 2025-05-10T05:39:31+00:00 | 259124796971941890 |
+| <img src="https://cdn.discordapp.com/clan-badges/713984250063355955/6473797948e6d36a991e425c8b7c353c.png" width="24">EPIC | EPIC RPG Grinders Squad | [Znuwrknu9H](https://discord.gg/Znuwrknu9H) | 2025-05-10T05:39:31+00:00 | 713984250063355955 |
 | <img src="https://cdn.discordapp.com/clan-badges/1259191059229970513/3ed40e6b40258bda5c03664effaaeee3.png" width="24">Pro | Apples united | [WDwFRyqdYj](https://discord.gg/WDwFRyqdYj) | 2025-05-10T05:29:24+00:00 | 1259191059229970513 |
 | <img src="https://cdn.discordapp.com/clan-badges/1201798305655291916/506143d9db4d398c2c8ea73288290d98.png" width="24">chae | #gіrᥣᥴodᥱ  ࣪ ₍^. .^₎⟆ | [chae](https://discord.gg/chae) | 2025-05-10T05:24:21+00:00 | 1201798305655291916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219743967931793428/6ff898ac8a72487ed9f96e06fd5a8230.png" width="24">FLEX | Spiraling [ PGNI ] PAGANI | [fPqRnRtHgc](https://discord.gg/fPqRnRtHgc) | 2025-05-10T05:24:21+00:00 | 1219743967931793428 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1363383790642135271/59c0f381f2399f5317d14ebcda909857.png" width="24">឵឵ | 7Sins RP \| New Era | [7sinsrp](https://discord.gg/7sinsrp) | 2025-05-10T02:37:24+00:00 | 1363383790642135271 |
 | <img src="https://cdn.discordapp.com/clan-badges/816561229601964032/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">OGN | OG-Network | [rTbsQujd6W](https://discord.gg/rTbsQujd6W) | 2025-05-10T02:37:24+00:00 | 816561229601964032 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369374738337759333/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">WEAO | .gg/weaotag | [weaotag](https://discord.gg/weaotag) | 2025-05-10T02:37:24+00:00 | 1369374738337759333 |
-| <img src="https://cdn.discordapp.com/clan-badges/1337638732865474624/b2d4e1b57dc96fd19f02d45082e61717.png" width="24">CPVP | CrackedPvP | [crackedpvp](https://discord.gg/crackedpvp) | 2025-05-10T02:32:20+00:00 | 1337638732865474624 |
-| <img src="https://cdn.discordapp.com/clan-badges/513064096921550878/60695e0f6c7a5b9eb60a5be14d471158.png" width="24">ꜰᴀꜰᴀ | Farfadox | [farfadox](https://discord.gg/farfadox) | 2025-05-10T02:32:20+00:00 | 513064096921550878 |
-| <img src="https://cdn.discordapp.com/clan-badges/1219781309698801816/8d61abb8b5da075befaff858861dba54.png" width="24">smpv | shadowvanilla　　꣑ৎ　[smpv]　♡ | [hYgUrD8z84](https://discord.gg/hYgUrD8z84) | 2025-05-10T02:22:14+00:00 | 1219781309698801816 |
 
 </details>
 
@@ -267,6 +267,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1358279433764606033/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">8848 | 니코봇 서포트서버 | [RmZuFQYHYe](https://discord.gg/RmZuFQYHYe) | 1358279433764606033 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369105438842552451/dc61eaed9e8b012148661df1ada874e6.png" width="24">888 | 888 | [YYAfb4gNJc](https://discord.gg/YYAfb4gNJc) | 1369105438842552451 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369784880191246537/b6f6582eb0301ce069e00b2a99323975.png" width="24">888 | /hustler | [hustler](https://discord.gg/hustler) | 1369784880191246537 |
+| <img src="https://cdn.discordapp.com/clan-badges/259124796971941890/6de0dac4c0d767ef77ae9204a0148c20.png" width="24">89iq | 89-SQUAD | [89squad](https://discord.gg/89squad) | 259124796971941890 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369288726790017044/86735389348f3eacfa519eb553df38fd.png" width="24">9.11 | 9.11 | [qVvmW3nWpj](https://discord.gg/qVvmW3nWpj) | 1369288726790017044 |
 | <img src="https://cdn.discordapp.com/clan-badges/1366912429275218032/c7b96cb118c82405240f2d5076abbc56.png" width="24">901 | NO LOVE ONLY 901 | [234](https://discord.gg/234) | 1366912429275218032 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369437461167734954/c8d016eed5c8752316ca38fdd54380c6.png" width="24">911 | 911 /backup | [espAHAHHtr](https://discord.gg/espAHAHHtr) | 1369437461167734954 |
@@ -721,6 +722,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369579003949879316/faa140ff3b8b9dff04d720cdda7d9db2.png" width="24">ENVY | .gg/envvy &#x27; #ENVY | [7fkaABnjt6](https://discord.gg/7fkaABnjt6) | 1369579003949879316 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369585229496582269/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ENVY | .gg/alike [ENVY] | [eV9QyYwPRE](https://discord.gg/eV9QyYwPRE) | 1369585229496582269 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742549421658336/a1a8d7066521a13ede4b94de530e98b5.png" width="24">EON | Eon Clan | [76EYyWRbSm](https://discord.gg/76EYyWRbSm) | 1369742549421658336 |
+| <img src="https://cdn.discordapp.com/clan-badges/713984250063355955/6473797948e6d36a991e425c8b7c353c.png" width="24">EPIC | EPIC RPG Grinders Squad | [Znuwrknu9H](https://discord.gg/Znuwrknu9H) | 713984250063355955 |
 | <img src="https://cdn.discordapp.com/clan-badges/825451541220818969/dea4f5f8e9aaa736c9b599506226508e.png" width="24">ER | Elden Ring PvP | [erpvp](https://discord.gg/erpvp) | 825451541220818969 |
 | <img src="https://cdn.discordapp.com/clan-badges/1345572078388117574/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">ERLC | Spotlight 2025™ | [XpMUJDK6WS](https://discord.gg/XpMUJDK6WS) | 1345572078388117574 |
 | <img src="https://cdn.discordapp.com/clan-badges/1323359555110830290/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">ESEX | chizzy \| .gg/JcCZBAfhtD | [cdDHbD54bY](https://discord.gg/cdDHbD54bY) | 1323359555110830290 |
@@ -1629,6 +1631,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1193274068338741392/8d61abb8b5da075befaff858861dba54.png" width="24">TECH | r/BTechtards | [btechtards](https://discord.gg/btechtards) | 1193274068338741392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1108481962907271209/32d310e9a81f0f189722186c9a6fbb37.png" width="24">TECH | TechAssist | [qnauKgn2Uj](https://discord.gg/qnauKgn2Uj) | 1108481962907271209 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369738822795133009/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">TEKK | /tekktag - TEKKNiNE | [tekktag](https://discord.gg/tekktag) | 1369738822795133009 |
+| <img src="https://cdn.discordapp.com/clan-badges/457902248660434944/6476bc22b9c85f619dc5326920f00b74.png" width="24">TENx | TENDERLY | [tenderly](https://discord.gg/tenderly) | 457902248660434944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369773615129559090/fcf7a320d1899c08dfcd2d5d490e968c.png" width="24">TEQ | Tequila Tag | [PWs3GFH6fU](https://discord.gg/PWs3GFH6fU) | 1369773615129559090 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369181065385869352/0437e66874944d9eafae8ed3b9b7418a.png" width="24">TETO | Teto Territory | [FRZa2u59YG](https://discord.gg/FRZa2u59YG) | 1369181065385869352 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369793238717694093/84ef91bb3775f5c121dd186e224ef92a.png" width="24">TFN | 🇫🇷 TFN  \| GuildTag | [66cfmmYbdN](https://discord.gg/66cfmmYbdN) | 1369793238717694093 |

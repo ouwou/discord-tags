@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1337638732865474624/b2d4e1b57dc96fd19f02d45082e61717.png" width="24">CPVP | CrackedPvP | [crackedpvp](https://discord.gg/crackedpvp) | 2025-05-10T02:32:20+00:00 | 1337638732865474624 |
+| <img src="https://cdn.discordapp.com/clan-badges/513064096921550878/60695e0f6c7a5b9eb60a5be14d471158.png" width="24">ꜰᴀꜰᴀ | Farfadox | [farfadox](https://discord.gg/farfadox) | 2025-05-10T02:32:20+00:00 | 513064096921550878 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219781309698801816/8d61abb8b5da075befaff858861dba54.png" width="24">smpv | shadowvanilla　　꣑ৎ　[smpv]　♡ | [hYgUrD8z84](https://discord.gg/hYgUrD8z84) | 2025-05-10T02:22:14+00:00 | 1219781309698801816 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369782142824874248/972dbc3aad960d46a78b974e66d985d7.png" width="24">xc | .gg/deadtag \| xc | [yrS9SEJUcg](https://discord.gg/yrS9SEJUcg) | 2025-05-10T02:22:14+00:00 | 1369782142824874248 |
 | <img src="https://cdn.discordapp.com/clan-badges/826079648005619752/7b571a46a1266491cfabe2e362aad176.png" width="24">AWA | 🐬 Praia do iStevve 🌊 | [ccQXgnpvMg](https://discord.gg/ccQXgnpvMg) | 2025-05-10T02:17:09+00:00 | 826079648005619752 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369625869844484196/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MC | Miltrix | [KdTBfgszNd](https://discord.gg/KdTBfgszNd) | 2025-05-09T23:50:59+00:00 | 1369625869844484196 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369446861357977692/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">AMEX | American Express | [gMxEuMHejZ](https://discord.gg/gMxEuMHejZ) | 2025-05-09T23:45:55+00:00 | 1369446861357977692 |
 | <img src="https://cdn.discordapp.com/clan-badges/984853742904029255/968545a2419ed541b78b3ec7500aaed0.png" width="24">CAP | Capitano Mains \| The Captain | [capitano](https://discord.gg/capitano) | 2025-05-09T23:45:55+00:00 | 984853742904029255 |
-| <img src="https://cdn.discordapp.com/clan-badges/1027413828331388968/878c62b6694a4f5931104f766191bec7.png" width="24">DEER | My Deer Friend Nokotan | [nokotan](https://discord.gg/nokotan) | 2025-05-09T23:45:55+00:00 | 1027413828331388968 |
-| <img src="https://cdn.discordapp.com/clan-badges/1202656310433292298/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">GYAT | 𝟹𝙾𝚃𝙰𝙺𝙾𝚄&#x27;𝚂 ❀ | [bKBVAKfhzz](https://discord.gg/bKBVAKfhzz) | 2025-05-09T23:45:55+00:00 | 1202656310433292298 |
 
 </details>
 
@@ -577,6 +577,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369441736149041203/46f8bd0276aec1e4da7c6b3d84d273d4.png" width="24">COOL | Cool Kids Club | [4TFDAJdDMj](https://discord.gg/4TFDAJdDMj) | 1369441736149041203 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369782256104640512/b7dfa1f2bd021d855682ea83bde4d540.png" width="24">COPS | cops | [qUkBJQQFE5](https://discord.gg/qUkBJQQFE5) | 1369782256104640512 |
 | <img src="https://cdn.discordapp.com/clan-badges/378599231583289346/88b0208a10012f092152dad43dfaa344.png" width="24">COZY | ⚜ Gay &amp; Comfy. | [comfy](https://discord.gg/comfy) | 378599231583289346 |
+| <img src="https://cdn.discordapp.com/clan-badges/1337638732865474624/b2d4e1b57dc96fd19f02d45082e61717.png" width="24">CPVP | CrackedPvP | [crackedpvp](https://discord.gg/crackedpvp) | 1337638732865474624 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369655005698592838/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">CR7 | CR7 \| .gg/evobot | [w7KwzweJGE](https://discord.gg/w7KwzweJGE) | 1369655005698592838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369747404168892530/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">CR7 | CR7 Tag /auratag | [CjCF2sj2SC](https://discord.gg/CjCF2sj2SC) | 1369747404168892530 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369628434925490249/a1a8d7066521a13ede4b94de530e98b5.png" width="24">CRIA | OS CRIAS - TAG | [Eb7UT3TPdU](https://discord.gg/Eb7UT3TPdU) | 1369628434925490249 |
@@ -2763,6 +2764,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369295566596472894/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">黒人奴隷 | 黒人奴隷ファンサーバー | [SPYdXbPNWE](https://discord.gg/SPYdXbPNWE) | 1369295566596472894 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698532126363789/1db8cd9076508424ab917ef05e48d860.png" width="24">ꕥ´ | 𝔫𝔬𝔱𝔥𝔦𝔫𝔤 | [XJts7Wqya5](https://discord.gg/XJts7Wqya5) | 1369698532126363789 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369356672249630740/278ab383a84e2e7414c9baad06d03a8f.png" width="24">꙳˖\*࿐ | Lvrs│ ꙳˖\*࿐ | [UcKNWvGyWC](https://discord.gg/UcKNWvGyWC) | 1369356672249630740 |
+| <img src="https://cdn.discordapp.com/clan-badges/513064096921550878/60695e0f6c7a5b9eb60a5be14d471158.png" width="24">ꜰᴀꜰᴀ | Farfadox | [farfadox](https://discord.gg/farfadox) | 513064096921550878 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369356734677647391/48d2557a1faf9a790dde3ad334e56efb.png" width="24">ꜰᴇᴍ® | 🌸【𝐅𝐞𝐦𝐂𝐨®】🌸 | [ebZJEZ2Z2N](https://discord.gg/ebZJEZ2Z2N) | 1369356734677647391 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369744005255921700/ab1fd042a1468216271ef8da39aeadcc.png" width="24">ꜱʀɴᴅ | #SRND /serenade | [hr4Gp2zdUs](https://discord.gg/hr4Gp2zdUs) | 1369744005255921700 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369581100220944415/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ꜱʟᴜᴛ | SLUT \| .gg/plan | [KFn3qVDk2C](https://discord.gg/KFn3qVDk2C) | 1369581100220944415 |

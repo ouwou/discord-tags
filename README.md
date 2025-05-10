@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1287420918376960072/7f968d34689b032120d7a0f2a3d69b83.png" width="24">YT | Creators | [MWxKZVEMFk](https://discord.gg/MWxKZVEMFk) | 2025-05-10T23:53:23+00:00 | 1287420918376960072 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370074282369089618/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ZØNE | ZØNE Guild Tag | [NsheMhF5vj](https://discord.gg/NsheMhF5vj) | 2025-05-10T23:53:23+00:00 | 1370074282369089618 |
 | <img src="https://cdn.discordapp.com/clan-badges/318812687490482176/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">M1LF | NOODLE NATION | [ewqTbW862Z](https://discord.gg/ewqTbW862Z) | 2025-05-10T23:48:19+00:00 | 318812687490482176 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358470866119430266/1c8f8efb11de25463d853de6f864ffc6.png" width="24">MOMY | 𝐃𝐮𝐬𝐤𝐰𝐨𝐨𝐝 𝐂𝐨𝐭𝐭𝐚𝐠𝐞 \| Social ... | [momy](https://discord.gg/momy) | 2025-05-10T23:48:19+00:00 | 1358470866119430266 |
 | <img src="https://cdn.discordapp.com/clan-badges/714174111752126605/64479ec796466b89e69ca4403087205f.png" width="24">VIP | @vip 💬 OFFICIAL | [P7t2x9vDfh](https://discord.gg/P7t2x9vDfh) | 2025-05-10T23:48:19+00:00 | 714174111752126605 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1287481774343061606/dc61eaed9e8b012148661df1ada874e6.png" width="24">Zuni | zuni | [6YEUxq4WUf](https://discord.gg/6YEUxq4WUf) | 2025-05-10T22:07:00+00:00 | 1287481774343061606 |
 | <img src="https://cdn.discordapp.com/clan-badges/986663574304882738/1e6dec86bae5252dc83d8bec752cd688.png" width="24">زبي | Unit X #زبي | [VhEkvxaQsS](https://discord.gg/VhEkvxaQsS) | 2025-05-10T22:07:00+00:00 | 986663574304882738 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369683452412039292/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">عنزي | JULY &lt;mAKE YOUR TAG&gt; | [8uGQexyv](https://discord.gg/8uGQexyv) | 2025-05-10T22:07:00+00:00 | 1369683452412039292 |
-| <img src="https://cdn.discordapp.com/clan-badges/522088898541912094/0437e66874944d9eafae8ed3b9b7418a.png" width="24">重音テト | Kasane Teto | [kasaneteto](https://discord.gg/kasaneteto) | 2025-05-10T22:07:00+00:00 | 522088898541912094 |
-| <img src="https://cdn.discordapp.com/clan-badges/1327814598916706425/be7b78dcb282f2e8c0e89b3ee4d18b9d.png" width="24">EDRC | Ed Banger Records | [edbanger](https://discord.gg/edbanger) | 2025-05-10T21:31:48+00:00 | 1327814598916706425 |
 
 </details>
 
@@ -2338,6 +2338,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369737766585503824/2c7aa014ee3599b6b7089ce933971852.png" width="24">YOU | YOU [GUILD] | [xPkUVN7y4Y](https://discord.gg/xPkUVN7y4Y) | 1369737766585503824 |
 | <img src="https://cdn.discordapp.com/clan-badges/886538767995895839/b2c0d59dd264670cfe5aff8b0cce091d.png" width="24">YRS | YourSitee | [8texb7hmjt](https://discord.gg/8texb7hmjt) | 886538767995895839 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369438390185099384/86735389348f3eacfa519eb553df38fd.png" width="24">YSL | curet | [curet](https://discord.gg/curet) | 1369438390185099384 |
+| <img src="https://cdn.discordapp.com/clan-badges/1287420918376960072/7f968d34689b032120d7a0f2a3d69b83.png" width="24">YT | Creators | [MWxKZVEMFk](https://discord.gg/MWxKZVEMFk) | 1287420918376960072 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369777283677683773/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">YTB | YTB | [qygYWNX5zk](https://discord.gg/qygYWNX5zk) | 1369777283677683773 |
 | <img src="https://cdn.discordapp.com/clan-badges/1318859396780130335/878c62b6694a4f5931104f766191bec7.png" width="24">YTB | 🌺・Sakura Pub | [EcJW5pNuE6](https://discord.gg/EcJW5pNuE6) | 1318859396780130335 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369076925389078609/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">YURI | Unnamed Project ? | [H5WZAZ7PHB](https://discord.gg/H5WZAZ7PHB) | 1369076925389078609 |
@@ -2371,6 +2372,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/975473961183875202/79366e8660935912726217b413fcc19b.png" width="24">Zo6 | Zo6 Server Tag | [z-6](https://discord.gg/z-6) | 975473961183875202 |
 | <img src="https://cdn.discordapp.com/clan-badges/1287481774343061606/dc61eaed9e8b012148661df1ada874e6.png" width="24">Zuni | zuni | [6YEUxq4WUf](https://discord.gg/6YEUxq4WUf) | 1287481774343061606 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756582874976456/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">Zzz | Zzz .gg/sleepyguilds | [b4FbnyJg3A](https://discord.gg/b4FbnyJg3A) | 1369756582874976456 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370074282369089618/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ZØNE | ZØNE Guild Tag | [NsheMhF5vj](https://discord.gg/NsheMhF5vj) | 1370074282369089618 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369401459627524199/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">^-^ | ^-^ | [ukTkNGbJru](https://discord.gg/ukTkNGbJru) | 1369401459627524199 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369452050856939541/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">^-^ | ^-^ | [eita](https://discord.gg/eita) | 1369452050856939541 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370089704917176320/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">^-^ | ^-^ | [PUdZmwhV](https://discord.gg/PUdZmwhV) | 1370089704917176320 |

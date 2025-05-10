@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369761462989619353/58271fb362c4464a4ebead69a2ec0f72.png" width="24">KRNL | Kernel | [d85nEk6cWh](https://discord.gg/d85nEk6cWh) | 2025-05-10T06:55:25+00:00 | 1369761462989619353 |
 | <img src="https://cdn.discordapp.com/clan-badges/1216586098168430664/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">GOAT | caseycordia | [caseycordia](https://discord.gg/caseycordia) | 2025-05-10T06:50:22+00:00 | 1216586098168430664 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369338076178026596/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">PONY | My Little Pony nonOfficial | [CDsrsbmsjx](https://discord.gg/CDsrsbmsjx) | 2025-05-10T06:50:22+00:00 | 1369338076178026596 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369294030835290212/d8028e3189542f9cd218c28373bc178a.png" width="24">청잘차 | [❤청잘차] 청민이 잘생김 차이 | [AhBuC4wUpT](https://discord.gg/AhBuC4wUpT) | 2025-05-10T06:50:22+00:00 | 1369294030835290212 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/182410895660417024/d0dababe5a6e4e6f4985636fe70e4ef3.png" width="24">RATS | Rio&#x27;s Rats🐀 | [AUEyQv9cZj](https://discord.gg/AUEyQv9cZj) | 2025-05-10T03:48:15+00:00 | 182410895660417024 |
 | <img src="https://cdn.discordapp.com/clan-badges/1297767604529791047/076b60e84942ea181c263bc2e359db04.png" width="24">WIZY | #Wizynianos | [wizy](https://discord.gg/wizy) | 2025-05-10T03:48:15+00:00 | 1297767604529791047 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369596682437918814/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">XwX | samis \| XwX | [FvDsxsNwPr](https://discord.gg/FvDsxsNwPr) | 2025-05-10T03:48:15+00:00 | 1369596682437918814 |
-| <img src="https://cdn.discordapp.com/clan-badges/935374103794294844/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">ܔܛܮܨ | Banished | [w9jHyDD6c2](https://discord.gg/w9jHyDD6c2) | 2025-05-10T03:48:15+00:00 | 935374103794294844 |
 
 </details>
 
@@ -1057,6 +1057,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369840437707411566/bdfbbb5d8940aaab1d3b3fba13747af7.png" width="24">KPOP | K-POP | [rBA3AZTNcM](https://discord.gg/rBA3AZTNcM) | 1369840437707411566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369654534737236038/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">KR | KR | [3jTXJeTrMc](https://discord.gg/3jTXJeTrMc) | 1369654534737236038 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369503931276857344/4507c292a7c649b9e6e357ac11c5492c.png" width="24">KRET | Legnica Sie Nie Przytula | [q86esKE3ru](https://discord.gg/q86esKE3ru) | 1369503931276857344 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369761462989619353/58271fb362c4464a4ebead69a2ec0f72.png" width="24">KRNL | Kernel | [d85nEk6cWh](https://discord.gg/d85nEk6cWh) | 1369761462989619353 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369427492128952400/21129b437afdc5d4c56b399d9d86e25d.png" width="24">KSA | 🇸🇦 KSA [discord.gg/ksa-tag] | [4t5atr8fn8](https://discord.gg/4t5atr8fn8) | 1369427492128952400 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369705156962287616/ef306b39a43446f08dba5d4673c3d105.png" width="24">KSA | KSA. [.gg/p9S7ShPbqS] | [bvSmBZMZ6f](https://discord.gg/bvSmBZMZ6f) | 1369705156962287616 |
 | <img src="https://cdn.discordapp.com/clan-badges/1307661012723302421/4c09b0ce8488f273b99b71a8aff8de7c.png" width="24">KSA | R56N خطوة | [9vD4pkBsVn](https://discord.gg/9vD4pkBsVn) | 1307661012723302421 |

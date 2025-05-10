@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/802637374919147540/97aaf38193a632b6971deb94c3b62717.png" width="24">DAMN | MemeX Clan Tag | [CaqmRBztP6](https://discord.gg/CaqmRBztP6) | 2025-05-10T02:07:02+00:00 | 802637374919147540 |
 | <img src="https://cdn.discordapp.com/clan-badges/1359444818270490704/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ACTD | Anime Conquest | [animeconquest](https://discord.gg/animeconquest) | 2025-05-10T02:01:58+00:00 | 1359444818270490704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370017424124153866/385c13fa02a9552e9a790b29e7b319df.png" width="24">𓏲𝄢 | 𓏲𝄢 \| .gg/doyoung | [du2WNCb7SG](https://discord.gg/du2WNCb7SG) | 2025-05-10T01:56:55+00:00 | 1370017424124153866 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369804223377703043/c7de302f15d896040a41df1c9c6b34c2.png" width="24">$$ | aure world ✮⋆˙ | [yN4DstM4CU](https://discord.gg/yN4DstM4CU) | 2025-05-10T01:51:51+00:00 | 1369804223377703043 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/953102536880033852/a666c14ba3f1121af1477b0cc5afc9e3.png" width="24">ᓚᘏᗢ | Mongocord | [Mongocat](https://discord.gg/Mongocat) | 2025-05-09T23:40:52+00:00 | 953102536880033852 |
 | <img src="https://cdn.discordapp.com/clan-badges/1147045686026719284/6082c2553b03b47ccaea5203567df3cf.png" width="24">˚  草 | the swamp | [6RbVN8N3fV](https://discord.gg/6RbVN8N3fV) | 2025-05-09T23:35:49+00:00 | 1147045686026719284 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369739079289143428/6082c2553b03b47ccaea5203567df3cf.png" width="24">DRUG | DRUG FXCK・TAG | [AFNevTMAGT](https://discord.gg/AFNevTMAGT) | 2025-05-09T23:35:49+00:00 | 1369739079289143428 |
-| <img src="https://cdn.discordapp.com/clan-badges/1343245101132152842/1c8f8efb11de25463d853de6f864ffc6.png" width="24">FREE | FREE2RP | [ttth23APhM](https://discord.gg/ttth23APhM) | 2025-05-09T23:35:49+00:00 | 1343245101132152842 |
 
 </details>
 
@@ -609,6 +609,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369250274807513088/0fd9e4d849fc97ef43a083194d76c3b8.png" width="24">D2F | D2F - Dog Two Face | [DZ44YXz9wJ](https://discord.gg/DZ44YXz9wJ) | 1369250274807513088 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369389187098214481/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">DABI | DABI TAG MHA | [6gf4pTmTWm](https://discord.gg/6gf4pTmTWm) | 1369389187098214481 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755716927098921/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">DAMM | DAMM tag | [jQJZQEDDGw](https://discord.gg/jQJZQEDDGw) | 1369755716927098921 |
+| <img src="https://cdn.discordapp.com/clan-badges/802637374919147540/97aaf38193a632b6971deb94c3b62717.png" width="24">DAMN | MemeX Clan Tag | [CaqmRBztP6](https://discord.gg/CaqmRBztP6) | 802637374919147540 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369355310799650886/0625caabbdb25cb8406ebdd64b90a445.png" width="24">DARK | Nanow ⛧ | [zM9SjdtqPF](https://discord.gg/zM9SjdtqPF) | 1369355310799650886 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369597487081324544/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">DARK | Darkness | [UUUt8pF8NS](https://discord.gg/UUUt8pF8NS) | 1369597487081324544 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369584786359848980/8bbe85110c037a420102799feb3c9c9b.png" width="24">DATA | #DATA 🌿 | [data-guild](https://discord.gg/data-guild) | 1369584786359848980 |

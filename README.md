@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369957352484372590/2566538dd740483f095321a32f3cc310.png" width="24">ʚїɞ | ʚїɞ \| .gg/fg for 100+ more... | [ReXcnp6ybE](https://discord.gg/ReXcnp6ybE) | 2025-05-10T20:36:07+00:00 | 1369957352484372590 |
+| <img src="https://cdn.discordapp.com/clan-badges/1133136165059432630/c7188305ff4a2c71d247af8a740f3603.png" width="24">WIN | DAILY GIVEAWAYS 🎁 | [dailygiveaways](https://discord.gg/dailygiveaways) | 2025-05-10T20:36:07+00:00 | 1133136165059432630 |
 | <img src="https://cdn.discordapp.com/clan-badges/1212781677063962764/b229818496cf1ce160289286a4f397a6.png" width="24">FROG | 🐸 PepperFrog | [j7sAW8xbDM](https://discord.gg/j7sAW8xbDM) | 2025-05-10T20:31:03+00:00 | 1212781677063962764 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778873885130802/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">OG | Cathedral | [cathedral](https://discord.gg/cathedral) | 2025-05-10T20:31:03+00:00 | 1369778873885130802 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369682678777118932/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">SNCF | Tag SNCF / 3xrazer | [arAE5fu4dV](https://discord.gg/arAE5fu4dV) | 2025-05-10T20:31:03+00:00 | 1369682678777118932 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369753273170399354/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">9LWA | Tag [9LWA] | [U5KnVxVjs8](https://discord.gg/U5KnVxVjs8) | 2025-05-10T18:44:47+00:00 | 1369753273170399354 |
 | <img src="https://cdn.discordapp.com/clan-badges/1144838464035094529/6406fe443898047cddec6b0b66b59654.png" width="24">fart | miau [fart tag] | [6kECefP2W9](https://discord.gg/6kECefP2W9) | 2025-05-10T18:44:47+00:00 | 1144838464035094529 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641810275864586/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">:( | \*\* | [nic](https://discord.gg/nic) | 2025-05-10T18:39:40+00:00 | 1369641810275864586 |
-| <img src="https://cdn.discordapp.com/clan-badges/1090289654672130090/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">#187 | Sun Avatar. | [yw](https://discord.gg/yw) | 2025-05-10T18:39:40+00:00 | 1090289654672130090 |
-| <img src="https://cdn.discordapp.com/clan-badges/1134993311560646767/8d61abb8b5da075befaff858861dba54.png" width="24">˳欲求 | ̮    𓈒ֺּׅ𓏽 🎐 /m𖹭mong &amp; ... | [246x97Ufv8](https://discord.gg/246x97Ufv8) | 2025-05-10T18:39:40+00:00 | 1134993311560646767 |
 
 </details>
 
@@ -2186,6 +2186,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369764381574959224/08778bfc800e50707543540f0c167607.png" width="24">WHAT | [WHAT] TAG \| Clan | [Z9CXbWtfwg](https://discord.gg/Z9CXbWtfwg) | 1369764381574959224 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369683549132816504/2c7aa014ee3599b6b7089ce933971852.png" width="24">WHY? | ＷＨＹ &amp;. | [whyguild](https://discord.gg/whyguild) | 1369683549132816504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370070922631053364/8b0f20d02145e608a6c1e51491468f43.png" width="24">WILD | [WILD] Server Tag | [VG7zCmxPCf](https://discord.gg/VG7zCmxPCf) | 1370070922631053364 |
+| <img src="https://cdn.discordapp.com/clan-badges/1133136165059432630/c7188305ff4a2c71d247af8a740f3603.png" width="24">WIN | DAILY GIVEAWAYS 🎁 | [dailygiveaways](https://discord.gg/dailygiveaways) | 1133136165059432630 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369758876596961402/18a6033b09a10acad931e517ffe3e3d1.png" width="24">WISH | wish \| .gg/doyoung | [minjae](https://discord.gg/minjae) | 1369758876596961402 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369389566125150299/9d60c8c4b22a70052a62c3b49b34fbc6.png" width="24">WIWI | Riwikii guild | [Snbs3CAu](https://discord.gg/Snbs3CAu) | 1369389566125150299 |
 | <img src="https://cdn.discordapp.com/clan-badges/1114269395317968906/021c460b51e2182eea5a4421927a929a.png" width="24">WIX | Wix Studio Community | [wixstudio](https://discord.gg/wixstudio) | 1114269395317968906 |
@@ -2949,6 +2950,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369731423334043799/600dfba67872018b8500b72c330f5c70.png" width="24">ʚɞ | ʚɞ guild (.gg/rosie) | [hMdq9gm3b2](https://discord.gg/hMdq9gm3b2) | 1369731423334043799 |
 | <img src="https://cdn.discordapp.com/clan-badges/1251257159602274354/d84985dab45c3cdcf569e45b89851750.png" width="24">ʚɞ | silly cat | [Gwurm6RUU7](https://discord.gg/Gwurm6RUU7) | 1251257159602274354 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719426739474605/701dfd9c4144ac11baf61e100d302514.png" width="24">ʚ˚₊‧ | ʚ˚₊‧ | [BgGGwSGa9c](https://discord.gg/BgGGwSGa9c) | 1369719426739474605 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369957352484372590/2566538dd740483f095321a32f3cc310.png" width="24">ʚїɞ | ʚїɞ \| .gg/fg for 100+ more... | [ReXcnp6ybE](https://discord.gg/ReXcnp6ybE) | 1369957352484372590 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369768178623844372/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">ʚଓ | discord.gg/adrian \| ʚଓ tag | [VFNmgrauNM](https://discord.gg/VFNmgrauNM) | 1369768178623844372 |
 | <img src="https://cdn.discordapp.com/clan-badges/330605279798362123/9f5716a46a0764346ed8749b88fd3cc7.png" width="24">ʚଓ | ʚଓ #Tag /eri | [shinjuku](https://discord.gg/shinjuku) | 330605279798362123 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370074050025619588/8242ac2d980a263c4b7f44e5e4e42b89.png" width="24">ʚ୧୨ɞ | yay :3 | [dgmrBfaA6Y](https://discord.gg/dgmrBfaA6Y) | 1370074050025619588 |

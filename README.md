@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/416432187324497921/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DBOG | Dragon Ball Online Generations | [dbog](https://discord.gg/dbog) | 2025-05-10T00:21:21+00:00 | 416432187324497921 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369091014194630717/9173796b835771cf3f92e61ae082aefc.png" width="24">puff | 8. | [K4kmfxJrgt](https://discord.gg/K4kmfxJrgt) | 2025-05-10T00:21:21+00:00 | 1369091014194630717 |
 | <img src="https://cdn.discordapp.com/clan-badges/893029354068668476/d90c2fde02048ee9b99e86c49da61593.png" width="24">₊🫧⁺ | ⋆˚🫧࿔ Bubbles 𝜗𝜚˚⋆ | [GNtYM6dPFC](https://discord.gg/GNtYM6dPFC) | 2025-05-10T00:16:18+00:00 | 893029354068668476 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370080146903793805/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">BRI | 764 | [wgfsAwNMHf](https://discord.gg/wgfsAwNMHf) | 2025-05-10T00:16:18+00:00 | 1370080146903793805 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369457203135778946/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">TCK | TCK 102 | [X88nCHHTtc](https://discord.gg/X88nCHHTtc) | 2025-05-10T00:16:18+00:00 | 1369457203135778946 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369764710152540210/bc4e025173c97f41a09ae15260f5a462.png" width="24">SEX | Xur | [xur](https://discord.gg/xur) | 2025-05-09T22:25:01+00:00 | 1369764710152540210 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369756122109448192/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">리쿠 | ͜\| ͜͝ 𓏼   🍵  riku  ᣟ݂ ᥥ   ⑅ | [VsU49QeRXh](https://discord.gg/VsU49QeRXh) | 2025-05-09T22:25:01+00:00 | 1369756122109448192 |
 | <img src="https://cdn.discordapp.com/clan-badges/1356368418164572190/3784745dab5860220f2eb6f027c12f94.png" width="24">.mp3 | [.mp3] | [t26WbRvYfb](https://discord.gg/t26WbRvYfb) | 2025-05-09T22:14:51+00:00 | 1356368418164572190 |
-| <img src="https://cdn.discordapp.com/clan-badges/831754059173593108/1c8f8efb11de25463d853de6f864ffc6.png" width="24">707 | Tour | [tur](https://discord.gg/tur) | 2025-05-09T22:14:51+00:00 | 831754059173593108 |
-| <img src="https://cdn.discordapp.com/clan-badges/1264933284119449620/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">BLZN | Odyssey Studios | [minertycoon](https://discord.gg/minertycoon) | 2025-05-09T22:14:51+00:00 | 1264933284119449620 |
 
 </details>
 
@@ -608,6 +608,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369795319835000902/369b659dc2ccca62698ea0ac64248f91.png" width="24">DATA | SearchData - Guild | [searchdatag](https://discord.gg/searchdatag) | 1369795319835000902 |
 | <img src="https://cdn.discordapp.com/clan-badges/1259262060596953148/a2b02aa127259c265ac43df3799a29ad.png" width="24">DAWG | Kool Dogg&#x27;s Dawg House | [kbVCDSNCVH](https://discord.gg/kbVCDSNCVH) | 1259262060596953148 |
 | <img src="https://cdn.discordapp.com/clan-badges/754847510576758934/0ae74be9dc7fcdcbeace441566d757e5.png" width="24">DBD | Dead by Daylight Unofficial | [edFAThDW5D](https://discord.gg/edFAThDW5D) | 754847510576758934 |
+| <img src="https://cdn.discordapp.com/clan-badges/416432187324497921/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DBOG | Dragon Ball Online Generations | [dbog](https://discord.gg/dbog) | 416432187324497921 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369331916008067173/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">DBUG | [DBUG TAG] \| Dev Home ⌨ | [mctYdvr6qJ](https://discord.gg/mctYdvr6qJ) | 1369331916008067173 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369721305904975932/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">DBZ | DBZ | [GKfuXuKB5a](https://discord.gg/GKfuXuKB5a) | 1369721305904975932 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369721237621964800/86735389348f3eacfa519eb553df38fd.png" width="24">DD0S | DD0S [guild] | [CXjNgcHDB3](https://discord.gg/CXjNgcHDB3) | 1369721237621964800 |
@@ -2096,6 +2097,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369900488585248808/aef7738ba114e121d617c8c20bf7f1d6.png" width="24">pp | tag #pp | [kmdTtQb3Dc](https://discord.gg/kmdTtQb3Dc) | 1369900488585248808 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369425058128461874/dc61eaed9e8b012148661df1ada874e6.png" width="24">pray | pray \| .gg/fg  for 30+ fre... | [vNH5EGwzab](https://discord.gg/vNH5EGwzab) | 1369425058128461874 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370004896543150151/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">puff | /isaka #puff | [ZDYCuSpp4h](https://discord.gg/ZDYCuSpp4h) | 1370004896543150151 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369091014194630717/9173796b835771cf3f92e61ae082aefc.png" width="24">puff | 8. | [K4kmfxJrgt](https://discord.gg/K4kmfxJrgt) | 1369091014194630717 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369242700599263325/1cc75ce529fc089a38b914100b14187b.png" width="24">pup | pup | [lovespell](https://discord.gg/lovespell) | 1369242700599263325 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369620063275188294/461ca556db6a17eaec21947f665c6705.png" width="24">pup | pup \| .gg/fg  for 30+ free... | [EK7Kv29hr7](https://discord.gg/EK7Kv29hr7) | 1369620063275188294 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369772355026419793/13f9a3392ff7a2a7128ac9c526840d9a.png" width="24">pure | purity †𓉸ྀི | [sBQg6yMMQ9](https://discord.gg/sBQg6yMMQ9) | 1369772355026419793 |

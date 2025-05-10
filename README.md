@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1167910823637819504/232d1d2a366ec512dde707821f672cce.png" width="24">ቻ ˚. | N O P | [3CXddecUFA](https://discord.gg/3CXddecUFA) | 2025-05-10T08:41:42+00:00 | 1167910823637819504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1350917300697563289/7f8f9af96f2a1549f4d7ba59fe43f44a.png" width="24">FAME | [ARISE CROSSOVER] Draw Sword | [XsJf6KAuxS](https://discord.gg/XsJf6KAuxS) | 2025-05-10T08:36:38+00:00 | 1350917300697563289 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369687300656599194/57105dd5d54ebb9faef5e1b90c3768e1.png" width="24">LAW | [LAW] /optags | [rEYn7VrxtE](https://discord.gg/rEYn7VrxtE) | 2025-05-10T08:36:38+00:00 | 1369687300656599194 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369605839081701386/f3bcf5802b7bb8761b0557ae60ab28a3.png" width="24">ＮＡＭＩ | [ＮＡＭＩ] /optags | [Bs5QnmxZQ4](https://discord.gg/Bs5QnmxZQ4) | 2025-05-10T08:36:38+00:00 | 1369605839081701386 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369445406202794087/ea37c0bb5898f6df94100cd873102f2c.png" width="24">୨୧ | 𓈒˳ꭶᧉⱺ⍺ꚕ ˚♡˖ᣟ | [UPpMxgmhNQ](https://discord.gg/UPpMxgmhNQ) | 2025-05-10T05:14:14+00:00 | 1369445406202794087 |
 | <img src="https://cdn.discordapp.com/clan-badges/1359041869476135003/9f4b3c5a03c9bcbc026f5ce44aa3c588.png" width="24">DOVE | ! Wolfshade ⚡&#x27;s server | [FVTcfNxZT3](https://discord.gg/FVTcfNxZT3) | 2025-05-10T05:14:14+00:00 | 1359041869476135003 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369793100679221259/58aba4c7624679a4e7f8e10b05cb4f61.png" width="24">투바투 | soobie&#x27;s guild ❦   𓂃  ... | [SNnmceqbN5](https://discord.gg/SNnmceqbN5) | 2025-05-10T05:14:14+00:00 | 1369793100679221259 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369781575084146838/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">みのり | みのり - Minori Project Sekai | [VzfC4kCCZn](https://discord.gg/VzfC4kCCZn) | 2025-05-10T05:09:10+00:00 | 1369781575084146838 |
 
 </details>
 
@@ -2621,6 +2621,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369726388587991141/8ab047fdc92e25a438cd855cf179165b.png" width="24">ིྀྀ | 𓈒🎐˚̩̩̥ 　.　purins　#dj2l | [jTvawdFYTJ](https://discord.gg/jTvawdFYTJ) | 1369726388587991141 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369784592864772107/4c3738dfb0e1b60c89573aef94428bb5.png" width="24">ྀི | @     ྀིྀ 𓂃 .gg/lamb | [R7Kq3mNcDN](https://discord.gg/R7Kq3mNcDN) | 1369784592864772107 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369783629709836388/d8028e3189542f9cd218c28373bc178a.png" width="24">ღour | ღour | [YUwRgkkdWW](https://discord.gg/YUwRgkkdWW) | 1369783629709836388 |
+| <img src="https://cdn.discordapp.com/clan-badges/1167910823637819504/232d1d2a366ec512dde707821f672cce.png" width="24">ቻ ˚. | N O P | [3CXddecUFA](https://discord.gg/3CXddecUFA) | 1167910823637819504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369714476705910915/2c7aa014ee3599b6b7089ce933971852.png" width="24">ᐢ..ᐢ | ᐢ..ᐢ 　　[　.gg/furina　] | [dN6HRJbWe6](https://discord.gg/dN6HRJbWe6) | 1369714476705910915 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369106099608748102/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">ᓚᘏᗢ | ᓚᘏᗢ | [QAwrvACYr3](https://discord.gg/QAwrvACYr3) | 1369106099608748102 |
 | <img src="https://cdn.discordapp.com/clan-badges/208352998416580609/89def04cbc2d690e29d01bfcc0ed914c.png" width="24">ᓚᘏᗢ | Catland Schweiz 😺 c47.ch | [Schweiz](https://discord.gg/Schweiz) | 208352998416580609 |

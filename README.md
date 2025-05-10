@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369721399509516408/e935acc7e9899e72b2c1a06a387965d2.png" width="24">fuze | FUZE - 2025 | [mY7zq85Xyr](https://discord.gg/mY7zq85Xyr) | 2025-05-10T18:54:54+00:00 | 1369721399509516408 |
+| <img src="https://cdn.discordapp.com/clan-badges/1301693582247329803/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">NOVA | Eternally Supernovas ♱  DTI | [eternallysupernovas](https://discord.gg/eternallysupernovas) | 2025-05-10T18:54:54+00:00 | 1301693582247329803 |
 | <img src="https://cdn.discordapp.com/clan-badges/1080727310149353552/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">GAO | GamingAsOne | [naAmhhSy7E](https://discord.gg/naAmhhSy7E) | 2025-05-10T18:49:51+00:00 | 1080727310149353552 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370042370397044838/8388948b433aa0fa792a29b1f286df5c.png" width="24">hom0 | juifance | [FsDYYsEeqf](https://discord.gg/FsDYYsEeqf) | 2025-05-10T18:49:51+00:00 | 1370042370397044838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1075480726151110656/05cb08654576e2ecd44d2bbf399b8369.png" width="24">SLAY | The NXT ™ \|\| Chilling Ind... | [nxtontop](https://discord.gg/nxtontop) | 2025-05-10T18:49:51+00:00 | 1075480726151110656 |
@@ -60,6 +62,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1214990800279044148/b49714b1c2ecfb94b42ab1971a906901.png" width="24">𝝑𝝔 | dahlias dti 𝝑𝝔 | [dahliasdti](https://discord.gg/dahliasdti) | 2025-05-10T18:39:40+00:00 | 1214990800279044148 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369332409824448685/40a7aa796426347d6b76d20dfed2c273.png" width="24">집사 | 집사 태그 ( 서버는 개발중 ) | [njpS79gvxy](https://discord.gg/njpS79gvxy) | 2025-05-10T18:39:40+00:00 | 1369332409824448685 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370035590015225896/7dff089fbee252a67e72a08ae58a0376.png" width="24">要楽奈 | 樂奈的抹茶芭菲 / 5xXWHfUM4P | [5xXWHfUM4P](https://discord.gg/5xXWHfUM4P) | 2025-05-10T18:39:40+00:00 | 1370035590015225896 |
+| <img src="https://cdn.discordapp.com/clan-badges/854725181384556584/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">NOBL | Noble Practice Scrims | [eu](https://discord.gg/eu) | 2025-05-10T17:39:48+00:00 | 854725181384556584 |
 | <img src="https://cdn.discordapp.com/clan-badges/447114928785063977/4ef4a65ec9ab334257bbb3a406351929.png" width="24">KOI | Koikatsu! | [hevygx6](https://discord.gg/hevygx6) | 2025-05-10T17:39:48+00:00 | 447114928785063977 |
 | <img src="https://cdn.discordapp.com/clan-badges/474739462589382667/dea4f5f8e9aaa736c9b599506226508e.png" width="24">ROK | Rise of Kingdoms | [riseofkingdoms](https://discord.gg/riseofkingdoms) | 2025-05-10T17:39:48+00:00 | 474739462589382667 |
 | <img src="https://cdn.discordapp.com/clan-badges/825270980829642783/79366e8660935912726217b413fcc19b.png" width="24">G&amp;B | Guts &amp; Blackpowder Comm... | [gutsandblackpowder](https://discord.gg/gutsandblackpowder) | 2025-05-10T17:39:48+00:00 | 825270980829642783 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1256388189078163577/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">210z | Mèo Đen Clan | [YeRFWQREUj](https://discord.gg/YeRFWQREUj) | 2025-05-10T17:39:48+00:00 | 1256388189078163577 |
 | <img src="https://cdn.discordapp.com/clan-badges/1340994021350182922/036a27b8bfc2e610e0c74802c295c969.png" width="24">25ms | 25ms Hideout | [gabSMaG78V](https://discord.gg/gabSMaG78V) | 2025-05-10T17:39:48+00:00 | 1340994021350182922 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370014590884384859/b6f6582eb0301ce069e00b2a99323975.png" width="24">37 | 37 Tag | [37tag](https://discord.gg/37tag) | 2025-05-10T17:39:48+00:00 | 1370014590884384859 |
-| <img src="https://cdn.discordapp.com/clan-badges/1179827426990235750/50850626dd593a79b9dc3e46d7f70a23.png" width="24">50 | SNL \| 50 tag ⚡ | [2bjmxz3d6f](https://discord.gg/2bjmxz3d6f) | 2025-05-10T17:39:48+00:00 | 1179827426990235750 |
-| <img src="https://cdn.discordapp.com/clan-badges/1337425818275545129/4c9c6e76fdd5bea7308810b3a7ae181e.png" width="24">666 | cut | [Cut](https://discord.gg/Cut) | 2025-05-10T17:39:48+00:00 | 1337425818275545129 |
-| <img src="https://cdn.discordapp.com/clan-badges/330908226604498958/c8d016eed5c8752316ca38fdd54380c6.png" width="24">666 | night Club | [qrXkcGeNAC](https://discord.gg/qrXkcGeNAC) | 2025-05-10T17:39:48+00:00 | 330908226604498958 |
 
 </details>
 
@@ -1536,6 +1536,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369721003663687690/a07acf2eaf789adef29250bcf8cf4b68.png" width="24">NOMO | NADANOMO :3 | [UydxksMjaM](https://discord.gg/UydxksMjaM) | 1369721003663687690 |
 | <img src="https://cdn.discordapp.com/clan-badges/921782364236054548/c1e4439afa95753a4bab531e3c4c42d1.png" width="24">NOOB | BuilderNoob&#x27;s Kingdom | [buildernoob](https://discord.gg/buildernoob) | 921782364236054548 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369283524062085160/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">NOVA | NOVA - PUBLIC | [mqB7C2aFGV](https://discord.gg/mqB7C2aFGV) | 1369283524062085160 |
+| <img src="https://cdn.discordapp.com/clan-badges/1301693582247329803/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">NOVA | Eternally Supernovas ♱  DTI | [eternallysupernovas](https://discord.gg/eternallysupernovas) | 1301693582247329803 |
 | <img src="https://cdn.discordapp.com/clan-badges/834055449606619158/5ec6c264164090311898cb954f839cc9.png" width="24">NOW | NowTag&#x27;s | [4NQRwnj4qE](https://discord.gg/4NQRwnj4qE) | 834055449606619158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369411672908890253/9e2ebf70ca51186c316886b897da1343.png" width="24">NSA | NSA - HQ | [nsaa](https://discord.gg/nsaa) | 1369411672908890253 |
 | <img src="https://cdn.discordapp.com/clan-badges/215424443005009920/7bdbe69283714c0c16cbd08dec728942.png" width="24">NSFW | Waifu ✦ 18+ NSFW | [Nsfw](https://discord.gg/Nsfw) | 215424443005009920 |
@@ -2444,6 +2445,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1199564435119943780/40a7aa796426347d6b76d20dfed2c273.png" width="24">frry | Frry Central | [dVuNM8wrtd](https://discord.gg/dVuNM8wrtd) | 1199564435119943780 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369729264563388426/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">fræk | Freaky ahh what | [NfBKRNQFkd](https://discord.gg/NfBKRNQFkd) | 1369729264563388426 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369165021807902840/677d4f64d1a86c10d84dfabfbe25955d.png" width="24">fujo | / d𝘰𝘭𝘭 | [mf9zCSdCQe](https://discord.gg/mf9zCSdCQe) | 1369165021807902840 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369721399509516408/e935acc7e9899e72b2c1a06a387965d2.png" width="24">fuze | FUZE - 2025 | [mY7zq85Xyr](https://discord.gg/mY7zq85Xyr) | 1369721399509516408 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369733587267616788/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">fym | /fym tag | [3jCJZEpRDT](https://discord.gg/3jCJZEpRDT) | 1369733587267616788 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369404857387061318/c4726fa913c32c43da211a918f01ca4b.png" width="24">fαwn | ✿    fawn guild   🎀   .gg/d... | [EUTDZr4Nt2](https://discord.gg/EUTDZr4Nt2) | 1369404857387061318 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369572562199253098/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">gato | Tag server | [fatosr](https://discord.gg/fatosr) | 1369572562199253098 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369732501957775440/5607047f21b7e25a26c195cc49871278.png" width="24">QST | 🜲 QST CLAN ⎚ | [fqwQzqWpnS](https://discord.gg/fqwQzqWpnS) | 2025-05-10T07:46:03+00:00 | 1369732501957775440 |
 | <img src="https://cdn.discordapp.com/clan-badges/1292056821367967796/2be9e5787ba27b78d0623d6f60c2acce.png" width="24">EXPR | eXpress Keys | [expresskeys](https://discord.gg/expresskeys) | 2025-05-10T07:40:59+00:00 | 1292056821367967796 |
 | <img src="https://cdn.discordapp.com/clan-badges/598731989033680896/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">MDUD | Sono Bisque Doll wa Koi wo ... | [sonobisquedoll](https://discord.gg/sonobisquedoll) | 2025-05-10T07:40:59+00:00 | 598731989033680896 |
 | <img src="https://cdn.discordapp.com/clan-badges/1314106867559170080/b6f6582eb0301ce069e00b2a99323975.png" width="24">NEGA | Vixen Community | [vixencommunity](https://discord.gg/vixencommunity) | 2025-05-10T07:40:59+00:00 | 1314106867559170080 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369441123457831013/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">Mೲdy | /Moody Tag Server | [DqPkCTrAnC](https://discord.gg/DqPkCTrAnC) | 2025-05-10T04:18:36+00:00 | 1369441123457831013 |
 | <img src="https://cdn.discordapp.com/clan-badges/1157659245223886898/959a89cde91da1f60b1f84e856d5bc02.png" width="24">VIET | Vietnam Drift Team | [zXNK7SxH5K](https://discord.gg/zXNK7SxH5K) | 2025-05-10T04:18:36+00:00 | 1157659245223886898 |
 | <img src="https://cdn.discordapp.com/clan-badges/1295669921803538462/0625caabbdb25cb8406ebdd64b90a445.png" width="24">Omen | Fiend | [fiend](https://discord.gg/fiend) | 2025-05-10T04:08:28+00:00 | 1295669921803538462 |
-| <img src="https://cdn.discordapp.com/clan-badges/1089675735788171287/a9dd253a3237515b30da0f5a0c82386f.png" width="24">AI | Ultimate AI /uai | [uai](https://discord.gg/uai) | 2025-05-10T04:03:25+00:00 | 1089675735788171287 |
 
 </details>
 
@@ -1442,6 +1442,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369716404143521853/80e49bbcd08c608a6f49671e2d0828da.png" width="24">QLF | #QLF - .gg/ohq | [vJdBZdvsR3](https://discord.gg/vJdBZdvsR3) | 1369716404143521853 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363138908996763718/86735389348f3eacfa519eb553df38fd.png" width="24">QLF | Tarik Space | [8bgJmBcZ6F](https://discord.gg/8bgJmBcZ6F) | 1363138908996763718 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369901092929802390/22f8c38a62b66123c4242d0cbdd46282.png" width="24">QLF | QLF \| TAG | [mggC6UnPu3](https://discord.gg/mggC6UnPu3) | 1369901092929802390 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369732501957775440/5607047f21b7e25a26c195cc49871278.png" width="24">QST | 🜲 QST CLAN ⎚ | [fqwQzqWpnS](https://discord.gg/fqwQzqWpnS) | 1369732501957775440 |
 | <img src="https://cdn.discordapp.com/clan-badges/1094540619625549845/db41d917059844f2352260ca56954d10.png" width="24">R.RP | 𝗥𝗼𝗺𝗮 \| 🇮🇹-𝗥𝗣 | [romarp](https://discord.gg/romarp) | 1094540619625549845 |
 | <img src="https://cdn.discordapp.com/clan-badges/831166624245612584/0dde9feca1e7ed7a89b27b1b5f9d3d87.png" width="24">RAID | Grupo Dos Mais Mais | [BgCUf4xr6m](https://discord.gg/BgCUf4xr6m) | 831166624245612584 |
 | <img src="https://cdn.discordapp.com/clan-badges/976609439153004624/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">RAIL | Fourth Rail | [fourthrail](https://discord.gg/fourthrail) | 976609439153004624 |

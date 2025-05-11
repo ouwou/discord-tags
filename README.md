@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369681351393022033/d14f3ee7ecd2b5159c7f1acea4da4c32.png" width="24">౨ৎ ˙ | 𝜗ৎ ‿︵      /𝑘issi𝑒s t𝒶g | [2rfBFbmc4E](https://discord.gg/2rfBFbmc4E) | 2025-05-11T08:44:51+00:00 | 1369681351393022033 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369468366816940052/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DIOR | .gg/yea #DIOR | [TNUgr6yBA6](https://discord.gg/TNUgr6yBA6) | 2025-05-11T08:39:48+00:00 | 1369468366816940052 |
 | <img src="https://cdn.discordapp.com/clan-badges/525394496863862814/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">SITH | Star Wars Türkiye - Sithpedi | [starwarsturkiye](https://discord.gg/starwarsturkiye) | 2025-05-11T08:39:48+00:00 | 525394496863862814 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369748890118787172/292467360f8276e9503d1211866b0675.png" width="24">trꜳ2 | traa2 tag | [36UARzHqjY](https://discord.gg/36UARzHqjY) | 2025-05-11T08:39:48+00:00 | 1369748890118787172 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1054414599945998416/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">STAR | Intergalactic Science Kingdom | [fajrulfx](https://discord.gg/fajrulfx) | 2025-05-11T05:12:16+00:00 | 1054414599945998416 |
 | <img src="https://cdn.discordapp.com/clan-badges/1286732979502190704/856cecbf8055036b98cf05fd54cd8872.png" width="24">xtc | extesy #xtc | [AhZKHnpqNu](https://discord.gg/AhZKHnpqNu) | 2025-05-11T05:12:16+00:00 | 1286732979502190704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1261733640837140500/58271fb362c4464a4ebead69a2ec0f72.png" width="24">BLOX | Flegbyplayrbxstudio | [AApGUtAa3Z](https://discord.gg/AApGUtAa3Z) | 2025-05-11T05:07:13+00:00 | 1261733640837140500 |
-| <img src="https://cdn.discordapp.com/clan-badges/1171839683291004998/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">COAS | COASTER | [coaster](https://discord.gg/coaster) | 2025-05-11T05:07:13+00:00 | 1171839683291004998 |
 
 </details>
 
@@ -3427,6 +3427,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369746926907428986/9b15c89e23d3492eff58940ed36c7fe5.png" width="24">౨ৎ | [౨ৎ] 𝓢𝔀𝓮𝓮𝓽 𝓰𝓾𝓲𝓵𝓭 | [Kj7djGEbZ5](https://discord.gg/Kj7djGEbZ5) | 1369746926907428986 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369366272327811093/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">౨ৎ | #bowguild | [uenQ8UpqBq](https://discord.gg/uenQ8UpqBq) | 1369366272327811093 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369723847116324954/56abdcaa962c2bd022a4422b95d4abda.png" width="24">౨ৎ | 🎀・ Guild tag ౨ৎ ・.gg/phguild | [tJpaMn7cn9](https://discord.gg/tJpaMn7cn9) | 1369723847116324954 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369681351393022033/d14f3ee7ecd2b5159c7f1acea4da4c32.png" width="24">౨ৎ ˙ | 𝜗ৎ ‿︵      /𝑘issi𝑒s t𝒶g | [2rfBFbmc4E](https://discord.gg/2rfBFbmc4E) | 1369681351393022033 |
 | <img src="https://cdn.discordapp.com/clan-badges/1305393685663318096/8d61abb8b5da075befaff858861dba54.png" width="24">౨ৎ설희 | [ ౨ৎ설희 ]　✦　˙    LUNA   ❄ | [lunasnow](https://discord.gg/lunasnow) | 1305393685663318096 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370090115115782217/90e57d4118cae8044985046ab91d5507.png" width="24">౾𝔰 | ꜱʟᴀꜱʜᴇʀ [ᴛᴀɢ] | [CU6WE7ZfSf](https://discord.gg/CU6WE7ZfSf) | 1370090115115782217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369457470422122579/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ೀ  틸 | ( ºº◞◟)　　　　. | [eJgYfhDGGy](https://discord.gg/eJgYfhDGGy) | 1369457470422122579 |

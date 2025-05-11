@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370047807016402996/6d53371b8c9ff7daf2eab332a7a778f2.png" width="24">゛이반틸 | ivantill tag﹒FANDOM TAGS !!!! | [y9c6mgmAm6](https://discord.gg/y9c6mgmAm6) | 2025-05-11T07:18:51+00:00 | 1370047807016402996 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369131836202025022/cc94b337daab4f9a39e9ba51c0aac86a.png" width="24">Yume | Dreamers | [R3VrEUJY9p](https://discord.gg/R3VrEUJY9p) | 2025-05-11T07:18:51+00:00 | 1369131836202025022 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369141884173160530/d3a8fb09ec7d646a8030c87d56a9d916.png" width="24">Cure | Cure tag &amp; Fandom tags | [Rfeb6Arhhw](https://discord.gg/Rfeb6Arhhw) | 2025-05-11T07:13:47+00:00 | 1369141884173160530 |
 | <img src="https://cdn.discordapp.com/clan-badges/1350150477764886640/6f46e99c44185a00bd05de9d9b8ebc69.png" width="24">七虎なる | 七虎鯖 | [gVSNDm2UPR](https://discord.gg/gVSNDm2UPR) | 2025-05-11T07:13:47+00:00 | 1350150477764886640 |
 | <img src="https://cdn.discordapp.com/clan-badges/1326285769093939243/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">666 | 666 Guild Tag | [2dVhHDajWx](https://discord.gg/2dVhHDajWx) | 2025-05-11T07:08:44+00:00 | 1326285769093939243 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/178510947873325057/c8d016eed5c8752316ca38fdd54380c6.png" width="24">KKKK | Kool Kids Klub | [Kool](https://discord.gg/Kool) | 2025-05-11T04:16:36+00:00 | 178510947873325057 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431011091550409/2c7aa014ee3599b6b7089ce933971852.png" width="24">ꐕꆜ | .exe | [WmQBh6aWzx](https://discord.gg/WmQBh6aWzx) | 2025-05-11T04:16:36+00:00 | 1369431011091550409 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369591561662369822/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">سلام | Salam tag  \| 💀 سلام | [DJcTtHkTbP](https://discord.gg/DJcTtHkTbP) | 2025-05-11T04:11:32+00:00 | 1369591561662369822 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370037440521310218/78157464c8ae47b0af7c0326053f62a7.png" width="24">岡田夢以 | 夢以的貝斯/ rAGey6KGZB | [rAGey6KGZB](https://discord.gg/rAGey6KGZB) | 2025-05-11T04:11:32+00:00 | 1370037440521310218 |
-| <img src="https://cdn.discordapp.com/clan-badges/1255003376660512771/26ab700703d5c0d4956f3fbb047fea41.png" width="24">立石凜 | 凜醬 | [qxfajw6XsN](https://discord.gg/qxfajw6XsN) | 2025-05-11T04:11:32+00:00 | 1255003376660512771 |
 
 </details>
 
@@ -2473,6 +2473,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1279864773496017018/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">YZY | Ye Talk | [femboyporn](https://discord.gg/femboyporn) | 1279864773496017018 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370069716034650244/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">YZY | [YZY] Ye Community | [n5Juk8GBpD](https://discord.gg/n5Juk8GBpD) | 1370069716034650244 |
 | <img src="https://cdn.discordapp.com/clan-badges/1317073182741631026/e293f0290c00205caf530f1cce8187fe.png" width="24">Yuki | THE Herta Station .gg/sweett | [qRAdBuXV](https://discord.gg/qRAdBuXV) | 1317073182741631026 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369131836202025022/cc94b337daab4f9a39e9ba51c0aac86a.png" width="24">Yume | Dreamers | [R3VrEUJY9p](https://discord.gg/R3VrEUJY9p) | 1369131836202025022 |
 | <img src="https://cdn.discordapp.com/clan-badges/1115321979587797115/3da695a3845833b28878ed0d3d86dec6.png" width="24">Z8RT | الزقرت | [Z8rt](https://discord.gg/Z8rt) | 1115321979587797115 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369333150878011603/2aa8b457b9fc588e66f6b8ce6e3cb53d.png" width="24">ZARA | Zara Tag (.gg/staffs) | [R63ETZtye5](https://discord.gg/R63ETZtye5) | 1369333150878011603 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369627346482630826/d1f146615b22e8f02dde299c747375f3.png" width="24">ZAZA | [ZAZA] Guild Tag (BOOST TO ... | [tyejNBNqbv](https://discord.gg/tyejNBNqbv) | 1369627346482630826 |
@@ -3596,6 +3597,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1028617711221223466/8d61abb8b5da075befaff858861dba54.png" width="24">ゆき | Yuki | [YxSFBrdTct](https://discord.gg/YxSFBrdTct) | 1028617711221223466 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369263378727702600/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ゆるふわ | ゆるふわさーばー | [cavTAm7JEZ](https://discord.gg/cavTAm7JEZ) | 1369263378727702600 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369400187545456700/0ccf1226251a35957b6af2b5d546fb28.png" width="24">んẹんẹ | HẹHẹ | [Z6q6pEKWzs](https://discord.gg/Z6q6pEKWzs) | 1369400187545456700 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370047807016402996/6d53371b8c9ff7daf2eab332a7a778f2.png" width="24">゛이반틸 | ivantill tag﹒FANDOM TAGS !!!! | [y9c6mgmAm6](https://discord.gg/y9c6mgmAm6) | 1370047807016402996 |
 | <img src="https://cdn.discordapp.com/clan-badges/1270866674777854082/ccf49c1cc24bd4bf9b7c20aec1800e00.png" width="24">゜ꢾ𓍢 | ░ 　　、　　　　𓈒  ᘏ⑅ᘏ | [7BdcxQZ4Fr](https://discord.gg/7BdcxQZ4Fr) | 1270866674777854082 |
 | <img src="https://cdn.discordapp.com/clan-badges/1131947033373192263/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">アニメ | Anime Corner | [anime-corner-1131947033373192263](https://discord.gg/anime-corner-1131947033373192263) | 1131947033373192263 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369405093673173015/bf01c56392e86603a9cb68096c85d1e4.png" width="24">カイト | KAITO、［カイト］ | [rNnQeYAev9](https://discord.gg/rNnQeYAev9) | 1369405093673173015 |

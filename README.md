@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369474739965399112/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">addi | addie | [sxPXrHbEh6](https://discord.gg/sxPXrHbEh6) | 2025-05-11T05:57:52+00:00 | 1369474739965399112 |
+| <img src="https://cdn.discordapp.com/clan-badges/1141373974824099870/6082c2553b03b47ccaea5203567df3cf.png" width="24">BBAT | BBAT Clan | [BcVjdDSE83](https://discord.gg/BcVjdDSE83) | 2025-05-11T05:57:52+00:00 | 1141373974824099870 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742337718358217/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">឵឵ | ! This Guild For Sell ! By ... | [gyGp2dKvDe](https://discord.gg/gyGp2dKvDe) | 2025-05-11T05:52:47+00:00 | 1369742337718358217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369867912436908073/091acfbf3528c0dc7cb4cc3ff0aa440c.png" width="24">឵឵ | ! This Guild For Sell ! By ... | [J6nkVPJDQV](https://discord.gg/J6nkVPJDQV) | 2025-05-11T05:52:47+00:00 | 1369867912436908073 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369989449961963563/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">luka | ♡𓈒 ᴗ)　luka     tag      /alnst | [mTbQUtyxcu](https://discord.gg/mTbQUtyxcu) | 2025-05-11T05:52:47+00:00 | 1369989449961963563 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370069716034650244/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">YZY | [YZY] Ye Community | [n5Juk8GBpD](https://discord.gg/n5Juk8GBpD) | 2025-05-11T02:50:28+00:00 | 1370069716034650244 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369587922461917195/dea97e909a0211e2479d75cd11c2ec41.png" width="24">:( | ឵឵ | [XGsgS8skcM](https://discord.gg/XGsgS8skcM) | 2025-05-11T02:45:24+00:00 | 1369587922461917195 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726402340978738/b6f6582eb0301ce069e00b2a99323975.png" width="24">&gt;ワ&lt; | /matchingpfps  ﹕[&gt;ワ&lt;] | [NvEB2CVJNg](https://discord.gg/NvEB2CVJNg) | 2025-05-11T02:45:24+00:00 | 1369726402340978738 |
-| <img src="https://cdn.discordapp.com/clan-badges/812144880230072370/b70926c4409284ee5f7ecae334eed9fe.png" width="24">ONCE | ONCE | [tmyNj6CvTe](https://discord.gg/tmyNj6CvTe) | 2025-05-11T02:45:24+00:00 | 812144880230072370 |
-| <img src="https://cdn.discordapp.com/clan-badges/805189277864034355/8084d59ab2c97476363c0eb9c88c8486.png" width="24">HOEZ | [HOEZ] | [b2NdWxym6H](https://discord.gg/b2NdWxym6H) | 2025-05-11T02:40:20+00:00 | 805189277864034355 |
 
 </details>
 
@@ -576,6 +576,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/950541416189280276/2d8bea68b3152b52858942d2bc854cc7.png" width="24">BARK | Kel &amp; Sam | [WwdFk6xhuB](https://discord.gg/WwdFk6xhuB) | 950541416189280276 |
 | <img src="https://cdn.discordapp.com/clan-badges/1313074170791198720/878c62b6694a4f5931104f766191bec7.png" width="24">BARK | Beans | [xbw42T6Fuf](https://discord.gg/xbw42T6Fuf) | 1313074170791198720 |
 | <img src="https://cdn.discordapp.com/clan-badges/927762978927960074/786b28da8a50f7fda8cf8d260d036d97.png" width="24">BB | Chaerii ♡ | [chaerii](https://discord.gg/chaerii) | 927762978927960074 |
+| <img src="https://cdn.discordapp.com/clan-badges/1141373974824099870/6082c2553b03b47ccaea5203567df3cf.png" width="24">BBAT | BBAT Clan | [BcVjdDSE83](https://discord.gg/BcVjdDSE83) | 1141373974824099870 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369686064490614865/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BBC | /bbctag #1 | [rusBn9SJJ8](https://discord.gg/rusBn9SJJ8) | 1369686064490614865 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370075470426537994/4507c292a7c649b9e6e357ac11c5492c.png" width="24">BBL | BBL - /92ii | [Ff7NZkg8tv](https://discord.gg/Ff7NZkg8tv) | 1370075470426537994 |
 | <img src="https://cdn.discordapp.com/clan-badges/1183142032672305152/dea97e909a0211e2479d75cd11c2ec41.png" width="24">BC | 𝐁𝐥𝐢𝐧𝐝𝐞𝐫𝐬 𝐂𝐢𝐭𝐲 𝐒𝟏 | [180](https://discord.gg/180) | 1183142032672305152 |
@@ -2491,6 +2492,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1051112247474270208/40a7aa796426347d6b76d20dfed2c273.png" width="24">^ᴗ^ | ^ᴗ^ Tag \| /viptag | [Phz2bcZhaA](https://discord.gg/Phz2bcZhaA) | 1051112247474270208 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369812793104269322/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">a$ap | a$ap | [JNYFuTj72M](https://discord.gg/JNYFuTj72M) | 1369812793104269322 |
 | <img src="https://cdn.discordapp.com/clan-badges/853330003932086312/2c7aa014ee3599b6b7089ce933971852.png" width="24">ace | open smp | [3Dv2KkffNY](https://discord.gg/3Dv2KkffNY) | 853330003932086312 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369474739965399112/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">addi | addie | [sxPXrHbEh6](https://discord.gg/sxPXrHbEh6) | 1369474739965399112 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369944029718122566/2a4b6215cd6903406b9e7ff62609350f.png" width="24">ahok | ahok ri 1 | [eqg9Uftdyw](https://discord.gg/eqg9Uftdyw) | 1369944029718122566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1279156917305999360/d271024df6b0b86335d3108ef80ea10a.png" width="24">aim | aim | [ZZqVxEBg8C](https://discord.gg/ZZqVxEBg8C) | 1279156917305999360 |
 | <img src="https://cdn.discordapp.com/clan-badges/1187183710928384021/23da941dbd2af648c5d0b52492cc39cc.png" width="24">airi | MORE MORE JUMP!!! [airi] ♡ | [fPHqqTNsCw](https://discord.gg/fPHqqTNsCw) | 1187183710928384021 |

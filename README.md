@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369774387368300704/1be22771f3787109bb9ce83171904178.png" width="24">izna | izna tag ₍^. .^₎⟆ | [ahUDKj4SSF](https://discord.gg/ahUDKj4SSF) | 2025-05-11T01:49:44+00:00 | 1369774387368300704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1123486894420930570/bc3c7189e4a0bd2641e6f53a7c4d2851.png" width="24">CUTE | sarper nation | [K8wBydBaNt](https://discord.gg/K8wBydBaNt) | 2025-05-11T01:39:37+00:00 | 1123486894420930570 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370104762237980824/3d6c4a13f6c216d7ddf449147c3bc7f9.png" width="24">cuti | 𓈒ﹺﹺ𓈒ﹺﹺ♡ \| join 4 guild | [uk5ZrdHcFP](https://discord.gg/uk5ZrdHcFP) | 2025-05-11T01:29:31+00:00 | 1370104762237980824 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369459576482566264/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">burn | burning | [tyvxWurSYn](https://discord.gg/tyvxWurSYn) | 2025-05-11T01:24:28+00:00 | 1369459576482566264 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/933467611667238992/bc707a3929333093c4217316a6abca05.png" width="24">BLUE | 𝖡𝖫𝖴𝖤 ⋆˙⟡ 𝐁𝐈𝐋𝐋𝐈𝐄 𝐄𝐈𝐋𝐈𝐒𝐇 | [dKb7MuyHfm](https://discord.gg/dKb7MuyHfm) | 2025-05-10T23:23:01+00:00 | 933467611667238992 |
 | <img src="https://cdn.discordapp.com/clan-badges/1050807628244193372/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">COOL | cool people | [cool-people](https://discord.gg/cool-people) | 2025-05-10T23:23:01+00:00 | 1050807628244193372 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369782883862053024/232d1d2a366ec512dde707821f672cce.png" width="24">die | #die | [m9dAeGPuDe](https://discord.gg/m9dAeGPuDe) | 2025-05-10T23:23:01+00:00 | 1369782883862053024 |
-| <img src="https://cdn.discordapp.com/clan-badges/851952021505441812/736e7d8bb18ed68b6e0223765e79015e.png" width="24">RANK | TEST | [SnJtVQ3SAh](https://discord.gg/SnJtVQ3SAh) | 2025-05-10T23:23:01+00:00 | 851952021505441812 |
 
 </details>
 
@@ -2711,6 +2711,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369703248814145667/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">itzy | itzy | [sfdMcWRpjh](https://discord.gg/sfdMcWRpjh) | 1369703248814145667 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369345079390638231/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ivan | ⸝⸝   ㆍ  ivan cure 　 𓈒ֺּׅ   ... | [euqPDcAGJ8](https://discord.gg/euqPDcAGJ8) | 1369345079390638231 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369652125206057000/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">izna | izna tag \| .gg/kpopping | [rnW7XVtDXc](https://discord.gg/rnW7XVtDXc) | 1369652125206057000 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369774387368300704/1be22771f3787109bb9ce83171904178.png" width="24">izna | izna tag ₍^. .^₎⟆ | [ahUDKj4SSF](https://discord.gg/ahUDKj4SSF) | 1369774387368300704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369602645890830366/b299a06c822e355ddefd1f39376619cd.png" width="24">iǁit | ♡   ݂˙ᥣℓℓⲓ𑀱𓈒     ̣̣̥   ۫ ִ⑅ | [eYbnmGgA3q](https://discord.gg/eYbnmGgA3q) | 1369602645890830366 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369579366039814174/9a2769f68c8db069f114f76b2f5e4222.png" width="24">iǁit | .gg/locket ❦   𓂃   #illit | [nkZ9JdWEkV](https://discord.gg/nkZ9JdWEkV) | 1369579366039814174 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369776998393843812/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">iෆu | iෆu | [ddpyNVEkTp](https://discord.gg/ddpyNVEkTp) | 1369776998393843812 |

@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1054414599945998416/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">STAR | Intergalactic Science Kingdom | [fajrulfx](https://discord.gg/fajrulfx) | 2025-05-11T05:12:16+00:00 | 1054414599945998416 |
+| <img src="https://cdn.discordapp.com/clan-badges/1286732979502190704/856cecbf8055036b98cf05fd54cd8872.png" width="24">xtc | extesy #xtc | [AhZKHnpqNu](https://discord.gg/AhZKHnpqNu) | 2025-05-11T05:12:16+00:00 | 1286732979502190704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1261733640837140500/58271fb362c4464a4ebead69a2ec0f72.png" width="24">BLOX | Flegbyplayrbxstudio | [AApGUtAa3Z](https://discord.gg/AApGUtAa3Z) | 2025-05-11T05:07:13+00:00 | 1261733640837140500 |
 | <img src="https://cdn.discordapp.com/clan-badges/1171839683291004998/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">COAS | COASTER | [coaster](https://discord.gg/coaster) | 2025-05-11T05:07:13+00:00 | 1171839683291004998 |
 | <img src="https://cdn.discordapp.com/clan-badges/1094722709373599764/8d61abb8b5da075befaff858861dba54.png" width="24">jeⅡy | Bubble ⋆˚࿔ | [JUAreH4M7q](https://discord.gg/JUAreH4M7q) | 2025-05-11T05:07:13+00:00 | 1094722709373599764 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1290107582475669614/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">oﬃce | office | [Y9M8Dc5D8G](https://discord.gg/Y9M8Dc5D8G) | 2025-05-11T02:04:53+00:00 | 1290107582475669614 |
 | <img src="https://cdn.discordapp.com/clan-badges/158349559959912448/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">TM | Trackmania | [trackmania](https://discord.gg/trackmania) | 2025-05-11T02:04:53+00:00 | 158349559959912448 |
 | <img src="https://cdn.discordapp.com/clan-badges/950541416189280276/2d8bea68b3152b52858942d2bc854cc7.png" width="24">BARK | Kel &amp; Sam | [WwdFk6xhuB](https://discord.gg/WwdFk6xhuB) | 2025-05-11T01:54:47+00:00 | 950541416189280276 |
-| <img src="https://cdn.discordapp.com/clan-badges/1256608310329606174/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">GOAT | Konoha \| GOAT・500+ Free Gu... | [g0at](https://discord.gg/g0at) | 2025-05-11T01:54:47+00:00 | 1256608310329606174 |
-| <img src="https://cdn.discordapp.com/clan-badges/1345410764902760498/57105dd5d54ebb9faef5e1b90c3768e1.png" width="24">NSFW | TIA 18+ │Best Daily Free Co... | [TIA](https://discord.gg/TIA) | 2025-05-11T01:54:47+00:00 | 1345410764902760498 |
 
 </details>
 
@@ -2100,6 +2100,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1195522554664865822/7c3deb736b7c02ecd35aa43621308b6c.png" width="24">STAR | ⟢ starburst | [starburst](https://discord.gg/starburst) | 1195522554664865822 |
 | <img src="https://cdn.discordapp.com/clan-badges/1347618065663135795/bc2f7685eed9d27522595f510bb2da48.png" width="24">STAR | Star Thunder 647 | [UkEQVDRaaK](https://discord.gg/UkEQVDRaaK) | 1347618065663135795 |
 | <img src="https://cdn.discordapp.com/clan-badges/1209223776613437510/e0fb315519bcb35d53e4ac4fb5b81b8c.png" width="24">STAR | [STARS] .gg/dtiplanets | [v5JJtsHYqa](https://discord.gg/v5JJtsHYqa) | 1209223776613437510 |
+| <img src="https://cdn.discordapp.com/clan-badges/1054414599945998416/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">STAR | Intergalactic Science Kingdom | [fajrulfx](https://discord.gg/fajrulfx) | 1054414599945998416 |
 | <img src="https://cdn.discordapp.com/clan-badges/1318697729379139644/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">STRV | Strive Polisen | [X483gRANKP](https://discord.gg/X483gRANKP) | 1318697729379139644 |
 | <img src="https://cdn.discordapp.com/clan-badges/696817239810244700/a298c1124b18c32e0823e81c65ffd42c.png" width="24">STRW | Straw | [straw](https://discord.gg/straw) | 696817239810244700 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370048448203591791/159909e3a7ec67dbc98fbf67fa78f00d.png" width="24">STUP | ˢᵗᵘᵖ Guild | [mgvwzsHjAh](https://discord.gg/mgvwzsHjAh) | 1370048448203591791 |
@@ -3109,6 +3110,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1276615708553383967/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">xoxo | kiss ♡ | [VU92KFjqfQ](https://discord.gg/VU92KFjqfQ) | 1276615708553383967 |
 | <img src="https://cdn.discordapp.com/clan-badges/1060810811347570698/16bd94602da9ae5a2c222eb3bbf31c73.png" width="24">xoxo | dm @ejnnie for access | [RbkvD8rnuk](https://discord.gg/RbkvD8rnuk) | 1060810811347570698 |
 | <img src="https://cdn.discordapp.com/clan-badges/1295681112491950140/0625caabbdb25cb8406ebdd64b90a445.png" width="24">xoxo | /skydeck  ☆  social   •   c... | [skydeck](https://discord.gg/skydeck) | 1295681112491950140 |
+| <img src="https://cdn.discordapp.com/clan-badges/1286732979502190704/856cecbf8055036b98cf05fd54cd8872.png" width="24">xtc | extesy #xtc | [AhZKHnpqNu](https://discord.gg/AhZKHnpqNu) | 1286732979502190704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369422913417117787/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">xx | ᲼᲼ | [SgNtMn4r7R](https://discord.gg/SgNtMn4r7R) | 1369422913417117787 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369634088947814540/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">xxx | xxx | [YMD7CXpmRR](https://discord.gg/YMD7CXpmRR) | 1369634088947814540 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369688907993583710/c8d016eed5c8752316ca38fdd54380c6.png" width="24">xxx | xxx | [XuSCkAgeEm](https://discord.gg/XuSCkAgeEm) | 1369688907993583710 |

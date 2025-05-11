@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369579674534936596/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">CRAB | \~! CRAB&#x27;S NEST !\~ | [EjM2ZubG](https://discord.gg/EjM2ZubG) | 2025-05-11T03:15:46+00:00 | 1369579674534936596 |
+| <img src="https://cdn.discordapp.com/clan-badges/1000694207037583440/79023381e8c8a53d4f246ab4dd40199b.png" width="24">ᏢᎬᎠᎾ | wrld | [mwii-dmz-fr-1000694207037583440](https://discord.gg/mwii-dmz-fr-1000694207037583440) | 2025-05-11T03:15:46+00:00 | 1000694207037583440 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750654054170694/0625caabbdb25cb8406ebdd64b90a445.png" width="24">12 | tagged-kra2w2 | [vPnP2DypUk](https://discord.gg/vPnP2DypUk) | 2025-05-11T03:10:42+00:00 | 1369750654054170694 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369663044384456754/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">pure | Pure | [pEB623zbJz](https://discord.gg/pEB623zbJz) | 2025-05-11T03:10:42+00:00 | 1369663044384456754 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369260201404006410/dc61eaed9e8b012148661df1ada874e6.png" width="24">Sin | 𝒮𝒾𝓃 \|\| 𝖦𝗎𝗂𝗅𝖽 𝖳𝖺𝗀 | [veYDA7Eu4x](https://discord.gg/veYDA7Eu4x) | 2025-05-11T03:10:42+00:00 | 1369260201404006410 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/961828470588047380/310d9b669d687de773b5f3b5310ca1f3.png" width="24">DOA | 𝘸𝘦𝘦𝘯𝘪𝘺 𝘩𝘶𝘵 𝘫𝘳 | [xGAJx2XUYt](https://discord.gg/xGAJx2XUYt) | 2025-05-11T00:38:55+00:00 | 961828470588047380 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369641312608976947/4b70e09b6b8ddf55b5f9dc6816636760.png" width="24">LOL | 종합게임방 | [sYq6ZCWCQH](https://discord.gg/sYq6ZCWCQH) | 2025-05-11T00:38:55+00:00 | 1369641312608976947 |
 | <img src="https://cdn.discordapp.com/clan-badges/466699124025065475/4b70e09b6b8ddf55b5f9dc6816636760.png" width="24">TBBF | TB:BF Discord Server | [tbbf](https://discord.gg/tbbf) | 2025-05-11T00:38:55+00:00 | 466699124025065475 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369433274069549158/5410c0c04f21555354039fd700661550.png" width="24">WEB | Akatsuk Tag [WEB] .gg/akats... | [V3ATzHrrWr](https://discord.gg/V3ATzHrrWr) | 2025-05-11T00:38:55+00:00 | 1369433274069549158 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369791655636373615/0625caabbdb25cb8406ebdd64b90a445.png" width="24">:( | #:(  dm 2 join | [s5khKMa9E4](https://discord.gg/s5khKMa9E4) | 2025-05-11T00:33:52+00:00 | 1369791655636373615 |
 
 </details>
 
@@ -732,6 +732,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1337638732865474624/b2d4e1b57dc96fd19f02d45082e61717.png" width="24">CPVP | CrackedPvP | [crackedpvp](https://discord.gg/crackedpvp) | 1337638732865474624 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369655005698592838/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">CR7 | CR7 \| .gg/evobot | [w7KwzweJGE](https://discord.gg/w7KwzweJGE) | 1369655005698592838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369747404168892530/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">CR7 | CR7 Tag /auratag | [CjCF2sj2SC](https://discord.gg/CjCF2sj2SC) | 1369747404168892530 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369579674534936596/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">CRAB | \~! CRAB&#x27;S NEST !\~ | [EjM2ZubG](https://discord.gg/EjM2ZubG) | 1369579674534936596 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369628434925490249/a1a8d7066521a13ede4b94de530e98b5.png" width="24">CRIA | OS CRIAS - TAG | [Eb7UT3TPdU](https://discord.gg/Eb7UT3TPdU) | 1369628434925490249 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369573235292766268/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">CROW | CROW Tag | [R49mhhanXj](https://discord.gg/R49mhhanXj) | 1369573235292766268 |
 | <img src="https://cdn.discordapp.com/clan-badges/1214554801530994708/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">CS | /cs | [cs](https://discord.gg/cs) | 1214554801530994708 |
@@ -3346,6 +3347,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369783629709836388/d8028e3189542f9cd218c28373bc178a.png" width="24">ღour | ღour | [YUwRgkkdWW](https://discord.gg/YUwRgkkdWW) | 1369783629709836388 |
 | <img src="https://cdn.discordapp.com/clan-badges/1167910823637819504/232d1d2a366ec512dde707821f672cce.png" width="24">ቻ ˚. | N O P | [3CXddecUFA](https://discord.gg/3CXddecUFA) | 1167910823637819504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369771447748268135/8967b7e58ba78f6652edc7bc4207b224.png" width="24">ᏉᎧᏐᎠ | /𝔞𝔳𝔬𝔦𝔡 tags | [wvMMd6n4Yb](https://discord.gg/wvMMd6n4Yb) | 1369771447748268135 |
+| <img src="https://cdn.discordapp.com/clan-badges/1000694207037583440/79023381e8c8a53d4f246ab4dd40199b.png" width="24">ᏢᎬᎠᎾ | wrld | [mwii-dmz-fr-1000694207037583440](https://discord.gg/mwii-dmz-fr-1000694207037583440) | 1000694207037583440 |
 | <img src="https://cdn.discordapp.com/clan-badges/841370083724623932/626633e43593b0cef10db00a64c4b8df.png" width="24">ᏬᏇᏬ | ᏬᏇᏬ | [Nrzv6tsyTu](https://discord.gg/Nrzv6tsyTu) | 841370083724623932 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369714476705910915/2c7aa014ee3599b6b7089ce933971852.png" width="24">ᐢ..ᐢ | ᐢ..ᐢ tag　　[　.gg/furina　] | [dN6HRJbWe6](https://discord.gg/dN6HRJbWe6) | 1369714476705910915 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369106099608748102/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">ᓚᘏᗢ | ᓚᘏᗢ | [QAwrvACYr3](https://discord.gg/QAwrvACYr3) | 1369106099608748102 |

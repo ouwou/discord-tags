@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369325769201025214/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">杏こは | 杏こは 🎧🐹 | [JRSvHzze5f](https://discord.gg/JRSvHzze5f) | 2025-05-11T04:46:57+00:00 | 1369325769201025214 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369325203317981194/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">类司 | 类司  🎈🌟 | [tTRtVb3KA5](https://discord.gg/tTRtVb3KA5) | 2025-05-11T04:46:57+00:00 | 1369325203317981194 |
 | <img src="https://cdn.discordapp.com/clan-badges/947827085181874216/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">T1 | T1 태그서버 | [vpStxD4yVd](https://discord.gg/vpStxD4yVd) | 2025-05-11T04:41:54+00:00 | 947827085181874216 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369722266014978149/c238af55d440bd2895ec33a2ca6f80e5.png" width="24">ˆ꒳ˆ | /matchingpfps  ﹕[ˆ꒳ˆ] | [TQFpZM37JC](https://discord.gg/TQFpZM37JC) | 2025-05-11T04:36:50+00:00 | 1369722266014978149 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749256990363799/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">fawn | fawn #guild | [Sa6sJRBt4f](https://discord.gg/Sa6sJRBt4f) | 2025-05-11T04:36:50+00:00 | 1369749256990363799 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/968212878316404768/ee474cc37458e0093df8c6fb1fc3abd3.png" width="24">RBX | ROBLOX СНГ | [uoroblox](https://discord.gg/uoroblox) | 2025-05-11T01:04:13+00:00 | 968212878316404768 |
 | <img src="https://cdn.discordapp.com/clan-badges/657307061343879169/21129b437afdc5d4c56b399d9d86e25d.png" width="24">SHCA | Stone-Haven County Asylum | [shca](https://discord.gg/shca) | 2025-05-11T01:04:13+00:00 | 657307061343879169 |
 | <img src="https://cdn.discordapp.com/clan-badges/631970473529573386/60822eb8c504c45cee27680dbccf599b.png" width="24">GAR | Galactic Army Roleplay | [GAR](https://discord.gg/GAR) | 2025-05-11T00:59:10+00:00 | 631970473529573386 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369764901144231976/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">LOVE | LOVE TAG | [293uE8sKBR](https://discord.gg/293uE8sKBR) | 2025-05-11T00:59:10+00:00 | 1369764901144231976 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369940504753602570/87001d764cee7f1281aa79b948f3bb3b.png" width="24">ᕼႸᖇ㎃ | Hyrma321 TAG | [ANKc87KfJJ](https://discord.gg/ANKc87KfJJ) | 2025-05-11T00:59:10+00:00 | 1369940504753602570 |
 
 </details>
 
@@ -3620,6 +3620,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369529644893868104/1f2327f3fe1530342cfc88fc9b3c8827.png" width="24">星空 | 星空 Starry Sky | [cAk5CpGVth](https://discord.gg/cAk5CpGVth) | 1369529644893868104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369832827515830332/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">月光 | 月光 | [cwmuaFJZPe](https://discord.gg/cwmuaFJZPe) | 1369832827515830332 |
 | <img src="https://cdn.discordapp.com/clan-badges/953149756207661056/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">有兽焉 | Fabulous Beasts (有兽焉) | [youshouyan](https://discord.gg/youshouyan) | 953149756207661056 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369325769201025214/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">杏こは | 杏こは 🎧🐹 | [JRSvHzze5f](https://discord.gg/JRSvHzze5f) | 1369325769201025214 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369307026391302184/772743c05cbbbdd14e6db7de20019004.png" width="24">東方 | [東方] Touhou \| dsc.gg/guild... | [H3NYHsDqZS](https://discord.gg/H3NYHsDqZS) | 1369307026391302184 |
 | <img src="https://cdn.discordapp.com/clan-badges/1349316031222517810/b6f6582eb0301ce069e00b2a99323975.png" width="24">東步冰 | /de3thnote   東步冰   TAG | [VFBeyXWwMn](https://discord.gg/VFBeyXWwMn) | 1349316031222517810 |
 | <img src="https://cdn.discordapp.com/clan-badges/1368780290482503710/231ca267ef79080300a4fea393a1532b.png" width="24">校際男娘 | 校際交流群很多男娘 .gg/schoolworldtw | [NvbdvYuSdp](https://discord.gg/NvbdvYuSdp) | 1368780290482503710 |
@@ -3652,6 +3653,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1059956593376116756/0625caabbdb25cb8406ebdd64b90a445.png" width="24">稲葉曇 | [稲葉曇] Cafe Osage | [DCw3a6F52A](https://discord.gg/DCw3a6F52A) | 1059956593376116756 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369942403464564797/5002af01f7d38f33878b293a4efdf41f.png" width="24">穂波 | HONAMI !!🥁[穂波] | [f9yXvhJdq4](https://discord.gg/f9yXvhJdq4) | 1369942403464564797 |
 | <img src="https://cdn.discordapp.com/clan-badges/1255003376660512771/26ab700703d5c0d4956f3fbb047fea41.png" width="24">立石凜 | 凜醬 | [qxfajw6XsN](https://discord.gg/qxfajw6XsN) | 1255003376660512771 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369325203317981194/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">类司 | 类司  🎈🌟 | [tTRtVb3KA5](https://discord.gg/tTRtVb3KA5) | 1369325203317981194 |
 | <img src="https://cdn.discordapp.com/clan-badges/864467458593128468/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">累死了 | deathbed♡ | [BjZTuurCB9](https://discord.gg/BjZTuurCB9) | 864467458593128468 |
 | <img src="https://cdn.discordapp.com/clan-badges/830317655545217024/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">紳士 | 大型紳士遊覽車二世 | [bhb2](https://discord.gg/bhb2) | 830317655545217024 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370072563174215760/a2888d6e649dc650e4c97b1f55ce2658.png" width="24">羊宮妃那 | 小羊的可愛動物園｜天下第二邦 | [tRkpB7R5F7](https://discord.gg/tRkpB7R5F7) | 1370072563174215760 |

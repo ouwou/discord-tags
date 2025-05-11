@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369468366816940052/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DIOR | .gg/yea #DIOR | [TNUgr6yBA6](https://discord.gg/TNUgr6yBA6) | 2025-05-11T08:39:48+00:00 | 1369468366816940052 |
+| <img src="https://cdn.discordapp.com/clan-badges/525394496863862814/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">SITH | Star Wars Türkiye - Sithpedi | [starwarsturkiye](https://discord.gg/starwarsturkiye) | 2025-05-11T08:39:48+00:00 | 525394496863862814 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369748890118787172/292467360f8276e9503d1211866b0675.png" width="24">trꜳ2 | traa2 tag | [36UARzHqjY](https://discord.gg/36UARzHqjY) | 2025-05-11T08:39:48+00:00 | 1369748890118787172 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750692373201007/12503539cdb78744d1dda8f7dc37ccce.png" width="24">FE!N | ឵឵.gg/krz # FE!N | [t556fh8xA5](https://discord.gg/t556fh8xA5) | 2025-05-11T08:34:44+00:00 | 1369750692373201007 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369679744831979622/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">krz | # Krz | [krz](https://discord.gg/krz) | 2025-05-11T08:34:44+00:00 | 1369679744831979622 |
 | <img src="https://cdn.discordapp.com/clan-badges/1242404075769823282/a3245daf2b3c3ea94b79751e304134e9.png" width="24">POD | กองบัญชาการข่าวปด | [khaopod](https://discord.gg/khaopod) | 2025-05-11T08:34:44+00:00 | 1242404075769823282 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1286732979502190704/856cecbf8055036b98cf05fd54cd8872.png" width="24">xtc | extesy #xtc | [AhZKHnpqNu](https://discord.gg/AhZKHnpqNu) | 2025-05-11T05:12:16+00:00 | 1286732979502190704 |
 | <img src="https://cdn.discordapp.com/clan-badges/1261733640837140500/58271fb362c4464a4ebead69a2ec0f72.png" width="24">BLOX | Flegbyplayrbxstudio | [AApGUtAa3Z](https://discord.gg/AApGUtAa3Z) | 2025-05-11T05:07:13+00:00 | 1261733640837140500 |
 | <img src="https://cdn.discordapp.com/clan-badges/1171839683291004998/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">COAS | COASTER | [coaster](https://discord.gg/coaster) | 2025-05-11T05:07:13+00:00 | 1171839683291004998 |
-| <img src="https://cdn.discordapp.com/clan-badges/1094722709373599764/8d61abb8b5da075befaff858861dba54.png" width="24">jeⅡy | Bubble ⋆˚࿔ | [JUAreH4M7q](https://discord.gg/JUAreH4M7q) | 2025-05-11T05:07:13+00:00 | 1094722709373599764 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370019832740843664/520c1f5f5ed198e4417a715d78e21f6d.png" width="24">Lust | Lust Guild | [y4M7P4BbjC](https://discord.gg/y4M7P4BbjC) | 2025-05-11T05:07:13+00:00 | 1370019832740843664 |
-| <img src="https://cdn.discordapp.com/clan-badges/1312257609532702760/781a8827dbf14b264871273b6ee6e408.png" width="24">NØVA | NØVA \| Azu&#x27;s novaspace | [mvfENB4B76](https://discord.gg/mvfENB4B76) | 2025-05-11T05:07:13+00:00 | 1312257609532702760 |
 
 </details>
 
@@ -837,6 +837,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369398447429521452/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">DILF | ི𓏼　╱    kyoukaa    !!   𓂂　 ... | [G7Zsy4H8VV](https://discord.gg/G7Zsy4H8VV) | 1369398447429521452 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719443030020238/828e642826b37de5d66f197dcbfecca5.png" width="24">DINO | #Dino&#x27;s Guild [Guild H... | [NU5hzaPTBA](https://discord.gg/NU5hzaPTBA) | 1369719443030020238 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778356945686628/460df751ecb5f3ae8d9bb8af617fc576.png" width="24">DINO | .DINO TAG  .gg/uMdYryNuAD | [Gn6W79vtpU](https://discord.gg/Gn6W79vtpU) | 1369778356945686628 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369468366816940052/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DIOR | .gg/yea #DIOR | [TNUgr6yBA6](https://discord.gg/TNUgr6yBA6) | 1369468366816940052 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369218540191875092/c93a86d76dd2ca65a362c2e2f6a18650.png" width="24">DIOR | DIOR | [Dior](https://discord.gg/Dior) | 1369218540191875092 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369694712323113045/2c7aa014ee3599b6b7089ce933971852.png" width="24">DIOR | DIOR \| /diorr | [JdZ344H6pc](https://discord.gg/JdZ344H6pc) | 1369694712323113045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1101511588948746313/84412606536488d76915487613779361.png" width="24">DK | 𝐃𝐊 𝐒𝐭𝐨𝐫𝐞 | [D1](https://discord.gg/D1) | 1101511588948746313 |
@@ -2070,6 +2071,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369734211510075526/f5c65dd1828489c46adc925e85296164.png" width="24">SIN | SINNERS #GUILD | [ysPPVZuEPS](https://discord.gg/ysPPVZuEPS) | 1369734211510075526 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369329893468409866/dfada063e85be8622c80d5a172fe3750.png" width="24">SIT | www.startit.bot – #SIT tag | [kqJUqK3qCc](https://discord.gg/kqJUqK3qCc) | 1369329893468409866 |
 | <img src="https://cdn.discordapp.com/clan-badges/1101626035214237757/e12fa24414e405e2bc22b0a07175483f.png" width="24">SITH | Sith Temple | [daPuhA4VAp](https://discord.gg/daPuhA4VAp) | 1101626035214237757 |
+| <img src="https://cdn.discordapp.com/clan-badges/525394496863862814/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">SITH | Star Wars Türkiye - Sithpedi | [starwarsturkiye](https://discord.gg/starwarsturkiye) | 525394496863862814 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370044147867848795/bf46722e416c7607a3362934bbc42b2d.png" width="24">SIUR | ✅ Prawo i Siur \| #SIUR TAG 😈 | [siur](https://discord.gg/siur) | 1370044147867848795 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369689509645783050/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">SKID | #SKID \| dsc.gg/skidtag | [9vuc9cxkJu](https://discord.gg/9vuc9cxkJu) | 1369689509645783050 |
 | <img src="https://cdn.discordapp.com/clan-badges/1298592315694387220/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">SKID | Uncover it | [uncoverit](https://discord.gg/uncoverit) | 1298592315694387220 |
@@ -3105,6 +3107,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369364302938636318/3f15fed5e82b0a9e662e3109376ccc16.png" width="24">toya | ୨୧ [ @ toya ] — TAG  ☕ | [fP86rthHGq](https://discord.gg/fP86rthHGq) | 1369364302938636318 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369643746534101113/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">tra㎱ | Cynically&#x27;s apartment | [4D98K7Qj](https://discord.gg/4D98K7Qj) | 1369643746534101113 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779864231739423/a38d8a9ffae51409870d8609399d1716.png" width="24">tren | .gg/tren #tren | [5mU5ZHfr3p](https://discord.gg/5mU5ZHfr3p) | 1369779864231739423 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369748890118787172/292467360f8276e9503d1211866b0675.png" width="24">trꜳ2 | traa2 tag | [36UARzHqjY](https://discord.gg/36UARzHqjY) | 1369748890118787172 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369843925711327233/2c7aa014ee3599b6b7089ce933971852.png" width="24">ttpd | ttpd tag | [SeUvS5SX3V](https://discord.gg/SeUvS5SX3V) | 1369843925711327233 |
 | <img src="https://cdn.discordapp.com/clan-badges/772174542235238410/411da0f939dd7cb8d5dd76ba410ea659.png" width="24">tttt | Blue House | [tttt](https://discord.gg/tttt) | 772174542235238410 |
 | <img src="https://cdn.discordapp.com/clan-badges/1323323031288025222/c8d016eed5c8752316ca38fdd54380c6.png" width="24">tuff | tuff guild | [TRfGX8qdBh](https://discord.gg/TRfGX8qdBh) | 1323323031288025222 |

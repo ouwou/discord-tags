@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/985698674493517825/4507c292a7c649b9e6e357ac11c5492c.png" width="24">SOAP | 🌸 The Soap Opera 🌸 | [BhJG9xPmhh](https://discord.gg/BhJG9xPmhh) | 2025-05-11T06:33:17+00:00 | 985698674493517825 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369775203818668102/f2875e9d7c2db9aab5400e490f7abc39.png" width="24">doll | doll guild (.gg/rosie) | [vyhMhkvdME](https://discord.gg/vyhMhkvdME) | 2025-05-11T06:23:11+00:00 | 1369775203818668102 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370095001006248027/1fac568c75fd0d595355cfec4b746fcc.png" width="24">hugs | /hugs | [FNCeSHyVGh](https://discord.gg/FNCeSHyVGh) | 2025-05-11T06:18:07+00:00 | 1370095001006248027 |
 | <img src="https://cdn.discordapp.com/clan-badges/1368444493195640903/ca886982d1b67cd11c33653b8c8b1401.png" width="24">IoIi | custard | [rehn3uqn3r](https://discord.gg/rehn3uqn3r) | 2025-05-11T06:18:07+00:00 | 1368444493195640903 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/759558437088264202/7f968d34689b032120d7a0f2a3d69b83.png" width="24">MVP | 📚 #IDCTeam › DBDTeam.js | [FTtVXfj](https://discord.gg/FTtVXfj) | 2025-05-11T03:46:08+00:00 | 759558437088264202 |
 | <img src="https://cdn.discordapp.com/clan-badges/421316344466898944/04cee49fbcaa69a71206ccb637470e72.png" width="24">TECH | Tech&#x27;s Laboratory | [Wh7F8yQ](https://discord.gg/Wh7F8yQ) | 2025-05-11T03:46:08+00:00 | 421316344466898944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369752419298447461/1897636167e0b09146fb12ce58e63294.png" width="24">឵឵ | This Guild For Sell ! by Js... | [CkbvnuNqPe](https://discord.gg/CkbvnuNqPe) | 2025-05-11T03:41:04+00:00 | 1369752419298447461 |
-| <img src="https://cdn.discordapp.com/clan-badges/1287353106379706459/80e49bbcd08c608a6f49671e2d0828da.png" width="24">CLUB | NİGHT CLUB 🍷#HAZIRLIK | [Sbq55pefGc](https://discord.gg/Sbq55pefGc) | 2025-05-11T03:35:59+00:00 | 1287353106379706459 |
 
 </details>
 
@@ -2082,6 +2082,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/213911820124028930/3ca95349b276267d7c6e01259a20a8e4.png" width="24">SNSD | Girls&#x27; Generation (SNSD) | [snsd](https://discord.gg/snsd) | 213911820124028930 |
 | <img src="https://cdn.discordapp.com/clan-badges/1365049443908325386/08778bfc800e50707543540f0c167607.png" width="24">SNSH | Sunshi 🎪 #GW | [nd2c5ctgT6](https://discord.gg/nd2c5ctgT6) | 1365049443908325386 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369783481638588669/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">SO | Sohbet Oyun Guild | [e3sVHGvGGv](https://discord.gg/e3sVHGvGGv) | 1369783481638588669 |
+| <img src="https://cdn.discordapp.com/clan-badges/985698674493517825/4507c292a7c649b9e6e357ac11c5492c.png" width="24">SOAP | 🌸 The Soap Opera 🌸 | [BhJG9xPmhh](https://discord.gg/BhJG9xPmhh) | 985698674493517825 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369334825022132335/7dbdc279561c48a6d73a4847a9c65913.png" width="24">SOFT | soft \| .gg/fg  for 30+ fre... | [nfEbNjkG9B](https://discord.gg/nfEbNjkG9B) | 1369334825022132335 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370009123189424209/2c7aa014ee3599b6b7089ce933971852.png" width="24">SOKA | SOKA | [AEHGhqNtdN](https://discord.gg/AEHGhqNtdN) | 1370009123189424209 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614205468016650/04cee49fbcaa69a71206ccb637470e72.png" width="24">SOL | [SOL] Server Tag | [UH9qh9pjS3](https://discord.gg/UH9qh9pjS3) | 1369614205468016650 |

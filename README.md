@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369734784674173059/4c6b987648217084cc4371c4f129b87b.png" width="24">HTE | hte #billieelish | [2JypjB8U5v](https://discord.gg/2JypjB8U5v) | 2025-05-11T02:20:04+00:00 | 1369734784674173059 |
 | <img src="https://cdn.discordapp.com/clan-badges/1086377993309528164/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">&gt;\_&lt; | &gt;\_&lt; | [vkY2nbD8NV](https://discord.gg/vkY2nbD8NV) | 2025-05-11T02:15:00+00:00 | 1086377993309528164 |
 | <img src="https://cdn.discordapp.com/clan-badges/1355732827584598118/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">fuyu | 𝜗𝜚 | [dvK2HhAM6R](https://discord.gg/dvK2HhAM6R) | 2025-05-11T02:15:00+00:00 | 1355732827584598118 |
 | <img src="https://cdn.discordapp.com/clan-badges/1265043584852168714/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">k!ll | /region | [region](https://discord.gg/region) | 2025-05-11T02:15:00+00:00 | 1265043584852168714 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370074282369089618/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ZØNE | ZØNE Guild Tag | [NsheMhF5vj](https://discord.gg/NsheMhF5vj) | 2025-05-10T23:53:23+00:00 | 1370074282369089618 |
 | <img src="https://cdn.discordapp.com/clan-badges/318812687490482176/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">M1LF | NOODLE NATION | [ewqTbW862Z](https://discord.gg/ewqTbW862Z) | 2025-05-10T23:48:19+00:00 | 318812687490482176 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358470866119430266/1c8f8efb11de25463d853de6f864ffc6.png" width="24">MOMY | 𝐃𝐮𝐬𝐤𝐰𝐨𝐨𝐝 𝐂𝐨𝐭𝐭𝐚𝐠𝐞 \| Social ... | [momy](https://discord.gg/momy) | 2025-05-10T23:48:19+00:00 | 1358470866119430266 |
-| <img src="https://cdn.discordapp.com/clan-badges/714174111752126605/64479ec796466b89e69ca4403087205f.png" width="24">VIP | @vip 💬 OFFICIAL | [P7t2x9vDfh](https://discord.gg/P7t2x9vDfh) | 2025-05-10T23:48:19+00:00 | 714174111752126605 |
 
 </details>
 
@@ -1219,6 +1219,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1363861302996369478/d116faf2c7cc466a2e24b9ad2565a83b.png" width="24">HRZN | ✦━ 𝙃𝙤𝙧𝙞𝙯𝙤𝙣 ━ツ [TAG: HRZN] | [PNCyNqvxCB](https://discord.gg/PNCyNqvxCB) | 1363861302996369478 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369633491666468936/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">HSR | Honkai Star Rail Tag | [PdgdQegr56](https://discord.gg/PdgdQegr56) | 1369633491666468936 |
 | <img src="https://cdn.discordapp.com/clan-badges/896184032088457276/63bf45d90089888f3c3b5863ba3e31d6.png" width="24">HSR | Honkai: Star Rail Fandom Wiki | [RYcRPPFb](https://discord.gg/RYcRPPFb) | 896184032088457276 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369734784674173059/4c6b987648217084cc4371c4f129b87b.png" width="24">HTE | hte #billieelish | [2JypjB8U5v](https://discord.gg/2JypjB8U5v) | 1369734784674173059 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369739122905972836/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">HTLR | 😈CALMA PROSTITUTO🥵 | [JXHexK2Baw](https://discord.gg/JXHexK2Baw) | 1369739122905972836 |
 | <img src="https://cdn.discordapp.com/clan-badges/1286367955378114601/a855f4c709e8a62077437199f1069cc4.png" width="24">HTML | U.B.Y.I.S {HTML TAG} | [Z86xc8JtfC](https://discord.gg/Z86xc8JtfC) | 1286367955378114601 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369444304547877196/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">HU | Hustlers Tag | [SEnHJFJ7B4](https://discord.gg/SEnHJFJ7B4) | 1369444304547877196 |

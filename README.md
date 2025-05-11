@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1340069277629419522/8338e0267afb59719bf89cd54902d69a.png" width="24">babi | ♡ dolly guilds ♡ babi tag | [dolliest](https://discord.gg/dolliest) | 2025-05-11T07:49:15+00:00 | 1340069277629419522 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369592268683743273/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">JINX | JINX | [faq9zzBD2Y](https://discord.gg/faq9zzBD2Y) | 2025-05-11T07:49:15+00:00 | 1369592268683743273 |
 | <img src="https://cdn.discordapp.com/clan-badges/1261539546152177687/446844f860170f554b27fcdb65481e4c.png" width="24">&lt;3 | .. | [c6UAmPWa8f](https://discord.gg/c6UAmPWa8f) | 2025-05-11T07:44:11+00:00 | 1261539546152177687 |
 | <img src="https://cdn.discordapp.com/clan-badges/1328494407376441344/dea97e909a0211e2479d75cd11c2ec41.png" width="24">ｃｈｕｊ | ｃｈｕｊｏｗｙ ｔａｇ 💀 | [BJMeYp26kk](https://discord.gg/BJMeYp26kk) | 2025-05-11T07:44:11+00:00 | 1328494407376441344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370097038557184000/c642690a077ca760992a63d2621c9d5d.png" width="24">FF | ┃𝐆𝐚𝐦𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 𝐒𝐡𝐚𝐦𝐢𝐭┃ | [XNsRsZxpg4](https://discord.gg/XNsRsZxpg4) | 2025-05-11T07:44:11+00:00 | 1370097038557184000 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1317449570627620905/a1ada1ad7540085e7de7e5cb69aac8ee.png" width="24">NX | NEXON X | [fvpdejTwTE](https://discord.gg/fvpdejTwTE) | 2025-05-11T04:52:01+00:00 | 1317449570627620905 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615552733249537/adfe92f7d97b08f4fa16e96b3ef8acc0.png" width="24">전독시 | Omniscient Reader’s Viewpoi... | [ZBVWq5d4P5](https://discord.gg/ZBVWq5d4P5) | 2025-05-11T04:52:01+00:00 | 1369615552733249537 |
 | <img src="https://cdn.discordapp.com/clan-badges/1153546093414592582/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">萤门永存 | 流华易逝，烛莹常恒。星河为证，萤门永存！ | [e9bxjb9SCP](https://discord.gg/e9bxjb9SCP) | 2025-05-11T04:52:01+00:00 | 1153546093414592582 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369325769201025214/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">杏こは | 杏こは 🎧🐹 | [JRSvHzze5f](https://discord.gg/JRSvHzze5f) | 2025-05-11T04:46:57+00:00 | 1369325769201025214 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369325203317981194/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">类司 | 类司  🎈🌟 | [tTRtVb3KA5](https://discord.gg/tTRtVb3KA5) | 2025-05-11T04:46:57+00:00 | 1369325203317981194 |
 
 </details>
 
@@ -1342,6 +1342,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369741116848603206/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">JEW | # JEW \| .gg/slave | [A3UjPSWtAE](https://discord.gg/A3UjPSWtAE) | 1369741116848603206 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369720756577112085/fe1ee14c2a2a199e7475fffa2c8f4d95.png" width="24">JEWS | Jews United | [PgqpMbNwyq](https://discord.gg/PgqpMbNwyq) | 1369720756577112085 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369792933397532702/8d61abb8b5da075befaff858861dba54.png" width="24">JINX | 🔫JINX | [JuNDDbwquW](https://discord.gg/JuNDDbwquW) | 1369792933397532702 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369592268683743273/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">JINX | JINX | [faq9zzBD2Y](https://discord.gg/faq9zzBD2Y) | 1369592268683743273 |
 | <img src="https://cdn.discordapp.com/clan-badges/627245717878210603/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">JIT | Oblivia | [kiri](https://discord.gg/kiri) | 627245717878210603 |
 | <img src="https://cdn.discordapp.com/clan-badges/1269744436200603659/249ec50deb082d1756863906003f6a4c.png" width="24">JKMC | JKMC - Mini-jeux 1.21.4 | [UhBhjnSe](https://discord.gg/UhBhjnSe) | 1269744436200603659 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219270035814744155/84412606536488d76915487613779361.png" width="24">JLT | Jilet #Guild | [Emperor](https://discord.gg/Emperor) | 1219270035814744155 |
@@ -2545,6 +2546,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369726531143995395/bc2f7685eed9d27522595f510bb2da48.png" width="24">aỻah | &gt;FSOCIETY #ALLAH | [D2rvvqVQ3T](https://discord.gg/D2rvvqVQ3T) | 1369726531143995395 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369757607912280104/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">aⅡah | allah \| gg/yRaakbKVtJ | [yRaakbKVtJ](https://discord.gg/yRaakbKVtJ) | 1369757607912280104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369337715283464302/60cdbe27e46c6a4d9b317b150042e4a5.png" width="24">babe | .gg/violas | [yCaszCgy5x](https://discord.gg/yCaszCgy5x) | 1369337715283464302 |
+| <img src="https://cdn.discordapp.com/clan-badges/1340069277629419522/8338e0267afb59719bf89cd54902d69a.png" width="24">babi | ♡ dolly guilds ♡ babi tag | [dolliest](https://discord.gg/dolliest) | 1340069277629419522 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369371531817517258/eb3e89c2330b427a52977bc62877dd3b.png" width="24">baby | baby \| .gg/fg  for 30+ fre... | [nZSH6Dyqzj](https://discord.gg/nZSH6Dyqzj) | 1369371531817517258 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369762863618461776/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">baby | /deserved | [ZPbAGAWB4Q](https://discord.gg/ZPbAGAWB4Q) | 1369762863618461776 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740929811873813/2fc9b7e638b9e75e6203c6f71f290537.png" width="24">baby | Lily&#x27;s Guild | [c67Ybjc85K](https://discord.gg/c67Ybjc85K) | 1369740929811873813 |

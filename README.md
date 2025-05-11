@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1320868296375013376/73f4ce13018d2fb9ab7e8d880ed67cc2.png" width="24">AURA | Ogryzek Team ✨ | [ogryzek](https://discord.gg/ogryzek) | 2025-05-11T03:00:36+00:00 | 1320868296375013376 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369544399289319454/ee031d44c439c2dbeb667a760d04fe9d.png" width="24">㎄p㎩™ | ㎄p㎩™ Tag | [zGPy6dgZc9](https://discord.gg/zGPy6dgZc9) | 2025-05-11T03:00:36+00:00 | 1369544399289319454 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761071174389812/b6f6582eb0301ce069e00b2a99323975.png" width="24">︻デ═一 | /exitings | [9y7SnVu2Cd](https://discord.gg/9y7SnVu2Cd) | 2025-05-11T02:55:32+00:00 | 1369761071174389812 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370083471661465681/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">kaz | KAZ | [VpUhXGsskU](https://discord.gg/VpUhXGsskU) | 2025-05-11T02:55:32+00:00 | 1370083471661465681 |
 | <img src="https://cdn.discordapp.com/clan-badges/569311756464422912/78b1ebb6b97565376cb5345a0631e362.png" width="24">MOON | ꕤ﹒Cidadela da Hayley - Serv... | [TwT5hh4zae](https://discord.gg/TwT5hh4zae) | 2025-05-11T02:55:32+00:00 | 569311756464422912 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1206688506337038407/d0b4a03d1ab77651bc3a80de29f4584a.png" width="24">BUMP | Akatsuki Tag [BUMP] | [AqmdthH52Y](https://discord.gg/AqmdthH52Y) | 2025-05-11T00:33:52+00:00 | 1206688506337038407 |
 | <img src="https://cdn.discordapp.com/clan-badges/1275534337625952428/4b70e09b6b8ddf55b5f9dc6816636760.png" width="24">TS | TowerStats.com | [QctQBDyNW4](https://discord.gg/QctQBDyNW4) | 2025-05-11T00:33:52+00:00 | 1275534337625952428 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363609691514732614/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">.aep | Cheese Tax Evaders | [mQA7th7KxH](https://discord.gg/mQA7th7KxH) | 2025-05-11T00:28:48+00:00 | 1363609691514732614 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369595763524505600/d5333d730c2a7642932d08a9d92a2c66.png" width="24">APPS | APPS Guild Tag | [YzXgDY2Vv6](https://discord.gg/YzXgDY2Vv6) | 2025-05-11T00:28:48+00:00 | 1369595763524505600 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370060011669159936/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">rаре | RAPPER \| .gg/easytags | [US2eTUegEv](https://discord.gg/US2eTUegEv) | 2025-05-11T00:28:48+00:00 | 1370060011669159936 |
 
 </details>
 
@@ -518,6 +518,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369697219070001243/fa3033cd0045a5cd34578fa4b9c69d8b.png" width="24">AURA | Anteiku あんていく | [MAaHjn4c3x](https://discord.gg/MAaHjn4c3x) | 1369697219070001243 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369706781990850621/bd82a508b43d7affd4d6585f98b7fcbf.png" width="24">AURA | Opium /Aura | [bfrncAHPHC](https://discord.gg/bfrncAHPHC) | 1369706781990850621 |
 | <img src="https://cdn.discordapp.com/clan-badges/680814543496413236/83a083caeb028f56086ec619735b231f.png" width="24">AURA | Zombs Fight-Fi Tournaments ... | [s8avGaeq6m](https://discord.gg/s8avGaeq6m) | 680814543496413236 |
+| <img src="https://cdn.discordapp.com/clan-badges/1320868296375013376/73f4ce13018d2fb9ab7e8d880ed67cc2.png" width="24">AURA | Ogryzek Team ✨ | [ogryzek](https://discord.gg/ogryzek) | 1320868296375013376 |
 | <img src="https://cdn.discordapp.com/clan-badges/1205512209032282134/d271024df6b0b86335d3108ef80ea10a.png" width="24">AUSI | Österreichischer Tag | [KSVyC7Kj2j](https://discord.gg/KSVyC7Kj2j) | 1205512209032282134 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662686014607421/4483a42ddfb6d68f80ae0299ab9f0bb1.png" width="24">AV3 | AV3 \| TAG | [SWpB5jJW79](https://discord.gg/SWpB5jJW79) | 1369662686014607421 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369467835776106496/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">AVCS | 𝗔𝗩𝗔𝗖𝗦 𝗧𝗔𝗚 | [avacstag](https://discord.gg/avacstag) | 1369467835776106496 |
@@ -3537,6 +3538,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369366003166871694/6c1b5f444a18310791a5b70a64f413d0.png" width="24">・ᴥ・ฅ | 𝕎𝕠𝕠𝕗 | [63wQkRv8J2](https://discord.gg/63wQkRv8J2) | 1369366003166871694 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740762786435173/dea97e909a0211e2479d75cd11c2ec41.png" width="24">ㄌㄞ清德 | Korea Fish | [VTEjeYaUsS](https://discord.gg/VTEjeYaUsS) | 1369740762786435173 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369902750048981082/79366e8660935912726217b413fcc19b.png" width="24">㍲ddy | SH!T | [Zr7Nsmp6sT](https://discord.gg/Zr7Nsmp6sT) | 1369902750048981082 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369544399289319454/ee031d44c439c2dbeb667a760d04fe9d.png" width="24">㎄p㎩™ | ㎄p㎩™ Tag | [zGPy6dgZc9](https://discord.gg/zGPy6dgZc9) | 1369544399289319454 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370047103602131065/dea97e909a0211e2479d75cd11c2ec41.png" width="24">㎗ddy | be diddy \| #diddy guild 🪄✨ | [YY6GuskwNb](https://discord.gg/YY6GuskwNb) | 1370047103602131065 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369123712045158501/4eb2c88aeb9c71f6183b29fa0f752434.png" width="24">㎙dom | tytsune tag server 2 [fmdom] | [ekqRn7mTeh](https://discord.gg/ekqRn7mTeh) | 1369123712045158501 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369400567083831356/d74288fdf68d67bfc7d9ef3b1e00a090.png" width="24">一歌 | ichika、［一歌］ | [fnV7BSY6eP](https://discord.gg/fnV7BSY6eP) | 1369400567083831356 |

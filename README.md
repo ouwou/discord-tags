@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1344229475512221756/7f968d34689b032120d7a0f2a3d69b83.png" width="24">2025 | Kachní Doupě | [DgG2p5QkSr](https://discord.gg/DgG2p5QkSr) | 2025-05-11T09:50:39+00:00 | 1344229475512221756 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369626727789232162/4733b7b7619bb9654276737bd0da9e24.png" width="24">evvl | #evvl | [VvSwQd2C5w](https://discord.gg/VvSwQd2C5w) | 2025-05-11T09:50:39+00:00 | 1369626727789232162 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370066416270708882/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">VIP | VIP | [ky7GBjKAgr](https://discord.gg/ky7GBjKAgr) | 2025-05-11T09:50:39+00:00 | 1370066416270708882 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779515185692674/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">&lt;/3 | hu &lt;/3 | [afNxx4AS4E](https://discord.gg/afNxx4AS4E) | 2025-05-11T09:40:33+00:00 | 1369779515185692674 |
 | <img src="https://cdn.discordapp.com/clan-badges/1339991142682591242/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">G15 | The GHosTIS | [pqe6T4Hnjq](https://discord.gg/pqe6T4Hnjq) | 2025-05-11T09:40:33+00:00 | 1339991142682591242 |
 | <img src="https://cdn.discordapp.com/clan-badges/488789527628873738/736e7d8bb18ed68b6e0223765e79015e.png" width="24">VTC | Prime Logistics | [prime](https://discord.gg/prime) | 2025-05-11T09:35:29+00:00 | 488789527628873738 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369539707431555114/0bad0709e8a24c32a109889bde016785.png" width="24">白石杏 | ᶻz  ﹕   白石 杏    ₊         /... | [aQN2Zc6h2T](https://discord.gg/aQN2Zc6h2T) | 2025-05-11T06:18:07+00:00 | 1369539707431555114 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369269494903607316/1b24e00a2efe209feea0b9a4b240d19d.png" width="24">DRX | DRX 태그 서버ㅣDRX Tags | [dHksNsEMaq](https://discord.gg/dHksNsEMaq) | 2025-05-11T06:13:03+00:00 | 1369269494903607316 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369681523703287939/6f55acfbc5f76c100125974f409171aa.png" width="24">PIKA | SUS LAB TAGS | [FjGkY9UVKB](https://discord.gg/FjGkY9UVKB) | 2025-05-11T06:13:03+00:00 | 1369681523703287939 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369665018014208060/8d61abb8b5da075befaff858861dba54.png" width="24">ෆ\*₊• | (づ ●─● )づ | [6GEhQfybsv](https://discord.gg/6GEhQfybsv) | 2025-05-11T06:13:03+00:00 | 1369665018014208060 |
-| <img src="https://cdn.discordapp.com/clan-badges/1200747250972889158/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;..&lt; | Free Growscan Service | [REtvBJ8JeN](https://discord.gg/REtvBJ8JeN) | 2025-05-11T06:07:59+00:00 | 1200747250972889158 |
-| <img src="https://cdn.discordapp.com/clan-badges/1214931244819943474/d671ef2d4aa50010c6d49b2865f80068.png" width="24">GT | Growtopian&#x27;s Palace! | [DGD9u9SzAs](https://discord.gg/DGD9u9SzAs) | 2025-05-11T06:07:59+00:00 | 1214931244819943474 |
 
 </details>
 
@@ -230,6 +230,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/937014688087154800/d23803b07b8e176d61bffaed2a8ec42e.png" width="24">1UP | Extra Life | [JSktMdJwvp](https://discord.gg/JSktMdJwvp) | 937014688087154800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369709587040571432/b6f6582eb0301ce069e00b2a99323975.png" width="24">1tap | #1tap /xanaxontop | [F63BEeuBdm](https://discord.gg/F63BEeuBdm) | 1369709587040571432 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369554854854398055/86735389348f3eacfa519eb553df38fd.png" width="24">1vs1 | Rico o Muerto Music LLC | [9nkWCNtqHG](https://discord.gg/9nkWCNtqHG) | 1369554854854398055 |
+| <img src="https://cdn.discordapp.com/clan-badges/1344229475512221756/7f968d34689b032120d7a0f2a3d69b83.png" width="24">2025 | Kachní Doupě | [DgG2p5QkSr](https://discord.gg/DgG2p5QkSr) | 1344229475512221756 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785292139008071/a1a8d7066521a13ede4b94de530e98b5.png" width="24">21 | 21 | [21official](https://discord.gg/21official) | 1369785292139008071 |
 | <img src="https://cdn.discordapp.com/clan-badges/1256388189078163577/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">210z | Mèo Đen Clan | [YeRFWQREUj](https://discord.gg/YeRFWQREUj) | 1256388189078163577 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369449984084410438/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">212 | #212 - .gg/uhq | [rAeHDesC6Y](https://discord.gg/rAeHDesC6Y) | 1369449984084410438 |
@@ -2369,6 +2370,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/807356380725116961/4b42c914a5c2e3bf3e702a5dc88ae686.png" width="24">VIP | FunGaming \| Social • Fun •... | [BtSUGWR8pX](https://discord.gg/BtSUGWR8pX) | 807356380725116961 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369525843860389888/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">VIP | VIP /kawai | [HHVEb2EUre](https://discord.gg/HHVEb2EUre) | 1369525843860389888 |
 | <img src="https://cdn.discordapp.com/clan-badges/714174111752126605/64479ec796466b89e69ca4403087205f.png" width="24">VIP | @vip 💬 OFFICIAL | [P7t2x9vDfh](https://discord.gg/P7t2x9vDfh) | 714174111752126605 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370066416270708882/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">VIP | VIP | [ky7GBjKAgr](https://discord.gg/ky7GBjKAgr) | 1370066416270708882 |
 | <img src="https://cdn.discordapp.com/clan-badges/1341093274160726056/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">VIP+ | Guild Serveur | [guildserveur](https://discord.gg/guildserveur) | 1341093274160726056 |
 | <img src="https://cdn.discordapp.com/clan-badges/1241458801442422845/f9665492b0f6490ee9c76cb3a4e38907.png" width="24">VIP+ | VIP+ [.gg/vipplus] | [vipplus](https://discord.gg/vipplus) | 1241458801442422845 |
 | <img src="https://cdn.discordapp.com/clan-badges/1029190443491135549/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">VIRT | [VIRT] BOOST = TAG | [SSv8GPJw5f](https://discord.gg/SSv8GPJw5f) | 1029190443491135549 |
@@ -2744,6 +2746,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369855815502139553/cd11435f737f9140e61dc9f97d9697ce.png" width="24">esex | esex \| Tag | [hsNbJ7a49N](https://discord.gg/hsNbJ7a49N) | 1369855815502139553 |
 | <img src="https://cdn.discordapp.com/clan-badges/566658060781748260/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">esex | .gg/break (esex) | [break](https://discord.gg/break) | 566658060781748260 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369759334275350699/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">evil | Tag &gt; evil | [tke6meZtD4](https://discord.gg/tke6meZtD4) | 1369759334275350699 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369626727789232162/4733b7b7619bb9654276737bd0da9e24.png" width="24">evvl | #evvl | [VvSwQd2C5w](https://discord.gg/VvSwQd2C5w) | 1369626727789232162 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369846509486608415/b6f6582eb0301ce069e00b2a99323975.png" width="24">ex | jail and zoxi fun server! | [v3a7dJyBpe](https://discord.gg/v3a7dJyBpe) | 1369846509486608415 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369633245842636956/40a7aa796426347d6b76d20dfed2c273.png" width="24">ex | ex - /rupture | [GYvuvNRzvT](https://discord.gg/GYvuvNRzvT) | 1369633245842636956 |
 | <img src="https://cdn.discordapp.com/clan-badges/1181484126352724029/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">exe | /cash | [cash](https://discord.gg/cash) | 1181484126352724029 |

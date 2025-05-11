@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/105041697003540480/b190a9d50dae864ce6404d00a7f9a3a1.png" width="24">⏾·₊° | reap | [RH8BkMkTvC](https://discord.gg/RH8BkMkTvC) | 2025-05-11T07:23:55+00:00 | 105041697003540480 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370047807016402996/6d53371b8c9ff7daf2eab332a7a778f2.png" width="24">゛이반틸 | ivantill tag﹒FANDOM TAGS !!!! | [y9c6mgmAm6](https://discord.gg/y9c6mgmAm6) | 2025-05-11T07:18:51+00:00 | 1370047807016402996 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369131836202025022/cc94b337daab4f9a39e9ba51c0aac86a.png" width="24">Yume | Dreamers | [R3VrEUJY9p](https://discord.gg/R3VrEUJY9p) | 2025-05-11T07:18:51+00:00 | 1369131836202025022 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369141884173160530/d3a8fb09ec7d646a8030c87d56a9d916.png" width="24">Cure | Cure tag &amp; Fandom tags | [Rfeb6Arhhw](https://discord.gg/Rfeb6Arhhw) | 2025-05-11T07:13:47+00:00 | 1369141884173160530 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369768172873449492/3f1609385febac353d511ff67416c6fe.png" width="24">ＧＯＤ | GOD TAG | [Ns3ua3DQfr](https://discord.gg/Ns3ua3DQfr) | 2025-05-11T04:21:39+00:00 | 1369768172873449492 |
 | <img src="https://cdn.discordapp.com/clan-badges/178510947873325057/c8d016eed5c8752316ca38fdd54380c6.png" width="24">KKKK | Kool Kids Klub | [Kool](https://discord.gg/Kool) | 2025-05-11T04:16:36+00:00 | 178510947873325057 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431011091550409/2c7aa014ee3599b6b7089ce933971852.png" width="24">ꐕꆜ | .exe | [WmQBh6aWzx](https://discord.gg/WmQBh6aWzx) | 2025-05-11T04:16:36+00:00 | 1369431011091550409 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369591561662369822/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">سلام | Salam tag  \| 💀 سلام | [DJcTtHkTbP](https://discord.gg/DJcTtHkTbP) | 2025-05-11T04:11:32+00:00 | 1369591561662369822 |
 
 </details>
 
@@ -3550,6 +3550,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369459576482566264/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ⅮΕⅥⅬ | hell | [tyvxWurSYn](https://discord.gg/tyvxWurSYn) | 1369459576482566264 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369662761390309517/5711ee18223df9904f7ecd04a5acbaa2.png" width="24">ⅽυck | cuck | [kyfUZ2xJFj](https://discord.gg/kyfUZ2xJFj) | 1369662761390309517 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369545772210716733/70b4a0b96a668af3255865fe3ad2e151.png" width="24">⎚-⎚ | Sunglasses Tag \| ⎚-⎚ | [PdyBWRmEdG](https://discord.gg/PdyBWRmEdG) | 1369545772210716733 |
+| <img src="https://cdn.discordapp.com/clan-badges/105041697003540480/b190a9d50dae864ce6404d00a7f9a3a1.png" width="24">⏾·₊° | reap | [RH8BkMkTvC](https://discord.gg/RH8BkMkTvC) | 105041697003540480 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369356141133566113/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ⓒⓤⓣⓔ | YichiD&#x27;s Chillville | [yichidchillville](https://discord.gg/yichidchillville) | 1369356141133566113 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750245373775933/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ⲇⳑⲇⲏ | ⲇⳑⲇⲏ -Guild | [3KHw5PSSnf](https://discord.gg/3KHw5PSSnf) | 1369750245373775933 |
 | <img src="https://cdn.discordapp.com/clan-badges/925274403984506880/66fae987583ad4b5841bde28ba21827a.png" width="24">ⲦⲞⅪⅭ | Guild Tags List | [staffs](https://discord.gg/staffs) | 925274403984506880 |

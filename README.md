@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1276227651270348800/b6f6582eb0301ce069e00b2a99323975.png" width="24">META | OH Relaxation | [hPdG6zAn](https://discord.gg/hPdG6zAn) | 2025-05-11T06:48:28+00:00 | 1276227651270348800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369515089803345992/dec8b88bdaf2b7672675c4e18b366527.png" width="24">mizi | ̣ / cupcakie　 ‘　 ݁ : guild tag | [GkgCYurNHf](https://discord.gg/GkgCYurNHf) | 2025-05-11T06:43:24+00:00 | 1369515089803345992 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369746927524249710/7b571a46a1266491cfabe2e362aad176.png" width="24">NASA | NASA \| .gg/MVPHub | [5hYCq6nXz5](https://discord.gg/5hYCq6nXz5) | 2025-05-11T06:43:24+00:00 | 1369746927524249710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369457470422122579/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ೀ  틸 | ( ºº◞◟)　　　　. | [eJgYfhDGGy](https://discord.gg/eJgYfhDGGy) | 2025-05-11T06:38:21+00:00 | 1369457470422122579 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1334904463403778190/dc61eaed9e8b012148661df1ada874e6.png" width="24">171 | © 171 | [AQJPsTeuGR](https://discord.gg/AQJPsTeuGR) | 2025-05-11T04:01:22+00:00 | 1334904463403778190 |
 | <img src="https://cdn.discordapp.com/clan-badges/1251702969683017739/d271024df6b0b86335d3108ef80ea10a.png" width="24">irr | irrelevante #2,4k | [irrelevante](https://discord.gg/irrelevante) | 2025-05-11T04:01:22+00:00 | 1251702969683017739 |
 | <img src="https://cdn.discordapp.com/clan-badges/1185697833941213306/9f570e23996da869b496ca59c51e1310.png" width="24">RNGR | 🟢 GreenRngr&#x27;s Command ... | [PgmwDHuwGU](https://discord.gg/PgmwDHuwGU) | 2025-05-11T03:56:15+00:00 | 1185697833941213306 |
-| <img src="https://cdn.discordapp.com/clan-badges/610683818726129664/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ภɪєг | NieR: Soul Nexus | [nier](https://discord.gg/nier) | 2025-05-11T03:56:15+00:00 | 610683818726129664 |
 
 </details>
 
@@ -1565,6 +1565,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/483917612703547393/b0b515babfba39e0efb5d17c47d02d37.png" width="24">MERL | Merl | [merl](https://discord.gg/merl) | 483917612703547393 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369445819941519461/eb7f1b5a28facf444a9c20b7497d4535.png" width="24">META | META | [yUUsTMzNnJ](https://discord.gg/yUUsTMzNnJ) | 1369445819941519461 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369621246655856750/8d61abb8b5da075befaff858861dba54.png" width="24">META | Meta Guild | [bZ8H2ra9Yj](https://discord.gg/bZ8H2ra9Yj) | 1369621246655856750 |
+| <img src="https://cdn.discordapp.com/clan-badges/1276227651270348800/b6f6582eb0301ce069e00b2a99323975.png" width="24">META | OH Relaxation | [hPdG6zAn](https://discord.gg/hPdG6zAn) | 1276227651270348800 |
 | <img src="https://cdn.discordapp.com/clan-badges/865208936558886953/8d61abb8b5da075befaff858861dba54.png" width="24">MEW | ◟🎀𖨂　mew　⏖　icons﹒decor | [Mew](https://discord.gg/Mew) | 865208936558886953 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369733112745169037/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">MGE | Mge: Fan Club | [7Uz8DezPAF](https://discord.gg/7Uz8DezPAF) | 1369733112745169037 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369534404405231637/cd112d44c4a729ef957c9eee0af0eaef.png" width="24">MGL | MGL \| discord.gg/mgl | [j5XWKqGehs](https://discord.gg/j5XWKqGehs) | 1369534404405231637 |

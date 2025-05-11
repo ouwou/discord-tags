@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369835126921498654/70419260a624fbdd14dd273754fcd3aa.png" width="24">ॱ˖ ୧ | /daintiest | [F2pxaywWMM](https://discord.gg/F2pxaywWMM) | 2025-05-11T08:49:55+00:00 | 1369835126921498654 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369379004431339672/a0493a5c90793981dcbb0fd21cdbdb4b.png" width="24">187 | ﹒౨ৎ﹒ tag heaven | [sEp3xsmNjq](https://discord.gg/sEp3xsmNjq) | 2025-05-11T08:49:55+00:00 | 1369379004431339672 |
+| <img src="https://cdn.discordapp.com/clan-badges/1010550033038454904/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">ECLP | booas6&#x27;s Server | [eclptag](https://discord.gg/eclptag) | 2025-05-11T08:49:55+00:00 | 1010550033038454904 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369681351393022033/d14f3ee7ecd2b5159c7f1acea4da4c32.png" width="24">౨ৎ ˙ | 𝜗ৎ ‿︵      /𝑘issi𝑒s t𝒶g | [2rfBFbmc4E](https://discord.gg/2rfBFbmc4E) | 2025-05-11T08:44:51+00:00 | 1369681351393022033 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369468366816940052/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">DIOR | .gg/yea #DIOR | [TNUgr6yBA6](https://discord.gg/TNUgr6yBA6) | 2025-05-11T08:39:48+00:00 | 1369468366816940052 |
 | <img src="https://cdn.discordapp.com/clan-badges/525394496863862814/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">SITH | Star Wars Türkiye - Sithpedi | [starwarsturkiye](https://discord.gg/starwarsturkiye) | 2025-05-11T08:39:48+00:00 | 525394496863862814 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1266282252518555658/34bc7d99a7f33626885bc6d60ac63574.png" width="24">&gt;.&lt; | we are /soultied ml | [AwWyahUgud](https://discord.gg/AwWyahUgud) | 2025-05-11T05:22:25+00:00 | 1266282252518555658 |
 | <img src="https://cdn.discordapp.com/clan-badges/1291766436703764480/58b07bf54d4e9f6ffbf9ea9123e09cb6.png" width="24">RUSH | ADRENALINE | [adrenalinerblx](https://discord.gg/adrenalinerblx) | 2025-05-11T05:17:21+00:00 | 1291766436703764480 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369549662700306514/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">可愛男娘 | 小南梁大家庭 | [EpmFcp3mps](https://discord.gg/EpmFcp3mps) | 2025-05-11T05:17:21+00:00 | 1369549662700306514 |
-| <img src="https://cdn.discordapp.com/clan-badges/1054414599945998416/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">STAR | Intergalactic Science Kingdom | [fajrulfx](https://discord.gg/fajrulfx) | 2025-05-11T05:12:16+00:00 | 1054414599945998416 |
-| <img src="https://cdn.discordapp.com/clan-badges/1286732979502190704/856cecbf8055036b98cf05fd54cd8872.png" width="24">xtc | extesy #xtc | [AhZKHnpqNu](https://discord.gg/AhZKHnpqNu) | 2025-05-11T05:12:16+00:00 | 1286732979502190704 |
-| <img src="https://cdn.discordapp.com/clan-badges/1261733640837140500/58271fb362c4464a4ebead69a2ec0f72.png" width="24">BLOX | Flegbyplayrbxstudio | [AApGUtAa3Z](https://discord.gg/AApGUtAa3Z) | 2025-05-11T05:07:13+00:00 | 1261733640837140500 |
 
 </details>
 
@@ -219,6 +219,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369861611732340859/22f8c38a62b66123c4242d0cbdd46282.png" width="24">17 | 17 | [46HnFaVUCE](https://discord.gg/46HnFaVUCE) | 1369861611732340859 |
 | <img src="https://cdn.discordapp.com/clan-badges/1334904463403778190/dc61eaed9e8b012148661df1ada874e6.png" width="24">171 | © 171 | [AQJPsTeuGR](https://discord.gg/AQJPsTeuGR) | 1334904463403778190 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369704995041181716/78b1ebb6b97565376cb5345a0631e362.png" width="24">187 | Le Royaume | [DS36s7EJTC](https://discord.gg/DS36s7EJTC) | 1369704995041181716 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369379004431339672/a0493a5c90793981dcbb0fd21cdbdb4b.png" width="24">187 | ﹒౨ৎ﹒ tag heaven | [sEp3xsmNjq](https://discord.gg/sEp3xsmNjq) | 1369379004431339672 |
 | <img src="https://cdn.discordapp.com/clan-badges/1340312671651762250/1497838e612bae805c962a2b6a899385.png" width="24">1940 | KİREMİTHANE #𝟏𝟗𝟒𝟎 ♛ | [kiremithane](https://discord.gg/kiremithane) | 1340312671651762250 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369477797327671436/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">1945 | BUG #Guild | [6fNJmgYjuY](https://discord.gg/6fNJmgYjuY) | 1369477797327671436 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769404769763328/8d61abb8b5da075befaff858861dba54.png" width="24">1989 | .gg/speaknow | [f6jkC2WvhN](https://discord.gg/f6jkC2WvhN) | 1369769404769763328 |
@@ -893,6 +894,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/970411885293895801/26b934d9cf7dd3b4c1945de383dcc381.png" width="24">EA | Event Alerts | [DnABzYeXvY](https://discord.gg/DnABzYeXvY) | 970411885293895801 |
 | <img src="https://cdn.discordapp.com/clan-badges/1138677630011461643/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">EB | &quot;EB&quot; - Exército B... | [ebdovini](https://discord.gg/ebdovini) | 1138677630011461643 |
 | <img src="https://cdn.discordapp.com/clan-badges/1322683365534597162/1c8d422c5c8051d93fc0c549ea1f3675.png" width="24">ECHO | {18+} 🦋 End Of Wandering | [shorekeeper](https://discord.gg/shorekeeper) | 1322683365534597162 |
+| <img src="https://cdn.discordapp.com/clan-badges/1010550033038454904/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">ECLP | booas6&#x27;s Server | [eclptag](https://discord.gg/eclptag) | 1010550033038454904 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369711393477099581/60822eb8c504c45cee27680dbccf599b.png" width="24">ECOM | ECOM Guild \| Tags | [yr6nWcE8Qm](https://discord.gg/yr6nWcE8Qm) | 1369711393477099581 |
 | <img src="https://cdn.discordapp.com/clan-badges/1168462054240309329/fd0f6da33fbe58a4f8298442b8f7d2fc.png" width="24">ECOS | 🧿✧ＥＣＯＳ | [aD7JyfKFRj](https://discord.gg/aD7JyfKFRj) | 1168462054240309329 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785346103050311/d23803b07b8e176d61bffaed2a8ec42e.png" width="24">ECPU | ECPU POLSKA ŁOWCY PEDOFILI | [V48tYhHc9Z](https://discord.gg/V48tYhHc9Z) | 1369785346103050311 |
@@ -3392,6 +3394,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369305531612790916/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">भारत | भारत  tag - gg/india | [indiaa](https://discord.gg/indiaa) | 1369305531612790916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370067517145481347/9d904d180e9e9b6dba066eb438945171.png" width="24">राम | ।। अयोध्या 🚩।। | [sXAQxW8ts8](https://discord.gg/sXAQxW8ts8) | 1370067517145481347 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369587129579077683/79dae93b4acc456cc8aaf6ed2accc540.png" width="24">राम | ( राम ) TAG  /guildstags | [SBYC9dyqZC](https://discord.gg/SBYC9dyqZC) | 1369587129579077683 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369835126921498654/70419260a624fbdd14dd273754fcd3aa.png" width="24">ॱ˖ ୧ | /daintiest | [F2pxaywWMM](https://discord.gg/F2pxaywWMM) | 1369835126921498654 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369754311361302589/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ৎ? | # ৎ? \| .gg/slave | [sSskU2suu3](https://discord.gg/sSskU2suu3) | 1369754311361302589 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369424772848685056/0c038eee220510ce1eda9f3a6d219d43.png" width="24">ਏਓ | ਏਓ \| .gg/fg  for 30+ free ... | [F9M2urnuvf](https://discord.gg/F9M2urnuvf) | 1369424772848685056 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369384153929482373/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ଓ ⁺ | 𝑓𝑎𝑙𝑙𝑒𝑛 𝑎𝑛𝑔elş ⟡ ࣪ ˖ | [HBgcyvHCzf](https://discord.gg/HBgcyvHCzf) | 1369384153929482373 |

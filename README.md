@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369775203818668102/f2875e9d7c2db9aab5400e490f7abc39.png" width="24">doll | doll guild (.gg/rosie) | [vyhMhkvdME](https://discord.gg/vyhMhkvdME) | 2025-05-11T06:23:11+00:00 | 1369775203818668102 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370095001006248027/1fac568c75fd0d595355cfec4b746fcc.png" width="24">hugs | /hugs | [FNCeSHyVGh](https://discord.gg/FNCeSHyVGh) | 2025-05-11T06:18:07+00:00 | 1370095001006248027 |
 | <img src="https://cdn.discordapp.com/clan-badges/1368444493195640903/ca886982d1b67cd11c33653b8c8b1401.png" width="24">IoIi | custard | [rehn3uqn3r](https://discord.gg/rehn3uqn3r) | 2025-05-11T06:18:07+00:00 | 1368444493195640903 |
 | <img src="https://cdn.discordapp.com/clan-badges/596435367889076271/9c9883e2c1d4845b8b8bd90ca71caaa8.png" width="24">YEET | CraftMine \~ Discontinued | [xwnJzz4XpJ](https://discord.gg/xwnJzz4XpJ) | 2025-05-11T06:18:07+00:00 | 596435367889076271 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/421316344466898944/04cee49fbcaa69a71206ccb637470e72.png" width="24">TECH | Tech&#x27;s Laboratory | [Wh7F8yQ](https://discord.gg/Wh7F8yQ) | 2025-05-11T03:46:08+00:00 | 421316344466898944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369752419298447461/1897636167e0b09146fb12ce58e63294.png" width="24">឵឵ | This Guild For Sell ! by Js... | [CkbvnuNqPe](https://discord.gg/CkbvnuNqPe) | 2025-05-11T03:41:04+00:00 | 1369752419298447461 |
 | <img src="https://cdn.discordapp.com/clan-badges/1287353106379706459/80e49bbcd08c608a6f49671e2d0828da.png" width="24">CLUB | NİGHT CLUB 🍷#HAZIRLIK | [Sbq55pefGc](https://discord.gg/Sbq55pefGc) | 2025-05-11T03:35:59+00:00 | 1287353106379706459 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369480900961898598/4c6b987648217084cc4371c4f129b87b.png" width="24">liar | .gg/ski for access [liar] | [puuwqAudKB](https://discord.gg/puuwqAudKB) | 2025-05-11T03:35:59+00:00 | 1369480900961898598 |
 
 </details>
 
@@ -2654,6 +2654,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369457002778066944/2dcc269c5af9dc63549a805467897b3e.png" width="24">doll | doll \| .gg/fg  for 30+ fre... | [Ye7KgMx9yP](https://discord.gg/Ye7KgMx9yP) | 1369457002778066944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369515322876493844/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">doll | .gg/slashzone [doll] | [dolltag](https://discord.gg/dolltag) | 1369515322876493844 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369458793494216704/8886cf879eb6ebe40554ef6f87fc0696.png" width="24">doll | doll house ♡ | [424f9As9](https://discord.gg/424f9As9) | 1369458793494216704 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369775203818668102/f2875e9d7c2db9aab5400e490f7abc39.png" width="24">doll | doll guild (.gg/rosie) | [vyhMhkvdME](https://discord.gg/vyhMhkvdME) | 1369775203818668102 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369713182414999653/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">dove | dove guild | [YuMqMKPumA](https://discord.gg/YuMqMKPumA) | 1369713182414999653 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369606940937818133/22f8c38a62b66123c4242d0cbdd46282.png" width="24">dp3 | dp3 | [dp33](https://discord.gg/dp33) | 1369606940937818133 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369478870620967023/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">drug | /exitings | [exitings](https://discord.gg/exitings) | 1369478870620967023 |

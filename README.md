@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/929241027267690496/2c7aa014ee3599b6b7089ce933971852.png" width="24">mwa | /like ♡ 150+ free tags ﹒ as... | [like](https://discord.gg/like) | 2025-05-11T09:30:26+00:00 | 929241027267690496 |
+| <img src="https://cdn.discordapp.com/clan-badges/1223233367550464000/7f968d34689b032120d7a0f2a3d69b83.png" width="24">SYB㍳ | Stay Young Beautiful n Unique | [Tvw6geMUaP](https://discord.gg/Tvw6geMUaP) | 2025-05-11T09:30:26+00:00 | 1223233367550464000 |
 | <img src="https://cdn.discordapp.com/clan-badges/1353780403592499323/bf46722e416c7607a3362934bbc42b2d.png" width="24">PAPA | PAPA Tag  •  .gg/fsk | [WWVfxZNKt3](https://discord.gg/WWVfxZNKt3) | 2025-05-11T09:25:22+00:00 | 1353780403592499323 |
 | <img src="https://cdn.discordapp.com/clan-badges/1293610211281604648/b02f19cbce4208704c21702bf5aa375a.png" width="24">rei | 𓈒     ׂ    𓋭 | [rei](https://discord.gg/rei) | 2025-05-11T09:25:22+00:00 | 1293610211281604648 |
 | <img src="https://cdn.discordapp.com/clan-badges/1367510580918747249/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">TEEF | TEEF Esports | [EjvGZC6hHW](https://discord.gg/EjvGZC6hHW) | 2025-05-11T09:25:22+00:00 | 1367510580918747249 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/770058007757193238/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">ONI | Shrine | [QwfuJB7ykQ](https://discord.gg/QwfuJB7ykQ) | 2025-05-11T06:07:59+00:00 | 770058007757193238 |
 | <img src="https://cdn.discordapp.com/clan-badges/1270866674777854082/ccf49c1cc24bd4bf9b7c20aec1800e00.png" width="24">゜ꢾ𓍢 | ░ 　　、　　　　𓈒  ᘏ⑅ᘏ | [7BdcxQZ4Fr](https://discord.gg/7BdcxQZ4Fr) | 2025-05-11T06:02:55+00:00 | 1270866674777854082 |
 | <img src="https://cdn.discordapp.com/clan-badges/1069285054049681439/c1a3cbc892c9abe2b90f1d6773f2bf8b.png" width="24">CRTX | Cortex&#x27;s Cozy Cabin (Tag) | [syJefCZCwv](https://discord.gg/syJefCZCwv) | 2025-05-11T06:02:55+00:00 | 1069285054049681439 |
-| <img src="https://cdn.discordapp.com/clan-badges/1265465716094799972/d0a4e3a0de367ea994b00b1a7f1c6804.png" width="24">DV | DV Clan | [dvclan](https://discord.gg/dvclan) | 2025-05-11T06:02:55+00:00 | 1265465716094799972 |
-| <img src="https://cdn.discordapp.com/clan-badges/1269673432350724118/51dfcc7484fd62449361606fa4926aca.png" width="24">HELI | ☼ H E L I O S ☼ | [KsyZ2hg5zV](https://discord.gg/KsyZ2hg5zV) | 2025-05-11T06:02:55+00:00 | 1269673432350724118 |
 
 </details>
 
@@ -2186,6 +2186,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/923212171960262687/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">SXB | SHoNgxBoNg | [sxb](https://discord.gg/sxb) | 923212171960262687 |
 | <img src="https://cdn.discordapp.com/clan-badges/1213761481649426472/78f4434ffba9c1994553e77aceb9bc50.png" width="24">SXW | /SXW ; guild tag | [f8txSucS](https://discord.gg/f8txSucS) | 1213761481649426472 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369473822834823198/70b4a0b96a668af3255865fe3ad2e151.png" width="24">SY32 | /system32 | [vBn8fPBftt](https://discord.gg/vBn8fPBftt) | 1369473822834823198 |
+| <img src="https://cdn.discordapp.com/clan-badges/1223233367550464000/7f968d34689b032120d7a0f2a3d69b83.png" width="24">SYB㍳ | Stay Young Beautiful n Unique | [Tvw6geMUaP](https://discord.gg/Tvw6geMUaP) | 1223233367550464000 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370083039799152690/8004228b96cd496a1f199cad0c31c37f.png" width="24">SYKK | SYKK Guild | [rrmznaxBtt](https://discord.gg/rrmznaxBtt) | 1370083039799152690 |
 | <img src="https://cdn.discordapp.com/clan-badges/1368945405320101929/0c4836959b0927609b8a156381a666df.png" width="24">SYNC | Heiwa 🥀 #SYNC | [4dqnZDk2ch](https://discord.gg/4dqnZDk2ch) | 1368945405320101929 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369211202214821928/89caebcb65e460fadbb2515ad34037dc.png" width="24">SZA | /szanation | [DeGmJkVNWx](https://discord.gg/DeGmJkVNWx) | 1369211202214821928 |
@@ -2940,6 +2941,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369863913713176616/09273c1c897d6e684affa8145fc94136.png" width="24">mugi | 🌾 wheatcord&#x27;s k-on mug... | [BqkMS5EV](https://discord.gg/BqkMS5EV) | 1369863913713176616 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369143895585460334/5c3e6850f5ac1cc793c83698f128f434.png" width="24">mutt | mutts | [mutts](https://discord.gg/mutts) | 1369143895585460334 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369579746660323338/40a7aa796426347d6b76d20dfed2c273.png" width="24">mwa | mwa \| .gg/lipstick | [W6EweWjen6](https://discord.gg/W6EweWjen6) | 1369579746660323338 |
+| <img src="https://cdn.discordapp.com/clan-badges/929241027267690496/2c7aa014ee3599b6b7089ce933971852.png" width="24">mwa | /like ♡ 150+ free tags ﹒ as... | [like](https://discord.gg/like) | 929241027267690496 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369467875701686443/7e47cd2a8a05ccd7c65f6ece9683176c.png" width="24">mwah | mwah #TAG | [GHMZBvUMg2](https://discord.gg/GHMZBvUMg2) | 1369467875701686443 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369521607290126507/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">mwah | ﹙🌷﹚ /mwahs !  ︵⊹ | [r659zMFmrT](https://discord.gg/r659zMFmrT) | 1369521607290126507 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369555882190442587/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">mwah | .gg/yea #mwah | [3n7Nf4qsQw](https://discord.gg/3n7Nf4qsQw) | 1369555882190442587 |

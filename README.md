@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369380248894050314/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">BFTS | Genre \| BFTS \| HUB | [PEQnMXkABC](https://discord.gg/PEQnMXkABC) | 2025-05-11T01:19:24+00:00 | 1369380248894050314 |
+| <img src="https://cdn.discordapp.com/clan-badges/1362879727840395389/b095cb2291d96f56e38368ace958eb99.png" width="24">FOXY | 🦊 Fox house \| TAG #FOXY | [5J7grPyMuv](https://discord.gg/5J7grPyMuv) | 2025-05-11T01:19:24+00:00 | 1362879727840395389 |
 | <img src="https://cdn.discordapp.com/clan-badges/1298123983547404308/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">CAFE | Java&#x27;s Cafe | [javacafe](https://discord.gg/javacafe) | 2025-05-11T01:14:20+00:00 | 1298123983547404308 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370093067889016943/dea97e909a0211e2479d75cd11c2ec41.png" width="24">CIA | /fuse #CIA | [V3W3fkmuRK](https://discord.gg/V3W3fkmuRK) | 2025-05-11T01:14:20+00:00 | 1370093067889016943 |
 | <img src="https://cdn.discordapp.com/clan-badges/1327664270829289472/0dde9feca1e7ed7a89b27b1b5f9d3d87.png" width="24">NIKE | join /fuse for more tags #NIKE | [uhtWqKk3rv](https://discord.gg/uhtWqKk3rv) | 2025-05-11T01:14:20+00:00 | 1327664270829289472 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1317169574159974462/bc2f7685eed9d27522595f510bb2da48.png" width="24">GS | TheSense Community | [nyXXAVySzn](https://discord.gg/nyXXAVySzn) | 2025-05-10T23:17:57+00:00 | 1317169574159974462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1345803272300007555/00829b396250470f7446ae7682bf00e1.png" width="24">Life | Life | [TXFKjvB79c](https://discord.gg/TXFKjvB79c) | 2025-05-10T23:17:57+00:00 | 1345803272300007555 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370096381506883647/650e4a6fead0346eec1562905c55419a.png" width="24">ᴗˬᴗ | ./ᴗˬᴗ | [6cfEHKC4B6](https://discord.gg/6cfEHKC4B6) | 2025-05-10T23:17:57+00:00 | 1370096381506883647 |
-| <img src="https://cdn.discordapp.com/clan-badges/251678593267007488/90fdc9256bd07b2ba80839112e9c11a9.png" width="24">PUNK | Daft Punk | [daftpunk](https://discord.gg/daftpunk) | 2025-05-10T23:17:57+00:00 | 251678593267007488 |
-| <img src="https://cdn.discordapp.com/clan-badges/1294364165615390751/7dff089fbee252a67e72a08ae58a0376.png" width="24">rich | Rich Hangout | [KqQwhDwrvg](https://discord.gg/KqQwhDwrvg) | 2025-05-10T23:17:57+00:00 | 1294364165615390751 |
 
 </details>
 
@@ -580,6 +580,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1354243847223382086/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">BEST | 𝗧𝗔𝗚 𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗧𝗬-2 | [7dDBpd9U7N](https://discord.gg/7dDBpd9U7N) | 1354243847223382086 |
 | <img src="https://cdn.discordapp.com/clan-badges/131497070489108487/2c7aa014ee3599b6b7089ce933971852.png" width="24">BETA | Natsukashii | [evVF4KR](https://discord.gg/evVF4KR) | 131497070489108487 |
 | <img src="https://cdn.discordapp.com/clan-badges/1182829627790594068/d1f146615b22e8f02dde299c747375f3.png" width="24">BFDI | [BFDI] TAG • GG/BATTLEFORDR... | [7egX8yHBPT](https://discord.gg/7egX8yHBPT) | 1182829627790594068 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369380248894050314/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">BFTS | Genre \| BFTS \| HUB | [PEQnMXkABC](https://discord.gg/PEQnMXkABC) | 1369380248894050314 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369439269650960445/ea073bf9527e07e9cd57b2db6c2f8502.png" width="24">BGSI | BGSI Tag \| .gg/thewatcher | [phhXvC3yg7](https://discord.gg/phhXvC3yg7) | 1369439269650960445 |
 | <img src="https://cdn.discordapp.com/clan-badges/1089355362903265300/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">BIG | Big Ambitions France \| &qu... | [Gc2xgAzSjs](https://discord.gg/Gc2xgAzSjs) | 1089355362903265300 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369110812886831237/3da695a3845833b28878ed0d3d86dec6.png" width="24">BIO | Bio Tag | [yUQpfMfEzA](https://discord.gg/yUQpfMfEzA) | 1369110812886831237 |
@@ -982,6 +983,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1135093604218589204/4e377c9abb0be025fec29dd09d1ad01c.png" width="24">FOX | The Fox Den | [FoxyDen](https://discord.gg/FoxyDen) | 1135093604218589204 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369390406994886756/e64bb06eb6057e007a7bcfffaf4596b9.png" width="24">FOXY | Emi&#x27;s Studios \| Tag S... | [QnUSDtNM3h](https://discord.gg/QnUSDtNM3h) | 1369390406994886756 |
 | <img src="https://cdn.discordapp.com/clan-badges/777639798021423164/159ca0aa9243f0db71a8a9ab8551a891.png" width="24">FOXY | Fox Land | [25T2suC3](https://discord.gg/25T2suC3) | 777639798021423164 |
+| <img src="https://cdn.discordapp.com/clan-badges/1362879727840395389/b095cb2291d96f56e38368ace958eb99.png" width="24">FOXY | 🦊 Fox house \| TAG #FOXY | [5J7grPyMuv](https://discord.gg/5J7grPyMuv) | 1362879727840395389 |
 | <img src="https://cdn.discordapp.com/clan-badges/1224317102450544640/9b43d5ec59ffd0a187b7d343ac707643.png" width="24">FPE | ✧ Fundamental Classroom ✧ | [Fpe](https://discord.gg/Fpe) | 1224317102450544640 |
 | <img src="https://cdn.discordapp.com/clan-badges/1353583735596912670/5885cd85a7fe1aa0dd9590d3c3409f10.png" width="24">FPI | FPI CLAN TAG | [cXp2ABu5dK](https://discord.gg/cXp2ABu5dK) | 1353583735596912670 |
 | <img src="https://cdn.discordapp.com/clan-badges/1181941995644661831/58a45a07aa38b09a05c73bd0056bb9ee.png" width="24">FPS | zJu4nnツ | [zju4nn](https://discord.gg/zju4nn) | 1181941995644661831 |

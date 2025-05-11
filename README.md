@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1302089889541521510/69b24f221acfae1402dd882c2a784a3e.png" width="24">ARMY | Military | [PB2s56YGGD](https://discord.gg/PB2s56YGGD) | 2025-05-11T02:35:16+00:00 | 1302089889541521510 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369741749437726770/4fffc6d573358cb3d04371b302b00a08.png" width="24">もっと | More More Jump　「もっと」☘ | [p4CD9kEKf3](https://discord.gg/p4CD9kEKf3) | 2025-05-11T02:35:16+00:00 | 1369741749437726770 |
 | <img src="https://cdn.discordapp.com/clan-badges/1283947798718320640/2fbcb29cc92feacd71b69c30c14f9343.png" width="24">˚ෆ | ៸៸  𝑐ℎ𝑒𝑟𝑖𝑒  𓏲 ˖ . | [YcG4MNUHUw](https://discord.gg/YcG4MNUHUw) | 2025-05-11T02:30:12+00:00 | 1283947798718320640 |
 | <img src="https://cdn.discordapp.com/clan-badges/680814543496413236/83a083caeb028f56086ec619735b231f.png" width="24">AURA | Zombs Fight-Fi Tournaments ... | [s8avGaeq6m](https://discord.gg/s8avGaeq6m) | 2025-05-11T02:30:12+00:00 | 680814543496413236 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369768172873449492/3f1609385febac353d511ff67416c6fe.png" width="24">ＧＯＤ | תג | [QsKNmRTTg7](https://discord.gg/QsKNmRTTg7) | 2025-05-11T02:30:12+00:00 | 1369768172873449492 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1310023533249691748/5815caf425b97c56ea8f71983e72304b.png" width="24">V33 | 📺🎤 | [cdQ6QRk5sy](https://discord.gg/cdQ6QRk5sy) | 2025-05-11T00:13:37+00:00 | 1310023533249691748 |
 | <img src="https://cdn.discordapp.com/clan-badges/1122195366402596945/5e4914844b2d7512816f9266edc1b63f.png" width="24">Kurd | Kurd Tag | [RE424BgUyz](https://discord.gg/RE424BgUyz) | 2025-05-11T00:08:34+00:00 | 1122195366402596945 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753657423171605/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;\_&lt; | &gt;\_&lt; \| 10+ Free Guil... | [WQBACMQRFz](https://discord.gg/WQBACMQRFz) | 2025-05-11T00:03:30+00:00 | 1369753657423171605 |
-| <img src="https://cdn.discordapp.com/clan-badges/1117365918767513641/878c62b6694a4f5931104f766191bec7.png" width="24">FOOL | Sparkle Mains ✤ Honkai: Sta... | [sparklemains](https://discord.gg/sparklemains) | 2025-05-11T00:03:30+00:00 | 1117365918767513641 |
-| <img src="https://cdn.discordapp.com/clan-badges/1266173469427503278/ce102333ecc7bde9547b1dcb07bd7f39.png" width="24">LOAF | ℂ𝕠𝕫𝕪 𝔾𝕒𝕞𝕖 ℂ𝕠𝕣𝕟𝕖𝕣 | [35gfWdGNra](https://discord.gg/35gfWdGNra) | 2025-05-11T00:03:30+00:00 | 1266173469427503278 |
 
 </details>
 
@@ -494,6 +494,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/976903419774238770/7b571a46a1266491cfabe2e362aad176.png" width="24">ARCH | Veyga&#x27;s Variety | [ryq5TUUSNn](https://discord.gg/ryq5TUUSNn) | 976903419774238770 |
 | <img src="https://cdn.discordapp.com/clan-badges/713541415099170836/4b70e09b6b8ddf55b5f9dc6816636760.png" width="24">ARMY | RPG ARMY | [rpgarmy](https://discord.gg/rpgarmy) | 713541415099170836 |
 | <img src="https://cdn.discordapp.com/clan-badges/878460260363419728/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">ARMY | ♩ ﹒ 🫧 ⁺  bangtan ⋏ . bts . ... | [bangtan](https://discord.gg/bangtan) | 878460260363419728 |
+| <img src="https://cdn.discordapp.com/clan-badges/1302089889541521510/69b24f221acfae1402dd882c2a784a3e.png" width="24">ARMY | Military | [PB2s56YGGD](https://discord.gg/PB2s56YGGD) | 1302089889541521510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1219465898985918504/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">ART | Art Supporters \| Tag Server | [zuudTkaQrE](https://discord.gg/zuudTkaQrE) | 1219465898985918504 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369446582088503316/a298c1124b18c32e0823e81c65ffd42c.png" width="24">ART | ˗ˏˋ  hxrte ♡ ˎˊ˗  ART tag | [gTBpzsZpRZ](https://discord.gg/gTBpzsZpRZ) | 1369446582088503316 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766133456179371/f014231839285ba5158fda66073994b2.png" width="24">ARX | TUF Game | [ecR3NsTzbK](https://discord.gg/ecR3NsTzbK) | 1369766133456179371 |
@@ -3494,6 +3495,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369648783104933938/333358ec7f01435a2155e0d00ad228b9.png" width="24">みな | Luxe 💎 #Guild みな | [LUXE](https://discord.gg/LUXE) | 1369648783104933938 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369781575084146838/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">みのり | みのり - Minori Project Sekai | [VzfC4kCCZn](https://discord.gg/VzfC4kCCZn) | 1369781575084146838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750476521865246/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">みのり | Minori　「みのり」🏵 | [sFrbgucUvj](https://discord.gg/sFrbgucUvj) | 1369750476521865246 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369741749437726770/4fffc6d573358cb3d04371b302b00a08.png" width="24">もっと | More More Jump　「もっと」☘ | [p4CD9kEKf3](https://discord.gg/p4CD9kEKf3) | 1369741749437726770 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369747408614985849/b2c66a16d275bd33f8bd7a27f79741e5.png" width="24">やり | .gg/spear | [nPRZkM9mWg](https://discord.gg/nPRZkM9mWg) | 1369747408614985849 |
 | <img src="https://cdn.discordapp.com/clan-badges/1028617711221223466/8d61abb8b5da075befaff858861dba54.png" width="24">ゆき | Yuki | [YxSFBrdTct](https://discord.gg/YxSFBrdTct) | 1028617711221223466 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369263378727702600/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ゆるふわ | ゆるふわさーばー | [cavTAm7JEZ](https://discord.gg/cavTAm7JEZ) | 1369263378727702600 |

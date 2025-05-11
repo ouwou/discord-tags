@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1122195366402596945/5e4914844b2d7512816f9266edc1b63f.png" width="24">Kurd | Kurd Tag | [RE424BgUyz](https://discord.gg/RE424BgUyz) | 2025-05-11T00:08:34+00:00 | 1122195366402596945 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753657423171605/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;\_&lt; | &gt;\_&lt; $1000 NITRO GIVE... | [WQBACMQRFz](https://discord.gg/WQBACMQRFz) | 2025-05-11T00:03:30+00:00 | 1369753657423171605 |
 | <img src="https://cdn.discordapp.com/clan-badges/1117365918767513641/878c62b6694a4f5931104f766191bec7.png" width="24">FOOL | Sparkle Mains ✤ Honkai: Sta... | [sparklemains](https://discord.gg/sparklemains) | 2025-05-11T00:03:30+00:00 | 1117365918767513641 |
 | <img src="https://cdn.discordapp.com/clan-badges/1266173469427503278/ce102333ecc7bde9547b1dcb07bd7f39.png" width="24">LOAF | ℂ𝕠𝕫𝕪 𝔾𝕒𝕞𝕖 ℂ𝕠𝕣𝕟𝕖𝕣 | [35gfWdGNra](https://discord.gg/35gfWdGNra) | 2025-05-11T00:03:30+00:00 | 1266173469427503278 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1063149680395042817/989b85d9faf5f966aba5a67fd4cbacfe.png" width="24">SFTS | PLUS | [22Nd4YW4zw](https://discord.gg/22Nd4YW4zw) | 2025-05-10T22:07:00+00:00 | 1063149680395042817 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698844429778975/8e151e60082d136fe4c95a9017d85374.png" width="24">smd | smd \| .gg/711 | [g7z5RUsQt9](https://discord.gg/g7z5RUsQt9) | 2025-05-10T22:07:00+00:00 | 1369698844429778975 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369721058839494696/668acd76f4d8a70256d2bc7604870aba.png" width="24">uet | uet ҂ | [N8K6ThwGnq](https://discord.gg/N8K6ThwGnq) | 2025-05-10T22:07:00+00:00 | 1369721058839494696 |
-| <img src="https://cdn.discordapp.com/clan-badges/1135185564522516600/310d9b669d687de773b5f3b5310ca1f3.png" width="24">VALK | Ultras Valkyra | [t88vYsyZGn](https://discord.gg/t88vYsyZGn) | 2025-05-10T22:07:00+00:00 | 1135185564522516600 |
 
 </details>
 
@@ -1352,6 +1352,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369344709109219328/cf5f9ad94a909f3a07ae0cfe53b37700.png" width="24">Koi | ♡    ㆍ﹒ㆍ﹒ㆍ    koi guild tag .ᐟ | [fQtknrtZXz](https://discord.gg/fQtknrtZXz) | 1369344709109219328 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370010936961929266/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">Krby | Kirby | [zXjjCSPHE2](https://discord.gg/zXjjCSPHE2) | 1370010936961929266 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369489406884577290/2c7aa014ee3599b6b7089ce933971852.png" width="24">Kun | Kun \| .gg/evobot | [zGC2mcJpP8](https://discord.gg/zGC2mcJpP8) | 1369489406884577290 |
+| <img src="https://cdn.discordapp.com/clan-badges/1122195366402596945/5e4914844b2d7512816f9266edc1b63f.png" width="24">Kurd | Kurd Tag | [RE424BgUyz](https://discord.gg/RE424BgUyz) | 1122195366402596945 |
 | <img src="https://cdn.discordapp.com/clan-badges/1168936936359067778/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">KⅲKⅲ | KiiiKiii | [kiiikiii](https://discord.gg/kiiikiii) | 1168936936359067778 |
 | <img src="https://cdn.discordapp.com/clan-badges/753437092486578217/a2af5016c5dcf109209201491ec5d31a.png" width="24">L2NS | Any Free Tag [L2NS] | [anytag](https://discord.gg/anytag) | 753437092486578217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369305106276679792/5d879ca7ede0b494b85bf02dcfaf9d37.png" width="24">LAB | Lab Tag | [8NgHXDSR8b](https://discord.gg/8NgHXDSR8b) | 1369305106276679792 |

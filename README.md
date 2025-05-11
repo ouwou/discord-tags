@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369795908316823552/bc2f7685eed9d27522595f510bb2da48.png" width="24">555 | 555 | [fpdQSMR2cV](https://discord.gg/fpdQSMR2cV) | 2025-05-11T05:32:31+00:00 | 1369795908316823552 |
+| <img src="https://cdn.discordapp.com/clan-badges/1285693794020364341/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BLSM | Coletta 𓂀 | [43mcCpp2fA](https://discord.gg/43mcCpp2fA) | 2025-05-11T05:32:31+00:00 | 1285693794020364341 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369706802077372487/8953689a412824880e6e78f153336c7d.png" width="24">&#x27;-&#x27; | SELL GUILD TAG OWNERSHIP FO... | [BP8rq2BFT4](https://discord.gg/BP8rq2BFT4) | 2025-05-11T05:22:25+00:00 | 1369706802077372487 |
 | <img src="https://cdn.discordapp.com/clan-badges/1266282252518555658/34bc7d99a7f33626885bc6d60ac63574.png" width="24">&gt;.&lt; | we are /soultied ml | [AwWyahUgud](https://discord.gg/AwWyahUgud) | 2025-05-11T05:22:25+00:00 | 1266282252518555658 |
 | <img src="https://cdn.discordapp.com/clan-badges/1291766436703764480/58b07bf54d4e9f6ffbf9ea9123e09cb6.png" width="24">RUSH | ADRENALINE | [adrenalinerblx](https://discord.gg/adrenalinerblx) | 2025-05-11T05:17:21+00:00 | 1291766436703764480 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369769540308963460/bc2f7685eed9d27522595f510bb2da48.png" width="24">AIM | Raw Aimers [AIM] | [Mkw7HtcYPc](https://discord.gg/Mkw7HtcYPc) | 2025-05-11T02:09:56+00:00 | 1369769540308963460 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369487999146000404/e6fb06e61636320b84c4c1e5366da373.png" width="24">angl | angl tag | [xKA3NKCjrp](https://discord.gg/xKA3NKCjrp) | 2025-05-11T02:09:56+00:00 | 1369487999146000404 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369442938702139392/878c62b6694a4f5931104f766191bec7.png" width="24">B00B | #BOOBS Nitro Giveaways | [mmv7qy97SC](https://discord.gg/mmv7qy97SC) | 2025-05-11T02:09:56+00:00 | 1369442938702139392 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369491832597250159/b76d465bf8b0a8a8e8fe2ecf71a6412f.png" width="24">cvnt | cvnt tag | [Hzr3ASPwnP](https://discord.gg/Hzr3ASPwnP) | 2025-05-11T02:09:56+00:00 | 1369491832597250159 |
-| <img src="https://cdn.discordapp.com/clan-badges/1339663978812411934/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">M7ᵗʰ | M7M Extra Emotes + Stickers | [BMpZAgsyCQ](https://discord.gg/BMpZAgsyCQ) | 2025-05-11T02:09:56+00:00 | 1339663978812411934 |
 
 </details>
 
@@ -269,6 +269,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1329897843846283285/d39d45c63a05e8c9445fe2189aa4bd37.png" width="24">511 | Call 511 | [C63uXY5Jyb](https://discord.gg/C63uXY5Jyb) | 1329897843846283285 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369449947203764224/2c7aa014ee3599b6b7089ce933971852.png" width="24">555 | 555 | [fdjnzCvYF5](https://discord.gg/fdjnzCvYF5) | 1369449947203764224 |
 | <img src="https://cdn.discordapp.com/clan-badges/1315643948089344041/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">555 | Community 465 | [465](https://discord.gg/465) | 1315643948089344041 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369795908316823552/bc2f7685eed9d27522595f510bb2da48.png" width="24">555 | 555 | [fpdQSMR2cV](https://discord.gg/fpdQSMR2cV) | 1369795908316823552 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730567926452346/71353c554887f59487cb1e01d2462989.png" width="24">571 | 571 | [jgGk4e9xaB](https://discord.gg/jgGk4e9xaB) | 1369730567926452346 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370017175997382706/fa3033cd0045a5cd34578fa4b9c69d8b.png" width="24">619 | 619 GUİLD | [619tag](https://discord.gg/619tag) | 1370017175997382706 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369215893002915871/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">666 | 666 /rupture | [JB6E6TBEDn](https://discord.gg/JB6E6TBEDn) | 1369215893002915871 |
@@ -610,6 +611,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369700014623948800/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">BLOX | The Bloxy /bloxguild | [kcknUyfdCp](https://discord.gg/kcknUyfdCp) | 1369700014623948800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1337892146581213307/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">BLOX | BLOXAPHOBIA | [bloxaphobia](https://discord.gg/bloxaphobia) | 1337892146581213307 |
 | <img src="https://cdn.discordapp.com/clan-badges/1261733640837140500/58271fb362c4464a4ebead69a2ec0f72.png" width="24">BLOX | Flegbyplayrbxstudio | [AApGUtAa3Z](https://discord.gg/AApGUtAa3Z) | 1261733640837140500 |
+| <img src="https://cdn.discordapp.com/clan-badges/1285693794020364341/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BLSM | Coletta 𓂀 | [43mcCpp2fA](https://discord.gg/43mcCpp2fA) | 1285693794020364341 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369663254485274697/4bab303ceaf56f565d1695cf161dc4e0.png" width="24">BLUE | Blue TAG \| Social・Emotes ・... | [bluetag](https://discord.gg/bluetag) | 1369663254485274697 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369660985933041777/f062697928aeccd096512ae59c5bb161.png" width="24">BLUE | Blue・Guild | [gA8JQKByQj](https://discord.gg/gA8JQKByQj) | 1369660985933041777 |
 | <img src="https://cdn.discordapp.com/clan-badges/933467611667238992/bc707a3929333093c4217316a6abca05.png" width="24">BLUE | 𝖡𝖫𝖴𝖤 ⋆˙⟡ 𝐁𝐈𝐋𝐋𝐈𝐄 𝐄𝐈𝐋𝐈𝐒𝐇 | [dKb7MuyHfm](https://discord.gg/dKb7MuyHfm) | 933467611667238992 |

@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369753657423171605/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;\_&lt; | &gt;\_&lt; $1000 NITRO GIVE... | [WQBACMQRFz](https://discord.gg/WQBACMQRFz) | 2025-05-11T00:03:30+00:00 | 1369753657423171605 |
+| <img src="https://cdn.discordapp.com/clan-badges/1117365918767513641/878c62b6694a4f5931104f766191bec7.png" width="24">FOOL | Sparkle Mains ✤ Honkai: Sta... | [sparklemains](https://discord.gg/sparklemains) | 2025-05-11T00:03:30+00:00 | 1117365918767513641 |
+| <img src="https://cdn.discordapp.com/clan-badges/1266173469427503278/ce102333ecc7bde9547b1dcb07bd7f39.png" width="24">LOAF | ℂ𝕠𝕫𝕪 𝔾𝕒𝕞𝕖 ℂ𝕠𝕣𝕟𝕖𝕣 | [35gfWdGNra](https://discord.gg/35gfWdGNra) | 2025-05-11T00:03:30+00:00 | 1266173469427503278 |
+| <img src="https://cdn.discordapp.com/clan-badges/603246092402032670/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">ZTMY | ZUTOMAYO ZONE | [Zutomayo](https://discord.gg/Zutomayo) | 2025-05-11T00:03:30+00:00 | 603246092402032670 |
 | <img src="https://cdn.discordapp.com/clan-badges/1269393236879741001/a19e07780bd5543f6e3f569e1ae4c8b8.png" width="24">308 | /308 | [308](https://discord.gg/308) | 2025-05-10T23:58:26+00:00 | 1269393236879741001 |
 | <img src="https://cdn.discordapp.com/clan-badges/1287420918376960072/7f968d34689b032120d7a0f2a3d69b83.png" width="24">YT | Creators | [MWxKZVEMFk](https://discord.gg/MWxKZVEMFk) | 2025-05-10T23:53:23+00:00 | 1287420918376960072 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370074282369089618/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ZØNE | ZØNE Guild Tag | [NsheMhF5vj](https://discord.gg/NsheMhF5vj) | 2025-05-10T23:53:23+00:00 | 1370074282369089618 |
@@ -101,10 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369698844429778975/8e151e60082d136fe4c95a9017d85374.png" width="24">smd | smd \| .gg/711 | [g7z5RUsQt9](https://discord.gg/g7z5RUsQt9) | 2025-05-10T22:07:00+00:00 | 1369698844429778975 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369721058839494696/668acd76f4d8a70256d2bc7604870aba.png" width="24">uet | uet ҂ | [N8K6ThwGnq](https://discord.gg/N8K6ThwGnq) | 2025-05-10T22:07:00+00:00 | 1369721058839494696 |
 | <img src="https://cdn.discordapp.com/clan-badges/1135185564522516600/310d9b669d687de773b5f3b5310ca1f3.png" width="24">VALK | Ultras Valkyra | [t88vYsyZGn](https://discord.gg/t88vYsyZGn) | 2025-05-10T22:07:00+00:00 | 1135185564522516600 |
-| <img src="https://cdn.discordapp.com/clan-badges/378239536939008000/7064fb89f40b7c1cfb310925da246b02.png" width="24">WAG | Whales And Games 🐳 | [whalesandgames](https://discord.gg/whalesandgames) | 2025-05-10T22:07:00+00:00 | 378239536939008000 |
-| <img src="https://cdn.discordapp.com/clan-badges/1363961197170528276/310d9b669d687de773b5f3b5310ca1f3.png" width="24">x\_x | x\_x | [sz2ZQ5kFzW](https://discord.gg/sz2ZQ5kFzW) | 2025-05-10T22:07:00+00:00 | 1363961197170528276 |
-| <img src="https://cdn.discordapp.com/clan-badges/1287481774343061606/dc61eaed9e8b012148661df1ada874e6.png" width="24">Zuni | zuni | [6YEUxq4WUf](https://discord.gg/6YEUxq4WUf) | 2025-05-10T22:07:00+00:00 | 1287481774343061606 |
-| <img src="https://cdn.discordapp.com/clan-badges/986663574304882738/1e6dec86bae5252dc83d8bec752cd688.png" width="24">زبي | Unit X #زبي | [VhEkvxaQsS](https://discord.gg/VhEkvxaQsS) | 2025-05-10T22:07:00+00:00 | 986663574304882738 |
 
 </details>
 
@@ -408,6 +408,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/907047819649613824/2b7cd244e8988b90cd9db6a7e7fe3580.png" width="24">&gt;\_&lt; | [&gt;\_&lt;] Boost = TAG | [tgrqZ6UmCR](https://discord.gg/tgrqZ6UmCR) | 907047819649613824 |
 | <img src="https://cdn.discordapp.com/clan-badges/1263193192916975637/a53d5aa3d4f72bcb0b9387a5af5760a6.png" width="24">&gt;\_&lt; | &gt;\_&lt; | [joyclen](https://discord.gg/joyclen) | 1263193192916975637 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369541904160657418/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;\_&lt; | extremely pretty 🍥 — guild | [xPMUBBJU5K](https://discord.gg/xPMUBBJU5K) | 1369541904160657418 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369753657423171605/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;\_&lt; | &gt;\_&lt; $1000 NITRO GIVE... | [WQBACMQRFz](https://discord.gg/WQBACMQRFz) | 1369753657423171605 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769713487450153/c66481879901c84f976513f8c6fafa72.png" width="24">&gt;o&lt; | &gt;o&lt; .ᐟ | [DpeUCRsSHj](https://discord.gg/DpeUCRsSHj) | 1369769713487450153 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369653521946902588/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">&gt;\~&lt; | &gt;\~&lt; | [qnDGyaeg5v](https://discord.gg/qnDGyaeg5v) | 1369653521946902588 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369416720904749176/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;ω&lt; | [ &gt;ω&lt; ]  - Lynnick&#x... | [Pjt4QTKgfa](https://discord.gg/Pjt4QTKgfa) | 1369416720904749176 |
@@ -965,6 +966,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1339268103942443040/3d67dec5dff3a7d999042257b6a5f19a.png" width="24">FNCS | Breezabelle Beach | [j6hEEZrewZ](https://discord.gg/j6hEEZrewZ) | 1339268103942443040 |
 | <img src="https://cdn.discordapp.com/clan-badges/1364025441673019453/c1e4439afa95753a4bab531e3c4c42d1.png" width="24">FOOD | 🍔 Burger Factory \| guild t... | [SkQRVvc8fR](https://discord.gg/SkQRVvc8fR) | 1364025441673019453 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369489477440901202/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">FOOL | FOOL \| .gg/diddled | [36nrrXd4bj](https://discord.gg/36nrrXd4bj) | 1369489477440901202 |
+| <img src="https://cdn.discordapp.com/clan-badges/1117365918767513641/878c62b6694a4f5931104f766191bec7.png" width="24">FOOL | Sparkle Mains ✤ Honkai: Sta... | [sparklemains](https://discord.gg/sparklemains) | 1117365918767513641 |
 | <img src="https://cdn.discordapp.com/clan-badges/1135093604218589204/4e377c9abb0be025fec29dd09d1ad01c.png" width="24">FOX | The Fox Den | [FoxyDen](https://discord.gg/FoxyDen) | 1135093604218589204 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369390406994886756/e64bb06eb6057e007a7bcfffaf4596b9.png" width="24">FOXY | Fox3000foxy&#x27;s Studios ... | [QnUSDtNM3h](https://discord.gg/QnUSDtNM3h) | 1369390406994886756 |
 | <img src="https://cdn.discordapp.com/clan-badges/777639798021423164/159ca0aa9243f0db71a8a9ab8551a891.png" width="24">FOXY | Fox Land | [25T2suC3](https://discord.gg/25T2suC3) | 777639798021423164 |
@@ -1380,6 +1382,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1296434828048338954/150c0ec7ef9a663aa7b17f21ccb0a9ee.png" width="24">LIVE | MisterALX | [MisterALX](https://discord.gg/MisterALX) | 1296434828048338954 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370026061865287801/3455b2a9101d1e373e96973f22e149b0.png" width="24">LLTC | East Brickton Community Guild | [KmTKD5jRfj](https://discord.gg/KmTKD5jRfj) | 1370026061865287801 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369715552611860580/40a7aa796426347d6b76d20dfed2c273.png" width="24">LMC | 🇸🇦 SAR | [SnmnTyGQRs](https://discord.gg/SnmnTyGQRs) | 1369715552611860580 |
+| <img src="https://cdn.discordapp.com/clan-badges/1266173469427503278/ce102333ecc7bde9547b1dcb07bd7f39.png" width="24">LOAF | ℂ𝕠𝕫𝕪 𝔾𝕒𝕞𝕖 ℂ𝕠𝕣𝕟𝕖𝕣 | [35gfWdGNra](https://discord.gg/35gfWdGNra) | 1266173469427503278 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369804663087566909/42eac77ac66033b54432f1555b4c12a8.png" width="24">LOFI | LOFI | [ucjuqvbatN](https://discord.gg/ucjuqvbatN) | 1369804663087566909 |
 | <img src="https://cdn.discordapp.com/clan-badges/1330738492304658514/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">LOFY | LOFY | [rcD8XrJZug](https://discord.gg/rcD8XrJZug) | 1330738492304658514 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369440025678315520/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">LOL | wolf club | [rBXrMgeM57](https://discord.gg/rBXrMgeM57) | 1369440025678315520 |
@@ -2364,6 +2367,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369602490709966891/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">ZOV | ZOV Clan | [yMbvhC36dg](https://discord.gg/yMbvhC36dg) | 1369602490709966891 |
 | <img src="https://cdn.discordapp.com/clan-badges/1342108624947904544/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">ZOV | Зов припяти [Сталкер] | [ZOV](https://discord.gg/ZOV) | 1342108624947904544 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369654822290067496/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ZOV | Next Order | [msVgRgVUvk](https://discord.gg/msVgRgVUvk) | 1369654822290067496 |
+| <img src="https://cdn.discordapp.com/clan-badges/603246092402032670/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">ZTMY | ZUTOMAYO ZONE | [Zutomayo](https://discord.gg/Zutomayo) | 603246092402032670 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369809167988162690/b6f6582eb0301ce069e00b2a99323975.png" width="24">ZTX | ZTX Private \| GUILD | [B25VycUaRP](https://discord.gg/B25VycUaRP) | 1369809167988162690 |
 | <img src="https://cdn.discordapp.com/clan-badges/297969974083846146/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ZXC | ZXC | [2rqwB2Z49Y](https://discord.gg/2rqwB2Z49Y) | 297969974083846146 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369784478859395246/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">ZXC | ZXC | [wK5VsUZz6T](https://discord.gg/wK5VsUZz6T) | 1369784478859395246 |

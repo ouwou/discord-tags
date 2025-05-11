@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/947827085181874216/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">T1 | T1 태그서버 | [vpStxD4yVd](https://discord.gg/vpStxD4yVd) | 2025-05-11T04:41:54+00:00 | 947827085181874216 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369722266014978149/c238af55d440bd2895ec33a2ca6f80e5.png" width="24">ˆ꒳ˆ | /matchingpfps  ﹕[ˆ꒳ˆ] | [TQFpZM37JC](https://discord.gg/TQFpZM37JC) | 2025-05-11T04:36:50+00:00 | 1369722266014978149 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749256990363799/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">fawn | fawn #guild | [Sa6sJRBt4f](https://discord.gg/Sa6sJRBt4f) | 2025-05-11T04:36:50+00:00 | 1369749256990363799 |
 | <img src="https://cdn.discordapp.com/clan-badges/1305790564746268703/8d61abb8b5da075befaff858861dba54.png" width="24">Luﬀy | 🌈𝙈𝙖𝙙𝙚 𝙞𝙣 𝙖𝙗𝙮𝙨𝙨 ✨ | [YTTXVw7Tez](https://discord.gg/YTTXVw7Tez) | 2025-05-11T04:36:50+00:00 | 1305790564746268703 |
@@ -101,10 +102,9 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1075206519060172881/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">LWRS | Project Lowres | [lowres](https://discord.gg/lowres) | 2025-05-11T01:04:13+00:00 | 1075206519060172881 |
 | <img src="https://cdn.discordapp.com/clan-badges/968212878316404768/ee474cc37458e0093df8c6fb1fc3abd3.png" width="24">RBX | ROBLOX СНГ | [uoroblox](https://discord.gg/uoroblox) | 2025-05-11T01:04:13+00:00 | 968212878316404768 |
 | <img src="https://cdn.discordapp.com/clan-badges/657307061343879169/21129b437afdc5d4c56b399d9d86e25d.png" width="24">SHCA | Stone-Haven County Asylum | [shca](https://discord.gg/shca) | 2025-05-11T01:04:13+00:00 | 657307061343879169 |
-| <img src="https://cdn.discordapp.com/clan-badges/631970473529573386/60822eb8c504c45cee27680dbccf599b.png" width="24">GAR | Galactic Army Roleplay | [gar](https://discord.gg/gar) | 2025-05-11T00:59:10+00:00 | 631970473529573386 |
+| <img src="https://cdn.discordapp.com/clan-badges/631970473529573386/60822eb8c504c45cee27680dbccf599b.png" width="24">GAR | Galactic Army Roleplay | [GAR](https://discord.gg/GAR) | 2025-05-11T00:59:10+00:00 | 631970473529573386 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764901144231976/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">LOVE | LOVE TAG | [293uE8sKBR](https://discord.gg/293uE8sKBR) | 2025-05-11T00:59:10+00:00 | 1369764901144231976 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369940504753602570/87001d764cee7f1281aa79b948f3bb3b.png" width="24">ᕼႸᖇ㎃ | Hyrma321 TAG | [ANKc87KfJJ](https://discord.gg/ANKc87KfJJ) | 2025-05-11T00:59:10+00:00 | 1369940504753602570 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369378003758612581/2c7aa014ee3599b6b7089ce933971852.png" width="24">୨ৎ | ୨ৎ \| paradise | [n8XVBSg7aw](https://discord.gg/n8XVBSg7aw) | 2025-05-11T00:54:06+00:00 | 1369378003758612581 |
 
 </details>
 
@@ -1054,7 +1054,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369851744862994453/a4cf4ee118cda0c6a51dede8b61e19ab.png" width="24">GANG | GANG \| Tag | [g4szdetmMX](https://discord.gg/g4szdetmMX) | 1369851744862994453 |
 | <img src="https://cdn.discordapp.com/clan-badges/1051189930883305473/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">GANG | 🎀  𝒞𝒽𝒾𝒸𝒶’𝓈  🎀  𝓩𝓪𝓷𝓰’s  𝐆𝐢𝐯𝐞... | [chicax](https://discord.gg/chicax) | 1051189930883305473 |
 | <img src="https://cdn.discordapp.com/clan-badges/1080727310149353552/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">GAO | GamingAsOne | [naAmhhSy7E](https://discord.gg/naAmhhSy7E) | 1080727310149353552 |
-| <img src="https://cdn.discordapp.com/clan-badges/631970473529573386/60822eb8c504c45cee27680dbccf599b.png" width="24">GAR | Galactic Army Roleplay | [gar](https://discord.gg/gar) | 631970473529573386 |
+| <img src="https://cdn.discordapp.com/clan-badges/631970473529573386/60822eb8c504c45cee27680dbccf599b.png" width="24">GAR | Galactic Army Roleplay | [GAR](https://discord.gg/GAR) | 631970473529573386 |
 | <img src="https://cdn.discordapp.com/clan-badges/1030220615950532668/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">GAS | GoodAssSub - a Ye (fka Kany... | [GoodAssSub](https://discord.gg/GoodAssSub) | 1030220615950532668 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369388473143918712/0a3b5beec6e838da5fcb28ec51b1f3dc.png" width="24">GAWR | 🦈 Shrimps&#x27; Hideout 🦐 | [5SYHeMwVaX](https://discord.gg/5SYHeMwVaX) | 1369388473143918712 |
 | <img src="https://cdn.discordapp.com/clan-badges/1341726047330238464/09b9f595d7bd78c83ecc38abc2b85b73.png" width="24">GAYM | (★) Gaymers Space [GAYM] | [gGrrjkrbRt](https://discord.gg/gGrrjkrbRt) | 1341726047330238464 |
@@ -2137,6 +2137,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/981214089835597864/17d6467ccde4ffa645e1f7edca39809c.png" width="24">T-34 | VanillaPlace 𐚁  rus [T-34] | [nbpTkqqRaC](https://discord.gg/nbpTkqqRaC) | 981214089835597864 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369545460536053880/878c62b6694a4f5931104f766191bec7.png" width="24">T1 | 𝐓𝟏 - 𝐋𝐞𝐠𝐞𝐧𝐝𝐬 𝐧𝐞𝐯𝐞𝐫 𝐝𝐢𝐞 | [TfBkmuSk6Z](https://discord.gg/TfBkmuSk6Z) | 1369545460536053880 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698922641100934/878c62b6694a4f5931104f766191bec7.png" width="24">T1 | T1 태그서버 | [EfBG5MkG8X](https://discord.gg/EfBG5MkG8X) | 1369698922641100934 |
+| <img src="https://cdn.discordapp.com/clan-badges/947827085181874216/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">T1 | T1 태그서버 | [vpStxD4yVd](https://discord.gg/vpStxD4yVd) | 947827085181874216 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369736032404246570/42751df752bb370ece67052cf3f40709.png" width="24">T1TS | T1TS・.gg/guildpb | [9JkHnx8BuQ](https://discord.gg/9JkHnx8BuQ) | 1369736032404246570 |
 | <img src="https://cdn.discordapp.com/clan-badges/1332797408874205225/15ccaf1527c2ebd504d7350fb8d4dd51.png" width="24">T8 | Tate McRae (T8 Guild) | [VwDnmdRPbr](https://discord.gg/VwDnmdRPbr) | 1332797408874205225 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369431068821815457/66e6116fb71622d52bed149a17914270.png" width="24">TAG | /tag | [5yH3nsCpFp](https://discord.gg/5yH3nsCpFp) | 1369431068821815457 |

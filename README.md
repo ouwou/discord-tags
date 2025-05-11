@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1123486894420930570/bc3c7189e4a0bd2641e6f53a7c4d2851.png" width="24">CUTE | sarper nation | [K8wBydBaNt](https://discord.gg/K8wBydBaNt) | 2025-05-11T01:39:37+00:00 | 1123486894420930570 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370104762237980824/3d6c4a13f6c216d7ddf449147c3bc7f9.png" width="24">cuti | 𓈒ﹺﹺ𓈒ﹺﹺ♡ \| join 4 guild | [uk5ZrdHcFP](https://discord.gg/uk5ZrdHcFP) | 2025-05-11T01:29:31+00:00 | 1370104762237980824 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369459576482566264/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">burn | burning | [tyvxWurSYn](https://discord.gg/tyvxWurSYn) | 2025-05-11T01:24:28+00:00 | 1369459576482566264 |
 | <img src="https://cdn.discordapp.com/clan-badges/1306979039193333781/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">DENA | 𝜚 ᴮˡᵒᵒᵐ | [HWN2EaNaKm](https://discord.gg/HWN2EaNaKm) | 2025-05-11T01:24:28+00:00 | 1306979039193333781 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1050807628244193372/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">COOL | cool people | [cool-people](https://discord.gg/cool-people) | 2025-05-10T23:23:01+00:00 | 1050807628244193372 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369782883862053024/232d1d2a366ec512dde707821f672cce.png" width="24">die | #die | [m9dAeGPuDe](https://discord.gg/m9dAeGPuDe) | 2025-05-10T23:23:01+00:00 | 1369782883862053024 |
 | <img src="https://cdn.discordapp.com/clan-badges/851952021505441812/736e7d8bb18ed68b6e0223765e79015e.png" width="24">RANK | TEST | [SnJtVQ3SAh](https://discord.gg/SnJtVQ3SAh) | 2025-05-10T23:23:01+00:00 | 851952021505441812 |
-| <img src="https://cdn.discordapp.com/clan-badges/337524390155780107/973120a4439a64e314297fc9cb20f9f0.png" width="24">TAO | Tsukishima Art Online🌙 | [tao](https://discord.gg/tao) | 2025-05-10T23:23:01+00:00 | 337524390155780107 |
 
 </details>
 
@@ -737,6 +737,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369424122748080169/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">CUTE | gg/CuteTag \| Emotes | [YtggYPfQCq](https://discord.gg/YtggYPfQCq) | 1369424122748080169 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369726151173607515/878c62b6694a4f5931104f766191bec7.png" width="24">CUTE | /ichigo \| CUTE | [award](https://discord.gg/award) | 1369726151173607515 |
 | <img src="https://cdn.discordapp.com/clan-badges/301993130159374356/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">CUTE | 💖• Belle Delphine Community... | [h3xb3Xs9Ka](https://discord.gg/h3xb3Xs9Ka) | 301993130159374356 |
+| <img src="https://cdn.discordapp.com/clan-badges/1123486894420930570/bc3c7189e4a0bd2641e6f53a7c4d2851.png" width="24">CUTE | sarper nation | [K8wBydBaNt](https://discord.gg/K8wBydBaNt) | 1123486894420930570 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369614764027805751/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">CUΜ | cool tag \| .gg/diddled | [UkvmK8zhYE](https://discord.gg/UkvmK8zhYE) | 1369614764027805751 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369769906110992444/878c62b6694a4f5931104f766191bec7.png" width="24">CVNT | WEEKLY CHANGING TAGS! | [xWfTd9eERf](https://discord.gg/xWfTd9eERf) | 1369769906110992444 |
 | <img src="https://cdn.discordapp.com/clan-badges/1298187007012507721/8a36cb214b89bdf18e156ffb44eec982.png" width="24">CVNT | Gamer&#x27;s Haven  \| Soci... | [P9ApPbxVpa](https://discord.gg/P9ApPbxVpa) | 1298187007012507721 |

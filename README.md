@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1318645442283573298/bf78b535fcda16e3ef0d94226dd05555.png" width="24">MLPG | 🌸Flutterzone🌸 | [wJRfA8vCBD](https://discord.gg/wJRfA8vCBD) | 2025-05-11T09:15:14+00:00 | 1318645442283573298 |
+| <img src="https://cdn.discordapp.com/clan-badges/488286158627799041/257f54cf30f0291bee529e55402634f6.png" width="24">Paks | Th3DryZ69 Community | [BBzNe3GnPq](https://discord.gg/BBzNe3GnPq) | 2025-05-11T09:15:14+00:00 | 488286158627799041 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369035985547169872/86735389348f3eacfa519eb553df38fd.png" width="24">#971 | 𝓙𝓑 | [j-b](https://discord.gg/j-b) | 2025-05-11T09:10:10+00:00 | 1369035985547169872 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369229879433760853/6082c2553b03b47ccaea5203567df3cf.png" width="24">eigo | 【eigo】\| dsc.gg/guild-tag | [dcSHXzhWXH](https://discord.gg/dcSHXzhWXH) | 2025-05-11T09:10:10+00:00 | 1369229879433760853 |
 | <img src="https://cdn.discordapp.com/clan-badges/291184728944410624/a87fa83494be55ae251f08b02c02454f.png" width="24">SCUG | Rain World | [rainworld](https://discord.gg/rainworld) | 2025-05-11T09:10:10+00:00 | 291184728944410624 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1141373974824099870/164662f2515c3a9fc5a84b2d71d83a45.png" width="24">BBAT | BBAT Clan | [BcVjdDSE83](https://discord.gg/BcVjdDSE83) | 2025-05-11T05:57:52+00:00 | 1141373974824099870 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369742337718358217/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">឵឵ | ! This Guild For Sell ! By ... | [gyGp2dKvDe](https://discord.gg/gyGp2dKvDe) | 2025-05-11T05:52:47+00:00 | 1369742337718358217 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369867912436908073/091acfbf3528c0dc7cb4cc3ff0aa440c.png" width="24">឵឵ | ! This Guild For Sell ! By ... | [J6nkVPJDQV](https://discord.gg/J6nkVPJDQV) | 2025-05-11T05:52:47+00:00 | 1369867912436908073 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369989449961963563/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">luka | ♡𓈒 ᴗ)　luka     tag      /alnst | [mTbQUtyxcu](https://discord.gg/mTbQUtyxcu) | 2025-05-11T05:52:47+00:00 | 1369989449961963563 |
-| <img src="https://cdn.discordapp.com/clan-badges/1198831682174853142/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">Info | Info Hub | [GNcanqBcQD](https://discord.gg/GNcanqBcQD) | 2025-05-11T05:47:43+00:00 | 1198831682174853142 |
 
 </details>
 
@@ -1613,6 +1613,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369302522262716426/77a5a525c44d24d4015e459b13e59a07.png" width="24">MIWA | Miwa Tag | [NSfNpctqXZ](https://discord.gg/NSfNpctqXZ) | 1369302522262716426 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369574045041037325/4ffb912213fedafaa117bca13e2d4ed3.png" width="24">MIZA | Miza #🔖 | [mizatag](https://discord.gg/mizatag) | 1369574045041037325 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369460867476881539/92eefdda9be64022f60fdcae22bd5fe5.png" width="24">MLP | CloppersAnonymous | [DpYb7GmQU6](https://discord.gg/DpYb7GmQU6) | 1369460867476881539 |
+| <img src="https://cdn.discordapp.com/clan-badges/1318645442283573298/bf78b535fcda16e3ef0d94226dd05555.png" width="24">MLPG | 🌸Flutterzone🌸 | [wJRfA8vCBD](https://discord.gg/wJRfA8vCBD) | 1318645442283573298 |
 | <img src="https://cdn.discordapp.com/clan-badges/1281744187817197600/bdd4e7a8c5221996c532da33b4ba18ed.png" width="24">MLZY | 𝐌𝐢𝐥𝐥𝐳𝐲𝐬 𝐊𝐢𝐭𝐭𝐞𝐧𝐬 | [ZKqhXSUCXr](https://discord.gg/ZKqhXSUCXr) | 1281744187817197600 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369631690233741363/b2c66a16d275bd33f8bd7a27f79741e5.png" width="24">MMO | MMO | [UR2QUQjuNG](https://discord.gg/UR2QUQjuNG) | 1369631690233741363 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369650399392301230/1935451f265a42d57241c7bcc9555abe.png" width="24">MMW® | MMW® GILDΞ - TAG | [RHkzSbDCxX](https://discord.gg/RHkzSbDCxX) | 1369650399392301230 |
@@ -1902,6 +1903,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/301087414154166274/7ff71291c4aef61c911c6b566512d5cb.png" width="24">PXP | pixelplace.io | [XdX9MJYcGP](https://discord.gg/XdX9MJYcGP) | 301087414154166274 |
 | <img src="https://cdn.discordapp.com/clan-badges/881207955029110855/04cee49fbcaa69a71206ccb637470e72.png" width="24">PYC | Pycord | [pycord](https://discord.gg/pycord) | 881207955029110855 |
 | <img src="https://cdn.discordapp.com/clan-badges/1276321691403943976/3794804bae599540d20794f0c2d9e43c.png" width="24">PYON | FOX Eats Foxhole | [8S29rwyfCW](https://discord.gg/8S29rwyfCW) | 1276321691403943976 |
+| <img src="https://cdn.discordapp.com/clan-badges/488286158627799041/257f54cf30f0291bee529e55402634f6.png" width="24">Paks | Th3DryZ69 Community | [BBzNe3GnPq](https://discord.gg/BBzNe3GnPq) | 488286158627799041 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369440836319969500/ea08d1994f0747b4185f12b2327dc6c8.png" width="24">Pew | Pew Central | [UCpHQuV7jZ](https://discord.gg/UCpHQuV7jZ) | 1369440836319969500 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369761573698273401/d330d1a1f57dcbd1ebe4f20f98c85add.png" width="24">Plug | #Plug | [UFkJp75gXZ](https://discord.gg/UFkJp75gXZ) | 1369761573698273401 |
 | <img src="https://cdn.discordapp.com/clan-badges/423803939582902277/e05ecd5875a2e1daee2ed1df612462b5.png" width="24">PoGO | Pokémon GO Raids | [remoteraids](https://discord.gg/remoteraids) | 423803939582902277 |

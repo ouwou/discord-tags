@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370104762237980824/3d6c4a13f6c216d7ddf449147c3bc7f9.png" width="24">cuti | 𓈒ﹺﹺ𓈒ﹺﹺ♡ \| join 4 guild | [uk5ZrdHcFP](https://discord.gg/uk5ZrdHcFP) | 2025-05-11T01:29:31+00:00 | 1370104762237980824 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369459576482566264/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">burn | burning | [tyvxWurSYn](https://discord.gg/tyvxWurSYn) | 2025-05-11T01:24:28+00:00 | 1369459576482566264 |
 | <img src="https://cdn.discordapp.com/clan-badges/1306979039193333781/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">DENA | 𝜚 ᴮˡᵒᵒᵐ | [HWN2EaNaKm](https://discord.gg/HWN2EaNaKm) | 2025-05-11T01:24:28+00:00 | 1306979039193333781 |
 | <img src="https://cdn.discordapp.com/clan-badges/1306995625547796621/2c7aa014ee3599b6b7089ce933971852.png" width="24">idle | idle tag | [fyG8Fkxh8M](https://discord.gg/fyG8Fkxh8M) | 2025-05-11T01:24:28+00:00 | 1306995625547796621 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369782883862053024/232d1d2a366ec512dde707821f672cce.png" width="24">die | #die | [m9dAeGPuDe](https://discord.gg/m9dAeGPuDe) | 2025-05-10T23:23:01+00:00 | 1369782883862053024 |
 | <img src="https://cdn.discordapp.com/clan-badges/851952021505441812/736e7d8bb18ed68b6e0223765e79015e.png" width="24">RANK | TEST | [SnJtVQ3SAh](https://discord.gg/SnJtVQ3SAh) | 2025-05-10T23:23:01+00:00 | 851952021505441812 |
 | <img src="https://cdn.discordapp.com/clan-badges/337524390155780107/973120a4439a64e314297fc9cb20f9f0.png" width="24">TAO | Tsukishima Art Online🌙 | [tao](https://discord.gg/tao) | 2025-05-10T23:23:01+00:00 | 337524390155780107 |
-| <img src="https://cdn.discordapp.com/clan-badges/1115321979587797115/3da695a3845833b28878ed0d3d86dec6.png" width="24">Z8RT | الزقرت | [Z8rt](https://discord.gg/Z8rt) | 2025-05-10T23:23:01+00:00 | 1115321979587797115 |
 
 </details>
 
@@ -2548,6 +2548,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369297245060464741/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">cute | pfp vault | [amrBrZztgS](https://discord.gg/amrBrZztgS) | 1369297245060464741 |
 | <img src="https://cdn.discordapp.com/clan-badges/926754520682336297/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">cute | /used | [used](https://discord.gg/used) | 926754520682336297 |
 | <img src="https://cdn.discordapp.com/clan-badges/1368580720402104431/ba4666ec684b28253c036851b97de8a9.png" width="24">cuti | .gg/cutietags [cuti] ♡ | [69jsKnRA3y](https://discord.gg/69jsKnRA3y) | 1368580720402104431 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370104762237980824/3d6c4a13f6c216d7ddf449147c3bc7f9.png" width="24">cuti | 𓈒ﹺﹺ𓈒ﹺﹺ♡ \| join 4 guild | [uk5ZrdHcFP](https://discord.gg/uk5ZrdHcFP) | 1370104762237980824 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369694747219857580/e7c194954fbcefa88a7092cd3d528cc9.png" width="24">cuty | @/cuty #tag | [c2ftCm3mh5](https://discord.gg/c2ftCm3mh5) | 1369694747219857580 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369396872279490661/22be82063be1461142de3411204ec19a.png" width="24">cvnt | azrael :( [cvnt] (exclu) | [eJXqPuseN9](https://discord.gg/eJXqPuseN9) | 1369396872279490661 |
 | <img src="https://cdn.discordapp.com/clan-badges/1251381898349908101/4e4e6e654ac2d31b47101a12117ae820.png" width="24">cvnt | [R] THE PLASTICS ˚୨୧₊ | [plastics](https://discord.gg/plastics) | 1251381898349908101 |

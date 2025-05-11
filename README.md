@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1318248790452342784/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">biji | NotEnoughFakepixel v2 | [vhQAGk3bEc](https://discord.gg/vhQAGk3bEc) | 2025-05-11T02:25:08+00:00 | 1318248790452342784 |
+| <img src="https://cdn.discordapp.com/clan-badges/1170195993648709693/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">Fade | Fade Tag | [TNJkTJEZus](https://discord.gg/TNJkTJEZus) | 2025-05-11T02:25:08+00:00 | 1170195993648709693 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369734784674173059/4c6b987648217084cc4371c4f129b87b.png" width="24">HTE | hte #billieelish | [2JypjB8U5v](https://discord.gg/2JypjB8U5v) | 2025-05-11T02:20:04+00:00 | 1369734784674173059 |
 | <img src="https://cdn.discordapp.com/clan-badges/1086377993309528164/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">&gt;\_&lt; | &gt;\_&lt; | [vkY2nbD8NV](https://discord.gg/vkY2nbD8NV) | 2025-05-11T02:15:00+00:00 | 1086377993309528164 |
 | <img src="https://cdn.discordapp.com/clan-badges/1355732827584598118/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">fuyu | 𝜗𝜚 | [dvK2HhAM6R](https://discord.gg/dvK2HhAM6R) | 2025-05-11T02:15:00+00:00 | 1355732827584598118 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1269393236879741001/a19e07780bd5543f6e3f569e1ae4c8b8.png" width="24">308 | /308 | [308](https://discord.gg/308) | 2025-05-10T23:58:26+00:00 | 1269393236879741001 |
 | <img src="https://cdn.discordapp.com/clan-badges/1287420918376960072/7f968d34689b032120d7a0f2a3d69b83.png" width="24">YT | Creators | [MWxKZVEMFk](https://discord.gg/MWxKZVEMFk) | 2025-05-10T23:53:23+00:00 | 1287420918376960072 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370074282369089618/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">ZØNE | ZØNE Guild Tag | [NsheMhF5vj](https://discord.gg/NsheMhF5vj) | 2025-05-10T23:53:23+00:00 | 1370074282369089618 |
-| <img src="https://cdn.discordapp.com/clan-badges/318812687490482176/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">M1LF | NOODLE NATION | [ewqTbW862Z](https://discord.gg/ewqTbW862Z) | 2025-05-10T23:48:19+00:00 | 318812687490482176 |
-| <img src="https://cdn.discordapp.com/clan-badges/1358470866119430266/1c8f8efb11de25463d853de6f864ffc6.png" width="24">MOMY | 𝐃𝐮𝐬𝐤𝐰𝐨𝐨𝐝 𝐂𝐨𝐭𝐭𝐚𝐠𝐞 \| Social ... | [momy](https://discord.gg/momy) | 2025-05-10T23:48:19+00:00 | 1358470866119430266 |
 
 </details>
 
@@ -1019,6 +1019,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369903541174538381/7b571a46a1266491cfabe2e362aad176.png" width="24">FW | Frostware Guilds | [V2pj7KdXnw](https://discord.gg/V2pj7KdXnw) | 1369903541174538381 |
 | <img src="https://cdn.discordapp.com/clan-badges/1135579383617290380/878c62b6694a4f5931104f766191bec7.png" width="24">FWMC | FUWAMOCO&#x27;s Baucord 🐾 | [ruffians](https://discord.gg/ruffians) | 1135579383617290380 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369620817515905075/c8d016eed5c8752316ca38fdd54380c6.png" width="24">FWÆH | FWÆH | [j8cjWdSDdJ](https://discord.gg/j8cjWdSDdJ) | 1369620817515905075 |
+| <img src="https://cdn.discordapp.com/clan-badges/1170195993648709693/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">Fade | Fade Tag | [TNJkTJEZus](https://discord.gg/TNJkTJEZus) | 1170195993648709693 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369356140466667652/21129b437afdc5d4c56b399d9d86e25d.png" width="24">Fae | Lyvielle&#x27;s Sanctuary | [ZfwDQS9FCS](https://discord.gg/ZfwDQS9FCS) | 1369356140466667652 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369631007460036639/2b5bdaa658768b9b30598ecc4ca825b2.png" width="24">Faiᵺ | .gg/wrathtag - Faiᵺ Tag | [q88r84ebbu](https://discord.gg/q88r84ebbu) | 1369631007460036639 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370110027125362728/885655109920302254b03aeb071dc4a1.png" width="24">Fear | FEAR | [ZCsXNHnJVS](https://discord.gg/ZCsXNHnJVS) | 1370110027125362728 |
@@ -2491,6 +2492,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/895776652032901200/2d8bea68b3152b52858942d2bc854cc7.png" width="24">bee | honey&amp;tea | [honeytea](https://discord.gg/honeytea) | 895776652032901200 |
 | <img src="https://cdn.discordapp.com/clan-badges/1366073641263169649/4c6b987648217084cc4371c4f129b87b.png" width="24">beom | ⌒  　cbgyus 　 　🫧 ,, INVITE C... | [hVk4kx9QEz](https://discord.gg/hVk4kx9QEz) | 1366073641263169649 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369311386030706758/ac3165721f4a28dd3e8bc1f9acaaf337.png" width="24">bf | boyfriend 𓂃 ♡ /naoi | [rdrDEGM8cH](https://discord.gg/rdrDEGM8cH) | 1369311386030706758 |
+| <img src="https://cdn.discordapp.com/clan-badges/1318248790452342784/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">biji | NotEnoughFakepixel v2 | [vhQAGk3bEc](https://discord.gg/vhQAGk3bEc) | 1318248790452342784 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369371430776737873/1833a3497f526a5a60d6132ff85eff56.png" width="24">birb | Bugsy&#x27;s Server | [6errfWuTqH](https://discord.gg/6errfWuTqH) | 1369371430776737873 |
 | <img src="https://cdn.discordapp.com/clan-badges/931162688854298644/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">birb | Value Village | [valuevillage](https://discord.gg/valuevillage) | 931162688854298644 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369338238036086938/c213b21b65f12c26bbdfb6a9e46e6b56.png" width="24">bite | [ 𝔟𝔦𝔱𝔢 ] | [G7qcQGgeVX](https://discord.gg/G7qcQGgeVX) | 1369338238036086938 |

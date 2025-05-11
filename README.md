@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1185697833941213306/9f570e23996da869b496ca59c51e1310.png" width="24">RNGR | 🟢 GreenRngr&#x27;s Command ... | [PgmwDHuwGU](https://discord.gg/PgmwDHuwGU) | 2025-05-11T03:56:15+00:00 | 1185697833941213306 |
+| <img src="https://cdn.discordapp.com/clan-badges/610683818726129664/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ภɪєг | NieR: Soul Nexus | [nier](https://discord.gg/nier) | 2025-05-11T03:56:15+00:00 | 610683818726129664 |
 | <img src="https://cdn.discordapp.com/clan-badges/759558437088264202/7f968d34689b032120d7a0f2a3d69b83.png" width="24">MVP | 📚 #IDCTeam › DBDTeam.js | [FTtVXfj](https://discord.gg/FTtVXfj) | 2025-05-11T03:46:08+00:00 | 759558437088264202 |
 | <img src="https://cdn.discordapp.com/clan-badges/421316344466898944/04cee49fbcaa69a71206ccb637470e72.png" width="24">TECH | Tech&#x27;s Laboratory | [Wh7F8yQ](https://discord.gg/Wh7F8yQ) | 2025-05-11T03:46:08+00:00 | 421316344466898944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369752419298447461/1897636167e0b09146fb12ce58e63294.png" width="24">឵឵ | This Guild For Sell ! by Js... | [CkbvnuNqPe](https://discord.gg/CkbvnuNqPe) | 2025-05-11T03:41:04+00:00 | 1369752419298447461 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369467127601430619/9d5031ac1a5dc08804485c56fdb479bc.png" width="24">GYAT | .gg/deadtag \| GYAT | [V3QKkMEXK5](https://discord.gg/V3QKkMEXK5) | 2025-05-11T00:43:59+00:00 | 1369467127601430619 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369767619657470033/8c99f2a03e7e3a24794e6fbdb5ae62b1.png" width="24">maﬁa | .gg/deadtag \| mafia | [UVCwevTHHa](https://discord.gg/UVCwevTHHa) | 2025-05-11T00:43:59+00:00 | 1369767619657470033 |
 | <img src="https://cdn.discordapp.com/clan-badges/1209223776613437510/e0fb315519bcb35d53e4ac4fb5b81b8c.png" width="24">STAR | [STARS] .gg/dtiplanets | [v5JJtsHYqa](https://discord.gg/v5JJtsHYqa) | 2025-05-11T00:43:59+00:00 | 1209223776613437510 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369642213381898292/159909e3a7ec67dbc98fbf67fa78f00d.png" width="24">vvs | .gg/deadtag \| vvs | [QPJSZFxNjX](https://discord.gg/QPJSZFxNjX) | 2025-05-11T00:43:59+00:00 | 1369642213381898292 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370044586675671222/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">ꔫ༄ | .gg/deadtag \| ꔫ༄ | [Tz367YVsdZ](https://discord.gg/Tz367YVsdZ) | 2025-05-11T00:43:59+00:00 | 1370044586675671222 |
 
 </details>
 
@@ -1917,6 +1917,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369312750789984449/bc2f7685eed9d27522595f510bb2da48.png" width="24">RLK | /rlkTAG | [2ucVMFr2ew](https://discord.gg/2ucVMFr2ew) | 1369312750789984449 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369732957681483928/efd8c8eba911138a710132f08c290a81.png" width="24">RN | &gt;FSOCIETY #RN | [Q3JER694jR](https://discord.gg/Q3JER694jR) | 1369732957681483928 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370038563151810560/7dab94a4e61ea6cba013e279fa96a5dd.png" width="24">RNDY | Randy | [Aw4JzPSutf](https://discord.gg/Aw4JzPSutf) | 1370038563151810560 |
+| <img src="https://cdn.discordapp.com/clan-badges/1185697833941213306/9f570e23996da869b496ca59c51e1310.png" width="24">RNGR | 🟢 GreenRngr&#x27;s Command ... | [PgmwDHuwGU](https://discord.gg/PgmwDHuwGU) | 1185697833941213306 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369491513951653928/79366e8660935912726217b413fcc19b.png" width="24">ROCK | 🎸Rock Tag Club💀 | [wm4dZcBnWw](https://discord.gg/wm4dZcBnWw) | 1369491513951653928 |
 | <img src="https://cdn.discordapp.com/clan-badges/1293734855628296232/4ee175536a9568d4456d63a980d366ca.png" width="24">ROCK | 🎸 ROCK Tag \| Bocchi&#x27;s... | [zgtkFXFQhd](https://discord.gg/zgtkFXFQhd) | 1293734855628296232 |
 | <img src="https://cdn.discordapp.com/clan-badges/474739462589382667/dea4f5f8e9aaa736c9b599506226508e.png" width="24">ROK | Rise of Kingdoms | [riseofkingdoms](https://discord.gg/riseofkingdoms) | 474739462589382667 |
@@ -3338,6 +3339,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369270715022573639/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ฅ ฅ | ฅ ฅ TAG SERVER | [tB6nTwECAk](https://discord.gg/tB6nTwECAk) | 1369270715022573639 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369311130513834174/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ฅᨐฅ | ฅᨐฅ | [TvzUsNZNGm](https://discord.gg/TvzUsNZNGm) | 1369311130513834174 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369691398382551090/2c7aa014ee3599b6b7089ce933971852.png" width="24">ฅᨐฅ | $$$$ | [RmmdtX43sP](https://discord.gg/RmmdtX43sP) | 1369691398382551090 |
+| <img src="https://cdn.discordapp.com/clan-badges/610683818726129664/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ภɪєг | NieR: Soul Nexus | [nier](https://discord.gg/nier) | 610683818726129664 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369110155060445254/67af777bb9d21e9e791b5f566f472feb.png" width="24">໒୨ | ໒୨ /rupture | [BV98reZSFF](https://discord.gg/BV98reZSFF) | 1369110155060445254 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369465374487216259/f8ef5975a595bf09a7e7932064c723b8.png" width="24">໒꒱ | [໒꒱] .gg/decomposed for tags | [T43Vs8yWs2](https://discord.gg/T43Vs8yWs2) | 1369465374487216259 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369601078395666485/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">༉‧₊ | ★   ⁺  misamisa  💢ꜝ | [WdveKFqds9](https://discord.gg/WdveKFqds9) | 1369601078395666485 |

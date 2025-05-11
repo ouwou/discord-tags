@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369515089803345992/dec8b88bdaf2b7672675c4e18b366527.png" width="24">mizi | ̣ / cupcakie　 ‘　 ݁ : guild tag | [GkgCYurNHf](https://discord.gg/GkgCYurNHf) | 2025-05-11T06:43:24+00:00 | 1369515089803345992 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369746927524249710/7b571a46a1266491cfabe2e362aad176.png" width="24">NASA | NASA \| .gg/MVPHub | [5hYCq6nXz5](https://discord.gg/5hYCq6nXz5) | 2025-05-11T06:43:24+00:00 | 1369746927524249710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369457470422122579/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ೀ  틸 | ( ºº◞◟)　　　　. | [eJgYfhDGGy](https://discord.gg/eJgYfhDGGy) | 2025-05-11T06:38:21+00:00 | 1369457470422122579 |
 | <img src="https://cdn.discordapp.com/clan-badges/985698674493517825/4507c292a7c649b9e6e357ac11c5492c.png" width="24">SOAP | 🌸 The Soap Opera 🌸 | [BhJG9xPmhh](https://discord.gg/BhJG9xPmhh) | 2025-05-11T06:33:17+00:00 | 985698674493517825 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369775203818668102/f2875e9d7c2db9aab5400e490f7abc39.png" width="24">doll | doll guild (.gg/rosie) | [vyhMhkvdME](https://discord.gg/vyhMhkvdME) | 2025-05-11T06:23:11+00:00 | 1369775203818668102 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1251702969683017739/d271024df6b0b86335d3108ef80ea10a.png" width="24">irr | irrelevante #2,4k | [irrelevante](https://discord.gg/irrelevante) | 2025-05-11T04:01:22+00:00 | 1251702969683017739 |
 | <img src="https://cdn.discordapp.com/clan-badges/1185697833941213306/9f570e23996da869b496ca59c51e1310.png" width="24">RNGR | 🟢 GreenRngr&#x27;s Command ... | [PgmwDHuwGU](https://discord.gg/PgmwDHuwGU) | 2025-05-11T03:56:15+00:00 | 1185697833941213306 |
 | <img src="https://cdn.discordapp.com/clan-badges/610683818726129664/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ภɪєг | NieR: Soul Nexus | [nier](https://discord.gg/nier) | 2025-05-11T03:56:15+00:00 | 610683818726129664 |
-| <img src="https://cdn.discordapp.com/clan-badges/759558437088264202/7f968d34689b032120d7a0f2a3d69b83.png" width="24">MVP | 📚 #IDCTeam › DBDTeam.js | [FTtVXfj](https://discord.gg/FTtVXfj) | 2025-05-11T03:46:08+00:00 | 759558437088264202 |
-| <img src="https://cdn.discordapp.com/clan-badges/421316344466898944/04cee49fbcaa69a71206ccb637470e72.png" width="24">TECH | Tech&#x27;s Laboratory | [Wh7F8yQ](https://discord.gg/Wh7F8yQ) | 2025-05-11T03:46:08+00:00 | 421316344466898944 |
 
 </details>
 
@@ -1657,6 +1657,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369520790827175986/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">N25 | nightcord、［N25］ | [43Z2kBae9y](https://discord.gg/43Z2kBae9y) | 1369520790827175986 |
 | <img src="https://cdn.discordapp.com/clan-badges/1225900758894121132/bd06a4fd7cd0219a37ff6fc8f6a8ddd5.png" width="24">NANA | Olybre&#x27;s server - NANA... | [7QMFrxQZdc](https://discord.gg/7QMFrxQZdc) | 1225900758894121132 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369711054430670960/dc61eaed9e8b012148661df1ada874e6.png" width="24">NASA | GUILD NASA ! | [xguilds](https://discord.gg/xguilds) | 1369711054430670960 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369746927524249710/7b571a46a1266491cfabe2e362aad176.png" width="24">NASA | NASA \| .gg/MVPHub | [5hYCq6nXz5](https://discord.gg/5hYCq6nXz5) | 1369746927524249710 |
 | <img src="https://cdn.discordapp.com/clan-badges/1162278240853966928/e593f6b39ea8cfb6ecc728cbd5bd67ca.png" width="24">NATA | NatHub \| Backup | [ug6PuYxRVP](https://discord.gg/ug6PuYxRVP) | 1162278240853966928 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369763488997707987/4af4d55b921313df1e56477c343b3b0b.png" width="24">NAYA | Nayashie 🎋 #GUILD | [2aH83GXGwq](https://discord.gg/2aH83GXGwq) | 1369763488997707987 |
 | <img src="https://cdn.discordapp.com/clan-badges/1357532302867173608/17123d92d31f9697148fe35183bd63a7.png" width="24">NBA | nba tag | [UJ588b8R9z](https://discord.gg/UJ588b8R9z) | 1357532302867173608 |
@@ -2879,6 +2880,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369724305843159142/aceeb98d191311084909a63d180cf6fb.png" width="24">miku | mikuland | [65Vfj8h5dU](https://discord.gg/65Vfj8h5dU) | 1369724305843159142 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369670500338503712/b626c9dc1645b5f034c4675241b6b4ea.png" width="24">milk | Violet Land | [sweett](https://discord.gg/sweett) | 1369670500338503712 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369409579640815636/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">mizi | @ my clematis [ mizi ] GIVE... | [XkcPAxYEHc](https://discord.gg/XkcPAxYEHc) | 1369409579640815636 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369515089803345992/dec8b88bdaf2b7672675c4e18b366527.png" width="24">mizi | ̣ / cupcakie　 ‘　 ݁ : guild tag | [GkgCYurNHf](https://discord.gg/GkgCYurNHf) | 1369515089803345992 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369707385555521566/b96ac88bc24b4a4780bb3a5ac622f830.png" width="24">moan | moan \| .gg/fg  for 30+ fre... | [QQ3vNnZNz7](https://discord.gg/QQ3vNnZNz7) | 1369707385555521566 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369191159771168769/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">moan | #moan | [4rFtCbpYPR](https://discord.gg/4rFtCbpYPR) | 1369191159771168769 |
 | <img src="https://cdn.discordapp.com/clan-badges/1151156552888238183/4ef966b9bdd3ca7155e184e893314cd6.png" width="24">moco | joinmoco | [moco](https://discord.gg/moco) | 1151156552888238183 |

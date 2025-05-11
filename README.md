@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1347498747650768896/04cee49fbcaa69a71206ccb637470e72.png" width="24">ASL | ASL (OCE) \| SEASON 1 | [DwFvN26pgQ](https://discord.gg/DwFvN26pgQ) | 2025-05-11T07:03:40+00:00 | 1347498747650768896 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369601078395666485/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">༉‧₊ | ★   ⁺  misamisa  💢ꜝ | [2rcAAeecJD](https://discord.gg/2rcAAeecJD) | 2025-05-11T06:58:36+00:00 | 1369601078395666485 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370033380787359794/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">Snda | SUNDA | [Sunda](https://discord.gg/Sunda) | 2025-05-11T06:53:32+00:00 | 1370033380787359794 |
 | <img src="https://cdn.discordapp.com/clan-badges/1276227651270348800/b6f6582eb0301ce069e00b2a99323975.png" width="24">META | OH Relaxation | [hPdG6zAn](https://discord.gg/hPdG6zAn) | 2025-05-11T06:48:28+00:00 | 1276227651270348800 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1255003376660512771/26ab700703d5c0d4956f3fbb047fea41.png" width="24">立石凜 | 凜醬 | [qxfajw6XsN](https://discord.gg/qxfajw6XsN) | 2025-05-11T04:11:32+00:00 | 1255003376660512771 |
 | <img src="https://cdn.discordapp.com/clan-badges/1127523730629853284/7d49e0dbe4c2ff07823b061d9191e22d.png" width="24">M4 | m4 | [4NzKnPyYtj](https://discord.gg/4NzKnPyYtj) | 2025-05-11T04:06:28+00:00 | 1127523730629853284 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369711804304855070/16d3e1e1382cd9f5746a22dda6ce8b48.png" width="24">˃𐃷˂ | /711 ﹒ ˃𐃷˂̵ | [qa8epuf3EP](https://discord.gg/qa8epuf3EP) | 2025-05-11T04:01:22+00:00 | 1369711804304855070 |
-| <img src="https://cdn.discordapp.com/clan-badges/1334904463403778190/dc61eaed9e8b012148661df1ada874e6.png" width="24">171 | © 171 | [AQJPsTeuGR](https://discord.gg/AQJPsTeuGR) | 2025-05-11T04:01:22+00:00 | 1334904463403778190 |
 
 </details>
 
@@ -507,6 +507,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369446582088503316/a298c1124b18c32e0823e81c65ffd42c.png" width="24">ART | ˗ˏˋ  hxrte ♡ ˎˊ˗  ART tag | [gTBpzsZpRZ](https://discord.gg/gTBpzsZpRZ) | 1369446582088503316 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766133456179371/f014231839285ba5158fda66073994b2.png" width="24">ARX | TUF Game | [ecR3NsTzbK](https://discord.gg/ecR3NsTzbK) | 1369766133456179371 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369297906905124914/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">ASIA | Asia | [hxBad2n6X6](https://discord.gg/hxBad2n6X6) | 1369297906905124914 |
+| <img src="https://cdn.discordapp.com/clan-badges/1347498747650768896/04cee49fbcaa69a71206ccb637470e72.png" width="24">ASL | ASL (OCE) \| SEASON 1 | [DwFvN26pgQ](https://discord.gg/DwFvN26pgQ) | 1347498747650768896 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369712433232609420/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">ASS | #ASS | [aKtDdEvRUS](https://discord.gg/aKtDdEvRUS) | 1369712433232609420 |
 | <img src="https://cdn.discordapp.com/clan-badges/655121499820261407/500310efcb666c62d5bc28ed19e9c1d1.png" width="24">ATG | MTA:SA Ankaram Tofas Gaming... | [ATG](https://discord.gg/ATG) | 655121499820261407 |
 | <img src="https://cdn.discordapp.com/clan-badges/1172245377395728464/73d86ffb81cdcdc4f275eaf3b82fca31.png" width="24">ATL | All Things Linux | [linux](https://discord.gg/linux) | 1172245377395728464 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/488789527628873738/736e7d8bb18ed68b6e0223765e79015e.png" width="24">VTC | Prime Logistics | [prime](https://discord.gg/prime) | 2025-05-11T09:35:29+00:00 | 488789527628873738 |
 | <img src="https://cdn.discordapp.com/clan-badges/929241027267690496/2c7aa014ee3599b6b7089ce933971852.png" width="24">mwa | /like ♡ 150+ free tags ﹒ as... | [like](https://discord.gg/like) | 2025-05-11T09:30:26+00:00 | 929241027267690496 |
 | <img src="https://cdn.discordapp.com/clan-badges/1223233367550464000/7f968d34689b032120d7a0f2a3d69b83.png" width="24">SYB㍳ | Stay Young Beautiful n Unique | [Tvw6geMUaP](https://discord.gg/Tvw6geMUaP) | 2025-05-11T09:30:26+00:00 | 1223233367550464000 |
 | <img src="https://cdn.discordapp.com/clan-badges/1353780403592499323/bf46722e416c7607a3362934bbc42b2d.png" width="24">PAPA | PAPA Tag  •  .gg/fsk | [WWVfxZNKt3](https://discord.gg/WWVfxZNKt3) | 2025-05-11T09:25:22+00:00 | 1353780403592499323 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1214931244819943474/d671ef2d4aa50010c6d49b2865f80068.png" width="24">GT | Growtopian&#x27;s Palace! | [DGD9u9SzAs](https://discord.gg/DGD9u9SzAs) | 2025-05-11T06:07:59+00:00 | 1214931244819943474 |
 | <img src="https://cdn.discordapp.com/clan-badges/770058007757193238/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">ONI | Shrine | [QwfuJB7ykQ](https://discord.gg/QwfuJB7ykQ) | 2025-05-11T06:07:59+00:00 | 770058007757193238 |
 | <img src="https://cdn.discordapp.com/clan-badges/1270866674777854082/ccf49c1cc24bd4bf9b7c20aec1800e00.png" width="24">゜ꢾ𓍢 | ░ 　　、　　　　𓈒  ᘏ⑅ᘏ | [7BdcxQZ4Fr](https://discord.gg/7BdcxQZ4Fr) | 2025-05-11T06:02:55+00:00 | 1270866674777854082 |
-| <img src="https://cdn.discordapp.com/clan-badges/1069285054049681439/c1a3cbc892c9abe2b90f1d6773f2bf8b.png" width="24">CRTX | Cortex&#x27;s Cozy Cabin (Tag) | [syJefCZCwv](https://discord.gg/syJefCZCwv) | 2025-05-11T06:02:55+00:00 | 1069285054049681439 |
 
 </details>
 
@@ -2386,6 +2386,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1234962559791140896/5475dc30878037e8100ac21dd920c15d.png" width="24">VPS | Altvine — Cloud Hosting | [6SRkhdNQbk](https://discord.gg/6SRkhdNQbk) | 1234962559791140896 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369867070149492840/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">VRC | VRChatterの集い | [aYXmDKkTRY](https://discord.gg/aYXmDKkTRY) | 1369867070149492840 |
 | <img src="https://cdn.discordapp.com/clan-badges/1363196129180909729/c1e4439afa95753a4bab531e3c4c42d1.png" width="24">VTB | Tags Clan Gaming Vtb | [nEQCKVJGG5](https://discord.gg/nEQCKVJGG5) | 1363196129180909729 |
+| <img src="https://cdn.discordapp.com/clan-badges/488789527628873738/736e7d8bb18ed68b6e0223765e79015e.png" width="24">VTC | Prime Logistics | [prime](https://discord.gg/prime) | 488789527628873738 |
 | <img src="https://cdn.discordapp.com/clan-badges/1347951919812837446/b70926c4409284ee5f7ecae334eed9fe.png" width="24">VURO | Carnage \| Roblox Botting Tool | [robloxbotting](https://discord.gg/robloxbotting) | 1347951919812837446 |
 | <img src="https://cdn.discordapp.com/clan-badges/1293637281135198208/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">VVIP | 에벨이냐? | [ykr7nfDcc4](https://discord.gg/ykr7nfDcc4) | 1293637281135198208 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369759701591523338/78c0050f2d9436e92a33378ebff32492.png" width="24">VVS | 💎VVS💎 | [QEMpzkBFm5](https://discord.gg/QEMpzkBFm5) | 1369759701591523338 |

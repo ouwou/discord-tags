@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1342158412863111258/c701e93cdced318ea9c56bd1363cc724.png" width="24">VELV | ♡𝓥𝓮𝓵𝓿𝓮𝓽 𝓦𝓱𝓲𝓼𝓹𝓮𝓻𝓼♡ | [vwhispers](https://discord.gg/vwhispers) | 2025-05-11T08:09:28+00:00 | 1342158412863111258 |
+| <img src="https://cdn.discordapp.com/clan-badges/628461859300704256/76caafb4c801b4afa6ecef6a46b94c32.png" width="24">哥布林 | 占皮會所 Jimpae Clubhouse | [Jimpae](https://discord.gg/Jimpae) | 2025-05-11T08:09:28+00:00 | 628461859300704256 |
+| <img src="https://cdn.discordapp.com/clan-badges/1304114229653278791/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">遐蝶 | Castorice Mains ʚɞ Honkai: ... | [Castorice](https://discord.gg/Castorice) | 2025-05-11T08:09:28+00:00 | 1304114229653278791 |
 | <img src="https://cdn.discordapp.com/clan-badges/1352714439454883929/b6f6582eb0301ce069e00b2a99323975.png" width="24">007 | [ SN ] ✗ Season Clan #150 (... | [YUybTQkdzf](https://discord.gg/YUybTQkdzf) | 2025-05-11T07:59:22+00:00 | 1352714439454883929 |
 | <img src="https://cdn.discordapp.com/clan-badges/351476683016241162/5410c0c04f21555354039fd700661550.png" width="24">e308 | Antimatter Dimensions | [antimatterdimensions](https://discord.gg/antimatterdimensions) | 2025-05-11T07:59:22+00:00 | 351476683016241162 |
 | <img src="https://cdn.discordapp.com/clan-badges/451809446465634305/7f968d34689b032120d7a0f2a3d69b83.png" width="24">TFR | TheFatRat | [thefatrat](https://discord.gg/thefatrat) | 2025-05-11T07:59:22+00:00 | 451809446465634305 |
@@ -69,9 +72,9 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369706989764083742/f915d64c4daa5c3303d6681a93d5c72d.png" width="24">kiwi | .gg/cinnabun 🥝 | [6ZwkkBXE9Z](https://discord.gg/6ZwkkBXE9Z) | 2025-05-11T05:47:43+00:00 | 1369706989764083742 |
 | <img src="https://cdn.discordapp.com/clan-badges/1317298261211742248/a3157678d3f97d789e959f9c62499918.png" width="24">ʀᴇᴀʟ | ʀᴇᴀʟ | [Yh4zhCXVA8](https://discord.gg/Yh4zhCXVA8) | 2025-05-11T05:47:43+00:00 | 1317298261211742248 |
 | <img src="https://cdn.discordapp.com/clan-badges/424447023765520386/478b10f080c53bc32bb593cde12f87ca.png" width="24">SUKI | 🌸 Blossom Empire ⛩ Anime &a... | [join](https://discord.gg/join) | 2025-05-11T05:47:43+00:00 | 424447023765520386 |
+| <img src="https://cdn.discordapp.com/clan-badges/876070919850840065/254aa130e02b6ee148d1c1fb184150ed.png" width="24">HZM | Hazem&#x27;s Server | [hazem](https://discord.gg/hazem) | 2025-05-11T05:42:39+00:00 | 876070919850840065 |
 | <img src="https://cdn.discordapp.com/clan-badges/222078108977594368/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">CRWL | discord.js - Imagine an app | [djs](https://discord.gg/djs) | 2025-05-11T05:42:39+00:00 | 222078108977594368 |
 | <img src="https://cdn.discordapp.com/clan-badges/414027124836532234/8084d59ab2c97476363c0eb9c88c8486.png" width="24">DUCK | Kurzgesagt - In a Nutshell | [kurzgesagt](https://discord.gg/kurzgesagt) | 2025-05-11T05:42:39+00:00 | 414027124836532234 |
-| <img src="https://cdn.discordapp.com/clan-badges/876070919850840065/254aa130e02b6ee148d1c1fb184150ed.png" width="24">HZM | Hazem&#x27;s Server | [hazem](https://discord.gg/hazem) | 2025-05-11T05:42:39+00:00 | 876070919850840065 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370098092086530089/d84985dab45c3cdcf569e45b89851750.png" width="24">d4dj | d4dj   『  d4dj   』 | [AwapwSWkWn](https://discord.gg/AwapwSWkWn) | 2025-05-11T05:37:35+00:00 | 1370098092086530089 |
 | <img src="https://cdn.discordapp.com/clan-badges/1256515401714630707/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">MEOW | dawn (hisomeru) ((meow)) | [GktdaCtSqe](https://discord.gg/GktdaCtSqe) | 2025-05-11T05:37:35+00:00 | 1256515401714630707 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369994259704578118/824eb921cf347421b4a0ead4d83f9e42.png" width="24">pup | 🩵 pup tag • Boosts needed! 🦴 | [AHdvCwRu3c](https://discord.gg/AHdvCwRu3c) | 2025-05-11T05:37:35+00:00 | 1369994259704578118 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1235822338264793129/17450651319160ea7a70d46523288dbe.png" width="24">RNFN | Ranfren Community 🏘 | [ranfren](https://discord.gg/ranfren) | 2025-05-11T05:02:09+00:00 | 1235822338264793129 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369786953641230397/86735389348f3eacfa519eb553df38fd.png" width="24">WHO? | who? | [whois](https://discord.gg/whois) | 2025-05-11T05:02:09+00:00 | 1369786953641230397 |
 | <img src="https://cdn.discordapp.com/clan-badges/857307178766827581/ffc077e06fedda6927aa2034f0111e2b.png" width="24">うりぼー | うりぼー | [uribo](https://discord.gg/uribo) | 2025-05-11T05:02:09+00:00 | 857307178766827581 |
-| <img src="https://cdn.discordapp.com/clan-badges/1360935272115732650/b4355aca0efcf84f702c0a2c268ce9a4.png" width="24">୨୧ | MysticaMC Towny | [WCNAehdudw](https://discord.gg/WCNAehdudw) | 2025-05-11T04:57:05+00:00 | 1360935272115732650 |
-| <img src="https://cdn.discordapp.com/clan-badges/1346703244440637531/8d61abb8b5da075befaff858861dba54.png" width="24">Gawr | Hololivians | [V5Fg9qMH7n](https://discord.gg/V5Fg9qMH7n) | 2025-05-11T04:57:05+00:00 | 1346703244440637531 |
-| <img src="https://cdn.discordapp.com/clan-badges/1322805804541284392/005ac2e5c4ccc90de81f558ea8a019f7.png" width="24">GSS | ⟪𝐓𝐡𝐞 𝐒𝐨𝐮𝐥𝐥𝐞𝐬𝐬 𝐋𝐨𝐮𝐧𝐠𝐞⟫ ⟪GSS⟫ | [ewuQxGNgyQ](https://discord.gg/ewuQxGNgyQ) | 2025-05-11T04:57:05+00:00 | 1322805804541284392 |
 
 </details>
 
@@ -1462,10 +1462,10 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1266173469427503278/ce102333ecc7bde9547b1dcb07bd7f39.png" width="24">LOAF | ℂ𝕠𝕫𝕪 𝔾𝕒𝕞𝕖 ℂ𝕠𝕣𝕟𝕖𝕣 | [35gfWdGNra](https://discord.gg/35gfWdGNra) | 1266173469427503278 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369804663087566909/42eac77ac66033b54432f1555b4c12a8.png" width="24">LOFI | LOFI | [ucjuqvbatN](https://discord.gg/ucjuqvbatN) | 1369804663087566909 |
 | <img src="https://cdn.discordapp.com/clan-badges/1330738492304658514/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">LOFY | LOFY | [rcD8XrJZug](https://discord.gg/rcD8XrJZug) | 1330738492304658514 |
+| <img src="https://cdn.discordapp.com/clan-badges/553224244188807188/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">LOL | League of Legends FR | [leagueoflegendsfr](https://discord.gg/leagueoflegendsfr) | 553224244188807188 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369440025678315520/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">LOL | wolf club | [rBXrMgeM57](https://discord.gg/rBXrMgeM57) | 1369440025678315520 |
 | <img src="https://cdn.discordapp.com/clan-badges/1285522531536736319/17142f0330878b7e05a9f19c916d3b85.png" width="24">LOL | L O L  Tag .gg/m7md | [ea8mXttSSx](https://discord.gg/ea8mXttSSx) | 1285522531536736319 |
 | <img src="https://cdn.discordapp.com/clan-badges/1163104256824455208/66e6116fb71622d52bed149a17914270.png" width="24">LOL | .a | [NMxR6pAxmK](https://discord.gg/NMxR6pAxmK) | 1163104256824455208 |
-| <img src="https://cdn.discordapp.com/clan-badges/553224244188807188/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">LOL | League of Legends FR | [leagueoflegendsfr](https://discord.gg/leagueoflegendsfr) | 553224244188807188 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369573005398773790/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">LOML | LOML tag \| /loml | [6ArhMS3aGS](https://discord.gg/6ArhMS3aGS) | 1369573005398773790 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369422992676880424/d33eed936db40acf5f7fa8bebe1c258d.png" width="24">LOOP | Loop&#x27;d | [TWHsfJmxYX](https://discord.gg/TWHsfJmxYX) | 1369422992676880424 |
 | <img src="https://cdn.discordapp.com/clan-badges/1248711782713790544/bdf7998de2b7f8d2153aa572b8cf2e82.png" width="24">LOOT | Free To Keep \| Game Deals | [XNmp3jQb3k](https://discord.gg/XNmp3jQb3k) | 1248711782713790544 |
@@ -2318,6 +2318,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1280926004029948035/310d9b669d687de773b5f3b5310ca1f3.png" width="24">VEIN | #vein | [HU4QJ56aCm](https://discord.gg/HU4QJ56aCm) | 1280926004029948035 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369738394044862514/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">VELO | Velocity Tag | [XGcj9WA9Yg](https://discord.gg/XGcj9WA9Yg) | 1369738394044862514 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369360441591070871/40a7aa796426347d6b76d20dfed2c273.png" width="24">VELO | Velo Store | [5whJa6Twmr](https://discord.gg/5whJa6Twmr) | 1369360441591070871 |
+| <img src="https://cdn.discordapp.com/clan-badges/1342158412863111258/c701e93cdced318ea9c56bd1363cc724.png" width="24">VELV | ♡𝓥𝓮𝓵𝓿𝓮𝓽 𝓦𝓱𝓲𝓼𝓹𝓮𝓻𝓼♡ | [vwhispers](https://discord.gg/vwhispers) | 1342158412863111258 |
 | <img src="https://cdn.discordapp.com/clan-badges/1365799948884381698/592bf188d4e2ef5a820ff586f47c044c.png" width="24">VERT | Lil Uzi Vert | [ymWB83vbnS](https://discord.gg/ymWB83vbnS) | 1365799948884381698 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369523512288608286/a44fd03826dd0fed0199c481816f22f9.png" width="24">VFX | VFX // Tag | [QunwedXa73](https://discord.gg/QunwedXa73) | 1369523512288608286 |
 | <img src="https://cdn.discordapp.com/clan-badges/640292981571584013/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">VH | Velvet Hangout | [persona](https://discord.gg/persona) | 640292981571584013 |
@@ -3672,6 +3673,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369982675183734884/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">可愛蘿莉 | 可愛ㄌㄌ【TAG】 | [4RUGpm5Bhe](https://discord.gg/4RUGpm5Bhe) | 1369982675183734884 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369663708028080139/b97e3dbf03749699d70ed1de661f2543.png" width="24">可爱 | ノ mofu  🌸  guild ．social ．d... | [NT4P6dm5U5](https://discord.gg/NT4P6dm5U5) | 1369663708028080139 |
 | <img src="https://cdn.discordapp.com/clan-badges/1290232488110723092/90cf6cbdacc2c0a392d245ca62a3ced8.png" width="24">史萊姆 | C-power｜碳力量 | [PrH366Zh7A](https://discord.gg/PrH366Zh7A) | 1290232488110723092 |
+| <img src="https://cdn.discordapp.com/clan-badges/628461859300704256/76caafb4c801b4afa6ecef6a46b94c32.png" width="24">哥布林 | 占皮會所 Jimpae Clubhouse | [Jimpae](https://discord.gg/Jimpae) | 628461859300704256 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369626014363291689/5a8c890fc5016998311ae4d9390c74e4.png" width="24">大尔 | 大尔 | [rwxsaKtSZG](https://discord.gg/rwxsaKtSZG) | 1369626014363291689 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370013266461331486/6473797948e6d36a991e425c8b7c353c.png" width="24">大展鴻圖 | 大展鴻圖 | [PDW8mVBkpZ](https://discord.gg/PDW8mVBkpZ) | 1370013266461331486 |
 | <img src="https://cdn.discordapp.com/clan-badges/995965902564630540/b3490c2252cd8d8b3f1b32c9907dcca2.png" width="24">大鳴王朝 | pe̍h-chhis&#x27; chat group | [6yZ84a6nCb](https://discord.gg/6yZ84a6nCb) | 995965902564630540 |
@@ -3766,6 +3768,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369779017741369384/8d61abb8b5da075befaff858861dba54.png" width="24">超级大杯 | 超级大杯☕ | [V2kuYSvJJ2](https://discord.gg/V2kuYSvJJ2) | 1369779017741369384 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369668188526088253/7f968d34689b032120d7a0f2a3d69b83.png" width="24">蹦蹦炸彈 | 想要什麼tag進來講 | [GPcQbxHrxR](https://discord.gg/GPcQbxHrxR) | 1369668188526088253 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755695720824882/79366e8660935912726217b413fcc19b.png" width="24">通報一択 | &quot;通報&quot; on top [💀通報一択] | [RHQzXe6uWA](https://discord.gg/RHQzXe6uWA) | 1369755695720824882 |
+| <img src="https://cdn.discordapp.com/clan-badges/1304114229653278791/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">遐蝶 | Castorice Mains ʚɞ Honkai: ... | [Castorice](https://discord.gg/Castorice) | 1304114229653278791 |
 | <img src="https://cdn.discordapp.com/clan-badges/522088898541912094/0437e66874944d9eafae8ed3b9b7418a.png" width="24">重音テト | Kasane Teto | [kasaneteto](https://discord.gg/kasaneteto) | 522088898541912094 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369349537659097199/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">野獣先輩 | 野獣邸 \| dsc.gg/yaju-tag | [f3y8tfj2bZ](https://discord.gg/f3y8tfj2bZ) | 1369349537659097199 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369312369179754536/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">障害者 | ひまわり学級 | [Z5xRSVfTKH](https://discord.gg/Z5xRSVfTKH) | 1369312369179754536 |

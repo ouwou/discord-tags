@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1287353106379706459/80e49bbcd08c608a6f49671e2d0828da.png" width="24">CLUB | NİGHT CLUB 🍷#HAZIRLIK | [Sbq55pefGc](https://discord.gg/Sbq55pefGc) | 2025-05-11T03:35:59+00:00 | 1287353106379706459 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369480900961898598/4c6b987648217084cc4371c4f129b87b.png" width="24">liar | .gg/ski for access [liar] | [puuwqAudKB](https://discord.gg/puuwqAudKB) | 2025-05-11T03:35:59+00:00 | 1369480900961898598 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369652709401034872/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">404 | 404 /rupture | [dQbBuQwTvG](https://discord.gg/dQbBuQwTvG) | 2025-05-11T03:25:52+00:00 | 1369652709401034872 |
 | <img src="https://cdn.discordapp.com/clan-badges/1291343467364225096/8563496f8ac9ec28020d0b36470f9b55.png" width="24">W4Y | asterum | [89ESUJxAnw](https://discord.gg/89ESUJxAnw) | 2025-05-11T03:25:52+00:00 | 1291343467364225096 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369579674534936596/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">CRAB | \~! CRAB&#x27;S NEST !\~ | [EjM2ZubG](https://discord.gg/EjM2ZubG) | 2025-05-11T03:15:46+00:00 | 1369579674534936596 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369925573207658607/038816964018ec4c5b50494e1dc0b11e.png" width="24">4EVR | 𝟒𝐄𝐕𝐑 | [EPYWVHqe4q](https://discord.gg/EPYWVHqe4q) | 2025-05-11T00:38:55+00:00 | 1369925573207658607 |
 | <img src="https://cdn.discordapp.com/clan-badges/1093565537533050892/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">7766 | re6cord | [re6ce](https://discord.gg/re6ce) | 2025-05-11T00:38:55+00:00 | 1093565537533050892 |
 | <img src="https://cdn.discordapp.com/clan-badges/1248691597944688731/1ad670565a885b7bd0b2ac54562d827b.png" width="24">Aww | Aww #Tag /eri | [s9skAB97HR](https://discord.gg/s9skAB97HR) | 2025-05-11T00:38:55+00:00 | 1248691597944688731 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369779646031204477/2a3f69207b1f99b79111542bd6bda178.png" width="24">CAPY | Akatsuki Tag [ CAPY ] dscgg... | [UnR6QmhMPm](https://discord.gg/UnR6QmhMPm) | 2025-05-11T00:38:55+00:00 | 1369779646031204477 |
-| <img src="https://cdn.discordapp.com/clan-badges/961828470588047380/310d9b669d687de773b5f3b5310ca1f3.png" width="24">DOA | 𝘸𝘦𝘦𝘯𝘪𝘺 𝘩𝘶𝘵 𝘫𝘳 | [xGAJx2XUYt](https://discord.gg/xGAJx2XUYt) | 2025-05-11T00:38:55+00:00 | 961828470588047380 |
 
 </details>
 
@@ -716,6 +716,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1308388315686375505/59c0f381f2399f5317d14ebcda909857.png" width="24">CLIP | Clipster | [clipster](https://discord.gg/clipster) | 1308388315686375505 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369635050068377610/ba8a90eede32aca30ce7305dfb77b4cd.png" width="24">CLRT | ClarityTag /Wavetag | [zmhZ4vqj2a](https://discord.gg/zmhZ4vqj2a) | 1369635050068377610 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369407597635178697/7dff089fbee252a67e72a08ae58a0376.png" width="24">CLS | CLS63 | [NsmnXrWM5c](https://discord.gg/NsmnXrWM5c) | 1369407597635178697 |
+| <img src="https://cdn.discordapp.com/clan-badges/1287353106379706459/80e49bbcd08c608a6f49671e2d0828da.png" width="24">CLUB | NİGHT CLUB 🍷#HAZIRLIK | [Sbq55pefGc](https://discord.gg/Sbq55pefGc) | 1287353106379706459 |
 | <img src="https://cdn.discordapp.com/clan-badges/1358881053661593680/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">CMH | Sot Solution | [sotsolution](https://discord.gg/sotsolution) | 1358881053661593680 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369792889521176657/4507c292a7c649b9e6e357ac11c5492c.png" width="24">CNC | CNC | [m5equGCugr](https://discord.gg/m5equGCugr) | 1369792889521176657 |
 | <img src="https://cdn.discordapp.com/clan-badges/846037957194416129/78b1ebb6b97565376cb5345a0631e362.png" width="24">COD | Decoy | [lbdecoy](https://discord.gg/lbdecoy) | 846037957194416129 |
@@ -2783,6 +2784,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/968473856681574491/6abde34753eedc9b189db0b0ba336744.png" width="24">lazy | lazy tag | [rQKr2XRWWp](https://discord.gg/rQKr2XRWWp) | 968473856681574491 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753671931527379/70b4a0b96a668af3255865fe3ad2e151.png" width="24">leak | leak /pxguild | [QZUJgbhFJM](https://discord.gg/QZUJgbhFJM) | 1369753671931527379 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369451282154258543/78b1ebb6b97565376cb5345a0631e362.png" width="24">lean | &gt;.&lt; | [4yBr3G73WC](https://discord.gg/4yBr3G73WC) | 1369451282154258543 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369480900961898598/4c6b987648217084cc4371c4f129b87b.png" width="24">liar | .gg/ski for access [liar] | [puuwqAudKB](https://discord.gg/puuwqAudKB) | 1369480900961898598 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369340205278040104/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">litc | ✧ 　 🫧 　 /litc　﹒　❁ | [d6Dnbmp8zx](https://discord.gg/d6Dnbmp8zx) | 1369340205278040104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1337508380339867730/8d61abb8b5da075befaff858861dba54.png" width="24">litc | / litc | [SagX98987U](https://discord.gg/SagX98987U) | 1337508380339867730 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369537703795888129/f738104a6adf101fcb50a2408be0b6d0.png" width="24">lizr | Certified Lizr Enjoyers | [SBKjkJcD79](https://discord.gg/SBKjkJcD79) | 1369537703795888129 |

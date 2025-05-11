@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369764938356097104/2c7aa014ee3599b6b7089ce933971852.png" width="24">cat | raccoons are cool | [Raccoon](https://discord.gg/Raccoon) | 2025-05-11T04:26:43+00:00 | 1369764938356097104 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369633245842636956/40a7aa796426347d6b76d20dfed2c273.png" width="24">ex | ex - /rupture | [GYvuvNRzvT](https://discord.gg/GYvuvNRzvT) | 2025-05-11T04:26:43+00:00 | 1369633245842636956 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719426739474605/5d89c8e4db709b3799adbaba81250c7a.png" width="24">۟₊˖ɞ | ʚ˚₊‧ | [jR7VfQwHnB](https://discord.gg/jR7VfQwHnB) | 2025-05-11T04:21:39+00:00 | 1369719426739474605 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369768172873449492/3f1609385febac353d511ff67416c6fe.png" width="24">ＧＯＤ | GOD TAG | [Ns3ua3DQfr](https://discord.gg/Ns3ua3DQfr) | 2025-05-11T04:21:39+00:00 | 1369768172873449492 |
 | <img src="https://cdn.discordapp.com/clan-badges/178510947873325057/c8d016eed5c8752316ca38fdd54380c6.png" width="24">KKKK | Kool Kids Klub | [Kool](https://discord.gg/Kool) | 2025-05-11T04:16:36+00:00 | 178510947873325057 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370077358421446748/e0612577504e85f0cc5db11683e1d53e.png" width="24">hate | .gg/deadtag \| hate | [yzpn85xEE6](https://discord.gg/yzpn85xEE6) | 2025-05-11T00:49:03+00:00 | 1370077358421446748 |
 | <img src="https://cdn.discordapp.com/clan-badges/1284676283430731796/26e9fd0103ebb072f72086a4a1b9c622.png" width="24">numb | .gg/deadtag \| numb | [rDPCv7jBSC](https://discord.gg/rDPCv7jBSC) | 2025-05-11T00:49:03+00:00 | 1284676283430731796 |
 | <img src="https://cdn.discordapp.com/clan-badges/1277836212475924573/dc7144c4c943a825df809fea6ca0258c.png" width="24">pain | .gg/deadtag \| pain | [u2Vxz6n5Tf](https://discord.gg/u2Vxz6n5Tf) | 2025-05-11T00:49:03+00:00 | 1277836212475924573 |
-| <img src="https://cdn.discordapp.com/clan-badges/727833356502433864/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">smol | official smolgrape server w... | [ySgKCvK3bh](https://discord.gg/ySgKCvK3bh) | 2025-05-11T00:49:03+00:00 | 727833356502433864 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369463464556498944/8d61abb8b5da075befaff858861dba54.png" width="24">×͜× | ×͜× \| .gg/deadtag | [auqtJKPtgg](https://discord.gg/auqtJKPtgg) | 2025-05-11T00:43:59+00:00 | 1369463464556498944 |
 
 </details>
 
@@ -2546,6 +2546,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369397017620643860/40a7aa796426347d6b76d20dfed2c273.png" width="24">cat | ．cat guild tag ୨ৎ | [zfRQus9Cgn](https://discord.gg/zfRQus9Cgn) | 1369397017620643860 |
 | <img src="https://cdn.discordapp.com/clan-badges/1079707474740916235/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">cat | cat sanctuary :3 | [6Vwq5kNfG7](https://discord.gg/6Vwq5kNfG7) | 1079707474740916235 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369780636025487360/cc1105253c8efd3b1b154770cf9f3bfe.png" width="24">cat | cat | [ubun](https://discord.gg/ubun) | 1369780636025487360 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369764938356097104/2c7aa014ee3599b6b7089ce933971852.png" width="24">cat | raccoons are cool | [Raccoon](https://discord.gg/Raccoon) | 1369764938356097104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369145942472785990/8d61abb8b5da075befaff858861dba54.png" width="24">cats | cats /backup | [gMF6cxjr5N](https://discord.gg/gMF6cxjr5N) | 1369145942472785990 |
 | <img src="https://cdn.discordapp.com/clan-badges/1201798305655291916/506143d9db4d398c2c8ea73288290d98.png" width="24">chae | #gіrᥣᥴodᥱ  ࣪ ₍^. .^₎⟆ | [chae](https://discord.gg/chae) | 1201798305655291916 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369417824241455255/baa4ef94c209be4f8ec5ebadf27bfd96.png" width="24">chan | CHAN TAG • CHAT • SOCIAL | [sPDHMvB3pR](https://discord.gg/sPDHMvB3pR) | 1369417824241455255 |
@@ -2641,6 +2642,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/566658060781748260/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">esex | .gg/break (esex) | [break](https://discord.gg/break) | 566658060781748260 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369759334275350699/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">evil | Tag &gt; evil | [tke6meZtD4](https://discord.gg/tke6meZtD4) | 1369759334275350699 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369846509486608415/b6f6582eb0301ce069e00b2a99323975.png" width="24">ex | jail and zoxi fun server! | [v3a7dJyBpe](https://discord.gg/v3a7dJyBpe) | 1369846509486608415 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369633245842636956/40a7aa796426347d6b76d20dfed2c273.png" width="24">ex | ex - /rupture | [GYvuvNRzvT](https://discord.gg/GYvuvNRzvT) | 1369633245842636956 |
 | <img src="https://cdn.discordapp.com/clan-badges/1181484126352724029/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">exe | /cash | [cash](https://discord.gg/cash) | 1181484126352724029 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369740009384579147/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">ext | #fg - private | [bjypshW3T4](https://discord.gg/bjypshW3T4) | 1369740009384579147 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369715832111894578/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">eyes | all eyes on me | [pus](https://discord.gg/pus) | 1369715832111894578 |

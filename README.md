@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/178510947873325057/c8d016eed5c8752316ca38fdd54380c6.png" width="24">KKKK | Kool Kids Klub | [Kool](https://discord.gg/Kool) | 2025-05-11T04:16:36+00:00 | 178510947873325057 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369431011091550409/2c7aa014ee3599b6b7089ce933971852.png" width="24">ꐕꆜ | .exe | [WmQBh6aWzx](https://discord.gg/WmQBh6aWzx) | 2025-05-11T04:16:36+00:00 | 1369431011091550409 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369591561662369822/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">سلام | /Salam \| 💀 سلام | [DJcTtHkTbP](https://discord.gg/DJcTtHkTbP) | 2025-05-11T04:11:32+00:00 | 1369591561662369822 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370037440521310218/78157464c8ae47b0af7c0326053f62a7.png" width="24">岡田夢以 | 夢以的貝斯/ rAGey6KGZB | [rAGey6KGZB](https://discord.gg/rAGey6KGZB) | 2025-05-11T04:11:32+00:00 | 1370037440521310218 |
 | <img src="https://cdn.discordapp.com/clan-badges/1255003376660512771/26ab700703d5c0d4956f3fbb047fea41.png" width="24">立石凜 | 凜醬 | [qxfajw6XsN](https://discord.gg/qxfajw6XsN) | 2025-05-11T04:11:32+00:00 | 1255003376660512771 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369463464556498944/8d61abb8b5da075befaff858861dba54.png" width="24">×͜× | ×͜× \| .gg/deadtag | [auqtJKPtgg](https://discord.gg/auqtJKPtgg) | 2025-05-11T00:43:59+00:00 | 1369463464556498944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369456142815727636/c8d016eed5c8752316ca38fdd54380c6.png" width="24">1/1 | 1/1 \| .gg/deadtag | [pZEkhChmN2](https://discord.gg/pZEkhChmN2) | 2025-05-11T00:43:59+00:00 | 1369456142815727636 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369466547185123439/1833a3497f526a5a60d6132ff85eff56.png" width="24">꣑ৎ | ꣑ৎ \| .gg/deadtag | [PreJUeU4SV](https://discord.gg/PreJUeU4SV) | 2025-05-11T00:43:59+00:00 | 1369466547185123439 |
-| <img src="https://cdn.discordapp.com/clan-badges/1206617742111809556/74a4d9095719af0bbde0ceace6bdd965.png" width="24">APPS | Akatsuki Tag [APPS] \| .gg/... | [byn4KVHq8G](https://discord.gg/byn4KVHq8G) | 2025-05-11T00:43:59+00:00 | 1206617742111809556 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369762378048340124/3661c420b80942e7b4d17344b96c773e.png" width="24">CHỺL | .gg/deadtag \| chill | [U8Xmy4kTcY](https://discord.gg/U8Xmy4kTcY) | 2025-05-11T00:43:59+00:00 | 1369762378048340124 |
 
 </details>
 
@@ -1363,6 +1363,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369745691722780805/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">KISS | KISS #Tag | [YQCF252hq8](https://discord.gg/YQCF252hq8) | 1369745691722780805 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369787958227370045/4a214c2fe8e64ba5213d578dcac2530d.png" width="24">KISS | .gg/envvy &#x27; #KISS | [YjScKdr6zF](https://discord.gg/YjScKdr6zF) | 1369787958227370045 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369665475876884561/267ea2db0edfcbb28466b14bd215b8e6.png" width="24">KITA | Kita&#x27;s Room | [dgc3vJ9k8s](https://discord.gg/dgc3vJ9k8s) | 1369665475876884561 |
+| <img src="https://cdn.discordapp.com/clan-badges/178510947873325057/c8d016eed5c8752316ca38fdd54380c6.png" width="24">KKKK | Kool Kids Klub | [Kool](https://discord.gg/Kool) | 178510947873325057 |
 | <img src="https://cdn.discordapp.com/clan-badges/1250206637675778179/bc2f7685eed9d27522595f510bb2da48.png" width="24">KLM | KLM #GUILD | [9ZeSMgKh5d](https://discord.gg/9ZeSMgKh5d) | 1250206637675778179 |
 | <img src="https://cdn.discordapp.com/clan-badges/1349863652697706628/fa7f72ec9affdbcfb9ae39d7ea5f450d.png" width="24">KMM | Kirka Middle Men | [pSTTyd6ETV](https://discord.gg/pSTTyd6ETV) | 1349863652697706628 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369569250792046622/d8028e3189542f9cd218c28373bc178a.png" width="24">KNTY | BAN APPEALS [KNTY] | [Yfypj3Nhjc](https://discord.gg/Yfypj3Nhjc) | 1369569250792046622 |
@@ -3674,6 +3675,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369295566596472894/fa9cc80236e71715c90d24db7ee9eb53.png" width="24">黒人奴隷 | 黒人奴隷ファンサーバー | [SPYdXbPNWE](https://discord.gg/SPYdXbPNWE) | 1369295566596472894 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716369624662138/10e006e6d37827cc162844ff18aff0dd.png" width="24">ꈍᴗꈍ | (guild tag) | [Qf5YgHGy69](https://discord.gg/Qf5YgHGy69) | 1369716369624662138 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369209268393214044/545d18645863cad97f3e33fdd008e218.png" width="24">ꈍᴗꈍ | ꈍᴗꈍ | [SEyhmuBJwM](https://discord.gg/SEyhmuBJwM) | 1369209268393214044 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369431011091550409/2c7aa014ee3599b6b7089ce933971852.png" width="24">ꐕꆜ | .exe | [WmQBh6aWzx](https://discord.gg/WmQBh6aWzx) | 1369431011091550409 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370044586675671222/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">ꔫ༄ | .gg/deadtag \| ꔫ༄ | [Tz367YVsdZ](https://discord.gg/Tz367YVsdZ) | 1370044586675671222 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698532126363789/1db8cd9076508424ab917ef05e48d860.png" width="24">ꕥ´ | 𝔫𝔬𝔱𝔥𝔦𝔫𝔤 | [XJts7Wqya5](https://discord.gg/XJts7Wqya5) | 1369698532126363789 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369356672249630740/278ab383a84e2e7414c9baad06d03a8f.png" width="24">꙳˖\*࿐ | Lvrs│ ꙳˖\*࿐ | [UcKNWvGyWC](https://discord.gg/UcKNWvGyWC) | 1369356672249630740 |

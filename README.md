@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1168462054240309329/fd0f6da33fbe58a4f8298442b8f7d2fc.png" width="24">ECOS | 🧿✧ＥＣＯＳ | [aD7JyfKFRj](https://discord.gg/aD7JyfKFRj) | 2025-05-11T04:31:46+00:00 | 1168462054240309329 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369266612774895616/86735389348f3eacfa519eb553df38fd.png" width="24">UHQ | UHQ #GUILD | [uhqtag](https://discord.gg/uhqtag) | 2025-05-11T04:31:46+00:00 | 1369266612774895616 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764938356097104/2c7aa014ee3599b6b7089ce933971852.png" width="24">cat | raccoons are cool | [Raccoon](https://discord.gg/Raccoon) | 2025-05-11T04:26:43+00:00 | 1369764938356097104 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369633245842636956/40a7aa796426347d6b76d20dfed2c273.png" width="24">ex | ex - /rupture | [GYvuvNRzvT](https://discord.gg/GYvuvNRzvT) | 2025-05-11T04:26:43+00:00 | 1369633245842636956 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369719426739474605/5d89c8e4db709b3799adbaba81250c7a.png" width="24">۟₊˖ɞ | ʚ˚₊‧ | [jR7VfQwHnB](https://discord.gg/jR7VfQwHnB) | 2025-05-11T04:21:39+00:00 | 1369719426739474605 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1345765388381589514/6a725586b700ca87c7c39fb42ea35c8b.png" width="24">BEAR | 𝐵𝐸𝐴𝑅   ﹒  ﹒   ⟡ | [Grt4uQJqAQ](https://discord.gg/Grt4uQJqAQ) | 2025-05-11T00:49:03+00:00 | 1345765388381589514 |
 | <img src="https://cdn.discordapp.com/clan-badges/1333489352780550185/7f968d34689b032120d7a0f2a3d69b83.png" width="24">FRY | Fried GDPS | [49fgjFMR](https://discord.gg/49fgjFMR) | 2025-05-11T00:49:03+00:00 | 1333489352780550185 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370077358421446748/e0612577504e85f0cc5db11683e1d53e.png" width="24">hate | .gg/deadtag \| hate | [yzpn85xEE6](https://discord.gg/yzpn85xEE6) | 2025-05-11T00:49:03+00:00 | 1370077358421446748 |
-| <img src="https://cdn.discordapp.com/clan-badges/1284676283430731796/26e9fd0103ebb072f72086a4a1b9c622.png" width="24">numb | .gg/deadtag \| numb | [rDPCv7jBSC](https://discord.gg/rDPCv7jBSC) | 2025-05-11T00:49:03+00:00 | 1284676283430731796 |
-| <img src="https://cdn.discordapp.com/clan-badges/1277836212475924573/dc7144c4c943a825df809fea6ca0258c.png" width="24">pain | .gg/deadtag \| pain | [u2Vxz6n5Tf](https://discord.gg/u2Vxz6n5Tf) | 2025-05-11T00:49:03+00:00 | 1277836212475924573 |
 
 </details>
 
@@ -870,6 +870,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1138677630011461643/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">EB | &quot;EB&quot; - Exército B... | [ebdovini](https://discord.gg/ebdovini) | 1138677630011461643 |
 | <img src="https://cdn.discordapp.com/clan-badges/1322683365534597162/1c8d422c5c8051d93fc0c549ea1f3675.png" width="24">ECHO | {18+} 🦋 End Of Wandering | [shorekeeper](https://discord.gg/shorekeeper) | 1322683365534597162 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369711393477099581/60822eb8c504c45cee27680dbccf599b.png" width="24">ECOM | ECOM Guild \| Tags | [yr6nWcE8Qm](https://discord.gg/yr6nWcE8Qm) | 1369711393477099581 |
+| <img src="https://cdn.discordapp.com/clan-badges/1168462054240309329/fd0f6da33fbe58a4f8298442b8f7d2fc.png" width="24">ECOS | 🧿✧ＥＣＯＳ | [aD7JyfKFRj](https://discord.gg/aD7JyfKFRj) | 1168462054240309329 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785346103050311/d23803b07b8e176d61bffaed2a8ec42e.png" width="24">ECPU | ECPU POLSKA ŁOWCY PEDOFILI | [V48tYhHc9Z](https://discord.gg/V48tYhHc9Z) | 1369785346103050311 |
 | <img src="https://cdn.discordapp.com/clan-badges/1302514728341344347/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">EDIT | Bricks Dept | [bricksdept](https://discord.gg/bricksdept) | 1302514728341344347 |
 | <img src="https://cdn.discordapp.com/clan-badges/1342102947152138292/4bd7e786c6b14b61adbfabc45f085130.png" width="24">EDIT | 🔥 𝗘𝗱𝗶𝘁 \| Server tag for Vi... | [pPxmrtV8rw](https://discord.gg/pPxmrtV8rw) | 1342102947152138292 |
@@ -2219,6 +2220,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369639849690271774/bc2f7685eed9d27522595f510bb2da48.png" width="24">UGLY | UGLY TAG・FREE NITRO | [48PGNW9yw6](https://discord.gg/48PGNW9yw6) | 1369639849690271774 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369091436334813194/70b4a0b96a668af3255865fe3ad2e151.png" width="24">UHQ | UHQ /backup | [MvaKM4DywU](https://discord.gg/MvaKM4DywU) | 1369091436334813194 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341530807996456/6480555262f59414a5d94bcaa55bce43.png" width="24">UHQ | UHQ #Tag /eri | [MCJ46yzTUD](https://discord.gg/MCJ46yzTUD) | 1369341530807996456 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369266612774895616/86735389348f3eacfa519eb553df38fd.png" width="24">UHQ | UHQ #GUILD | [uhqtag](https://discord.gg/uhqtag) | 1369266612774895616 |
 | <img src="https://cdn.discordapp.com/clan-badges/1034946073740967996/86735389348f3eacfa519eb553df38fd.png" width="24">UHQ | UHQ #Guilds | [uhq](https://discord.gg/uhq) | 1034946073740967996 |
 | <img src="https://cdn.discordapp.com/clan-badges/1329546798381011076/fa3033cd0045a5cd34578fa4b9c69d8b.png" width="24">UKRP | Lunar Projects ™ #ROADTO150 | [lunarprojects](https://discord.gg/lunarprojects) | 1329546798381011076 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370073499951038534/7dff089fbee252a67e72a08ae58a0376.png" width="24">UNIX | Unix Community (Experimental) | [CQX2Ymsw9T](https://discord.gg/CQX2Ymsw9T) | 1370073499951038534 |

@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369722266014978149/c238af55d440bd2895ec33a2ca6f80e5.png" width="24">ˆ꒳ˆ | /matchingpfps  ﹕[ˆ꒳ˆ] | [TQFpZM37JC](https://discord.gg/TQFpZM37JC) | 2025-05-11T04:36:50+00:00 | 1369722266014978149 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369749256990363799/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">fawn | fawn #guild | [Sa6sJRBt4f](https://discord.gg/Sa6sJRBt4f) | 2025-05-11T04:36:50+00:00 | 1369749256990363799 |
+| <img src="https://cdn.discordapp.com/clan-badges/1305790564746268703/8d61abb8b5da075befaff858861dba54.png" width="24">Luﬀy | 🌈𝙈𝙖𝙙𝙚 𝙞𝙣 𝙖𝙗𝙮𝙨𝙨 ✨ | [YTTXVw7Tez](https://discord.gg/YTTXVw7Tez) | 2025-05-11T04:36:50+00:00 | 1305790564746268703 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369736752398602362/b6f6582eb0301ce069e00b2a99323975.png" width="24">slit | slit #guild | [HUVbNgsZ6x](https://discord.gg/HUVbNgsZ6x) | 2025-05-11T04:36:50+00:00 | 1369736752398602362 |
 | <img src="https://cdn.discordapp.com/clan-badges/1168462054240309329/fd0f6da33fbe58a4f8298442b8f7d2fc.png" width="24">ECOS | 🧿✧ＥＣＯＳ | [aD7JyfKFRj](https://discord.gg/aD7JyfKFRj) | 2025-05-11T04:31:46+00:00 | 1168462054240309329 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369266612774895616/86735389348f3eacfa519eb553df38fd.png" width="24">UHQ | UHQ #GUILD | [uhqtag](https://discord.gg/uhqtag) | 2025-05-11T04:31:46+00:00 | 1369266612774895616 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764938356097104/2c7aa014ee3599b6b7089ce933971852.png" width="24">cat | raccoons are cool | [Raccoon](https://discord.gg/Raccoon) | 2025-05-11T04:26:43+00:00 | 1369764938356097104 |
@@ -101,10 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369764901144231976/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">LOVE | LOVE TAG | [293uE8sKBR](https://discord.gg/293uE8sKBR) | 2025-05-11T00:59:10+00:00 | 1369764901144231976 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369940504753602570/87001d764cee7f1281aa79b948f3bb3b.png" width="24">ᕼႸᖇ㎃ | Hyrma321 TAG | [ANKc87KfJJ](https://discord.gg/ANKc87KfJJ) | 2025-05-11T00:59:10+00:00 | 1369940504753602570 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369378003758612581/2c7aa014ee3599b6b7089ce933971852.png" width="24">୨ৎ | ୨ৎ \| paradise | [n8XVBSg7aw](https://discord.gg/n8XVBSg7aw) | 2025-05-11T00:54:06+00:00 | 1369378003758612581 |
-| <img src="https://cdn.discordapp.com/clan-badges/842100046529953843/905ccc166cdc9a1dde192854dd426f7c.png" width="24">୨ৎˎˊ | 𝙉𝙖𝙮𝙚𝙤𝙣 | [QVCVV3xY9p](https://discord.gg/QVCVV3xY9p) | 2025-05-11T00:49:03+00:00 | 842100046529953843 |
-| <img src="https://cdn.discordapp.com/clan-badges/1345765388381589514/6a725586b700ca87c7c39fb42ea35c8b.png" width="24">BEAR | 𝐵𝐸𝐴𝑅   ﹒  ﹒   ⟡ | [Grt4uQJqAQ](https://discord.gg/Grt4uQJqAQ) | 2025-05-11T00:49:03+00:00 | 1345765388381589514 |
-| <img src="https://cdn.discordapp.com/clan-badges/1333489352780550185/7f968d34689b032120d7a0f2a3d69b83.png" width="24">FRY | Fried GDPS | [49fgjFMR](https://discord.gg/49fgjFMR) | 2025-05-11T00:49:03+00:00 | 1333489352780550185 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370077358421446748/e0612577504e85f0cc5db11683e1d53e.png" width="24">hate | .gg/deadtag \| hate | [yzpn85xEE6](https://discord.gg/yzpn85xEE6) | 2025-05-11T00:49:03+00:00 | 1370077358421446748 |
 
 </details>
 
@@ -1489,6 +1489,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369362563548057660/7f07008301164c14092196b346b61bba.png" width="24">Luv | 𝘚𝘶 𝘈𝘯𝘥 Luv 𝘵𝘢𝘨𝘴 | [GuUufjD8Pw](https://discord.gg/GuUufjD8Pw) | 1369362563548057660 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369392670258102372/79366e8660935912726217b413fcc19b.png" width="24">Luﬀy | [Luffy] /optags - OPTH | [MhGJ4y3FT2](https://discord.gg/MhGJ4y3FT2) | 1369392670258102372 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369558013353918568/77cbc300043fcf656f70d2f1b37b8263.png" width="24">Luﬀy | 𝐎𝐍𝐄 𝐏𝐈𝐄𝐂𝐄 | [YHxsjUm4](https://discord.gg/YHxsjUm4) | 1369558013353918568 |
+| <img src="https://cdn.discordapp.com/clan-badges/1305790564746268703/8d61abb8b5da075befaff858861dba54.png" width="24">Luﬀy | 🌈𝙈𝙖𝙙𝙚 𝙞𝙣 𝙖𝙗𝙮𝙨𝙨 ✨ | [YTTXVw7Tez](https://discord.gg/YTTXVw7Tez) | 1305790564746268703 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369646766235979816/a4b332871cc9d21706a48ade1dda7a23.png" width="24">LΩVE | #LΩVE - .gg/uhq | [4afHsXmzfX](https://discord.gg/4afHsXmzfX) | 1369646766235979816 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369842269661954159/250daa47c136bfb02d29cd0b4846882e.png" width="24">LᗢVE | heartfuls ۶ৎ girly girls ⸝⸝... | [hm6neNQCwS](https://discord.gg/hm6neNQCwS) | 1369842269661954159 |
 | <img src="https://cdn.discordapp.com/clan-badges/549360766600347658/a0b4aabd2dd87bf79bfbeb89a0eb6740.png" width="24">LꚘMI | Loomian Legacy | [loomian-legacy](https://discord.gg/loomian-legacy) | 549360766600347658 |
@@ -2660,6 +2661,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369725141747109938/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">fawn | 𓂅 　/fawns　18⁺ | [Nyus3ueTpR](https://discord.gg/Nyus3ueTpR) | 1369725141747109938 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370082495265116342/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">fawn | .gg/cutietags [fawn] ♡ | [PKDj3ePBmv](https://discord.gg/PKDj3ePBmv) | 1370082495265116342 |
 | <img src="https://cdn.discordapp.com/clan-badges/1140884517566025859/f4451d462d1c3b8aa7cae44de4f0533c.png" width="24">fawn | @fawn join/softly for access | [SHEKgC936D](https://discord.gg/SHEKgC936D) | 1140884517566025859 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369749256990363799/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">fawn | fawn #guild | [Sa6sJRBt4f](https://discord.gg/Sa6sJRBt4f) | 1369749256990363799 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369743751215321108/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">faɡ | fag guild | [XJd3CevHrC](https://discord.gg/XJd3CevHrC) | 1369743751215321108 |
 | <img src="https://cdn.discordapp.com/clan-badges/949429761669754880/b79ca91e1786f1a56462c81807d9cf24.png" width="24">faʪe | false&#x27;s server | [false](https://discord.gg/false) | 949429761669754880 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369727782011146341/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">fear | fear Guild tag | [nb2Wup7Vhs](https://discord.gg/nb2Wup7Vhs) | 1369727782011146341 |
@@ -2988,6 +2990,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369352479174823936/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">slat | slat I .gg/thought | [2D43zfeAw6](https://discord.gg/2D43zfeAw6) | 1369352479174823936 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369642864853913713/21129b437afdc5d4c56b399d9d86e25d.png" width="24">slay | slay queen 🤤 | [kbqc2N6M9k](https://discord.gg/kbqc2N6M9k) | 1369642864853913713 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369736138285121647/5cb3c750c71ca9c3a949ecc862e23947.png" width="24">slay | .gg/poland ( #slay ) 𝘣𝘶𝘺 𝘵𝘢𝘨 | [SJmF4ZDUFU](https://discord.gg/SJmF4ZDUFU) | 1369736138285121647 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369736752398602362/b6f6582eb0301ce069e00b2a99323975.png" width="24">slit | slit #guild | [HUVbNgsZ6x](https://discord.gg/HUVbNgsZ6x) | 1369736752398602362 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369707013524951211/8d61abb8b5da075befaff858861dba54.png" width="24">slug | Slug town | [slugs](https://discord.gg/slugs) | 1369707013524951211 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369717407404392560/354ca0ff90d810dcc8a02be476a18921.png" width="24">smd | /trollz (smd) | [PT28UvXP8H](https://discord.gg/PT28UvXP8H) | 1369717407404392560 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369698844429778975/22f8c38a62b66123c4242d0cbdd46282.png" width="24">smd | smd \| .gg/711 | [g7z5RUsQt9](https://discord.gg/g7z5RUsQt9) | 1369698844429778975 |
@@ -3176,6 +3179,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1326171268172480533/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">˃̵ᴗ˂ | 🌹  ┈  /Roseland   ⌢  ⟡ | [yCjNSWEN4H](https://discord.gg/yCjNSWEN4H) | 1326171268172480533 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369778789474767008/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">˃ᆺ˂っ | indi&#x27;s Simps | [paZ29GzaEv](https://discord.gg/paZ29GzaEv) | 1369778789474767008 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369711804304855070/16d3e1e1382cd9f5746a22dda6ce8b48.png" width="24">˃𐃷˂ | /711 ﹒ ˃𐃷˂̵ | [qa8epuf3EP](https://discord.gg/qa8epuf3EP) | 1369711804304855070 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369722266014978149/c238af55d440bd2895ec33a2ca6f80e5.png" width="24">ˆ꒳ˆ | /matchingpfps  ﹕[ˆ꒳ˆ] | [TQFpZM37JC](https://discord.gg/TQFpZM37JC) | 1369722266014978149 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369785712156606676/b6f6582eb0301ce069e00b2a99323975.png" width="24">ˆ𐃷ˆ | /matchingpfps  ﹕[ˆ𐃷ˆ] | [WwgV2dP2GA](https://discord.gg/WwgV2dP2GA) | 1369785712156606676 |
 | <img src="https://cdn.discordapp.com/clan-badges/1351303828418334740/e641814500571fa1684506304e42e3d4.png" width="24">˖ 독자 | ۶ৎ dj2l ． kimcom 　 (김컴) | [HK9mptKetP](https://discord.gg/HK9mptKetP) | 1351303828418334740 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369915649069158542/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">˖.🩷 | ˖.🩷 /pxguild | [TNNEp7TsNb](https://discord.gg/TNNEp7TsNb) | 1369915649069158542 |

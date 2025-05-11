@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369761165810470922/ffad1301184597d13f84a2d773c0d0a5.png" width="24">BD | Bangladeshi | [2aPCsEc2n5](https://discord.gg/2aPCsEc2n5) | 2025-05-11T09:20:18+00:00 | 1369761165810470922 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369469226091286589/47fb9f8b8f9b6b7d412b83dfd5363e50.png" width="24">PBLO | THE SERVER OF PABLO | [ssKpJqdVfa](https://discord.gg/ssKpJqdVfa) | 2025-05-11T09:20:18+00:00 | 1369469226091286589 |
 | <img src="https://cdn.discordapp.com/clan-badges/1318645442283573298/bf78b535fcda16e3ef0d94226dd05555.png" width="24">MLPG | 🌸Flutterzone🌸 | [wJRfA8vCBD](https://discord.gg/wJRfA8vCBD) | 2025-05-11T09:15:14+00:00 | 1318645442283573298 |
 | <img src="https://cdn.discordapp.com/clan-badges/488286158627799041/257f54cf30f0291bee529e55402634f6.png" width="24">Paks | Th3DryZ69 Community | [BBzNe3GnPq](https://discord.gg/BBzNe3GnPq) | 2025-05-11T09:15:14+00:00 | 488286158627799041 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369035985547169872/86735389348f3eacfa519eb553df38fd.png" width="24">#971 | 𝓙𝓑 | [j-b](https://discord.gg/j-b) | 2025-05-11T09:10:10+00:00 | 1369035985547169872 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369327876792389736/8d61abb8b5da075befaff858861dba54.png" width="24">ᓚᘏᗢ | .gg/elo #ᓚᘏᗢ | [huV6YtEcpQ](https://discord.gg/huV6YtEcpQ) | 2025-05-11T06:02:55+00:00 | 1369327876792389736 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369474739965399112/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">addi | addie | [sxPXrHbEh6](https://discord.gg/sxPXrHbEh6) | 2025-05-11T05:57:52+00:00 | 1369474739965399112 |
 | <img src="https://cdn.discordapp.com/clan-badges/1141373974824099870/164662f2515c3a9fc5a84b2d71d83a45.png" width="24">BBAT | BBAT Clan | [BcVjdDSE83](https://discord.gg/BcVjdDSE83) | 2025-05-11T05:57:52+00:00 | 1141373974824099870 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369742337718358217/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">឵឵ | ! This Guild For Sell ! By ... | [gyGp2dKvDe](https://discord.gg/gyGp2dKvDe) | 2025-05-11T05:52:47+00:00 | 1369742337718358217 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369867912436908073/091acfbf3528c0dc7cb4cc3ff0aa440c.png" width="24">឵឵ | ! This Guild For Sell ! By ... | [J6nkVPJDQV](https://discord.gg/J6nkVPJDQV) | 2025-05-11T05:52:47+00:00 | 1369867912436908073 |
 
 </details>
 
@@ -593,6 +593,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1183142032672305152/dea97e909a0211e2479d75cd11c2ec41.png" width="24">BC | 𝐁𝐥𝐢𝐧𝐝𝐞𝐫𝐬 𝐂𝐢𝐭𝐲 𝐒𝟏 | [180](https://discord.gg/180) | 1183142032672305152 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369133308998582334/66cde1189ceaa09f245177a95dade56c.png" width="24">BCTA | 😳CALMA BUCETO🔥 | [8SBfW2F3F7](https://discord.gg/8SBfW2F3F7) | 1369133308998582334 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369473315088891934/50219adf28882fa839f38a9f4a2c479a.png" width="24">BD | Bangladesh | [SGnWvkgST2](https://discord.gg/SGnWvkgST2) | 1369473315088891934 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369761165810470922/ffad1301184597d13f84a2d773c0d0a5.png" width="24">BD | Bangladeshi | [2aPCsEc2n5](https://discord.gg/2aPCsEc2n5) | 1369761165810470922 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369345243480195182/8c09406c9611e317274176d85d3c4777.png" width="24">BDG | ʙᴅɢ #guild tag // .gg/bandeur | [YDZZ5NWhGH](https://discord.gg/YDZZ5NWhGH) | 1369345243480195182 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369759556015620238/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">BDH | bdh #guild | [yYCK7gjjRX](https://discord.gg/yYCK7gjjRX) | 1369759556015620238 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369920781152288848/2c7aa014ee3599b6b7089ce933971852.png" width="24">BDH | BDH /pxguild | [USyvhCnGN4](https://discord.gg/USyvhCnGN4) | 1369920781152288848 |
@@ -1814,6 +1815,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1355655852270420028/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">PAWS | Paws | [nmw7nPukZv](https://discord.gg/nmw7nPukZv) | 1355655852270420028 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369938872808636436/f4ec9ed63d0c08927d8c66d354f86a77.png" width="24">PAWS | PAWS \| TAG | [JgGtKr8qAb](https://discord.gg/JgGtKr8qAb) | 1369938872808636436 |
 | <img src="https://cdn.discordapp.com/clan-badges/1329321116757528618/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">PB | PrismBoosts | [prism-boost](https://discord.gg/prism-boost) | 1329321116757528618 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369469226091286589/47fb9f8b8f9b6b7d412b83dfd5363e50.png" width="24">PBLO | THE SERVER OF PABLO | [ssKpJqdVfa](https://discord.gg/ssKpJqdVfa) | 1369469226091286589 |
 | <img src="https://cdn.discordapp.com/clan-badges/1255308889658753085/59c0f381f2399f5317d14ebcda909857.png" width="24">PCD | wioskowa hustlerka | [stKvWJvx2V](https://discord.gg/stKvWJvx2V) | 1255308889658753085 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369796173539446806/b6f6582eb0301ce069e00b2a99323975.png" width="24">PCVR | Official PCVR Guild Tag | [YBNe84RJb3](https://discord.gg/YBNe84RJb3) | 1369796173539446806 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369176789372375142/24d7336500cc006d23285f94195cdce6.png" width="24">PDE | PlaceDE | [vA7uV7wgHn](https://discord.gg/vA7uV7wgHn) | 1369176789372375142 |

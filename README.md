@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369706802077372487/8953689a412824880e6e78f153336c7d.png" width="24">&#x27;-&#x27; | SELL GUILD TAG OWNERSHIP FO... | [BP8rq2BFT4](https://discord.gg/BP8rq2BFT4) | 2025-05-11T05:22:25+00:00 | 1369706802077372487 |
+| <img src="https://cdn.discordapp.com/clan-badges/1266282252518555658/34bc7d99a7f33626885bc6d60ac63574.png" width="24">&gt;.&lt; | we are /soultied ml | [AwWyahUgud](https://discord.gg/AwWyahUgud) | 2025-05-11T05:22:25+00:00 | 1266282252518555658 |
 | <img src="https://cdn.discordapp.com/clan-badges/1291766436703764480/58b07bf54d4e9f6ffbf9ea9123e09cb6.png" width="24">RUSH | ADRENALINE | [adrenalinerblx](https://discord.gg/adrenalinerblx) | 2025-05-11T05:17:21+00:00 | 1291766436703764480 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369549662700306514/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">可愛男娘 | 小南梁大家庭 | [EpmFcp3mps](https://discord.gg/EpmFcp3mps) | 2025-05-11T05:17:21+00:00 | 1369549662700306514 |
 | <img src="https://cdn.discordapp.com/clan-badges/1054414599945998416/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">STAR | Intergalactic Science Kingdom | [fajrulfx](https://discord.gg/fajrulfx) | 2025-05-11T05:12:16+00:00 | 1054414599945998416 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369442938702139392/878c62b6694a4f5931104f766191bec7.png" width="24">B00B | #BOOBS Nitro Giveaways | [mmv7qy97SC](https://discord.gg/mmv7qy97SC) | 2025-05-11T02:09:56+00:00 | 1369442938702139392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369491832597250159/b76d465bf8b0a8a8e8fe2ecf71a6412f.png" width="24">cvnt | cvnt tag | [Hzr3ASPwnP](https://discord.gg/Hzr3ASPwnP) | 2025-05-11T02:09:56+00:00 | 1369491832597250159 |
 | <img src="https://cdn.discordapp.com/clan-badges/1339663978812411934/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">M7ᵗʰ | M7M Extra Emotes + Stickers | [BMpZAgsyCQ](https://discord.gg/BMpZAgsyCQ) | 2025-05-11T02:09:56+00:00 | 1339663978812411934 |
-| <img src="https://cdn.discordapp.com/clan-badges/1256241250022068265/5fa2334bd8a8364b377915de08d21036.png" width="24">MAJI | PALIAHOLIC | [paliaholic](https://discord.gg/paliaholic) | 2025-05-11T02:09:56+00:00 | 1256241250022068265 |
-| <img src="https://cdn.discordapp.com/clan-badges/1290107582475669614/ea76d37bcd6f1b0543efcce6c32fe999.png" width="24">oﬃce | office | [Y9M8Dc5D8G](https://discord.gg/Y9M8Dc5D8G) | 2025-05-11T02:04:53+00:00 | 1290107582475669614 |
 
 </details>
 
@@ -148,6 +148,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1227687289405308968/a5e1ba58fa5d08dc8f99d193ab33b271.png" width="24">$NQ | $NQ NASDAQ | [HyrhRUbhU7](https://discord.gg/HyrhRUbhU7) | 1227687289405308968 |
 | <img src="https://cdn.discordapp.com/clan-badges/1326126957330694186/dc61eaed9e8b012148661df1ada874e6.png" width="24">$b | xᴇʀᴏɴɪx | [XZ2B4rTfGn](https://discord.gg/XZ2B4rTfGn) | 1326126957330694186 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370089198660616232/0625caabbdb25cb8406ebdd64b90a445.png" width="24">&#x27;-&#x27; | &#x27;-&#x27; | [pmJuZaKuHN](https://discord.gg/pmJuZaKuHN) | 1370089198660616232 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369706802077372487/8953689a412824880e6e78f153336c7d.png" width="24">&#x27;-&#x27; | SELL GUILD TAG OWNERSHIP FO... | [BP8rq2BFT4](https://discord.gg/BP8rq2BFT4) | 1369706802077372487 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764290101383268/60822eb8c504c45cee27680dbccf599b.png" width="24">(º)&gt; | penguin | [HJPtZYg267](https://discord.gg/HJPtZYg267) | 1369764290101383268 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369508690767511643/1897636167e0b09146fb12ce58e63294.png" width="24">\*67 | .gg/moneyy # \*67 | [xTB5Ruae](https://discord.gg/xTB5Ruae) | 1369508690767511643 |
 | <img src="https://cdn.discordapp.com/clan-badges/1360424396300226631/b6c8aa84f5ee7e4a2e6a870f6375725b.png" width="24">+18 | 𓂃 Pretty ੭୧ Porn  — TAG +18... | [364MXyNVwt](https://discord.gg/364MXyNVwt) | 1360424396300226631 |
@@ -408,6 +409,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369700014007255086/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">&gt;.&lt; | &gt;.&lt; | [4BCDygGzBv](https://discord.gg/4BCDygGzBv) | 1369700014007255086 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369536629789823016/f4ec9ed63d0c08927d8c66d354f86a77.png" width="24">&gt;.&lt; | &gt;.&lt; | [Uty7VSheWN](https://discord.gg/Uty7VSheWN) | 1369536629789823016 |
 | <img src="https://cdn.discordapp.com/clan-badges/1168398853268066374/3b30a6fbb0844a15f58fa377aea0b66c.png" width="24">&gt;.&lt; | .gg/decoraaa [&gt;.&lt;] | [cC999TQgSP](https://discord.gg/cC999TQgSP) | 1168398853268066374 |
+| <img src="https://cdn.discordapp.com/clan-badges/1266282252518555658/34bc7d99a7f33626885bc6d60ac63574.png" width="24">&gt;.&lt; | we are /soultied ml | [AwWyahUgud](https://discord.gg/AwWyahUgud) | 1266282252518555658 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369179100362838096/dfcdf28a216e5a9d11663259aa9fa053.png" width="24">&gt;:3 | :3 land | [PpRSbVgcJx](https://discord.gg/PpRSbVgcJx) | 1369179100362838096 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369774192001679554/5985ebd9e2e2f6a080ca95132baf8b36.png" width="24">&gt;:3 | meow &gt;:3 | [Ea6K7Hwf92](https://discord.gg/Ea6K7Hwf92) | 1369774192001679554 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369408948809105541/2c7aa014ee3599b6b7089ce933971852.png" width="24">&gt;;p | [&gt;;p] .gg/decomposed for... | [eRVU494ju8](https://discord.gg/eRVU494ju8) | 1369408948809105541 |

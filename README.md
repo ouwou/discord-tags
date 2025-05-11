@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/951728210717061150/84412606536488d76915487613779361.png" width="24">TGA | TGA Community | [gyRAQ8vbru](https://discord.gg/gyRAQ8vbru) | 2025-05-11T07:28:58+00:00 | 951728210717061150 |
 | <img src="https://cdn.discordapp.com/clan-badges/105041697003540480/b190a9d50dae864ce6404d00a7f9a3a1.png" width="24">⏾·₊° | reap | [RH8BkMkTvC](https://discord.gg/RH8BkMkTvC) | 2025-05-11T07:23:55+00:00 | 105041697003540480 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370047807016402996/6d53371b8c9ff7daf2eab332a7a778f2.png" width="24">゛이반틸 | ivantill tag﹒FANDOM TAGS !!!! | [y9c6mgmAm6](https://discord.gg/y9c6mgmAm6) | 2025-05-11T07:18:51+00:00 | 1370047807016402996 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369131836202025022/cc94b337daab4f9a39e9ba51c0aac86a.png" width="24">Yume | Dreamers | [R3VrEUJY9p](https://discord.gg/R3VrEUJY9p) | 2025-05-11T07:18:51+00:00 | 1369131836202025022 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369719426739474605/5d89c8e4db709b3799adbaba81250c7a.png" width="24">۟₊˖ɞ | ʚ˚₊‧ | [jR7VfQwHnB](https://discord.gg/jR7VfQwHnB) | 2025-05-11T04:21:39+00:00 | 1369719426739474605 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369768172873449492/3f1609385febac353d511ff67416c6fe.png" width="24">ＧＯＤ | GOD TAG | [Ns3ua3DQfr](https://discord.gg/Ns3ua3DQfr) | 2025-05-11T04:21:39+00:00 | 1369768172873449492 |
 | <img src="https://cdn.discordapp.com/clan-badges/178510947873325057/c8d016eed5c8752316ca38fdd54380c6.png" width="24">KKKK | Kool Kids Klub | [Kool](https://discord.gg/Kool) | 2025-05-11T04:16:36+00:00 | 178510947873325057 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369431011091550409/2c7aa014ee3599b6b7089ce933971852.png" width="24">ꐕꆜ | .exe | [WmQBh6aWzx](https://discord.gg/WmQBh6aWzx) | 2025-05-11T04:16:36+00:00 | 1369431011091550409 |
 
 </details>
 
@@ -2214,6 +2214,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369181065385869352/0437e66874944d9eafae8ed3b9b7418a.png" width="24">TETO | Teto Territory | [FRZa2u59YG](https://discord.gg/FRZa2u59YG) | 1369181065385869352 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369793238717694093/84ef91bb3775f5c121dd186e224ef92a.png" width="24">TFN | 🇫🇷 TFN  \| GuildTag | [66cfmmYbdN](https://discord.gg/66cfmmYbdN) | 1369793238717694093 |
 | <img src="https://cdn.discordapp.com/clan-badges/398704544390971412/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">TG | Tokyo Ghoul | [tokyoghoul](https://discord.gg/tokyoghoul) | 398704544390971412 |
+| <img src="https://cdn.discordapp.com/clan-badges/951728210717061150/84412606536488d76915487613779361.png" width="24">TGA | TGA Community | [gyRAQ8vbru](https://discord.gg/gyRAQ8vbru) | 951728210717061150 |
 | <img src="https://cdn.discordapp.com/clan-badges/783333047662805003/b2c66a16d275bd33f8bd7a27f79741e5.png" width="24">TGT | Türk Geliştiriciler Topluluğu | [aR6bfHEG6R](https://discord.gg/aR6bfHEG6R) | 783333047662805003 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369616857438486558/2d8bea68b3152b52858942d2bc854cc7.png" width="24">TISM | TISM \| dsc.gg/tism-tag | [KgU6NYBumH](https://discord.gg/KgU6NYBumH) | 1369616857438486558 |
 | <img src="https://cdn.discordapp.com/clan-badges/1080480785607438356/7f968d34689b032120d7a0f2a3d69b83.png" width="24">TISM | #TISM [JANN HUB] | [tXJdru6Wfc](https://discord.gg/tXJdru6Wfc) | 1080480785607438356 |

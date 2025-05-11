@@ -5,6 +5,9 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369269494903607316/1b24e00a2efe209feea0b9a4b240d19d.png" width="24">DRX | DRX 태그 서버ㅣDRX Tags | [dHksNsEMaq](https://discord.gg/dHksNsEMaq) | 2025-05-11T06:13:03+00:00 | 1369269494903607316 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369681523703287939/6f55acfbc5f76c100125974f409171aa.png" width="24">PIKA | SUS LAB TAGS | [FjGkY9UVKB](https://discord.gg/FjGkY9UVKB) | 2025-05-11T06:13:03+00:00 | 1369681523703287939 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369665018014208060/8d61abb8b5da075befaff858861dba54.png" width="24">ෆ\*₊• | (づ ●─● )づ | [6GEhQfybsv](https://discord.gg/6GEhQfybsv) | 2025-05-11T06:13:03+00:00 | 1369665018014208060 |
 | <img src="https://cdn.discordapp.com/clan-badges/1200747250972889158/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;..&lt; | Free Growscan Service | [REtvBJ8JeN](https://discord.gg/REtvBJ8JeN) | 2025-05-11T06:07:59+00:00 | 1200747250972889158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1214931244819943474/d671ef2d4aa50010c6d49b2865f80068.png" width="24">GT | Growtopian&#x27;s Palace! | [DGD9u9SzAs](https://discord.gg/DGD9u9SzAs) | 2025-05-11T06:07:59+00:00 | 1214931244819943474 |
 | <img src="https://cdn.discordapp.com/clan-badges/770058007757193238/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">ONI | Shrine | [QwfuJB7ykQ](https://discord.gg/QwfuJB7ykQ) | 2025-05-11T06:07:59+00:00 | 770058007757193238 |
@@ -102,9 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369750654054170694/0625caabbdb25cb8406ebdd64b90a445.png" width="24">12 | /tagging | [vPnP2DypUk](https://discord.gg/vPnP2DypUk) | 2025-05-11T03:10:42+00:00 | 1369750654054170694 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369663044384456754/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">pure | 𓏵 Pure  • guild • partners ... | [pEB623zbJz](https://discord.gg/pEB623zbJz) | 2025-05-11T03:10:42+00:00 | 1369663044384456754 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369260201404006410/dc61eaed9e8b012148661df1ada874e6.png" width="24">Sin | 𝒮𝒾𝓃 \|\| 𝖦𝗎𝗂𝗅𝖽 𝖳𝖺𝗀 | [veYDA7Eu4x](https://discord.gg/veYDA7Eu4x) | 2025-05-11T03:10:42+00:00 | 1369260201404006410 |
-| <img src="https://cdn.discordapp.com/clan-badges/1370016050929864846/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">堕落天使 | Heavenly | [AW6EFjpruD](https://discord.gg/AW6EFjpruD) | 2025-05-11T03:10:42+00:00 | 1370016050929864846 |
-| <img src="https://cdn.discordapp.com/clan-badges/1320868296375013376/73f4ce13018d2fb9ab7e8d880ed67cc2.png" width="24">AURA | Ogryzek Team ✨ | [ogryzek](https://discord.gg/ogryzek) | 2025-05-11T03:00:36+00:00 | 1320868296375013376 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369544399289319454/ee031d44c439c2dbeb667a760d04fe9d.png" width="24">㎄p㎩™ | ㎄p㎩™ Tag | [zGPy6dgZc9](https://discord.gg/zGPy6dgZc9) | 2025-05-11T03:00:36+00:00 | 1369544399289319454 |
 
 </details>
 
@@ -859,6 +859,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369383004853764126/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">DRP | 𝐃𝐑𝐏 - 𝐆𝐮𝐢𝐥𝐝 𝐒𝐞𝐫𝐯𝐞𝐫 | [hC7RbuSyrm](https://discord.gg/hC7RbuSyrm) | 1369383004853764126 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369505943053926430/66cde1189ceaa09f245177a95dade56c.png" width="24">DRUG | DRUG ⭐ | [Wvc2XwUwY3](https://discord.gg/Wvc2XwUwY3) | 1369505943053926430 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369739079289143428/6082c2553b03b47ccaea5203567df3cf.png" width="24">DRUG | DRUG FXCK・TAG | [AFNevTMAGT](https://discord.gg/AFNevTMAGT) | 1369739079289143428 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369269494903607316/1b24e00a2efe209feea0b9a4b240d19d.png" width="24">DRX | DRX 태그 서버ㅣDRX Tags | [dHksNsEMaq](https://discord.gg/dHksNsEMaq) | 1369269494903607316 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370078252084891769/86735389348f3eacfa519eb553df38fd.png" width="24">DTB | #DTB | [b4g6YkBEsJ](https://discord.gg/b4g6YkBEsJ) | 1370078252084891769 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369436322963652719/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">DTF | District FA \| Guild🗽 | [4uugjZeD9J](https://discord.gg/4uugjZeD9J) | 1369436322963652719 |
 | <img src="https://cdn.discordapp.com/clan-badges/476454574715174912/0d4b5852e84385476bd9b1142eb36e6a.png" width="24">DUAL | DualView | [dualview](https://discord.gg/dualview) | 476454574715174912 |
@@ -1806,6 +1807,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1364123856834400307/a7601546d68301e9194cf30944ba7232.png" width="24">PI | Darknight | [USCJre3gYj](https://discord.gg/USCJre3gYj) | 1364123856834400307 |
 | <img src="https://cdn.discordapp.com/clan-badges/234731357903781888/5607047f21b7e25a26c195cc49871278.png" width="24">PIKA | PikaNetwork | [pikanetwork](https://discord.gg/pikanetwork) | 234731357903781888 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369946079352586250/78e5894b700207f03be4a39cd8e7d0d4.png" width="24">PIKA | Spiraling [ PIKA ] | [dnprYz9B5n](https://discord.gg/dnprYz9B5n) | 1369946079352586250 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369681523703287939/6f55acfbc5f76c100125974f409171aa.png" width="24">PIKA | SUS LAB TAGS | [FjGkY9UVKB](https://discord.gg/FjGkY9UVKB) | 1369681523703287939 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369640868889362473/ca9163be68726f11b046e49365f0827c.png" width="24">PINA | PIÑA \| discord.gg/pina | [Pav6fUPzn2](https://discord.gg/Pav6fUPzn2) | 1369640868889362473 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369502688458440705/ea2b36a1b95696b90087d47a0933f6f8.png" width="24">PINK | PINK TAG・CHAT・NITRO・GAMING・... | [WANV2K73BE](https://discord.gg/WANV2K73BE) | 1369502688458440705 |
 | <img src="https://cdn.discordapp.com/clan-badges/1270522598018515067/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">PIRA | scripts.wtf | [ZyCdwkMF5c](https://discord.gg/ZyCdwkMF5c) | 1270522598018515067 |
@@ -3392,6 +3394,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369582197891403816/b70926c4409284ee5f7ecae334eed9fe.png" width="24">ඞඞඞඞ | #ඞඞඞඞ \| tomdacat.com/tag | [vEPDaCAHba](https://discord.gg/vEPDaCAHba) | 1369582197891403816 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369564814774370396/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ඞ₊˚\* | .gg/yea #ඞ₊˚\* | [qKaZFsGXYr](https://discord.gg/qKaZFsGXYr) | 1369564814774370396 |
 | <img src="https://cdn.discordapp.com/clan-badges/532221237682765839/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">සිංහ | TERMINAL | [h75wdfk](https://discord.gg/h75wdfk) | 532221237682765839 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369665018014208060/8d61abb8b5da075befaff858861dba54.png" width="24">ෆ\*₊• | (づ ●─● )づ | [6GEhQfybsv](https://discord.gg/6GEhQfybsv) | 1369665018014208060 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369270715022573639/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ฅ ฅ | ฅ ฅ TAG SERVER | [tB6nTwECAk](https://discord.gg/tB6nTwECAk) | 1369270715022573639 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369311130513834174/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ฅᨐฅ | ฅᨐฅ | [TvzUsNZNGm](https://discord.gg/TvzUsNZNGm) | 1369311130513834174 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369691398382551090/2c7aa014ee3599b6b7089ce933971852.png" width="24">ฅᨐฅ | $$$$ | [RmmdtX43sP](https://discord.gg/RmmdtX43sP) | 1369691398382551090 |

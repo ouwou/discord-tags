@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/805189277864034355/8084d59ab2c97476363c0eb9c88c8486.png" width="24">HOEZ | [HOEZ] | [b2NdWxym6H](https://discord.gg/b2NdWxym6H) | 2025-05-11T02:40:20+00:00 | 805189277864034355 |
 | <img src="https://cdn.discordapp.com/clan-badges/1302089889541521510/69b24f221acfae1402dd882c2a784a3e.png" width="24">ARMY | Military | [PB2s56YGGD](https://discord.gg/PB2s56YGGD) | 2025-05-11T02:35:16+00:00 | 1302089889541521510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741749437726770/4fffc6d573358cb3d04371b302b00a08.png" width="24">もっと | More More Jump　「もっと」☘ | [p4CD9kEKf3](https://discord.gg/p4CD9kEKf3) | 2025-05-11T02:35:16+00:00 | 1369741749437726770 |
 | <img src="https://cdn.discordapp.com/clan-badges/1283947798718320640/2fbcb29cc92feacd71b69c30c14f9343.png" width="24">˚ෆ | ៸៸  𝑐ℎ𝑒𝑟𝑖𝑒  𓏲 ˖ . | [YcG4MNUHUw](https://discord.gg/YcG4MNUHUw) | 2025-05-11T02:30:12+00:00 | 1283947798718320640 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/553224244188807188/90a3edbdc5465bd6b6574adadb29b32e.png" width="24">LOL | League of Legends FR | [leagueoflegendsfr](https://discord.gg/leagueoflegendsfr) | 2025-05-11T00:13:37+00:00 | 553224244188807188 |
 | <img src="https://cdn.discordapp.com/clan-badges/1310023533249691748/5815caf425b97c56ea8f71983e72304b.png" width="24">V33 | 📺🎤 | [cdQ6QRk5sy](https://discord.gg/cdQ6QRk5sy) | 2025-05-11T00:13:37+00:00 | 1310023533249691748 |
 | <img src="https://cdn.discordapp.com/clan-badges/1122195366402596945/5e4914844b2d7512816f9266edc1b63f.png" width="24">Kurd | Kurd Tag | [RE424BgUyz](https://discord.gg/RE424BgUyz) | 2025-05-11T00:08:34+00:00 | 1122195366402596945 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369753657423171605/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;\_&lt; | &gt;\_&lt; \| 10+ Free Guil... | [WQBACMQRFz](https://discord.gg/WQBACMQRFz) | 2025-05-11T00:03:30+00:00 | 1369753657423171605 |
 
 </details>
 
@@ -1209,6 +1209,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1342509147979251804/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">HIVE | Hive Community Services &am... | [e6QMYb8JBE](https://discord.gg/e6QMYb8JBE) | 1342509147979251804 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369749763351773197/d24b76695b63f012f28eb2d0683b2b9c.png" width="24">HLAL | Hilal [gg/YKYstWnsZY] | [eJPTExKcpA](https://discord.gg/eJPTExKcpA) | 1369749763351773197 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369377872028106772/232d1d2a366ec512dde707821f672cce.png" width="24">HLEL | hlel - /92ii | [uDAabYtxdb](https://discord.gg/uDAabYtxdb) | 1369377872028106772 |
+| <img src="https://cdn.discordapp.com/clan-badges/805189277864034355/8084d59ab2c97476363c0eb9c88c8486.png" width="24">HOEZ | [HOEZ] | [b2NdWxym6H](https://discord.gg/b2NdWxym6H) | 805189277864034355 |
 | <img src="https://cdn.discordapp.com/clan-badges/919221098237816903/8d61abb8b5da075befaff858861dba54.png" width="24">HOLO | HoloEmotesKR | [HoloEmotesKR](https://discord.gg/HoloEmotesKR) | 919221098237816903 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370042370397044838/d8028e3189542f9cd218c28373bc178a.png" width="24">HOM0 | juifance | [FsDYYsEeqf](https://discord.gg/FsDYYsEeqf) | 1370042370397044838 |
 | <img src="https://cdn.discordapp.com/clan-badges/1352670760589590568/139f0b61ed639721901a3e6284b9a643.png" width="24">HOME | Home Hub | [xRSUCdUZZU](https://discord.gg/xRSUCdUZZU) | 1352670760589590568 |

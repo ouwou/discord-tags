@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369457470422122579/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ೀ  틸 | ( ºº◞◟)　　　　. | [eJgYfhDGGy](https://discord.gg/eJgYfhDGGy) | 2025-05-11T06:38:21+00:00 | 1369457470422122579 |
 | <img src="https://cdn.discordapp.com/clan-badges/985698674493517825/4507c292a7c649b9e6e357ac11c5492c.png" width="24">SOAP | 🌸 The Soap Opera 🌸 | [BhJG9xPmhh](https://discord.gg/BhJG9xPmhh) | 2025-05-11T06:33:17+00:00 | 985698674493517825 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369775203818668102/f2875e9d7c2db9aab5400e490f7abc39.png" width="24">doll | doll guild (.gg/rosie) | [vyhMhkvdME](https://discord.gg/vyhMhkvdME) | 2025-05-11T06:23:11+00:00 | 1369775203818668102 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370095001006248027/1fac568c75fd0d595355cfec4b746fcc.png" width="24">hugs | /hugs | [FNCeSHyVGh](https://discord.gg/FNCeSHyVGh) | 2025-05-11T06:18:07+00:00 | 1370095001006248027 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/610683818726129664/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ภɪєг | NieR: Soul Nexus | [nier](https://discord.gg/nier) | 2025-05-11T03:56:15+00:00 | 610683818726129664 |
 | <img src="https://cdn.discordapp.com/clan-badges/759558437088264202/7f968d34689b032120d7a0f2a3d69b83.png" width="24">MVP | 📚 #IDCTeam › DBDTeam.js | [FTtVXfj](https://discord.gg/FTtVXfj) | 2025-05-11T03:46:08+00:00 | 759558437088264202 |
 | <img src="https://cdn.discordapp.com/clan-badges/421316344466898944/04cee49fbcaa69a71206ccb637470e72.png" width="24">TECH | Tech&#x27;s Laboratory | [Wh7F8yQ](https://discord.gg/Wh7F8yQ) | 2025-05-11T03:46:08+00:00 | 421316344466898944 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369752419298447461/1897636167e0b09146fb12ce58e63294.png" width="24">឵឵ | This Guild For Sell ! by Js... | [CkbvnuNqPe](https://discord.gg/CkbvnuNqPe) | 2025-05-11T03:41:04+00:00 | 1369752419298447461 |
 
 </details>
 
@@ -3390,6 +3390,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369723847116324954/56abdcaa962c2bd022a4422b95d4abda.png" width="24">౨ৎ | 🎀・ Guild tag ౨ৎ ・.gg/phguild | [tJpaMn7cn9](https://discord.gg/tJpaMn7cn9) | 1369723847116324954 |
 | <img src="https://cdn.discordapp.com/clan-badges/1305393685663318096/8d61abb8b5da075befaff858861dba54.png" width="24">౨ৎ설희 | [ ౨ৎ설희 ]　✦　˙    LUNA   ❄ | [lunasnow](https://discord.gg/lunasnow) | 1305393685663318096 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370090115115782217/90e57d4118cae8044985046ab91d5507.png" width="24">౾𝔰 | ꜱʟᴀꜱʜᴇʀ [ᴛᴀɢ] | [CU6WE7ZfSf](https://discord.gg/CU6WE7ZfSf) | 1370090115115782217 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369457470422122579/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">ೀ  틸 | ( ºº◞◟)　　　　. | [eJgYfhDGGy](https://discord.gg/eJgYfhDGGy) | 1369457470422122579 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369764372531908609/c3fef549b04bc7913a6f5d59b79e24fe.png" width="24">ೀ ݁ | /𝓎umii 𓂃  guild tag | [AvRjfqvkRu](https://discord.gg/AvRjfqvkRu) | 1369764372531908609 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370112600569811036/232d1d2a366ec512dde707821f672cce.png" width="24">ೀ ネロ | ﹺ nerօ dmc ﹺ ⋆ ꣑ৎ       ﹺ | [4UqTsBaYf8](https://discord.gg/4UqTsBaYf8) | 1370112600569811036 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369515854806519938/656e3672012d87b5693eea3ab2b8af29.png" width="24">ೀ 欲望 | 𓈒𐔌 ͜ ◞˳  ℓov𝚎𝚛     ͡ 𑙒 | [YC582DW4JW](https://discord.gg/YC582DW4JW) | 1369515854806519938 |

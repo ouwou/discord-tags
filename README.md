@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369752419298447461/1897636167e0b09146fb12ce58e63294.png" width="24">឵឵ | This Guild For Sell ! by Js... | [CkbvnuNqPe](https://discord.gg/CkbvnuNqPe) | 2025-05-11T03:41:04+00:00 | 1369752419298447461 |
 | <img src="https://cdn.discordapp.com/clan-badges/1287353106379706459/80e49bbcd08c608a6f49671e2d0828da.png" width="24">CLUB | NİGHT CLUB 🍷#HAZIRLIK | [Sbq55pefGc](https://discord.gg/Sbq55pefGc) | 2025-05-11T03:35:59+00:00 | 1287353106379706459 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369480900961898598/4c6b987648217084cc4371c4f129b87b.png" width="24">liar | .gg/ski for access [liar] | [puuwqAudKB](https://discord.gg/puuwqAudKB) | 2025-05-11T03:35:59+00:00 | 1369480900961898598 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369652709401034872/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">404 | 404 /rupture | [dQbBuQwTvG](https://discord.gg/dQbBuQwTvG) | 2025-05-11T03:25:52+00:00 | 1369652709401034872 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370044586675671222/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">ꔫ༄ | .gg/deadtag \| ꔫ༄ | [Tz367YVsdZ](https://discord.gg/Tz367YVsdZ) | 2025-05-11T00:43:59+00:00 | 1370044586675671222 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369925573207658607/038816964018ec4c5b50494e1dc0b11e.png" width="24">4EVR | 𝟒𝐄𝐕𝐑 | [EPYWVHqe4q](https://discord.gg/EPYWVHqe4q) | 2025-05-11T00:38:55+00:00 | 1369925573207658607 |
 | <img src="https://cdn.discordapp.com/clan-badges/1093565537533050892/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">7766 | re6cord | [re6ce](https://discord.gg/re6ce) | 2025-05-11T00:38:55+00:00 | 1093565537533050892 |
-| <img src="https://cdn.discordapp.com/clan-badges/1248691597944688731/1ad670565a885b7bd0b2ac54562d827b.png" width="24">Aww | Aww #Tag /eri | [s9skAB97HR](https://discord.gg/s9skAB97HR) | 2025-05-11T00:38:55+00:00 | 1248691597944688731 |
 
 </details>
 
@@ -3380,6 +3380,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369308147440943306/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">឵឵ | Élie | [elie](https://discord.gg/elie) | 1369308147440943306 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369483876594094120/7dff089fbee252a67e72a08ae58a0376.png" width="24">឵឵ | Invisible Tag | [vByH5ZjwnK](https://discord.gg/vByH5ZjwnK) | 1369483876594094120 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369577833327886456/a98f25ba0a761a2245301efd961b88c7.png" width="24">឵឵ | ឵឵ | [Ne7sKyMszc](https://discord.gg/Ne7sKyMszc) | 1369577833327886456 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369752419298447461/1897636167e0b09146fb12ce58e63294.png" width="24">឵឵ | This Guild For Sell ! by Js... | [CkbvnuNqPe](https://discord.gg/CkbvnuNqPe) | 1369752419298447461 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369766345968849117/eb46f7293799c7ca8f60399a479d4f91.png" width="24">឵឵ | west&#x27;s /domain #taghub | [NZUQ7akSY8](https://discord.gg/NZUQ7akSY8) | 1369766345968849117 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369173145231163462/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">឵឵ | ឵឵ | [mCzKsXGPNj](https://discord.gg/mCzKsXGPNj) | 1369173145231163462 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369611702953316372/e3bf9804f050d89b3aac499e2e9247fc.png" width="24">឵឵ | zzz | [vSUMPm3cjc](https://discord.gg/vSUMPm3cjc) | 1369611702953316372 |

@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1370104341071007887/f302b9db09b8d3958da60fcae4cb278b.png" width="24">슬퍼 | ♡ dolly guilds ♡ 슬퍼 tag | [9BK68wqj5a](https://discord.gg/9BK68wqj5a) | 2025-05-11T07:54:18+00:00 | 1370104341071007887 |
 | <img src="https://cdn.discordapp.com/clan-badges/1340069277629419522/8338e0267afb59719bf89cd54902d69a.png" width="24">babi | ♡ dolly guilds ♡ babi tag | [dolliest](https://discord.gg/dolliest) | 2025-05-11T07:49:15+00:00 | 1340069277629419522 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369592268683743273/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">JINX | JINX | [faq9zzBD2Y](https://discord.gg/faq9zzBD2Y) | 2025-05-11T07:49:15+00:00 | 1369592268683743273 |
 | <img src="https://cdn.discordapp.com/clan-badges/1261539546152177687/446844f860170f554b27fcdb65481e4c.png" width="24">&lt;3 | .. | [c6UAmPWa8f](https://discord.gg/c6UAmPWa8f) | 2025-05-11T07:44:11+00:00 | 1261539546152177687 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1313074170791198720/878c62b6694a4f5931104f766191bec7.png" width="24">BARK | Beans | [xbw42T6Fuf](https://discord.gg/xbw42T6Fuf) | 2025-05-11T04:52:01+00:00 | 1313074170791198720 |
 | <img src="https://cdn.discordapp.com/clan-badges/1317449570627620905/a1ada1ad7540085e7de7e5cb69aac8ee.png" width="24">NX | NEXON X | [fvpdejTwTE](https://discord.gg/fvpdejTwTE) | 2025-05-11T04:52:01+00:00 | 1317449570627620905 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369615552733249537/adfe92f7d97b08f4fa16e96b3ef8acc0.png" width="24">전독시 | Omniscient Reader’s Viewpoi... | [ZBVWq5d4P5](https://discord.gg/ZBVWq5d4P5) | 2025-05-11T04:52:01+00:00 | 1369615552733249537 |
-| <img src="https://cdn.discordapp.com/clan-badges/1153546093414592582/e9eebc59f8cbb87d52e352e4fc1fd10d.png" width="24">萤门永存 | 流华易逝，烛莹常恒。星河为证，萤门永存！ | [e9bxjb9SCP](https://discord.gg/e9bxjb9SCP) | 2025-05-11T04:52:01+00:00 | 1153546093414592582 |
 
 </details>
 
@@ -3850,6 +3850,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369587357149564989/21129b437afdc5d4c56b399d9d86e25d.png" width="24">설화빵디 | https://discord.gg/XWVVXrPw... | [XWVVXrPwAh](https://discord.gg/XWVVXrPwAh) | 1369587357149564989 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369303268152447188/8d61abb8b5da075befaff858861dba54.png" width="24">솔로 | 🔫 솔로군단 사령부 | [U3pmJfWBWm](https://discord.gg/U3pmJfWBWm) | 1369303268152447188 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370022474779070484/6ed907032e3a22a1cd30d3f61a5cd96e.png" width="24">수아ᵕ̈ | 수아    ✿˘͈ᵕ˘͈）  /sua &#x27;s... | [PvQ4xKwM68](https://discord.gg/PvQ4xKwM68) | 1370022474779070484 |
+| <img src="https://cdn.discordapp.com/clan-badges/1370104341071007887/f302b9db09b8d3958da60fcae4cb278b.png" width="24">슬퍼 | ♡ dolly guilds ♡ 슬퍼 tag | [9BK68wqj5a](https://discord.gg/9BK68wqj5a) | 1370104341071007887 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369272748789993532/878c62b6694a4f5931104f766191bec7.png" width="24">시나브로 | .gg/659F3nBKu4 [시나브로] | [659F3nBKu4](https://discord.gg/659F3nBKu4) | 1369272748789993532 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369998551987388416/8d61abb8b5da075befaff858861dba54.png" width="24">아로나 | 아로나의 싯딤의 상자 | [GykbREDCB9](https://discord.gg/GykbREDCB9) | 1369998551987388416 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741151372050474/b49714b1c2ecfb94b42ab1971a906901.png" width="24">악운 | yununi&#x27;s hangout | [J5NJykAQbg](https://discord.gg/J5NJykAQbg) | 1369741151372050474 |

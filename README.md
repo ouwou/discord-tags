@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/759558437088264202/7f968d34689b032120d7a0f2a3d69b83.png" width="24">MVP | 📚 #IDCTeam › DBDTeam.js | [FTtVXfj](https://discord.gg/FTtVXfj) | 2025-05-11T03:46:08+00:00 | 759558437088264202 |
+| <img src="https://cdn.discordapp.com/clan-badges/421316344466898944/04cee49fbcaa69a71206ccb637470e72.png" width="24">TECH | Tech&#x27;s Laboratory | [Wh7F8yQ](https://discord.gg/Wh7F8yQ) | 2025-05-11T03:46:08+00:00 | 421316344466898944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369752419298447461/1897636167e0b09146fb12ce58e63294.png" width="24">឵឵ | This Guild For Sell ! by Js... | [CkbvnuNqPe](https://discord.gg/CkbvnuNqPe) | 2025-05-11T03:41:04+00:00 | 1369752419298447461 |
 | <img src="https://cdn.discordapp.com/clan-badges/1287353106379706459/80e49bbcd08c608a6f49671e2d0828da.png" width="24">CLUB | NİGHT CLUB 🍷#HAZIRLIK | [Sbq55pefGc](https://discord.gg/Sbq55pefGc) | 2025-05-11T03:35:59+00:00 | 1287353106379706459 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369480900961898598/4c6b987648217084cc4371c4f129b87b.png" width="24">liar | .gg/ski for access [liar] | [puuwqAudKB](https://discord.gg/puuwqAudKB) | 2025-05-11T03:35:59+00:00 | 1369480900961898598 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1209223776613437510/e0fb315519bcb35d53e4ac4fb5b81b8c.png" width="24">STAR | [STARS] .gg/dtiplanets | [v5JJtsHYqa](https://discord.gg/v5JJtsHYqa) | 2025-05-11T00:43:59+00:00 | 1209223776613437510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369642213381898292/159909e3a7ec67dbc98fbf67fa78f00d.png" width="24">vvs | .gg/deadtag \| vvs | [QPJSZFxNjX](https://discord.gg/QPJSZFxNjX) | 2025-05-11T00:43:59+00:00 | 1369642213381898292 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370044586675671222/e929e1c0111f2acf104ba53aefc5ee44.png" width="24">ꔫ༄ | .gg/deadtag \| ꔫ༄ | [Tz367YVsdZ](https://discord.gg/Tz367YVsdZ) | 2025-05-11T00:43:59+00:00 | 1370044586675671222 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369925573207658607/038816964018ec4c5b50494e1dc0b11e.png" width="24">4EVR | 𝟒𝐄𝐕𝐑 | [EPYWVHqe4q](https://discord.gg/EPYWVHqe4q) | 2025-05-11T00:38:55+00:00 | 1369925573207658607 |
-| <img src="https://cdn.discordapp.com/clan-badges/1093565537533050892/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">7766 | re6cord | [re6ce](https://discord.gg/re6ce) | 2025-05-11T00:38:55+00:00 | 1093565537533050892 |
 
 </details>
 
@@ -1600,6 +1600,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369587693637337170/48d2557a1faf9a790dde3ad334e56efb.png" width="24">MVP | MVP  ♔  \| .gg/MVPHub | [QXfCz4JT6g](https://discord.gg/QXfCz4JT6g) | 1369587693637337170 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369783511682121869/d59d5b264376a7bf3a390c77607f3a81.png" width="24">MVP | Jokers | [QrXruxzwPf](https://discord.gg/QrXruxzwPf) | 1369783511682121869 |
 | <img src="https://cdn.discordapp.com/clan-badges/1340358162318098522/413dd660c07a79aa402b2be39d3fe95e.png" width="24">MVP | MVP TAG | [uVgtjcftGg](https://discord.gg/uVgtjcftGg) | 1340358162318098522 |
+| <img src="https://cdn.discordapp.com/clan-badges/759558437088264202/7f968d34689b032120d7a0f2a3d69b83.png" width="24">MVP | 📚 #IDCTeam › DBDTeam.js | [FTtVXfj](https://discord.gg/FTtVXfj) | 759558437088264202 |
 | <img src="https://cdn.discordapp.com/clan-badges/893784726656139344/21bf5dc5e9b4844f638c2f13221eff00.png" width="24">MW | Milky Way┋🚀 | [milkygw](https://discord.gg/milkygw) | 893784726656139344 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369516711589711963/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">MX | Meow! - Reloaded | [zKzqHH9zTk](https://discord.gg/zKzqHH9zTk) | 1369516711589711963 |
 | <img src="https://cdn.discordapp.com/clan-badges/1142094939438710924/4b70e09b6b8ddf55b5f9dc6816636760.png" width="24">MYAU | willing \| MYAU tag | [U2ay6PBzmj](https://discord.gg/U2ay6PBzmj) | 1142094939438710924 |
@@ -2164,6 +2165,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1193274068338741392/8d61abb8b5da075befaff858861dba54.png" width="24">TECH | r/BTechtards | [btechtards](https://discord.gg/btechtards) | 1193274068338741392 |
 | <img src="https://cdn.discordapp.com/clan-badges/1108481962907271209/32d310e9a81f0f189722186c9a6fbb37.png" width="24">TECH | TechAssist | [qnauKgn2Uj](https://discord.gg/qnauKgn2Uj) | 1108481962907271209 |
 | <img src="https://cdn.discordapp.com/clan-badges/1229518367019503787/8e228078dc56d4ad8bdccb696d4e90be.png" width="24">TECH | Techno Afandi تكنو أفندي | [technoafandi](https://discord.gg/technoafandi) | 1229518367019503787 |
+| <img src="https://cdn.discordapp.com/clan-badges/421316344466898944/04cee49fbcaa69a71206ccb637470e72.png" width="24">TECH | Tech&#x27;s Laboratory | [Wh7F8yQ](https://discord.gg/Wh7F8yQ) | 421316344466898944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369738822795133009/fd9a0c01e10d280af3f5662c009a3eca.png" width="24">TEKK | /tekktag - TEKKNiNE | [tekktag](https://discord.gg/tekktag) | 1369738822795133009 |
 | <img src="https://cdn.discordapp.com/clan-badges/457902248660434944/6476bc22b9c85f619dc5326920f00b74.png" width="24">TENx | TENDERLY | [tenderly](https://discord.gg/tenderly) | 457902248660434944 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369773615129559090/fcf7a320d1899c08dfcd2d5d490e968c.png" width="24">TEQ | Tequila Tag | [PWs3GFH6fU](https://discord.gg/PWs3GFH6fU) | 1369773615129559090 |

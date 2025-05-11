@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369557084663971931/1a60937c6208884cae9886c3d9d9323c.png" width="24">۟۟ | ۟۟۟Join-Invites = Nitro | [XnMSGzcuhb](https://discord.gg/XnMSGzcuhb) | 2025-05-11T08:54:59+00:00 | 1369557084663971931 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369835126921498654/70419260a624fbdd14dd273754fcd3aa.png" width="24">ॱ˖ ୧ | /daintiest | [F2pxaywWMM](https://discord.gg/F2pxaywWMM) | 2025-05-11T08:49:55+00:00 | 1369835126921498654 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369379004431339672/a0493a5c90793981dcbb0fd21cdbdb4b.png" width="24">187 | ﹒౨ৎ﹒ tag heaven | [sEp3xsmNjq](https://discord.gg/sEp3xsmNjq) | 2025-05-11T08:49:55+00:00 | 1369379004431339672 |
 | <img src="https://cdn.discordapp.com/clan-badges/1010550033038454904/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">ECLP | booas6&#x27;s Server | [eclptag](https://discord.gg/eclptag) | 2025-05-11T08:49:55+00:00 | 1010550033038454904 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1285693794020364341/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">BLSM | Coletta 𓂀 | [43mcCpp2fA](https://discord.gg/43mcCpp2fA) | 2025-05-11T05:32:31+00:00 | 1285693794020364341 |
 | <img src="https://cdn.discordapp.com/clan-badges/1266282252518555658/34bc7d99a7f33626885bc6d60ac63574.png" width="24">&gt;.&lt; | we are /soultied ml | [AwWyahUgud](https://discord.gg/AwWyahUgud) | 2025-05-11T05:22:25+00:00 | 1266282252518555658 |
 | <img src="https://cdn.discordapp.com/clan-badges/1291766436703764480/58b07bf54d4e9f6ffbf9ea9123e09cb6.png" width="24">RUSH | ADRENALINE | [adrenalinerblx](https://discord.gg/adrenalinerblx) | 2025-05-11T05:17:21+00:00 | 1291766436703764480 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369549662700306514/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">可愛男娘 | 小南梁大家庭 | [EpmFcp3mps](https://discord.gg/EpmFcp3mps) | 2025-05-11T05:17:21+00:00 | 1369549662700306514 |
 
 </details>
 
@@ -3343,6 +3343,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369409237037486161/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">۟۟ | /lured 12 guilds | [PwFjPMgzne](https://discord.gg/PwFjPMgzne) | 1369409237037486161 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369432944724148234/08778bfc800e50707543540f0c167607.png" width="24">۟۟ | Tag Hub | [taghub](https://discord.gg/taghub) | 1369432944724148234 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369441705455259730/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">۟۟ | /fg ㆍ100+ free guilds | [fg](https://discord.gg/fg) | 1369441705455259730 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369557084663971931/1a60937c6208884cae9886c3d9d9323c.png" width="24">۟۟ | ۟۟۟Join-Invites = Nitro | [XnMSGzcuhb](https://discord.gg/XnMSGzcuhb) | 1369557084663971931 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369716684537073674/8388948b433aa0fa792a29b1f286df5c.png" width="24">۟۟ | #  ۟۟ \| .gg/slave | [UXXEhkm9DM](https://discord.gg/UXXEhkm9DM) | 1369716684537073674 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369753930459775100/2c7aa014ee3599b6b7089ce933971852.png" width="24">۟۟ | ۟۟  \| .gg/slave | [vgG8TXJzfp](https://discord.gg/vgG8TXJzfp) | 1369753930459775100 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369481291539681300/885655109920302254b03aeb071dc4a1.png" width="24">۟۟ | ឵឵ ឵឵ | [4QTwRVRdPy](https://discord.gg/4QTwRVRdPy) | 1369481291539681300 |

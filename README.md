@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369601078395666485/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">༉‧₊ | ★   ⁺  misamisa  💢ꜝ | [2rcAAeecJD](https://discord.gg/2rcAAeecJD) | 2025-05-11T06:58:36+00:00 | 1369601078395666485 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370033380787359794/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">Snda | SUNDA | [Sunda](https://discord.gg/Sunda) | 2025-05-11T06:53:32+00:00 | 1370033380787359794 |
 | <img src="https://cdn.discordapp.com/clan-badges/1276227651270348800/b6f6582eb0301ce069e00b2a99323975.png" width="24">META | OH Relaxation | [hPdG6zAn](https://discord.gg/hPdG6zAn) | 2025-05-11T06:48:28+00:00 | 1276227651270348800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369515089803345992/dec8b88bdaf2b7672675c4e18b366527.png" width="24">mizi | ̣ / cupcakie　 ‘　 ݁ : guild tag | [GkgCYurNHf](https://discord.gg/GkgCYurNHf) | 2025-05-11T06:43:24+00:00 | 1369515089803345992 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1127523730629853284/7d49e0dbe4c2ff07823b061d9191e22d.png" width="24">M4 | m4 | [4NzKnPyYtj](https://discord.gg/4NzKnPyYtj) | 2025-05-11T04:06:28+00:00 | 1127523730629853284 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369711804304855070/16d3e1e1382cd9f5746a22dda6ce8b48.png" width="24">˃𐃷˂ | /711 ﹒ ˃𐃷˂̵ | [qa8epuf3EP](https://discord.gg/qa8epuf3EP) | 2025-05-11T04:01:22+00:00 | 1369711804304855070 |
 | <img src="https://cdn.discordapp.com/clan-badges/1334904463403778190/dc61eaed9e8b012148661df1ada874e6.png" width="24">171 | © 171 | [AQJPsTeuGR](https://discord.gg/AQJPsTeuGR) | 2025-05-11T04:01:22+00:00 | 1334904463403778190 |
-| <img src="https://cdn.discordapp.com/clan-badges/1251702969683017739/d271024df6b0b86335d3108ef80ea10a.png" width="24">irr | irrelevante #2,4k | [irrelevante](https://discord.gg/irrelevante) | 2025-05-11T04:01:22+00:00 | 1251702969683017739 |
 
 </details>
 
@@ -3411,6 +3411,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/610683818726129664/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">ภɪєг | NieR: Soul Nexus | [nier](https://discord.gg/nier) | 610683818726129664 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369110155060445254/67af777bb9d21e9e791b5f566f472feb.png" width="24">໒୨ | ໒୨ /rupture | [BV98reZSFF](https://discord.gg/BV98reZSFF) | 1369110155060445254 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369465374487216259/f8ef5975a595bf09a7e7932064c723b8.png" width="24">໒꒱ | [໒꒱] .gg/decomposed for tags | [T43Vs8yWs2](https://discord.gg/T43Vs8yWs2) | 1369465374487216259 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369601078395666485/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">༉‧₊ | ★   ⁺  misamisa  💢ꜝ | [2rcAAeecJD](https://discord.gg/2rcAAeecJD) | 1369601078395666485 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369420276827164742/f93e6fd9cc44c69c4e3504c6ebb4efa8.png" width="24">༉‧₊˚ | .gg/itgirlfarminghq | [CKhHA6zG](https://discord.gg/CKhHA6zG) | 1369420276827164742 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369524878750908426/92c3bc6428916af088baae4f0fd8ccea.png" width="24">༉‧₊˚ | /matchingpfps  ﹕[༉‧₊˚] | [QMDUuVSAgz](https://discord.gg/QMDUuVSAgz) | 1369524878750908426 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750742138753116/589463d179b57ece26b8cd03987c2d29.png" width="24">༊·˚ | ﹒　⭐  ⊹    🝮   ᥣᥱm᥆ᥒᥴ᥆᥎ᥱ   ✩ | [HQbHw3GkQj](https://discord.gg/HQbHw3GkQj) | 1369750742138753116 |

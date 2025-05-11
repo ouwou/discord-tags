@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369518013757263974/adbb3f44e5bb35d620cd3578f11a6084.png" width="24">&gt;,&lt; | &gt;,&lt;      /lamb | [TDnJCq782C](https://discord.gg/TDnJCq782C) | 2025-05-11T07:39:07+00:00 | 1369518013757263974 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369519074819833907/eb3a576a30496d8d05a4410d55340752.png" width="24">강아지 | 강아지 ( puppy )    /lamb | [MbwKpnMqWg](https://discord.gg/MbwKpnMqWg) | 2025-05-11T07:39:07+00:00 | 1369519074819833907 |
 | <img src="https://cdn.discordapp.com/clan-badges/1130835186850996304/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">:3 | /gurl | [gurl](https://discord.gg/gurl) | 2025-05-11T07:34:02+00:00 | 1130835186850996304 |
 | <img src="https://cdn.discordapp.com/clan-badges/1352857430098448434/c8d016eed5c8752316ca38fdd54380c6.png" width="24">SAMA | La Forge Créative | [gHZMB873n4](https://discord.gg/gHZMB873n4) | 2025-05-11T07:34:02+00:00 | 1352857430098448434 |
 | <img src="https://cdn.discordapp.com/clan-badges/1365027252701630535/2c7aa014ee3599b6b7089ce933971852.png" width="24">VOİD | DevBoys | [yxbcvrqEWx](https://discord.gg/yxbcvrqEWx) | 2025-05-11T07:34:02+00:00 | 1365027252701630535 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369736752398602362/b6f6582eb0301ce069e00b2a99323975.png" width="24">slit | slit #gore | [HUVbNgsZ6x](https://discord.gg/HUVbNgsZ6x) | 2025-05-11T04:36:50+00:00 | 1369736752398602362 |
 | <img src="https://cdn.discordapp.com/clan-badges/1168462054240309329/fd0f6da33fbe58a4f8298442b8f7d2fc.png" width="24">ECOS | 🧿✧ＥＣＯＳ | [aD7JyfKFRj](https://discord.gg/aD7JyfKFRj) | 2025-05-11T04:31:46+00:00 | 1168462054240309329 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369266612774895616/86735389348f3eacfa519eb553df38fd.png" width="24">UHQ | UHQ #GUILD | [uhqtag](https://discord.gg/uhqtag) | 2025-05-11T04:31:46+00:00 | 1369266612774895616 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369764938356097104/2c7aa014ee3599b6b7089ce933971852.png" width="24">cat | raccoons are cool | [Raccoon](https://discord.gg/Raccoon) | 2025-05-11T04:26:43+00:00 | 1369764938356097104 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369633245842636956/40a7aa796426347d6b76d20dfed2c273.png" width="24">ex | ex - /rupture | [GYvuvNRzvT](https://discord.gg/GYvuvNRzvT) | 2025-05-11T04:26:43+00:00 | 1369633245842636956 |
 
 </details>
 
@@ -405,6 +405,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1354769348996239360/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">&lt;&gt;&lt; | xyz | [Z44GSjt8s6](https://discord.gg/Z44GSjt8s6) | 1354769348996239360 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369730991802945638/b1dc33d557c4d3c9db80ac12762f5b9f.png" width="24">&gt;,,&lt; | &gt;,,&lt; | [4FU9VKfqXk](https://discord.gg/4FU9VKfqXk) | 1369730991802945638 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369677803766812753/205c8e444de39c51ae0875fba9a43975.png" width="24">&gt;,,&lt; | &gt;,,&lt; #Chill | [luvely](https://discord.gg/luvely) | 1369677803766812753 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369518013757263974/adbb3f44e5bb35d620cd3578f11a6084.png" width="24">&gt;,&lt; | &gt;,&lt;      /lamb | [TDnJCq782C](https://discord.gg/TDnJCq782C) | 1369518013757263974 |
 | <img src="https://cdn.discordapp.com/clan-badges/1200747250972889158/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;..&lt; | Free Growscan Service | [REtvBJ8JeN](https://discord.gg/REtvBJ8JeN) | 1200747250972889158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369112056460083292/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;.&lt; | #&gt;.&lt;  \| gg.slave | [FT7EfAMxJ9](https://discord.gg/FT7EfAMxJ9) | 1369112056460083292 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369700014007255086/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">&gt;.&lt; | &gt;.&lt; | [4BCDygGzBv](https://discord.gg/4BCDygGzBv) | 1369700014007255086 |
@@ -3785,6 +3786,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1355690185798455306/878c62b6694a4f5931104f766191bec7.png" width="24">꩜ .ᐟ | strw 🍓 bry | [4wuwcamPN2](https://discord.gg/4wuwcamPN2) | 1355690185798455306 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369603437888671835/5322e16e37ca66bf2cbd6f0467e56bec.png" width="24">ꪶꪀ᭙ | 𝙐𝙋𝟐𝙐 | [eYd7ENCHvB](https://discord.gg/eYd7ENCHvB) | 1369603437888671835 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369957683658227752/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">ꮩꭺꮇꮲ | ꮩꭺꮇꮲ | [ASAP](https://discord.gg/ASAP) | 1369957683658227752 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369519074819833907/eb3a576a30496d8d05a4410d55340752.png" width="24">강아지 | 강아지 ( puppy )    /lamb | [MbwKpnMqWg](https://discord.gg/MbwKpnMqWg) | 1369519074819833907 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369545857380122707/b6f6582eb0301ce069e00b2a99323975.png" width="24">개발자 | KoreaDEV | [KoreaDev](https://discord.gg/KoreaDev) | 1369545857380122707 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369282920438693959/6473797948e6d36a991e425c8b7c353c.png" width="24">게이머 | The Day After Tomorrow | [uPvy8pWFn3](https://discord.gg/uPvy8pWFn3) | 1369282920438693959 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369670823237124176/5448607c4ffe3e9704c48836412e083b.png" width="24">겨울 | 겨울 🌸 | [yCNxY3qa4T](https://discord.gg/yCNxY3qa4T) | 1369670823237124176 |

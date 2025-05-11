@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/797105456148381696/8c9bd6637faa4e772d1eafba4c0950bf.png" width="24">KARA | tag by lilfinn[KARA] | [karatag](https://discord.gg/karatag) | 2025-05-11T00:23:44+00:00 | 797105456148381696 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369665475876884561/267ea2db0edfcbb28466b14bd215b8e6.png" width="24">KITA | Kita&#x27;s Room | [dgc3vJ9k8s](https://discord.gg/dgc3vJ9k8s) | 2025-05-11T00:18:41+00:00 | 1369665475876884561 |
 | <img src="https://cdn.discordapp.com/clan-badges/1118241017955631126/70b4a0b96a668af3255865fe3ad2e151.png" width="24">L3ET | NoirSoul | [84](https://discord.gg/84) | 2025-05-11T00:18:41+00:00 | 1118241017955631126 |
 | <img src="https://cdn.discordapp.com/clan-badges/1289794344341209181/2c7aa014ee3599b6b7089ce933971852.png" width="24">M$LF | M$LFS | [6sRk87JHjV](https://discord.gg/6sRk87JHjV) | 2025-05-11T00:18:41+00:00 | 1289794344341209181 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1137768682475491419/6082c2553b03b47ccaea5203567df3cf.png" width="24">Cdev | CodeDev | [UUxxPgJ2wd](https://discord.gg/UUxxPgJ2wd) | 2025-05-10T22:07:00+00:00 | 1137768682475491419 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370056055446573116/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">DINO | ➷  ﹒⁾⁾ ┊    /dino 　˖ ˳　⑅ | [jerscGYkuH](https://discord.gg/jerscGYkuH) | 2025-05-10T22:07:00+00:00 | 1370056055446573116 |
 | <img src="https://cdn.discordapp.com/clan-badges/1365357449858515055/723f9e19e5a65a7ee484a517b159e3cf.png" width="24">esex | /coldw | [coldw](https://discord.gg/coldw) | 2025-05-10T22:07:00+00:00 | 1365357449858515055 |
-| <img src="https://cdn.discordapp.com/clan-badges/1335270427257339984/1256c924cab5f85e093a1b9be3065d92.png" width="24">JNT | JNT (m.A.A.d Industries) | [jnt](https://discord.gg/jnt) | 2025-05-10T22:07:00+00:00 | 1335270427257339984 |
 
 </details>
 
@@ -1297,6 +1297,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1059956593376116756/40a7aa796426347d6b76d20dfed2c273.png" width="24">KAAI | kaai yuki playhouse | [DCw3a6F52A](https://discord.gg/DCw3a6F52A) | 1059956593376116756 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369638473966813204/5aacd41435d103dbd02d0bafe29dfb6a.png" width="24">KAIF | KAIF | [xEa3zCreZj](https://discord.gg/xEa3zCreZj) | 1369638473966813204 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369784280636592290/b45decdadaf6179d9e53ea1aff4c6360.png" width="24">KALI | Kali #Guild | [2jyVsanX4N](https://discord.gg/2jyVsanX4N) | 1369784280636592290 |
+| <img src="https://cdn.discordapp.com/clan-badges/797105456148381696/8c9bd6637faa4e772d1eafba4c0950bf.png" width="24">KARA | tag by lilfinn[KARA] | [karatag](https://discord.gg/karatag) | 797105456148381696 |
 | <img src="https://cdn.discordapp.com/clan-badges/1234059646390767717/fdcca1baff8053b5a5f51f50760c7b67.png" width="24">KATS | ̣̣ 　katseye (gnarly) \\\\ #... | [t4d7EXyDpk](https://discord.gg/t4d7EXyDpk) | 1234059646390767717 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369341359466741800/bc723401655b3e9ce3be4096ab8a88a2.png" width="24">KC | KC ULTRAS \|  .gg/kctag | [NZ3gw767DT](https://discord.gg/NZ3gw767DT) | 1369341359466741800 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369987928750690355/bb6f447245dd4c9243d2aeb61d26154d.png" width="24">KC | Karmine Corp (TAG) \| .gg/K... | [KW9f2hRCm3](https://discord.gg/KW9f2hRCm3) | 1369987928750690355 |

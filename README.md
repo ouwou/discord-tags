@@ -5,6 +5,10 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1198831682174853142/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">Info | Info Hub | [GNcanqBcQD](https://discord.gg/GNcanqBcQD) | 2025-05-11T05:47:43+00:00 | 1198831682174853142 |
+| <img src="https://cdn.discordapp.com/clan-badges/1317298261211742248/a3157678d3f97d789e959f9c62499918.png" width="24">ʀᴇᴀʟ | ʀᴇᴀʟ | [Yh4zhCXVA8](https://discord.gg/Yh4zhCXVA8) | 2025-05-11T05:47:43+00:00 | 1317298261211742248 |
+| <img src="https://cdn.discordapp.com/clan-badges/424447023765520386/478b10f080c53bc32bb593cde12f87ca.png" width="24">SUKI | 🌸 Blossom Empire ⛩ Anime &a... | [join](https://discord.gg/join) | 2025-05-11T05:47:43+00:00 | 424447023765520386 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369706989764083742/4f8c774c5378d1749f48a04e38be0c2f.png" width="24">야옹 | .gg/cinnabun 야옹 | [6ZwkkBXE9Z](https://discord.gg/6ZwkkBXE9Z) | 2025-05-11T05:47:43+00:00 | 1369706989764083742 |
 | <img src="https://cdn.discordapp.com/clan-badges/222078108977594368/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">CRWL | discord.js - Imagine an app | [djs](https://discord.gg/djs) | 2025-05-11T05:42:39+00:00 | 222078108977594368 |
 | <img src="https://cdn.discordapp.com/clan-badges/414027124836532234/8084d59ab2c97476363c0eb9c88c8486.png" width="24">DUCK | Kurzgesagt - In a Nutshell | [kurzgesagt](https://discord.gg/kurzgesagt) | 2025-05-11T05:42:39+00:00 | 414027124836532234 |
 | <img src="https://cdn.discordapp.com/clan-badges/876070919850840065/254aa130e02b6ee148d1c1fb184150ed.png" width="24">HZM | Hazem&#x27;s Server | [hazem](https://discord.gg/hazem) | 2025-05-11T05:42:39+00:00 | 876070919850840065 |
@@ -101,10 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1302089889541521510/69b24f221acfae1402dd882c2a784a3e.png" width="24">ARMY | Military | [PB2s56YGGD](https://discord.gg/PB2s56YGGD) | 2025-05-11T02:35:16+00:00 | 1302089889541521510 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741749437726770/4fffc6d573358cb3d04371b302b00a08.png" width="24">もっと | More More Jump　「もっと」☘ | [p4CD9kEKf3](https://discord.gg/p4CD9kEKf3) | 2025-05-11T02:35:16+00:00 | 1369741749437726770 |
 | <img src="https://cdn.discordapp.com/clan-badges/1283947798718320640/2fbcb29cc92feacd71b69c30c14f9343.png" width="24">˚ෆ | ៸៸  𝑐ℎ𝑒𝑟𝑖𝑒  𓏲 ˖ . | [YcG4MNUHUw](https://discord.gg/YcG4MNUHUw) | 2025-05-11T02:30:12+00:00 | 1283947798718320640 |
-| <img src="https://cdn.discordapp.com/clan-badges/680814543496413236/83a083caeb028f56086ec619735b231f.png" width="24">AURA | Zombs Fight-Fi Tournaments ... | [s8avGaeq6m](https://discord.gg/s8avGaeq6m) | 2025-05-11T02:30:12+00:00 | 680814543496413236 |
-| <img src="https://cdn.discordapp.com/clan-badges/1334562388044943506/afef8e1d14121535e46a4a27cefda396.png" width="24">SEXY | Gamers Hub | [KYkJMUZBA8](https://discord.gg/KYkJMUZBA8) | 2025-05-11T02:30:12+00:00 | 1334562388044943506 |
-| <img src="https://cdn.discordapp.com/clan-badges/1318248790452342784/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">biji | NotEnoughFakepixel v2 | [vhQAGk3bEc](https://discord.gg/vhQAGk3bEc) | 2025-05-11T02:25:08+00:00 | 1318248790452342784 |
-| <img src="https://cdn.discordapp.com/clan-badges/1170195993648709693/2d9908aeb26b0c8d246dbd97f8258a72.png" width="24">Fade | Fade Tag | [TNJkTJEZus](https://discord.gg/TNJkTJEZus) | 2025-05-11T02:25:08+00:00 | 1170195993648709693 |
 
 </details>
 
@@ -1308,6 +1308,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369254283786195047/1c8f8efb11de25463d853de6f864ffc6.png" width="24">IVE | allmyleeseo | [CNTGdqBmjw](https://discord.gg/CNTGdqBmjw) | 1369254283786195047 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369755881666904114/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">IVE | discord.gg/IVE | [fWYDtY2jZP](https://discord.gg/fWYDtY2jZP) | 1369755881666904114 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370015059132158002/b1a70b12c9fc93280fd0f46b4365019c.png" width="24">Immo | Immortality | [9NpZZVxYhF](https://discord.gg/9NpZZVxYhF) | 1370015059132158002 |
+| <img src="https://cdn.discordapp.com/clan-badges/1198831682174853142/83d426943474e0c564ed2a7bd1cf45e8.png" width="24">Info | Info Hub | [GNcanqBcQD](https://discord.gg/GNcanqBcQD) | 1198831682174853142 |
 | <img src="https://cdn.discordapp.com/clan-badges/862330513209163796/d3c4d8ae7991f1a8d29da7c3498e5443.png" width="24">IoE | Isles of Eclipsia™ | [eclipsia](https://discord.gg/eclipsia) | 862330513209163796 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370096136672776232/e701df75ce906698f0d02ce19bf7c8c6.png" width="24">Ish | Ish tag | [6S7WeD9aXP](https://discord.gg/6S7WeD9aXP) | 1370096136672776232 |
 | <img src="https://cdn.discordapp.com/clan-badges/1348001889513635991/7f968d34689b032120d7a0f2a3d69b83.png" width="24">JAR | JAR Fanclub | [Mz8Rr9KhmT](https://discord.gg/Mz8Rr9KhmT) | 1348001889513635991 |
@@ -2118,6 +2119,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1370074428603498626/86735389348f3eacfa519eb553df38fd.png" width="24">SUDO | Sudo #Tag | [sudotag](https://discord.gg/sudotag) | 1370074428603498626 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369655669552058448/f55efb731fc3a6d642f8b5d49538c7af.png" width="24">SUHO | suho from WHC tag \| .gg/kp... | [K48EaQ8yg6](https://discord.gg/K48EaQ8yg6) | 1369655669552058448 |
 | <img src="https://cdn.discordapp.com/clan-badges/1179051452824563793/2584e2a9e073496c6295e9e78f9c4d14.png" width="24">SUKA | [SUKA] BOOST = TAG | [suka](https://discord.gg/suka) | 1179051452824563793 |
+| <img src="https://cdn.discordapp.com/clan-badges/424447023765520386/478b10f080c53bc32bb593cde12f87ca.png" width="24">SUKI | 🌸 Blossom Empire ⛩ Anime &a... | [join](https://discord.gg/join) | 424447023765520386 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369533529393991764/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">SUN | SUN Guild \| .gg/gds | [TEEBVgMM](https://discord.gg/TEEBVgMM) | 1369533529393991764 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369364888513941605/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">SUN | Sunny Bloom | [sunnybloom](https://discord.gg/sunnybloom) | 1369364888513941605 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369655310867894394/76e358d951d7bb7d73d4c80ea0b064a5.png" width="24">SUN | SUN Guild | [kqE3SNKxnz](https://discord.gg/kqE3SNKxnz) | 1369655310867894394 |
@@ -3190,6 +3192,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369704869274849340/a69584e0ba980ce51a831794ef496b97.png" width="24">ɾღ⳽ᥱ | [ɾღ⳽ᥱ] .gg/Roseland | [hxEZZuCsnU](https://discord.gg/hxEZZuCsnU) | 1369704869274849340 |
 | <img src="https://cdn.discordapp.com/clan-badges/1352831401359179776/dea97e909a0211e2479d75cd11c2ec41.png" width="24">ʀᴀᴘᴇ | 🌌ゞ 𝐏𝐮𝐫𝐩𝐥𝐞 𝐩𝐚𝐫𝐚𝐝𝐢𝐬𝐞⁺¹⁸ Nsfw ... | [xraAKaN3dh](https://discord.gg/xraAKaN3dh) | 1352831401359179776 |
 | <img src="https://cdn.discordapp.com/clan-badges/825071504085352499/5de84156d81f7daf70e5c4a52c5edf4e.png" width="24">ʀᴅʏꜱ | BayrdY Universe #PARTNERS | [bayrdy-universe-825071504085352499](https://discord.gg/bayrdy-universe-825071504085352499) | 825071504085352499 |
+| <img src="https://cdn.discordapp.com/clan-badges/1317298261211742248/a3157678d3f97d789e959f9c62499918.png" width="24">ʀᴇᴀʟ | ʀᴇᴀʟ | [Yh4zhCXVA8](https://discord.gg/Yh4zhCXVA8) | 1317298261211742248 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370088572119683082/e0211a2d94b0364ffce7f0859757d340.png" width="24">ʏᴜᴋɪ | ・Tsukumo #GUILD | [tsukumo](https://discord.gg/tsukumo) | 1370088572119683082 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369792020004208701/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">ʘᴗʘ | HAPPY ʘᴗʘ [RU/EN Community] | [Mrq93GKAz7](https://discord.gg/Mrq93GKAz7) | 1369792020004208701 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369420687395000441/2bd24520cd2529dd83a928cea96d9614.png" width="24">ʚïɞ | ʚïɞ \| .gg/butterfly | [MXg2ZnY7tU](https://discord.gg/MXg2ZnY7tU) | 1369420687395000441 |
@@ -3807,6 +3810,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369998551987388416/8d61abb8b5da075befaff858861dba54.png" width="24">아로나 | 아로나의 싯딤의 상자 | [GykbREDCB9](https://discord.gg/GykbREDCB9) | 1369998551987388416 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369741151372050474/b49714b1c2ecfb94b42ab1971a906901.png" width="24">악운 | yununi&#x27;s hangout | [J5NJykAQbg](https://discord.gg/J5NJykAQbg) | 1369741151372050474 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369335119239975052/fac2bbf9864901f326857b637792dc2e.png" width="24">애기𐙚 | darling/dear \| 애기𐙚 | [qdx9qWMgyQ](https://discord.gg/qdx9qWMgyQ) | 1369335119239975052 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369706989764083742/4f8c774c5378d1749f48a04e38be0c2f.png" width="24">야옹 | .gg/cinnabun 야옹 | [6ZwkkBXE9Z](https://discord.gg/6ZwkkBXE9Z) | 1369706989764083742 |
 | <img src="https://cdn.discordapp.com/clan-badges/1362893060681502871/439c5b7117f3f3e8e574b4766d1b7e73.png" width="24">연준 | 𓂃 . 𐑞 jun&#x27;s guild ︶  ⟢ | [rtjdd8P4fb](https://discord.gg/rtjdd8P4fb) | 1362893060681502871 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369261540921966684/7c2336d0dd0deca1aa768f5f952a21e3.png" width="24">온리소드 | [ TAG ] 온리소드 | [K6PuG6XWgC](https://discord.gg/K6PuG6XWgC) | 1369261540921966684 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370018180013096970/8d61abb8b5da075befaff858861dba54.png" width="24">왕자님 | discord.gg/dsa [ 🩵 왕자님 ] | [YmXGW2G7cx](https://discord.gg/YmXGW2G7cx) | 1370018180013096970 |

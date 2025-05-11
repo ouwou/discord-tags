@@ -5,6 +5,8 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369779515185692674/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">&lt;/3 | hu &lt;/3 | [afNxx4AS4E](https://discord.gg/afNxx4AS4E) | 2025-05-11T09:40:33+00:00 | 1369779515185692674 |
+| <img src="https://cdn.discordapp.com/clan-badges/1339991142682591242/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">G15 | The GHosTIS | [pqe6T4Hnjq](https://discord.gg/pqe6T4Hnjq) | 2025-05-11T09:40:33+00:00 | 1339991142682591242 |
 | <img src="https://cdn.discordapp.com/clan-badges/488789527628873738/736e7d8bb18ed68b6e0223765e79015e.png" width="24">VTC | Prime Logistics | [prime](https://discord.gg/prime) | 2025-05-11T09:35:29+00:00 | 488789527628873738 |
 | <img src="https://cdn.discordapp.com/clan-badges/929241027267690496/2c7aa014ee3599b6b7089ce933971852.png" width="24">mwa | /like ♡ 150+ free tags ﹒ as... | [like](https://discord.gg/like) | 2025-05-11T09:30:26+00:00 | 929241027267690496 |
 | <img src="https://cdn.discordapp.com/clan-badges/1223233367550464000/7f968d34689b032120d7a0f2a3d69b83.png" width="24">SYB㍳ | Stay Young Beautiful n Unique | [Tvw6geMUaP](https://discord.gg/Tvw6geMUaP) | 2025-05-11T09:30:26+00:00 | 1223233367550464000 |
@@ -103,8 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369665018014208060/8d61abb8b5da075befaff858861dba54.png" width="24">ෆ\*₊• | (づ ●─● )づ | [6GEhQfybsv](https://discord.gg/6GEhQfybsv) | 2025-05-11T06:13:03+00:00 | 1369665018014208060 |
 | <img src="https://cdn.discordapp.com/clan-badges/1200747250972889158/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&gt;..&lt; | Free Growscan Service | [REtvBJ8JeN](https://discord.gg/REtvBJ8JeN) | 2025-05-11T06:07:59+00:00 | 1200747250972889158 |
 | <img src="https://cdn.discordapp.com/clan-badges/1214931244819943474/d671ef2d4aa50010c6d49b2865f80068.png" width="24">GT | Growtopian&#x27;s Palace! | [DGD9u9SzAs](https://discord.gg/DGD9u9SzAs) | 2025-05-11T06:07:59+00:00 | 1214931244819943474 |
-| <img src="https://cdn.discordapp.com/clan-badges/770058007757193238/cbc8765dbaa3acebe39059b5a02fb40b.png" width="24">ONI | Shrine | [QwfuJB7ykQ](https://discord.gg/QwfuJB7ykQ) | 2025-05-11T06:07:59+00:00 | 770058007757193238 |
-| <img src="https://cdn.discordapp.com/clan-badges/1270866674777854082/ccf49c1cc24bd4bf9b7c20aec1800e00.png" width="24">゜ꢾ𓍢 | ░ 　　、　　　　𓈒  ᘏ⑅ᘏ | [7BdcxQZ4Fr](https://discord.gg/7BdcxQZ4Fr) | 2025-05-11T06:02:55+00:00 | 1270866674777854082 |
 
 </details>
 
@@ -389,6 +389,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369752292089139333/920c45cef475bc18d7715622dae6ad31.png" width="24">&lt; 바부 | [ &lt; 바 부 ] | [2WxCRWN3gz](https://discord.gg/2WxCRWN3gz) | 1369752292089139333 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369159900218916954/99472b845a3ae91f4e5c7a032b99c71d.png" width="24">&lt;/3 | &lt;/3 /rupture | [YzZKEXHTvX](https://discord.gg/YzZKEXHTvX) | 1369159900218916954 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369284122622558249/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">&lt;/3 | .gg/perihan | [perihan](https://discord.gg/perihan) | 1369284122622558249 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369779515185692674/80e5e6bdbdd81e95b650670b2afba2cc.png" width="24">&lt;/3 | hu &lt;/3 | [afNxx4AS4E](https://discord.gg/afNxx4AS4E) | 1369779515185692674 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369714757694656594/2c7aa014ee3599b6b7089ce933971852.png" width="24">&lt;/3² | &lt;/3² | [7wdw2SbqT4](https://discord.gg/7wdw2SbqT4) | 1369714757694656594 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369559303446331463/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">&lt;/3² | 00 | [jvAHHWSz6v](https://discord.gg/jvAHHWSz6v) | 1369559303446331463 |
 | <img src="https://cdn.discordapp.com/clan-badges/1184486680170868786/2c7aa014ee3599b6b7089ce933971852.png" width="24">&lt;/3² | our hearts. | [aintcry](https://discord.gg/aintcry) | 1184486680170868786 |
@@ -1076,6 +1077,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1341540133685559411/5e97d6115f591fcb90d83b9852beb92b.png" width="24">FΛSH | FlashSystem Support | [yUQrtmmF5g](https://discord.gg/yUQrtmmF5g) | 1341540133685559411 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369543909843275866/9d904d180e9e9b6dba066eb438945171.png" width="24">Fеnt | Fent \| .gg/diddy | [ARKAavNMp5](https://discord.gg/ARKAavNMp5) | 1369543909843275866 |
 | <img src="https://cdn.discordapp.com/clan-badges/825270980829642783/79366e8660935912726217b413fcc19b.png" width="24">G&amp;B | Guts &amp; Blackpowder Comm... | [gutsandblackpowder](https://discord.gg/gutsandblackpowder) | 825270980829642783 |
+| <img src="https://cdn.discordapp.com/clan-badges/1339991142682591242/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">G15 | The GHosTIS | [pqe6T4Hnjq](https://discord.gg/pqe6T4Hnjq) | 1339991142682591242 |
 | <img src="https://cdn.discordapp.com/clan-badges/1270717182933733387/c8d016eed5c8752316ca38fdd54380c6.png" width="24">G5 | G5 | [CntM8jDAfh](https://discord.gg/CntM8jDAfh) | 1270717182933733387 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369779615039754300/c08ecb1ef98d938294b1db84ca629ef7.png" width="24">G59 | GREYFIVENINE (G59 TAG) | [sS3wWPuWCT](https://discord.gg/sS3wWPuWCT) | 1369779615039754300 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369768425215230205/e5939f01ca45d8afb581330a211d69cc.png" width="24">GAG | 𝗚𝗔𝗚 | [cMrDrAXMNG](https://discord.gg/cMrDrAXMNG) | 1369768425215230205 |

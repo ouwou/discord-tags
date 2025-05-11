@@ -5,6 +5,7 @@
 
   | Tag | Server Name | Invite | Added | Server ID |
   |---|---|---|---|---
+| <img src="https://cdn.discordapp.com/clan-badges/1369378003758612581/2c7aa014ee3599b6b7089ce933971852.png" width="24">୨ৎ | ୨ৎ \| paradise | [n8XVBSg7aw](https://discord.gg/n8XVBSg7aw) | 2025-05-11T00:54:06+00:00 | 1369378003758612581 |
 | <img src="https://cdn.discordapp.com/clan-badges/1345765388381589514/6a725586b700ca87c7c39fb42ea35c8b.png" width="24">BEAR | 𝐵𝐸𝐴𝑅   ﹒  ﹒   ⟡ | [Grt4uQJqAQ](https://discord.gg/Grt4uQJqAQ) | 2025-05-11T00:49:03+00:00 | 1345765388381589514 |
 | <img src="https://cdn.discordapp.com/clan-badges/1333489352780550185/7f968d34689b032120d7a0f2a3d69b83.png" width="24">FRY | Fried GDPS | [49fgjFMR](https://discord.gg/49fgjFMR) | 2025-05-11T00:49:03+00:00 | 1333489352780550185 |
 | <img src="https://cdn.discordapp.com/clan-badges/1370077358421446748/e0612577504e85f0cc5db11683e1d53e.png" width="24">hate | .gg/deadtag \| hate | [yzpn85xEE6](https://discord.gg/yzpn85xEE6) | 2025-05-11T00:49:03+00:00 | 1370077358421446748 |
@@ -104,7 +105,6 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369661970541707284/b61e369436d767acc4882965734f14f7.png" width="24">VIBE | VIBE・TAG・OPEN FOR ALL | [JyetgG88xn](https://discord.gg/JyetgG88xn) | 2025-05-10T23:02:46+00:00 | 1369661970541707284 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369750476521865246/a096c02b558e6bcff7b1c10269fb6cd5.png" width="24">みのり | Minori　「みのり」🏵 | [sFrbgucUvj](https://discord.gg/sFrbgucUvj) | 2025-05-10T23:02:46+00:00 | 1369750476521865246 |
 | <img src="https://cdn.discordapp.com/clan-badges/1128953940852084806/712db9a5346c74a8416f4feb4e77fbc2.png" width="24">1312 | 1312 | [1312](https://discord.gg/1312) | 2025-05-10T22:57:41+00:00 | 1128953940852084806 |
-| <img src="https://cdn.discordapp.com/clan-badges/1369743676825272460/1b363fcfd799724d4ad1266f057ca934.png" width="24">koha | Kohane　「koha」🐹 | [2c3udnJaNy](https://discord.gg/2c3udnJaNy) | 2025-05-10T22:57:41+00:00 | 1369743676825272460 |
 
 </details>
 
@@ -3243,6 +3243,7 @@
 | <img src="https://cdn.discordapp.com/clan-badges/1369922741742075985/56a344005a8b819ad2b25e7ecf7e269c.png" width="24">୨ৎ | /sakurasnya #୨ৎ Tag | [MGWGeW7adM](https://discord.gg/MGWGeW7adM) | 1369922741742075985 |
 | <img src="https://cdn.discordapp.com/clan-badges/1341051076916285472/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">୨ৎ | Pretty Sì To | [prettysitoo](https://discord.gg/prettysitoo) | 1341051076916285472 |
 | <img src="https://cdn.discordapp.com/clan-badges/1059293633817350154/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">୨ৎ | .gg/dada | [dada](https://discord.gg/dada) | 1059293633817350154 |
+| <img src="https://cdn.discordapp.com/clan-badges/1369378003758612581/2c7aa014ee3599b6b7089ce933971852.png" width="24">୨ৎ | ୨ৎ \| paradise | [n8XVBSg7aw](https://discord.gg/n8XVBSg7aw) | 1369378003758612581 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369069432055267411/2c7aa014ee3599b6b7089ce933971852.png" width="24">୨୧ | ୨୧ /backup | [R2Mw6Y4J2Y](https://discord.gg/R2Mw6Y4J2Y) | 1369069432055267411 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369427851316559952/ec60c5e6d1f14d3bbff586e2e0b9e54e.png" width="24">୨୧ | ୨୧ \| .gg/fg  for 30+ free ... | [mtNabwW4u3](https://discord.gg/mtNabwW4u3) | 1369427851316559952 |
 | <img src="https://cdn.discordapp.com/clan-badges/1369692269376176188/d2061ecb2533145b49ea1768da8683c2.png" width="24">୨୧ | ୨୧ /society | [Eqq388jTtq](https://discord.gg/Eqq388jTtq) | 1369692269376176188 |
